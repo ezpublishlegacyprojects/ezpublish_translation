@@ -3,22 +3,22 @@
     <name>contentstructuremenu/show_content_structure</name>
     <message>
         <source>Node ID: %node_id Visibility: %visibility</source>
-        <translation>Wyrzuć do kosza</translation>
+        <translation>Node ID: %node_id Widoczność: %visibility</translation>
     </message>
 </context>
 <context>
     <name>design</name>
     <message>
         <source>%group_name [Content object state group]</source>
-        <translation type="unfinished"></translation>
+        <translation>%group_name [Zawartość obiektu grupy]</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj</translation>
     </message>
     <message>
         <source>%state_name [Content object state]</source>
-        <translation type="unfinished"></translation>
+        <translation>%state_name [Zawartość obiektu]</translation>
     </message>
 </context>
 <context>
@@ -117,7 +117,7 @@
     </message>
     <message>
         <source>Use this menu to select the language you to want use then click the &quot;New class&quot; button. The item will be created within the current location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj tego menu aby wybrać język, który chcesz użyć i kliknij przycisk &quot;Nowa klasa&quot;. Obiekt zostanie utworzony w bieżącej lokalizacji.</translation>
     </message>
     <message>
         <source>Classes inside &lt;%group_name&gt; (%class_count)</source>
@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>List of classes inside %group_name class group (%class_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista klas w grupie klas %group_name (%class_count)</translation>
     </message>
 </context>
 <context>
@@ -140,7 +140,7 @@
     </message>
     <message>
         <source>Select the item that you want to be the default selection then click &quot;OK&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz obiekt, który chcesz aby był domyślnym wyborem a następnie kliknij przycisk &quot;OK&quot;.</translation>
     </message>
 </context>
 <context>
@@ -155,7 +155,7 @@
     </message>
     <message>
         <source>Select the location that should be the default location then click &quot;OK&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz miejsce, które powinno być domyślną lokalizacją a następnie kliknij przycisk &quot;OK&quot;.</translation>
     </message>
 </context>
 <context>
@@ -290,107 +290,107 @@
     </message>
     <message>
         <source>Default sorting of children</source>
-        <translation type="unfinished"></translation>
+        <translation>Domyślne sortowanie elementów podrzędnych</translation>
     </message>
     <message>
         <source>Use these controls to set the default sorting method for the sub items of instances of the content class.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj tych kontrolek aby ustawić domyślną metodę sortowania dla elementów podrzędnych zawartości klasy.</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished">Malejąco</translation>
+        <translation>Malejąco</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished">Rosnąco</translation>
+        <translation>Rosnąco</translation>
     </message>
     <message>
         <source>Class attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Atrybuty klasy</translation>
     </message>
     <message>
         <source>Use this field to set the internal name of the class. The identifier will be used in templates and in PHP code. Allowed characters are letters, numbers and underscores.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skorzystaj z tego pola aby ustawić systemową nazwę klasy. Identyfikator będzie użyty w szablonach i kodzie PHP. Dopuszczalne są litery, liczby i podkreślenia.</translation>
     </message>
     <message>
         <source>Use this field to configure how the name of the objects are generated. Type in the identifiers of the attributes that should be used. The identifiers must be enclosed in angle brackets. Text outside angle brackets will be included as it is shown here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skorzystaj z tego pola aby ustawić sposób generowania nazwy obiektu. Wpisz identyfikator atrybutów, który powinien być użyty. Identyfikator musi być zapisany w nawiasach trójkątnych. Tekst poza nawiasami trójkątnymi będzie dodany tak jak tutaj jest napisane.</translation>
     </message>
     <message>
         <source>URL alias name pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Wzór nazwy aliasu URL</translation>
     </message>
     <message>
         <source>Use this field to configure how the url alias of the objects are generated (applies to nice URLs). Type in the identifiers of the attributes that should be used. The identifiers must be enclosed in angle brackets. Text outside angle brackets will be included as is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skorzystaj z tego pola aby ustawić zasady tworzenia aliasów url obiektów generowanych (zastosowanie przy przyjaznych adresach URL). Wpisz identyfikator atrybutów, który powinien być użyty. Identyfikator musi być zapisany w nawiasach trójkątnych. Tekst poza nawiasami trójkątnymi będzie dodany tak jak tutaj jest napisane.</translation>
     </message>
     <message>
         <source>Use this checkbox to allow instances of the class to have sub items. If checked, it will be possible to create new sub items. If not checked, the sub items will not be displayed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skorzystaj z tej opcji jeśli chcesz aby była możliwość dodawania obiektów (elementów podrzędnych) do obiektu klasy.</translation>
     </message>
     <message>
         <source>Use this checkbox to set the default availability for the objects of this class. The availability controls whether an object should be shown even if it does not exist in one of the languages specified by the &quot;SiteLanguageList&quot; setting. If this is the case, the system will use the main language of the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skorzystaj z tej opcji jeśli chcesz aby była ustawiona domyślna dostępność obiektów tej klasy. Jeśli obiekt nie będzie dostępny w aktualnym języku zostanie użyty główny język obiektu.</translation>
     </message>
     <message>
         <source>Select attribute for removal. Click the &quot;Remove selected attributes&quot; button to remove the selected attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz atrybuty do usunięcia. Kliknij przycisk &quot;Usuń zaznaczone atrybuty&quot; aby usunąć zaznaczone atrybuty.</translation>
     </message>
     <message>
         <source>Use this field to set the internal name of the attribute. The identifier will be used in templates and in PHP code. Allowed characters are letters, numbers and underscores.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skorzystaj z tego pola aby ustawić systemową nazwę atrybutu. Identyfikator będzie użyty w szablonach i kodzie PHP. Dopuszczalne znaki to litery, cyfry i podkreślenia.</translation>
     </message>
     <message>
         <source>Use this checkbox to specify whether the user should be forced to enter information into the attribute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skorzystaj z tej opcji aby określić czy użytkownik musi wprowadzić informacje do tego atrybutu.</translation>
     </message>
     <message>
         <source>Use this checkbox to specify whether the contents of the attribute should be indexed by the search engine.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skorzystaj z tej opcji aby określić czy zawartość atrybutu powinna być indeksowana przez wyszukiwarkę.</translation>
     </message>
     <message>
         <source>Use this checkbox to specify whether the attribute should collect input from users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skorzystaj z tej opcji aby określić czy atrybut tej klasy powinien zbierać informacje od użytkownika.</translation>
     </message>
     <message>
         <source>The &lt;%datatype_name&gt; datatype cannot be used as an information collector.</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ danych &lt;%datatype_name&gt; nie może być stosowany do zbierania informacji.</translation>
     </message>
     <message>
         <source>Edit &lt;%class_name&gt; (%object_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj &lt;%class_name&gt; (%object_count)</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Opis</translation>
+        <translation>Opis</translation>
     </message>
     <message>
         <source>Use this field to set the informal description of the class. The description field can contain whitespaces and special characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skorzystaj z tego pola aby nieformalnie opisać klasę. Pole opis może zawierać znaki specjalne i spacje.</translation>
     </message>
     <message>
         <source>List of class attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista atrybutów klasy</translation>
     </message>
     <message>
         <source>Class attribute item</source>
-        <translation type="unfinished"></translation>
+        <translation>Element atrybutu klasy</translation>
     </message>
     <message>
         <source>Use this field to set the informal description of the attribute. This field can contain whitespaces and special characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skorzystaj z tego pola aby nieformalnie opisać atrybut. Pole może zawierać znaki specjalne i spacje.</translation>
     </message>
     <message>
         <source>Use this category to group attributes together in edit interface, some categories might also be hidden in full view if they are for instance only meta attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj tej kategorii aby zgrupować atrybuty razem podczas edycji w interfejsie, niektóre kategorie mogą być ukryte w pełnym widoku jeśli są to tylko atrybuty meta.</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished">Domyślnie</translation>
+        <translation>Domyślnie</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategoria</translation>
     </message>
 </context>
 <context>
