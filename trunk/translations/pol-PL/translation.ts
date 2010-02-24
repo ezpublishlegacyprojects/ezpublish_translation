@@ -441,18 +441,18 @@
     </message>
     <message>
         <source>The class is temporarily locked and thus it cannot be edited by you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasa jest tymczasowo zablokowana i dlatego nie może być teraz edytowana przez Ciebie.</translation>
     </message>
     <message>
         <source>The class will be available for editing after it has been stored by the current modifier or when it is unlocked by the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasa będzie dostępna do edycji po zapisaniu przez aktualnego modyfikatora lub gdy zostanie odblokowana przez system.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/class/edit_language</name>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Edytuj</translation>
+        <translation>Edytuj</translation>
     </message>
 </context>
 <context>
@@ -546,15 +546,15 @@
     </message>
     <message>
         <source>List of class groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista grup klasy</translation>
     </message>
     <message>
         <source>List of recently modified classes</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista ostatnio zmodyfikowanych klas</translation>
     </message>
     <message>
         <source>Objects</source>
-        <translation type="unfinished">Obiekty</translation>
+        <translation>Obiekty</translation>
     </message>
 </context>
 <context>
@@ -589,15 +589,15 @@
     </message>
     <message>
         <source>You do not have permission to remove classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie masz uprawnień aby usunąć klasę.</translation>
     </message>
     <message>
         <source>Removing class &lt;%1&gt; will result in the removal of %2 object and all its sub items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usunięcie klasy &lt;%1&gt; spowoduje usunięcie %2 obiekt i wszystkich jego elementów podrzędnych.</translation>
     </message>
     <message>
         <source>Removing class &lt;%1&gt; will result in the removal of %2 objects and all their sub items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usunięcie klasy &lt;%1&gt; spowoduje usunięcie %2 obiektów i wszystkich jego elementów podrzędnych.</translation>
     </message>
 </context>
 <context>
@@ -635,57 +635,57 @@
     <name>design/admin/class/removetranslation</name>
     <message>
         <source>Confirm translation removal</source>
-        <translation type="unfinished">Potwierdź zamiar usunięcia tłumaczenia</translation>
+        <translation>Potwierdź zamiar usunięcia tłumaczenia</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the following translations from class &lt;%1&gt;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy na pewno chcesz usunąć następujące tłumaczenia z klasy &lt;%1&gt;?</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Język</translation>
+        <translation>Język</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Cancel the removal of translations.</source>
-        <translation type="unfinished">Anuluj usunięcie tłumaczenia.</translation>
+        <translation >Anuluj usunięcie tłumaczenia.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/class/select_language</name>
     <message>
         <source>New languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy język</translation>
     </message>
     <message>
         <source>Select the language you want to add</source>
-        <translation type="unfinished">Wybierz język, który chcesz dodać</translation>
+        <translation>Wybierz język, który chcesz dodać</translation>
     </message>
     <message>
         <source>Select the language the added translation will be based on</source>
-        <translation type="unfinished">Wybierz język, na którym będzie bazowało nowe tłumaczenie</translation>
+        <translation>Wybierz język, na którym będzie bazowało nowe tłumaczenie</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Nic</translation>
+        <translation>Nic</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
     <name>design/admin/class/select_languages</name>
     <message>
         <source>Edit &lt;%class_name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj &lt;%class_name&gt;</translation>
     </message>
 </context>
 <context>
@@ -865,47 +865,47 @@
     </message>
     <message>
         <source>Translations [%translations]</source>
-        <translation type="unfinished">Tłumaczenia [%translations]</translation>
+        <translation>Tłumaczenia [%translations]</translation>
     </message>
     <message>
         <source>Existing languages</source>
-        <translation type="unfinished">Dostępne wersje językowe</translation>
+        <translation>Dostępne wersje językowe</translation>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation type="unfinished">Odwróć zaznaczenie.</translation>
+        <translation>Odwróć zaznaczenie.</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Język</translation>
+        <translation>Język</translation>
     </message>
     <message>
         <source>Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalizacja</translation>
     </message>
     <message>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>Główny</translation>
     </message>
     <message>
         <source>View translation.</source>
-        <translation type="unfinished">Zobacz tłumaczenie.</translation>
+        <translation>Zobacz tłumaczenie.</translation>
     </message>
     <message>
         <source>Use these radio buttons to select the desired main language.</source>
-        <translation type="unfinished">Użyj przycików radio, aby wybrać główny język.</translation>
+        <translation>Użyj przycisków radio, aby wybrać główny język.</translation>
     </message>
     <message>
         <source>Edit in &lt;%language_name&gt;.</source>
-        <translation type="unfinished">Edutuj w &lt;%language_name&gt;.</translation>
+        <translation>Edytuj w &lt;%language_name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected</source>
-        <translation type="unfinished">Usuń zaznaczone</translation>
+        <translation>Usuń zaznaczone</translation>
     </message>
     <message>
         <source>Remove selected languages from the list above.</source>
-        <translation type="unfinished">Usuń wybrane języki z powyższej listy.</translation>
+        <translation>Usuń wybrane języki z powyższej listy.</translation>
     </message>
     <message>
         <source>There is no removable language.</source>
@@ -913,51 +913,51 @@
     </message>
     <message>
         <source>Set main</source>
-        <translation type="unfinished">Ustaw główną</translation>
+        <translation>Ustaw główną</translation>
     </message>
     <message>
         <source>Default sorting of children</source>
-        <translation type="unfinished"></translation>
+        <translation>Domyślne sortowanie elementów podrzędnych</translation>
     </message>
     <message>
         <source>Another language</source>
-        <translation type="unfinished">Inny język</translation>
+        <translation>Inny język</translation>
     </message>
     <message>
         <source>Hide class groups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukryj grupy klas.</translation>
     </message>
     <message>
         <source>Class groups</source>
-        <translation type="unfinished">Grupy klas</translation>
+        <translation>Grupy klas</translation>
     </message>
     <message>
         <source>Show class groups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż grupy klas.</translation>
     </message>
     <message>
         <source>Hide override templates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukryj nadpisywanie szablonów.</translation>
     </message>
     <message>
         <source>Override templates</source>
-        <translation type="unfinished">Nadpisz szablony</translation>
+        <translation>Nadpisz szablony</translation>
     </message>
     <message>
         <source>Show override templates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż nadpisywanie szablonów.</translation>
     </message>
     <message>
         <source>Hide available translations.</source>
-        <translation type="unfinished">Ukryj tłumaczenia.</translation>
+        <translation>Ukryj dostępne tłumaczenia.</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished">Tłumaczenia</translation>
+        <translation>Tłumaczenia</translation>
     </message>
     <message>
         <source>Show available translations.</source>
-        <translation type="unfinished">Pokazuj dostępne tłumaczenia.</translation>
+        <translation>Pokazuj dostępne tłumaczenia.</translation>
     </message>
     <message>
         <source>Select a group that the &lt;%class_name&gt; class should be added to.</source>
@@ -965,19 +965,19 @@
     </message>
     <message>
         <source>Select the desired main language using the radio buttons above then click this button to store the setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz żądany język główny za pomocą przycisków radio powyżej, a następnie kliknij ten przycisk, aby zapisać ustawienie.</translation>
     </message>
     <message>
         <source>You cannot change the main language because the object is not translated to any other languages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie możesz zmienić głównego języka, ponieważ obiekt nie jest przetłumaczony na inne języki.</translation>
     </message>
     <message>
         <source>URL alias name pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Wzór nazwy aliasu URL</translation>
     </message>
     <message>
         <source>Use this menu to select the language you want to use for editing then click the &quot;Edit&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj tego menu, aby wybrać język, w którym chcesz edytować a następnie kliknij przycisk &quot;Edycja&quot;.</translation>
     </message>
     <message>
         <source>Class storing deferred</source>
@@ -989,15 +989,15 @@
     </message>
     <message>
         <source>Background process monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitorowanie procesu w tle</translation>
     </message>
     <message>
         <source>Class name and number of objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa klasy i liczba obiektów</translation>
     </message>
     <message>
         <source>Member of class groups (%group_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Użytkownik grupy klas (%group_count)</translation>
     </message>
     <message>
         <source>Override templates (%1)</source>
@@ -1005,15 +1005,15 @@
     </message>
     <message>
         <source>Translations (%translations)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tłumaczenia (%translations)</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Opis</translation>
+        <translation>Opis</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategoria</translation>
     </message>
 </context>
 <context>
@@ -1113,23 +1113,23 @@
     </message>
     <message>
         <source>Do you want to send a message to the person approving it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz wysłać wiadomość e-mail do osoby zatwierdzającej?</translation>
     </message>
     <message>
         <source>The content object %1 was approved and will be published when the publishing workflow continues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawartość obiektu %1 została zatwierdzona i będzie opublikowana po pracach workflow.</translation>
     </message>
     <message>
         <source>The content object %1 was not accepted but is still available as a draft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawartość obiektu %1 nie została przyjęta ale nadal jest dostępna jako wersja robocza.</translation>
     </message>
     <message>
         <source>You may edit the draft and publish it, in which case an approval is required again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Możesz edytować i publikować wersję roboczą, w takim przypadku wymagane jest ponowne zatwierdzenie.</translation>
     </message>
     <message>
         <source>The author can edit the draft and publish it again, in which case a new approval is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autor może edytować i publikować go ponownie, w takim przypadku wymagana jest ponowna zgoda..</translation>
     </message>
 </context>
 <context>
@@ -1260,7 +1260,7 @@
     </message>
     <message>
         <source>You do not have permission to edit the contents of &lt;%bookmark_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie masz uprawnień do edycji zawartości &lt;%bookmark_name&gt;.</translation>
     </message>
     <message>
         <source>My bookmarks (%bookmark_count)</source>
@@ -1327,11 +1327,11 @@
     </message>
     <message>
         <source>To select objects, choose the appropriate radio button or checkbox(es), then click the &quot;Select&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aby wybrać obiekty, należy wybrać odpowiedni przycisk radio lub opcję, a następnie kliknąć przycisk &quot;Wybierz&quot;.</translation>
     </message>
     <message>
         <source>To select an object that is a child of one of the displayed objects, click the object name for a list of the children of the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aby wybrać obiekt, który jest elementem podrzędnym jednego z wyświetlonych obiektów, kliknij nazwę obiektu na liście elementów podrzędnych obiektu.</translation>
     </message>
 </context>
 <context>
@@ -1346,7 +1346,7 @@
     </message>
     <message>
         <source>Select the items that you want to bookmark using the checkboxes then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz obiekty, które chcesz dodać do zakładek używając opcji pola wyboru, a następnie kliknije przycisk &quot;Wybierz&quot;.</translation>
     </message>
 </context>
 <context>
@@ -1365,11 +1365,11 @@
     </message>
     <message>
         <source>Choose a new location for the copy of &lt;%object_name&gt; using the radio buttons then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz nową lokalizację dla kopii &lt;%object_name&gt; używając przycisku radio, a następnie kliknij przycisk &quot;Wybierz&quot;.</translation>
     </message>
     <message>
         <source>Choose a new location for the copy of subtree of node &lt;%node_name&gt; using the radio buttons then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz nową lokalizację dla kopii poddrzewa węzła &lt;%node_name&gt; używając przycisku radio, a następnie kliknij przycisk &quot;Wybierz&quot;.</translation>
     </message>
 </context>
 <context>
@@ -1384,7 +1384,7 @@
     </message>
     <message>
         <source>Select the item that you want to export using the checkboxes then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz element, który chcesz wyeksportować używając pola wyboru, a następnie kliknij przycisk &quot;Select&quot;.</translation>
     </message>
 </context>
 <context>
@@ -1399,7 +1399,7 @@
     </message>
     <message>
         <source>Choose a location for the new &lt;%classname&gt; using the radio buttons then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz lokalizację nowej klasy &lt;%classname&gt; używając przycisku radio, a następnie klikając przycisk &quot;Wybierz&quot;.</translation>
     </message>
 </context>
 <context>
@@ -1414,7 +1414,7 @@
     </message>
     <message>
         <source>Choose a new location for &lt;%object_name&gt; using the radio buttons then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz nową lokalizację dla obiektu &lt;%object_name&gt; używając przycisku radio, a następnie klikając przycisk &quot;Wybierz&quot;.</translation>
     </message>
 </context>
 <context>
@@ -1433,7 +1433,7 @@
     </message>
     <message>
         <source>Choose a new location for &lt;%version_name&gt; using the radio buttons then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz nową lokalizację dla wersji &lt;%version_name&gt; używając przycisku radio, a następnie klikając przycisk &quot;Wybierz&quot;.</translation>
     </message>
 </context>
 <context>
@@ -1448,7 +1448,7 @@
     </message>
     <message>
         <source>Choose locations for &lt;%version_name&gt; using the checkboxes then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz lokalizację dla wersji &lt;%version_name&gt; używając opcji pola wyboru, a następnie klikając przycisk &quot;Wybierz&quot;.</translation>
     </message>
 </context>
 <context>
@@ -1459,11 +1459,11 @@
     </message>
     <message>
         <source>Choose objects that you want to relate to &lt;%version_name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz obiekty, który mają odnosić się do &lt;%version_name&gt;</translation>
     </message>
     <message>
         <source>Use the checkboxes to choose the objects that you want to relate to &lt;%version_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skorzystaj z pól wyboru aby wybrać obiekty, które mają odnosić się do &lt;%version_name&gt;.</translation>
     </message>
 </context>
 <context>
@@ -1474,11 +1474,11 @@
     </message>
     <message>
         <source>Choose the node to exchange for &lt;%object_name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz węzeł do wymiany dla &lt;%object_name&gt;</translation>
     </message>
     <message>
         <source>Use the radio buttons to choose the node that you want to swap with &lt;%object_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skorzystaj z przycisku radio aby wybrać węzeł, który chcesz aby został zamieniony z &lt;%object_name&gt;.</translation>
     </message>
 </context>
 <context>
@@ -1489,7 +1489,7 @@
     </message>
     <message>
         <source>Objects referring to this item</source>
-        <translation type="unfinished"></translation>
+        <translation>Obiekty odnoszące się do tego elementu</translation>
     </message>
 </context>
 <context>
@@ -1504,11 +1504,11 @@
     </message>
     <message>
         <source>You have already submitted feedback. The previously submitted data was:</source>
-        <translation type="unfinished"></translation>
+        <translation>Już wysłałeś opinię. Poprzednio wysłane dane:</translation>
     </message>
     <message>
         <source>Thanks for your feedback. The following information was collected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dziękujemy za opinię. Poniższe informacje zostały zebrane.</translation>
     </message>
 </context>
 <context>
@@ -1527,7 +1527,7 @@
     </message>
     <message>
         <source>You have already submitted this form. The previously submitted data was:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysłałeś już ten formularz wcześniej. Poprzednio wysłane dane:</translation>
     </message>
 </context>
 <context>
@@ -1546,11 +1546,11 @@
     </message>
     <message>
         <source>Anonymous users are not allowed to vote in this poll. Please log in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anonimowi użytkownicy nie mogą głosować w tej ankiecie. Proszę się zalogować.</translation>
     </message>
     <message>
         <source>You have already voted in this poll.</source>
-        <translation type="unfinished"></translation>
+        <translation>Głosowałeś już w tej ankiecie.</translation>
     </message>
 </context>
 <context>
@@ -1600,14 +1600,14 @@
     </message>
     <message>
         <source>You do not have permission to create an object of the requested class in any language.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie masz uprawnień aby utworzyć obiekt klasy w dowolnym języku.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/dashboard</name>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Tablica</translation>
     </message>
 </context>
 <context>
@@ -2067,7 +2067,7 @@
     </message>
     <message>
         <source>Edit the current object showing the selected language as a reference.</source>
-        <translation type="unfinished">Edytuj aktualny obiekt pokazując zaznaczony język jako referencję.</translation>
+        <translation>Edytuj aktualny obiekt pokazując zaznaczony język jako referencję.</translation>
     </message>
     <message>
         <source>Back to edit</source>
@@ -2075,7 +2075,7 @@
     </message>
     <message>
         <source>Common</source>
-        <translation type="unfinished">Zwykły</translation>
+        <translation>Zwykły</translation>
     </message>
     <message>
         <source>Embedded</source>
@@ -2095,7 +2095,7 @@
     </message>
     <message>
         <source>Copy this code and paste it into an XML field to link the object.</source>
-        <translation type="unfinished">Skopiuj kod i wklej go do pola tekstowego żeby połączyć obiekt.</translation>
+        <translation>Skopiuj kod i wklej go do pola tekstowego żeby połączyć obiekt.</translation>
     </message>
     <message>
         <source>Relation type</source>
@@ -2103,63 +2103,63 @@
     </message>
     <message>
         <source>Top node</source>
-        <translation type="unfinished"></translation>
+        <translation>Węzeł najwyższego poziomu</translation>
     </message>
     <message>
         <source>Publish the contents of the draft that is being edited. The draft will become the published version of the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Publikowanie zawartości obiektu, który jest aktualnie edytowany. Wersja robocza będzie wersją opublikowaną obiektu.</translation>
     </message>
     <message>
         <source>Class identifier</source>
-        <translation type="unfinished">Identyfikator klasy</translation>
+        <translation>Identyfikator klasy</translation>
     </message>
     <message>
         <source>Class name</source>
-        <translation type="unfinished">Nazwa klasy</translation>
+        <translation>Nazwa klasy</translation>
     </message>
     <message>
         <source>This location will remain unchanged when the object is published.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalizacja ta nie ulegnie zmianie, gdy obiekt zostanie opublikowany.</translation>
     </message>
     <message>
         <source>This location will be created when the object is published.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalizacja ta lokalizacje będzie utworzona, gdy obiekt zostanie opublikowany.</translation>
     </message>
     <message>
         <source>This location will be moved when the object is published.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalizacja ta będzie przeniesione, gdy obiekt zostanie opublikowany.</translation>
     </message>
     <message>
         <source>This location will be removed when the object is published.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalizacja ta będzie usunięta, gdy obiekt zostanie opublikowany.</translation>
     </message>
     <message>
         <source>You do not have permission to remove this location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie masz uprawnień do usunięcia tej lokalizacji.</translation>
     </message>
     <message>
         <source>Use this menu to set the sorting method for the sub items in this location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skorzystaj z tego menu, aby ustawić metodę sortowania dla elementów podrzędnych tej lokalizacji.</translation>
     </message>
     <message>
         <source>Use this menu to set the sorting direction for the sub items in this location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skorzystaj z tego menu, aby ustawić kierunek sortowania dla elementów podrzędnych tej lokalizacji.</translation>
     </message>
     <message>
         <source>You cannot add or remove locations because the object being edited belongs to a top node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie możesz dodawać lub usuwać lokalizacji ponieważ obiekt jest edytowany i należy do najwyższego poziomu węzła.</translation>
     </message>
     <message>
         <source>You cannot manage the versions of this object because there is only one version available (the one that is being edited).</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie możesz zarządzać wersjami tego obiektu ponieważ jest tylko jedna dostępna wersja (która jest aktualnie edytowana).</translation>
     </message>
     <message>
         <source>You do not have permission to view this object</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie masz uprawnień do oglądania tego obiektu</translation>
     </message>
     <message>
         <source>The following data is invalid according to the custom validation rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Poniższe dane są nieprawidłowe z zasadami niestandardowych walidacji</translation>
     </message>
     <message>
         <source>States</source>
@@ -2167,15 +2167,15 @@
     </message>
     <message>
         <source>Toggle fullscreen editing!</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz edycję w tryb pełnoekranowy!</translation>
     </message>
     <message>
         <source>Store draft and exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz szkic i wyjdź</translation>
     </message>
     <message>
         <source>Store the draft that is being edited and exit from edit mode. Use when you need to exit your work and return later to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz szkic, który jest edytowany i wyjdź z trybu edycji. Przydaje się gdy trzeba skończyć pracę i wrócić później aby kontynuować.</translation>
     </message>
     <message>
         <source>Edit &lt;%object_name&gt; (%class_name)</source>
@@ -2187,19 +2187,19 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Podgląd</translation>
+        <translation>Podgląd</translation>
     </message>
     <message>
         <source>Existing translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Istniejące tłumaczenia</translation>
     </message>
     <message>
         <source>Base translation on</source>
-        <translation type="unfinished"></translation>
+        <translation>Bazuj na tłumaczeniu</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nic</translation>
     </message>
     <message>
         <source>Related objects (%related_objects)</source>
