@@ -2473,7 +2473,7 @@
     </message>
     <message>
         <source>Existing translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Istniejące tłumaczenia</translation>
     </message>
     <message>
         <source>Select the translation you want to edit</source>
@@ -2481,15 +2481,15 @@
     </message>
     <message>
         <source>New translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowe tłumaczenie</translation>
     </message>
     <message>
         <source>Select the translation you want to add</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz tłumaczenie, które chcesz dodać</translation>
     </message>
     <message>
         <source>Translate based on</source>
-        <translation type="unfinished"></translation>
+        <translation>Tłumacz w oparciu o</translation>
     </message>
 </context>
 <context>
@@ -3217,11 +3217,11 @@
     </message>
     <message>
         <source>Classes translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Tłumaczenia klas</translation>
     </message>
     <message>
         <source>Country/region</source>
-        <translation type="unfinished"></translation>
+        <translation>Kraj/region</translation>
     </message>
     <message>
         <source>The language cannot be removed because it is in use.</source>
@@ -3372,7 +3372,7 @@
     </message>
     <message>
         <source>Country/region name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa kraju/regionu</translation>
     </message>
     <message>
         <source>Country/region comment</source>
@@ -3380,7 +3380,7 @@
     </message>
     <message>
         <source>Country/region code</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod kraju/regionu</translation>
     </message>
     <message>
         <source>Country/region variation</source>
@@ -5974,15 +5974,15 @@
     </message>
     <message>
         <source>New translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowe tłumaczenie</translation>
     </message>
     <message>
         <source>Policy list and the Role that are assignet to current node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista ról i uprawnień, które są przypisane do aktualnego węzła.</translation>
     </message>
     <message>
         <source>Limited to</source>
-        <translation type="unfinished"></translation>
+        <translation >Ogranicza się do</translation>
     </message>
     <message>
         <source>%limitation_identifier %limitation_value</source>
@@ -6014,11 +6014,11 @@
     </message>
     <message>
         <source>Existing translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Istniejące tłumaczenia</translation>
     </message>
     <message>
         <source>Language list of translations for current object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista języków dla aktualnego obiektu.</translation>
     </message>
 </context>
 <context>
@@ -9531,7 +9531,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorie</translation>
     </message>
     <message>
         <source></source>
@@ -9577,15 +9577,15 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Regenerate autoload arrays for extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Regeneruj tablice autoload rozszerzeń</translation>
     </message>
     <message>
         <source>Click this button to regenerate the autoload arrays used by the system for extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknij ten przycisk aby regenerować tablice autload używane przez system rozszerzeń</translation>
     </message>
     <message>
         <source>Problems detected during autoload generation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Problemy wykryte podczas automatycznego generowania:</translation>
     </message>
     <message>
         <source>Available extensions (%extension_count)</source>
@@ -9593,11 +9593,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation type="unfinished">Odwróć zaznaczenie.</translation>
+        <translation>Odwróć zaznaczenie.</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished">Aktywacja</translation>
+        <translation>Aktywacja</translation>
     </message>
 </context>
 <context>
@@ -9785,35 +9785,35 @@ Note: The packages will not be uninstalled.</source>
     <message>
         <source>Extensions</source>
         <comment>eZ Publish extensions</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rozszerzenia</translation>
     </message>
     <message>
         <source>Script memory limit is unlimited.</source>
-        <translation type="unfinished"></translation>
+        <translation>Limit pamięci dla skryptów jest nieograniczony.</translation>
     </message>
     <message>
         <source>A known and active PHP Accelerator could not be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Znane i aktywne akceleratory PHP nie mogły zostać odnalezione.</translation>
     </message>
     <message>
         <source>Web server (software)</source>
         <comment>Web server title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tytuł serwera www</translation>
     </message>
     <message>
         <source>Name</source>
         <comment>Web server name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa serwera www</translation>
     </message>
     <message>
         <source>Version</source>
         <comment>Web server version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wersja serwera www</translation>
     </message>
     <message>
         <source>Modules</source>
         <comment>Web server modules</comment>
-        <translation type="unfinished">Moduły</translation>
+        <translation>Moduły</translation>
     </message>
     <message>
         <source>The modules of the web server could not be detected.</source>
@@ -9835,7 +9835,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>PHP autoload functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Funkcje PHP autload</translation>
     </message>
 </context>
 <context>
@@ -11366,7 +11366,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Product categories [%categories]</source>
-        <translation type="unfinished">Kategorie produktów [%categories]</translation>
+        <translation>Kategorie produktów [%categories]</translation>
     </message>
     <message>
         <source>Invert selection.</source>
@@ -11390,7 +11390,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Remove selected product categories.</source>
-        <translation type="unfinished">Usuń zaznaczone kategorie produktów.</translation>
+        <translation>Usuń zaznaczone kategorie produktów.</translation>
     </message>
     <message>
         <source>New product category</source>
@@ -11410,62 +11410,62 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Product categories (%categories)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorie produktów (%categories)</translation>
     </message>
 </context>
 <context>
     <name>design/admin/shop/productsoverview</name>
     <message>
         <source>Products overview</source>
-        <translation type="unfinished">Opisy produktów</translation>
+        <translation>Opisy produktów</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Nic</translation>
+        <translation>Nic</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa</translation>
     </message>
     <message>
         <source>Price</source>
-        <translation type="unfinished"></translation>
+        <translation>Cena</translation>
     </message>
     <message>
         <source>Show 10 items per page.</source>
-        <translation type="unfinished">Pokazuj 10 elementów na stronie.</translation>
+        <translation>Pokazuj 10 elementów na stronie.</translation>
     </message>
     <message>
         <source>Show 50 items per page.</source>
-        <translation type="unfinished">Pokazuj 50 elementów na stronie.</translation>
+        <translation>Pokazuj 50 elementów na stronie.</translation>
     </message>
     <message>
         <source>Show 25 items per page.</source>
-        <translation type="unfinished">Pokazuj 25 elementów na stronie.</translation>
+        <translation>Pokazuj 25 elementów na stronie.</translation>
     </message>
     <message>
         <source>The product list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista produktów jest pusta.</translation>
     </message>
     <message>
         <source>Select product class.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz klasę produktu.</translation>
     </message>
     <message>
         <source>Show products</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż produkty</translation>
     </message>
     <message>
         <source>Show products of selected class.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż produkty wybranych klas.</translation>
     </message>
     <message>
         <source>Sorting</source>
-        <translation type="unfinished">Sortowanie</translation>
+        <translation>Sortowanie</translation>
     </message>
     <message>
         <source>Select sorting field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz pola sortowania.</translation>
     </message>
     <message>
         <source>Select sorting order.</source>
@@ -12594,7 +12594,7 @@ your account.</source>
     </message>
     <message>
         <source>All letters must be entered in the correct case.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie listery muszą być wprowadzone prawidłowo.</translation>
     </message>
     <message>
         <source>You do not have permission to access &lt;%siteaccess_name&gt;.</source>
@@ -12602,19 +12602,19 @@ your account.</source>
     </message>
     <message>
         <source>Log in to the Administration Interface of eZ Publish</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaloguj się do Panela Administracyjnego eZ Publish</translation>
     </message>
     <message>
         <source>Please enter a valid username/password combination then click &quot;Log in&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Proszę podaj nazwę użytkownika i hasło, a następnie kliknij przycisk &quot;Zaloguj&quot;.</translation>
     </message>
     <message>
         <source>Enter a valid username in this field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź nazwę użytkownika w tym polu.</translation>
     </message>
     <message>
         <source>Enter a valid password in this field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź hasło użytkownika w tym polu.</translation>
     </message>
 </context>
 <context>
@@ -23726,66 +23726,66 @@ To do this you need to change the %chown commands under Alternative shell comman
     <name>design/standard/shop/preferredcurrency</name>
     <message>
         <source>Unknown currency name</source>
-        <translation type="unfinished">Nieznana nazwa waluty</translation>
+        <translation>Nieznana nazwa waluty</translation>
     </message>
     <message>
         <source>Set</source>
-        <translation type="unfinished">Ustaw</translation>
+        <translation>Ustaw</translation>
     </message>
     <message>
         <source>Set the selected currency as preferred.</source>
-        <translation type="unfinished">Usta zaznaczoną walutę jako preferowaną.</translation>
+        <translation>Usta zaznaczoną walutę jako preferowaną.</translation>
     </message>
 </context>
 <context>
     <name>design/standard/shop/productsoverview</name>
     <message>
         <source>Products overview</source>
-        <translation type="unfinished">Opisy produktów</translation>
+        <translation>Opisy produktów</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Nic</translation>
+        <translation>Nic</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa</translation>
     </message>
     <message>
         <source>Price</source>
-        <translation type="unfinished"></translation>
+        <translation>Cena</translation>
     </message>
     <message>
         <source>Show 10 items per page.</source>
-        <translation type="unfinished">Pokazuj 10 elementów na stronie.</translation>
+        <translation>Pokazuj 10 elementów na stronie.</translation>
     </message>
     <message>
         <source>Show 50 items per page.</source>
-        <translation type="unfinished">Pokazuj 50 elementów na stronie.</translation>
+        <translation>Pokazuj 50 elementów na stronie.</translation>
     </message>
     <message>
         <source>Show 25 items per page.</source>
-        <translation type="unfinished">Pokazuj 25 elementów na stronie.</translation>
+        <translation>Pokazuj 25 elementów na stronie.</translation>
     </message>
     <message>
         <source>The product list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista produktów jest pusta.</translation>
     </message>
     <message>
         <source>Select product class.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz klasę produktu.</translation>
     </message>
     <message>
         <source>Show products</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż produkty</translation>
     </message>
     <message>
         <source>Show products of selected class.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż produkty wybranej klasy.</translation>
     </message>
     <message>
         <source>Select sorting field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz pola sortowania.</translation>
     </message>
     <message>
         <source>Select sorting order.</source>
@@ -23793,15 +23793,15 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished">Malejąco</translation>
+        <translation>Malejąco</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished">Rosnąco</translation>
+        <translation>Rosnąco</translation>
     </message>
     <message>
         <source>Sort products</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortuj produkty</translation>
     </message>
     <message>
         <source>Sort products.</source>
