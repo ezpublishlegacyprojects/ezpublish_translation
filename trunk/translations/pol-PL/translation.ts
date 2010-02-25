@@ -1607,7 +1607,7 @@
     <name>design/admin/content/dashboard</name>
     <message>
         <source>Dashboard</source>
-        <translation>Tablica</translation>
+        <translation>Panel kontrolny</translation>
     </message>
 </context>
 <context>
@@ -4401,109 +4401,109 @@
     </message>
     <message>
         <source>Click on the icon to display a context-sensitive menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknij na ikonę, aby wyświetlić menu kontekstowe.</translation>
     </message>
     <message>
         <source>Node ID</source>
-        <translation type="unfinished">ID węzła</translation>
+        <translation>ID węzła</translation>
     </message>
     <message>
         <source>Visibility</source>
-        <translation type="unfinished">Widoczność</translation>
+        <translation>Widoczność</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished">Ukryte</translation>
+        <translation>Ukryte</translation>
     </message>
     <message>
         <source>Hidden by superior</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukryte przez administratora</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="unfinished">Widoczny</translation>
+        <translation>Widoczny</translation>
     </message>
     <message>
         <source>Dynamic tree not allowed for this siteaccess</source>
-        <translation type="unfinished"></translation>
+        <translation>Dynamiczne drzewo nie jest dostępny dla tego siteaccess'a</translation>
     </message>
     <message>
         <source>Node does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Węzeł nie istnieje</translation>
     </message>
     <message>
         <source>Internal error</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd wewnętrzny</translation>
     </message>
     <message>
         <source>[%classname] Click on the icon to display a context-sensitive menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%classname] Kliknij na ikonę, aby wyświetlić menu kontekstowe.</translation>
     </message>
     <message>
         <source>Object ID</source>
-        <translation type="unfinished">ID obiektu</translation>
+        <translation>ID obiektu</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/all_latest_content</name>
     <message>
         <source>All latest content</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie najnowsze treście</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation type="unfinished"></translation>
+        <translation>Data publikacji</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation type="unfinished">Autor</translation>
+        <translation>Autor</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj</translation>
     </message>
     <message>
         <source>Edit &lt;%child_name&gt;.</source>
-        <translation type="unfinished">Edytuj &lt;%child_name&gt;.</translation>
+        <translation>Edytuj &lt;%child_name&gt;.</translation>
     </message>
     <message>
         <source>You do not have permission to edit &lt;%child_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie masz uprawnień do edycji &lt;%child_name&gt;.</translation>
     </message>
     <message>
         <source>Latest content list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista ostatnich najnowszych treści jest pusta.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/drafts</name>
     <message>
         <source>My drafts</source>
-        <translation type="unfinished">Moje szkice</translation>
+        <translation>Moje szkice</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Wersja</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Data </translation>
     </message>
     <message>
         <source>Edit &lt;%draft_name&gt;.</source>
@@ -4515,99 +4515,99 @@
     </message>
     <message>
         <source>Currently you do not have any drafts available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualnie nie masz szkicy.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/latest_content</name>
     <message>
         <source>My latest content</source>
-        <translation type="unfinished"></translation>
+        <translation>Moja ostatnia treść</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnia aktualizacja</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj</translation>
     </message>
     <message>
         <source>Edit &lt;%child_name&gt;.</source>
-        <translation type="unfinished">Edytuj &lt;%child_name&gt;.</translation>
+        <translation>Edytuj &lt;%child_name&gt;.</translation>
     </message>
     <message>
         <source>You do not have permission to edit &lt;%child_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie masz uprawnień do edycji &lt;%child_name&gt;.</translation>
     </message>
     <message>
         <source>Your latest content list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista najnowszych treści jest pusta.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/maintenance</name>
     <message>
         <source>Software update and Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacja i konserwacja oprogramowania</translation>
     </message>
     <message>
         <source>Your installation: &lt;span id=&quot;ez-version&quot;&gt;%1&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Twoja instalacja: &lt;span id=&quot;ez-version&quot;&gt;%1&lt;/span&gt;</translation>
     </message>
     <message>
         <source>If your installation is not running eZ Publish Premium, it might not be up to date with the latest maintenance service packs. Contact eZ Systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeżeli instalacja nie jest uruchomiona jako eZ Publish Premium możesz nie otrzymywać na bieżąco informacji o nowych dodatkach Service Pack. Skontaktuj się z eZ Systems.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/pending_list</name>
     <message>
         <source>My pending items</source>
-        <translation type="unfinished">Moje elementy oczekujące</translation>
+        <translation>Moje elementy oczekujące</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnia aktualizacja</translation>
     </message>
     <message>
         <source>Currently you do not have any pending items available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualnie nie masz żadnych elementów oczekujących.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/wishlist</name>
     <message>
         <source>Wish list</source>
-        <translation type="unfinished">Lista życzeń</translation>
+        <translation>Lista życzeń</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Currently you do not have any products on your wish list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualnie nie masz żadnych produktów na liście życzenia.</translation>
     </message>
 </context>
 <context>
@@ -5906,23 +5906,23 @@
     </message>
     <message>
         <source>Translations (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tłumaczenia (%count)</translation>
     </message>
     <message>
         <source>Locations (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalizacje (%count)</translation>
     </message>
     <message>
         <source>Relations (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Relacje (%count)</translation>
     </message>
     <message>
         <source>Roles (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Role (%count)</translation>
     </message>
     <message>
         <source>Policies (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Uprawnienia (%count)</translation>
     </message>
     <message>
         <source>Sub items (%children_count)</source>
@@ -5930,15 +5930,15 @@
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished">Utwórz</translation>
+        <translation>Utwórz</translation>
     </message>
     <message>
         <source>in</source>
-        <translation type="unfinished">w</translation>
+        <translation>w</translation>
     </message>
     <message>
         <source>Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutaj</translation>
     </message>
     <message>
         <source>Published order</source>
@@ -6036,7 +6036,7 @@
     <name>design/admin/node/view/thumbnail</name>
     <message>
         <source>[%classname] Click on the icon to display a context-sensitive menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%classname] Kliknij na ikonę, aby wyświetlić menu kontekstowe.</translation>
     </message>
 </context>
 <context>
@@ -6640,23 +6640,23 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>User accounts</source>
-        <translation type="obsolete">Użytkownicy</translation>
+        <translation>Konta użytkowników</translation>
     </message>
     <message>
         <source>Webshop</source>
-        <translation type="obsolete">Sklep</translation>
+        <translation>Sklep</translation>
     </message>
     <message>
         <source>Setup</source>
-        <translation type="obsolete">Ustawienia</translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>Design</source>
-        <translation type="obsolete">Wygląd</translation>
+        <translation>Wygląd</translation>
     </message>
     <message>
         <source>My account</source>
-        <translation type="obsolete">Moje konto</translation>
+        <translation>Moje konto</translation>
     </message>
     <message>
         <source>Current user</source>
@@ -6792,11 +6792,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>[%classname] Click on the icon to display a context-sensitive menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%classname] Kliknij na ikonę, aby wyświetlić menu kontekstowe.</translation>
     </message>
     <message>
         <source>Search in all content</source>
-        <translation type="unfinished"></translation>
+        <translation>Szukaj wszędzie</translation>
     </message>
     <message>
         <source>Search in &apos;%node&apos;</source>
@@ -6811,18 +6811,18 @@ Note: The packages will not be uninstalled.</source>
     <name>design/admin/pagelayout/path</name>
     <message>
         <source>You are here:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jesteś w:</translation>
     </message>
 </context>
 <context>
     <name>design/admin/pagelayout/rightmenu</name>
     <message>
         <source>Show / Hide rightmenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż / Ukryj prawe menu</translation>
     </message>
     <message>
         <source>Hide / Show rightmenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukryj / Pokaż prawe menu</translation>
     </message>
 </context>
 <context>
@@ -6873,7 +6873,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Site structure</source>
-        <translation type="unfinished"></translation>
+        <translation>Struktura strony</translation>
     </message>
 </context>
 <context>
@@ -6991,15 +6991,15 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit profile</source>
-        <translation type="unfinished">Edycja profilu</translation>
+        <translation>Edycja profilu</translation>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel kontrolny</translation>
     </message>
     <message>
         <source>Preview tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Podgląd zakładki</translation>
     </message>
     <message>
         <source>Disable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
@@ -7546,27 +7546,27 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Copy subtree</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj drzewo</translation>
     </message>
     <message>
         <source>Manage URL aliases</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarządzaj aliasami URL</translation>
     </message>
     <message>
         <source>Choose siteaccess</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz siteaccess</translation>
     </message>
     <message>
         <source>Create RSS/ATOM feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Utwórz RSS/ATOM </translation>
     </message>
     <message>
         <source>Remove RSS/ATOM feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń RSS/ATOM</translation>
     </message>
     <message>
         <source>New translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowe tłumaczenie</translation>
     </message>
 </context>
 <context>
@@ -12958,6 +12958,11 @@ your account.</source>
         <translation>Lista szablonów</translation>
     </message>
 </context>
+
+
+
+
+
 <context>
     <name>design/admin/visual/templateview</name>
     <message>
@@ -15675,7 +15680,7 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>Copy subtree Notification</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj drzewo powiadomień</translation>
     </message>
 </context>
 <context>
@@ -17663,7 +17668,8 @@ If you want to send comments to the approver or view the status use the URL belo
     <message>
         <source>Choose a file from your locale machine then click the &quot;Upload&quot; button. An object will be created according to file type and placed in your chosen location.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz plik z Twojego komputera a następnie kliknij przycisk &quot;Upload&quot;. Obiekt zostanie utworzony i umieszczony w wybranej lokalizacji. 
+</translation>
     </message>
 </context>
 <context>
@@ -17674,7 +17680,7 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>[%classname] Click on the icon to display a context-sensitive menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%classname] Kliknij na ikonę, aby wyświetlić menu kontekstowe.</translation>
     </message>
 </context>
 <context>
@@ -25787,10 +25793,7 @@ your account.</source>
     </message>
     <message>
         <source>No main node selected, please select one.</source>
-        <translation type="obsolete">Nie wybrano głównego węzła, proszę to zrobić.
-
-
-</translation>
+        <translation type="obsolete">Nie wybrano głównego węzła, proszę to zrobić.</translation>
     </message>
     <message>
         <source>Content</source>
@@ -25830,8 +25833,7 @@ your account.</source>
     </message>
     <message>
         <source>My bookmarks</source>
-        <translation type="obsolete">Moje zakładki
-</translation>
+        <translation type="obsolete">Moje zakładki</translation>
     </message>
     <message>
         <source>Tip from %1: %2</source>
@@ -26099,12 +26101,6 @@ your account.</source>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
         <translation type="obsolete">Maksymalny rozmiar ładowanego pliku (w bajtach): %1.</translation>
     </message>
-</context>
-<context>
-    <name>kernel/content/urlalias_global</name>
-</context>
-<context>
-    <name>kernel/content/urlalias_wildcard</name>
 </context>
 <context>
     <name>kernel/contentclass</name>
@@ -26567,9 +26563,6 @@ your account.</source>
     </message>
 </context>
 <context>
-    <name>kernel/rss/edit_export</name>
-</context>
-<context>
     <name>kernel/search</name>
     <message>
         <source>Search stats</source>
@@ -26766,9 +26759,6 @@ your account.</source>
     </message>
 </context>
 <context>
-    <name>kernel/shop/classes/ezcurrencydata</name>
-</context>
-<context>
     <name>kernel/shop/discountgroup</name>
     <message>
         <source>New discount group</source>
@@ -26780,20 +26770,11 @@ your account.</source>
     </message>
 </context>
 <context>
-    <name>kernel/shop/editvatrule</name>
-</context>
-<context>
-    <name>kernel/shop/productcategories</name>
-</context>
-<context>
     <name>kernel/shop/vatrules</name>
     <message>
         <source>VAT rules</source>
         <translation type="obsolete">Reguły VAT</translation>
     </message>
-</context>
-<context>
-    <name>kernel/shop/vattype</name>
 </context>
 <context>
     <name>kernel/state</name>
@@ -26817,9 +26798,6 @@ your account.</source>
         <source>Group edit</source>
         <translation type="obsolete">Edycja grupy</translation>
     </message>
-</context>
-<context>
-    <name>kernel/state/edit</name>
 </context>
 <context>
     <name>kernel/trigger</name>
@@ -27016,9 +26994,6 @@ your account.</source>
         <comment>Keyword index name</comment>
         <translation type="obsolete">Index</translation>
     </message>
-</context>
-<context>
-    <name>lib/eztemplate</name>
 </context>
 <context>
     <name>lib/template</name>
