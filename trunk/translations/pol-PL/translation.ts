@@ -3,7 +3,7 @@
     <name>contentstructuremenu/show_content_structure</name>
     <message>
         <source>Node ID: %node_id Visibility: %visibility</source>
-        <translation>Node ID: %node_id Widoczność: %visibility</translation>
+        <translation>ID węzła: %node_id Widoczność: %visibility</translation>
     </message>
 </context>
 <context>
@@ -5186,7 +5186,7 @@
     </message>
     <message>
         <source>Show preview of content.</source>
-        <translation>Pokazuj podgląd zawartości.</translation>
+        <translation>Pokaż podgląd zawartości.</translation>
     </message>
     <message>
         <source>Hide available translations.</source>
@@ -5194,19 +5194,19 @@
     </message>
     <message>
         <source>Show available translations.</source>
-        <translation>Pokazuj dostępne wersje językowe.</translation>
+        <translation>Pokaż dostępne wersje językowe.</translation>
     </message>
     <message>
         <source>Hide location overview.</source>
-        <translation>Ukryj informacje o położenia.</translation>
+        <translation>Ukryj informacje o lokalizacjach.</translation>
     </message>
     <message>
         <source>Locations</source>
-        <translation>Umiejscowienie</translation>
+        <translation>Lokalizacje</translation>
     </message>
     <message>
         <source>Show location overview.</source>
-        <translation>Pokazuj informacje o położenia.</translation>
+        <translation>Pokaż informacje o lokalizacjach.</translation>
     </message>
     <message>
         <source>Hide relation overview.</source>
@@ -5218,7 +5218,7 @@
     </message>
     <message>
         <source>Show relation overview.</source>
-        <translation>Pokazuj listę powiązań.</translation>
+        <translation>Pokaż listę powiązań.</translation>
     </message>
     <message>
         <source>Hide role overview.</source>
@@ -5230,7 +5230,7 @@
     </message>
     <message>
         <source>Show role overview.</source>
-        <translation>Pokazuj listę grupy.</translation>
+        <translation>Pokaż listę ról.</translation>
     </message>
     <message>
         <source>Hide policy overview.</source>
@@ -5242,7 +5242,7 @@
     </message>
     <message>
         <source>Show policy overview.</source>
-        <translation>Pokazuj listę uprawnień.</translation>
+        <translation>Pokaż listę uprawnień.</translation>
     </message>
     <message>
         <source>Up one level</source>
@@ -5450,7 +5450,7 @@
     </message>
     <message>
         <source>There are no assigned roles.</source>
-        <translation>Nie ma przypisanych grup.</translation>
+        <translation>Nie ma przypisanych ról.</translation>
     </message>
     <message>
         <source>Hide details.</source>
@@ -5462,7 +5462,7 @@
     </message>
     <message>
         <source>Show details.</source>
-        <translation>Pokazuj szczegóły.</translation>
+        <translation>Pokaż szczegóły.</translation>
     </message>
     <message>
         <source>Up one level.</source>
@@ -5634,7 +5634,7 @@
     </message>
     <message>
         <source>Show object relation overview.</source>
-        <translation>Pokaż podgląd powiązań obiektów.</translation>
+        <translation>Pokaż podgląd powiązanych obiektów.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -5826,7 +5826,7 @@
     </message>
     <message>
         <source>The item being viewed is not used by any other objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Element oglądany nie jest używany przez inne obiekty.</translation>
     </message>
     <message>
         <source>You cannot remove any language because you do not have permission to edit the current item.</source>
@@ -6800,11 +6800,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Search in &apos;%node&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Szukaj w &apos;%node&apos;</translation>
     </message>
     <message>
-        <source>User perferences</source>
-        <translation type="unfinished"></translation>
+        <source>User preferences</source>
+        <translation>Preferencje użytkownika</translation>
     </message>
 </context>
 <context>
@@ -9015,7 +9015,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit the &lt;%section_name&gt; section.</source>
-        <translation>Edytuj &lt;%section_name&gt; sekcję.</translation>
+        <translation>Edytuj sekcję &lt;%section_name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected sections.</source>
@@ -9027,7 +9027,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>You are not allowed to assign the &lt;%section_name&gt; section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie masz uprawnień aby przypisać sekcję &lt;%section_name&gt;.</translation>
     </message>
     <message>
         <source>Sections (%section_count)</source>
@@ -9035,7 +9035,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Assign a subtree to the &lt;%section_name&gt; section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przypisz poddrzewo do sekcji &lt;%section_name&gt;.</translation>
     </message>
 </context>
 <context>
@@ -9503,23 +9503,23 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>This operation will clear all the template override caches and the compiled templates. It may lead to slower site performance until the caches are recreated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta operacja umożliwia wyczyszczenie całej pamięci podręcznej szablonów i alternatywnych szablonów. Po wykonaniu tej czynności strona może działać wolniej aż do czasu regeneracji pamięci podręcznej.</translation>
     </message>
     <message>
         <source>This operation will clear all caches that are related to either template views or cache blocks inside the pagelayout template. Use it if you have modified templates or if you have made changes inside a cache block.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta operacja spowoduje wyczyszczenie całej pamięci podręcznej, która jest związane z poszczególnymi widokami szablonów lub blokami pamięci wewnętrznej w szablonie pagelayout. Użyj tej opcji, jeśli masz zmodyfikowane szablony lub jeśli dokonano zmian wewnątrz bloku pamięci podręcznej.</translation>
     </message>
     <message>
         <source>Clear Ini caches</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść pamięć podręczną plików INI</translation>
     </message>
     <message>
         <source>This operation will clear all the configuration caches. Use it to force the system to re-read the configuration files if you have changed settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta operacja spowoduje wyczyszczenie całej pamięci podręcznej konfiguracji. Użyj tej opcji, aby zmusić system do ponownego odczytu plików konfiguracyjnych, jeśli ich ustawienia uległy zmianie.</translation>
     </message>
     <message>
         <source>This operation will clear all the caches and may lead to slow site response times until the caches are recreated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta operacja spowoduje wyczyszczenie całej pamięci podręcznej i może spowodować długi czas reakcji do czasu aż zostanie odtworzona pamięć podręczna.</translation>
     </message>
     <message>
         <source>The &lt;%cache_name&gt; is disabled and thus it cannot be marked for clearing.</source>
@@ -9527,7 +9527,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>This operation will regenerate all the static content caches that are configured. This action can take  some time depending on the specifications of the server and the number of locations that are configured to be statically cached. If you encounter time-out problems, use the &amp;quot;bin/php/makestaticcache.php&amp;quot; shell script.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta operacja odbuduje statyczną zawartość pamięci podręcznej, która jest skonfigurowana. Działanie to może zająć trochę czasu w zależności od specyfikacji serwera i liczby miejsc, które są skonfigurowane dla statycznej pamięci podręcznej. Jeśli w trakcie napotkasz problemy, użyj skryptu cli makestaticcache.php znajdującego się w katalogu bin/php instalacji ezpublish. Skrypt taki wykonuje się z poziomu konsoli przy pomocy polecenia php bin/php/makestaticcache.php.</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -9893,11 +9893,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>The rapid application development (RAD) tools make the creation of new/extended functionality for eZ Publish easier. Currently there are two RAD tools available: the template operator wizard and the datatype wizard. The template operator wizard basically generates a valid framework (PHP code) for a new template operator. The datatype wizard generates a valid framework (PHP code) for a new datatype.</source>
-        <translation type="unfinished"></translation>
+        <translation>Narzędzia szybkiego tworzenia aplikacji ułatwiają tworzenie nowych rozszerzeń / funkcjonalność dla eZ Publish. Obecnie istnieją dwa narzędzia RAD, dostępne: kreator szablonów operatora i typu danych kreatora. Kreator szablonów operatora genereju bardzo prosty framework (kod PHP) dla nowego szablonu operatora. Datatype kreator generuje framework (kod PHP) dla nowego datatype.</translation>
     </message>
     <message>
         <source>Welcome to the template operator wizard. Template operators are usually used for manipulating template variables. However, they can also be used to generate or fetch data. This wizard will take you through a couple of steps with some basic choices. When finished, eZ Publish will generate a PHP framework for a new operator (which will be available for download).</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapraszamy do kreatora szablonów operatora. Szablony operatorów są zazwyczaj wykorzystywane do manipulowania zmiennymi w szablonach. Jednak mogą one być również wykorzystywane do tworzenia lub pobierania danych. Ten kreator przeprowadzi Cię przez kilka kroków z podstawowymi możliwościami wyboru opcji nowego operatora. Po zakończeniu eZ Publish wygeneruje framework (kod PHP) dla nowego operatora (który będzie dostępny do pobrania).</translation>
     </message>
 </context>
 <context>
@@ -9960,11 +9960,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Welcome to the wizard for creating a new datatype. Everything stored in a content object are called attributes. Attributes are defined as data types. To customize storing and validation of attributes, you can create your own data types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Witamy w kreatorze tworzenia nowego typu danych. Wszystko zapisane w zawartości obiektów nazywane jest atrybutami. Atrybuty są zdefiniowane jako typy danych. Aby dostosować przechowywanie atrybutów można tworzyć własne typy danych.</translation>
     </message>
     <message>
         <source>Class constant name</source>
-        <translation type="unfinished"></translation>
+        <translation>Stała nazwa klasy</translation>
     </message>
 </context>
 <context>
