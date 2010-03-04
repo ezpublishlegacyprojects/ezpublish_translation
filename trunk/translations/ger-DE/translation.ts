@@ -2425,7 +2425,7 @@
     </message>
     <message>
         <source>Add an existing item as a related object.</source>
-        <translation>Ein vorhandenes Object als verknüpftes Objekt hinzufügen.</translation>
+        <translation>Ein vorhandenes Objekt als verknüpftes Objekt hinzufügen.</translation>
     </message>
     <message>
         <source>Upload new</source>
@@ -6980,7 +6980,7 @@
     </message>
     <message>
         <source>Show details.</source>
-        <translation>Details einblenden.</translation>
+        <translation>Details anzeigen.</translation>
     </message>
     <message>
         <source>Up one level.</source>
@@ -7540,15 +7540,15 @@
     </message>
     <message>
         <source>Content state</source>
-        <translation type="unfinished"></translation>
+        <translation>Zustand des Objekts</translation>
     </message>
     <message>
         <source>States and their states groups for current object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zustände und ihre Gruppen für das aktuelle Objekt.</translation>
     </message>
     <message>
         <source>State group</source>
-        <translation type="unfinished"></translation>
+        <translation>Zustandsgruppe</translation>
     </message>
     <message>
         <source>No content object state is configured. This can be done %urlstart here%urlend.</source>
@@ -7572,7 +7572,7 @@
     </message>
     <message>
         <source>%limitation_identifier %limitation_value</source>
-        <translation type="unfinished"></translation>
+        <translation>%limitation_identifier %limitation_value</translation>
     </message>
     <message>
         <source>Object relation list from current object.</source>
@@ -7600,7 +7600,7 @@
     </message>
     <message>
         <source>Existing translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestehende Übersetzungen</translation>
     </message>
     <message>
         <source>Language list of translations for current object.</source>
@@ -8719,11 +8719,11 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Disable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
-        <translation type="unfinished">&amp;quot;Vorschau&amp;quot; ausblenden, während im Inhalt navigiert wird.</translation>
+        <translation>&amp;quot;Vorschau&amp;quot; ausblenden, während im Inhalt navigiert wird.</translation>
     </message>
     <message>
         <source>Enable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
-        <translation type="unfinished">&amp;quot;Vorschau&amp;quot; anzeigen, während im Inhalt navigiert wird.</translation>
+        <translation>&amp;quot;Vorschau&amp;quot; anzeigen, während im Inhalt navigiert wird.</translation>
     </message>
 </context>
 <context>
@@ -8954,7 +8954,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Access control</source>
-        <translation>Zugangskontolle</translation>
+        <translation>Zugangskontrolle</translation>
     </message>
 </context>
 <context>
@@ -9659,7 +9659,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Set the desired function limitations using the controls below.</source>
-        <translation>Stellen Sie die gewünschten Limitierungen der Funktion ein, indem Sie die Kontollen unten benutzen.</translation>
+        <translation>Legen Sie die Einschränkungen hinsichtlich der Funktion mit den untenstehenden Einstellmöglichkeiten fest.</translation>
     </message>
     <message>
         <source>Click the &quot;OK&quot; button to finish the wizard. The policy will be added to the role that is currently being edited.</source>
@@ -9818,7 +9818,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Edit the policy&apos;s function limitations.</source>
-        <translation>Limitierungen von Funktionen der Richtlinie bearbeiten.</translation>
+        <translation>Funktions-Einschränkungen der Richtlinie bearbeiten.</translation>
     </message>
     <message>
         <source>There are no policies set up for this role.</source>
@@ -9838,11 +9838,11 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">speichern</translation>
+        <translation>Speichern</translation>
     </message>
     <message>
         <source>Save policy changes to this role</source>
-        <translation type="unfinished"></translation>
+        <translation>Änderungen an den Richtlinien für diese Rolle speichern</translation>
     </message>
 </context>
 <context>
@@ -10119,7 +10119,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Path: &apos;/%path_string&apos;, Class identifier: &apos;%class_identifier&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfad: &apos;/%path_string&apos;, Klassenbezeichner: &apos;%class_identifier&apos;</translation>
     </message>
     <message>
         <source>Users and groups using the &lt;%role_name&gt; role (%users_count)</source>
@@ -10478,7 +10478,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Enclosure (media)</source>
-        <translation type="unfinished"></translation>
+        <translation>Anhang (Medien)</translation>
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the enclosure of the RSS export entry, enclosures are direct link to a media file, so use a media/image/file datatype .</source>
@@ -11037,7 +11037,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Roles containing limitations associated with this section [%number_of_roles]</source>
-        <translation>Rollen, die mit dieser Sektion verknüpfte Limitierungen enthalten [%number_of_roles]</translation>
+        <translation type="unfinished">Rollen, die mit dieser Sektion verknüpfte Einschränkungen enthalten [%number_of_roles]</translation>
     </message>
     <message>
         <source>Role</source>
@@ -11053,7 +11053,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Users and user groups with role limitations associated with this section [%number_of_roles]</source>
-        <translation>Benutzer und Gruppen mit Rollenlimitierungen verknüpft innerhalb dieser Sektion [%number_of_roles]</translation>
+        <translation>Benutzer und Gruppen mit Rollenleingschränkungen bzgl. dieser Sektion [%number_of_roles]</translation>
     </message>
     <message>
         <source>User or user group</source>
@@ -11085,11 +11085,11 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Assign subtree</source>
-        <translation type="unfinished"></translation>
+        <translation>Teilbaum zuweisen</translation>
     </message>
     <message>
         <source>Assign subtree of objects to this section</source>
-        <translation type="unfinished"></translation>
+        <translation>Teilbaum mit Objekten dieser Sektion zuweisen</translation>
     </message>
 </context>
 <context>
@@ -11598,7 +11598,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorien</translation>
     </message>
     <message>
         <source></source>
@@ -12349,7 +12349,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Operation wurde abgebrochen, um einen Ausführungs-Timeout zu verhindern.</translation>
     </message>
     <message>
         <source>Your alternatives are to:</source>
@@ -17979,11 +17979,11 @@ your account.</source>
     </message>
     <message>
         <source>This class has pending modifications defered to cronjob and thus it cannot be edited.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es stehen noch Änderungen an dieser Klasse aus, die über einen Cronjob durchgeführt werden. Daher kann die Klasse derzeit nicht bearbeitet werden.</translation>
     </message>
     <message>
         <source>Wait until the script is finished. You might see the status in the %urlstart script monitor%urlend&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Warten Sie, bis das Script fertig ist. Den aktuellen Status sehen Sie im %urlstart Script-Monitor%urlend&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>To force the modification of the class you may run the following command</source>
@@ -25388,7 +25388,7 @@ The default code was made from the basic parameters you chose.</source>
     </message>
     <message>
         <source>PostgreSQL is a sophisticated Object-Relational DBMS, supporting almost all SQL constructs, including subselects, transactions, and user-defined types and functions. It is the most advanced open-source database available anywhere.</source>
-        <translation>PostgreSQL is a sophisticated Object-Relational DBMS, supporting almost all SQL constructs, including subselects, transactions, and user-defined types and functions. It is the most advanced open-source database available anywhere.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>PostgreSQL is a good choice for handling most languages, including Unicode, but may require some configuration to get good speed.</source>
@@ -29795,7 +29795,7 @@ Bitte folgen Sie den Instruktionen in der Email um Ihr Konto zu aktivieren.</tra
         <source>Your account was successfully created. An email will be sent to the specified
 email address. Follow the instructions in that mail to activate
 your account.</source>
-        <translation type="unfinished">Ihr Benutzerkonto wurde erfolgreich eingerichtet. Eine Email zur angegebenen Adresse wurde Ihnen zugestellt.Bitte folgen Sie den Instruktionen in der Email um Ihr Konto zu aktivieren.</translation>
+        <translation>Ihr Benutzerkonto wurde erfolgreich eingerichtet. Eine Email zur angegebenen Adresse wurde Ihnen zugestellt.Bitte folgen Sie den Hinweisen in der Email, um Ihr Konto zu aktivieren.</translation>
     </message>
     <message>
         <source>Please note that your browser must use and support cookies to register a new user.</source>
