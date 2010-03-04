@@ -11001,7 +11001,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Assign a subtree to the &lt;%section_name&gt; section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Sektion &lt;%section_name&gt; einem Teilbaum zuweisen.</translation>
     </message>
 </context>
 <context>
@@ -17959,11 +17959,11 @@ your account.</source>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Beschreibung</translation>
+        <translation>Beschreibung</translation>
     </message>
     <message>
         <source>Use this field to set the informal description of the class. The description field can contain whitespaces and special characters.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verwenden Sie dieses Feld, um der Klasse eine Beschreibung zu geben. Die Beschreibung kann Leer- und Sonderzeichen enthalten.</translation>
     </message>
 </context>
 <context>
@@ -29806,7 +29806,7 @@ your account.</source>
     </message>
     <message>
         <source>The new password must be at least %1 characters long. Please retype your new password.</source>
-        <translation type="unfinished">Das neue Passwort muss mindestens %1 Zeichen lang sein. Bitte gene Sie ein neues Passwort ein.</translation>
+        <translation>Das neue Passwort muss mindestens %1 Zeichen lang sein. Bitte geben Sie ein neues Passwort ein.</translation>
     </message>
 </context>
 <context>
