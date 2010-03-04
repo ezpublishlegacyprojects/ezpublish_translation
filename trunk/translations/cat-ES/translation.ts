@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>List of classes inside %group_name class group (%class_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista de classes dins del grup %group_name (%class_count)</translation>
     </message>
 </context>
 <context>
@@ -358,39 +358,39 @@
     </message>
     <message>
         <source>Edit &lt;%class_name&gt; (%object_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Edita &lt;%class_name&gt; (%object_count)</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Descripció</translation>
+        <translation>Descripció</translation>
     </message>
     <message>
         <source>Use this field to set the informal description of the class. The description field can contain whitespaces and special characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fes servir aquest camp per especificar la descripció informal de la classe. Aquest camp pot contenir espais en blanc i caràcters especials.</translation>
     </message>
     <message>
         <source>List of class attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista d&apos;atributs de classe</translation>
     </message>
     <message>
         <source>Class attribute item</source>
-        <translation type="unfinished"></translation>
+        <translation>Atribut de classe</translation>
     </message>
     <message>
         <source>Use this field to set the informal description of the attribute. This field can contain whitespaces and special characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fes servir aquest camp per especificar la descripció informal de la classe. Aquest camp pot contenir espais en blanc i caràcters especials.</translation>
     </message>
     <message>
         <source>Use this category to group attributes together in edit interface, some categories might also be hidden in full view if they are for instance only meta attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fes servir aquesta categoria per agrupar atributs a la interfície d&apos;edició, algunes categories es poden ocultar a la vista completa si són per exemple meta atributs.</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished">Predeterminat</translation>
+        <translation>Predeterminat</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished">Categoria</translation>
+        <translation>Categoria</translation>
     </message>
 </context>
 <context>
@@ -546,15 +546,15 @@
     </message>
     <message>
         <source>List of class groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista de grups de classes</translation>
     </message>
     <message>
         <source>List of recently modified classes</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista de classes modificades recentment</translation>
     </message>
     <message>
         <source>Objects</source>
-        <translation type="unfinished">Objectes</translation>
+        <translation>Objectes</translation>
     </message>
 </context>
 <context>
@@ -980,19 +980,19 @@
     </message>
     <message>
         <source>Class storing deferred</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha posposat l&apos;emmagatzemament de la classe</translation>
     </message>
     <message>
         <source>The storing of the class has been deferred because existing objects need to be updated. The process has been scheduled to run in the background and will be started automatically. Please do not edit the class again until the process has finished. You can monitor the progress of the background process here:</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha posposat l&apos;emmagatzemament de la classe per que s&apos;han d&apos;actualitzar els objectes existents. El proces s&apos;ha programat per executar-se en segon pla automàticament. Si us plau, no editis la classe un altre cop fins que el procés hagi finalitzat. Pot monitoritzar el progrés del procés aquí:</translation>
     </message>
     <message>
         <source>Background process monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitor de processos en segon pla</translation>
     </message>
     <message>
         <source>Class name and number of objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de la classe i nombre d&apos;objectes</translation>
     </message>
     <message>
         <source>Member of class groups (%group_count)</source>
@@ -1008,11 +1008,11 @@
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Descripció</translation>
+        <translation>Descripció</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished">Categoria</translation>
+        <translation>Categoria</translation>
     </message>
 </context>
 <context>
@@ -1606,7 +1606,7 @@
     <name>design/admin/content/dashboard</name>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Escriptori</translation>
     </message>
 </context>
 <context>
@@ -1699,7 +1699,7 @@
     </message>
     <message>
         <source>Versions for &lt;%object_name&gt; (%version_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions de &lt;%object_name&gt; (%version_count)</translation>
     </message>
 </context>
 <context>
@@ -2165,15 +2165,15 @@
     </message>
     <message>
         <source>Toggle fullscreen editing!</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvia a edició a pantalla completa!</translation>
     </message>
     <message>
         <source>Store draft and exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Emmagatzema esborrany i surt</translation>
     </message>
     <message>
         <source>Store the draft that is being edited and exit from edit mode. Use when you need to exit your work and return later to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Emmagatzema l&apos;esborrany que estàs editant i surt del mode d&apos;edició. Fes servir aquesta opció quan necessitis fer una pausa al teu treball i tornar després.</translation>
     </message>
     <message>
         <source>Edit &lt;%object_name&gt; (%class_name)</source>
@@ -2185,19 +2185,19 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Vista prèvia</translation>
+        <translation>Vista prèvia</translation>
     </message>
     <message>
         <source>Existing translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduccions existents</translation>
     </message>
     <message>
         <source>Base translation on</source>
-        <translation type="unfinished"></translation>
+        <translation>Basa la traducció en</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Cap</translation>
+        <translation>Cap</translation>
     </message>
     <message>
         <source>Related objects (%related_objects)</source>
@@ -2470,23 +2470,23 @@
     </message>
     <message>
         <source>Existing translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduccions existents</translation>
     </message>
     <message>
         <source>Select the translation you want to edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona la traducció que vols editar</translation>
     </message>
     <message>
         <source>New translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nova traducció</translation>
     </message>
     <message>
         <source>Select the translation you want to add</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona la traducció que vols afegir</translation>
     </message>
     <message>
         <source>Translate based on</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduir basant-se en</translation>
     </message>
 </context>
 <context>
@@ -2685,7 +2685,7 @@
     </message>
     <message>
         <source>Versions for &lt;%object_name&gt; (%version_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions de &lt;%object_name&gt; (%version_count)</translation>
     </message>
     <message>
         <source>New drafts (%newerDraftCount)</source>
@@ -3229,7 +3229,7 @@
     </message>
     <message>
         <source>Toggle all.</source>
-        <translation type="unfinished"></translation>
+        <translation>(Des)activar tot.</translation>
     </message>
 </context>
 <context>
@@ -4273,7 +4273,7 @@
     </message>
     <message>
         <source>Versions for &lt;%object_name&gt; (%version_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions de &lt;%object_name&gt; (%version_count)</translation>
     </message>
 </context>
 <context>
@@ -4408,11 +4408,11 @@
     </message>
     <message>
         <source>Back to edit</source>
-        <translation type="unfinished">Torna a l&apos;edició</translation>
+        <translation>Torna a l&apos;edició</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished">Enrere</translation>
+        <translation>Enrere</translation>
     </message>
 </context>
 <context>
@@ -4463,173 +4463,173 @@
     </message>
     <message>
         <source>Object ID</source>
-        <translation type="unfinished">ID de l&apos;objecte</translation>
+        <translation>ID de l&apos;objecte</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/all_latest_content</name>
     <message>
         <source>All latest content</source>
-        <translation type="unfinished"></translation>
+        <translation>Tots el nous continguts</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Tipus</translation>
+        <translation>Tipus</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation type="unfinished">Publicat</translation>
+        <translation>Publicat</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation type="unfinished">Autor</translation>
+        <translation>Autor</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Edita</translation>
+        <translation>Edita</translation>
     </message>
     <message>
         <source>Edit &lt;%child_name&gt;.</source>
-        <translation type="unfinished">Edita &lt;%child_name&gt;.</translation>
+        <translation>Edita &lt;%child_name&gt;.</translation>
     </message>
     <message>
         <source>You do not have permission to edit &lt;%child_name&gt;.</source>
-        <translation type="unfinished">No tens permís per editar &lt;%child_name&gt;.</translation>
+        <translation>No tens permís per editar &lt;%child_name&gt;.</translation>
     </message>
     <message>
         <source>Latest content list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>La llista dels nous continguts és buida.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/drafts</name>
     <message>
         <source>My drafts</source>
-        <translation type="unfinished">Els meus esborranys</translation>
+        <translation>Els meus esborranys</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Tipus</translation>
+        <translation>Tipus</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versió</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished">Modificat</translation>
+        <translation>Modificat</translation>
     </message>
     <message>
         <source>Edit &lt;%draft_name&gt;.</source>
-        <translation type="unfinished">Edita &lt;%draft_name&gt;.</translation>
+        <translation>Edita &lt;%draft_name&gt;.</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Edita</translation>
+        <translation>Edita</translation>
     </message>
     <message>
         <source>Currently you do not have any drafts available.</source>
-        <translation type="unfinished"></translation>
+        <translation>No tens cap esborrany disponible.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/latest_content</name>
     <message>
         <source>My latest content</source>
-        <translation type="unfinished"></translation>
+        <translation>Els meus nous continguts</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Tipus</translation>
+        <translation>Tipus</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished">Modificat</translation>
+        <translation>Modificat</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Edita</translation>
+        <translation>Edita</translation>
     </message>
     <message>
         <source>Edit &lt;%child_name&gt;.</source>
-        <translation type="unfinished">Edita &lt;%child_name&gt;.</translation>
+        <translation>Edita &lt;%child_name&gt;.</translation>
     </message>
     <message>
         <source>You do not have permission to edit &lt;%child_name&gt;.</source>
-        <translation type="unfinished">No tens permís per editar &lt;%child_name&gt;.</translation>
+        <translation>No tens permís per editar &lt;%child_name&gt;.</translation>
     </message>
     <message>
         <source>Your latest content list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>La llista dels teus nous continguts és buida.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/maintenance</name>
     <message>
         <source>Software update and Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualització de programari i Manteniment</translation>
     </message>
     <message>
         <source>Your installation: &lt;span id=&quot;ez-version&quot;&gt;%1&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>La teva instal·lació: &lt;span id=&quot;ez-version&quot;&gt;%1&lt;/span&gt;</translation>
     </message>
     <message>
         <source>If your installation is not running eZ Publish Premium, it might not be up to date with the latest maintenance service packs. Contact eZ Systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si la teva instal·lació no fa servir eZ Publish Premium, no es podrà mantenir el sistema actualitzat. Contacta amb eZ Systems.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/pending_list</name>
     <message>
         <source>My pending items</source>
-        <translation type="unfinished">Els meus elements pendents</translation>
+        <translation>Els meus elements pendents</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Tipus</translation>
+        <translation>Tipus</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished">Modificat</translation>
+        <translation>Modificat</translation>
     </message>
     <message>
         <source>Currently you do not have any pending items available.</source>
-        <translation type="unfinished"></translation>
+        <translation>No tens cap element pendent disponible.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/wishlist</name>
     <message>
         <source>Wish list</source>
-        <translation type="unfinished">Llista de desitjos</translation>
+        <translation>Llista de desitjos</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Tipus</translation>
+        <translation>Tipus</translation>
     </message>
     <message>
         <source>Currently you do not have any products on your wish list.</source>
-        <translation type="unfinished"></translation>
+        <translation>No tens cap producte a la teva llista de desitjos.</translation>
     </message>
 </context>
 <context>
@@ -5924,27 +5924,27 @@
     </message>
     <message>
         <source>Tab is disabled, enable on dashboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>La pestanya està desactivada, activa-la a l&apos;escriptori.</translation>
     </message>
     <message>
         <source>Translations (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduccions (%count)</translation>
     </message>
     <message>
         <source>Locations (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Localitzacions (%count)</translation>
     </message>
     <message>
         <source>Relations (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Relacions (%count)</translation>
     </message>
     <message>
         <source>Roles (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rols (%count)</translation>
     </message>
     <message>
         <source>Policies (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Polítiques (%count)</translation>
     </message>
     <message>
         <source>Sub items (%children_count)</source>
@@ -5952,67 +5952,67 @@
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished">Crea</translation>
+        <translation>Crea</translation>
     </message>
     <message>
         <source>in</source>
-        <translation type="unfinished">a</translation>
+        <translation>a</translation>
     </message>
     <message>
         <source>Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquí</translation>
     </message>
     <message>
         <source>Published order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordre de publicació</translation>
     </message>
     <message>
         <source>List of sub items of current node, with controlls to edit, remove and move them directly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista de subelements del node actual, amb controls per a editar, esborrar i moure directament.</translation>
     </message>
     <message>
         <source>Node and object details like creator, when it was created, section it belongs to, number of versions and translations, Node ID and Object ID.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detalls del node i l&apos;objecte com qui és el creador, quan va ser creat, a quina secció correspon, el nombre de versions i traduccions, el identificador del node i del objecte.</translation>
     </message>
     <message>
         <source>Content state</source>
-        <translation type="unfinished"></translation>
+        <translation>Estat del contingut</translation>
     </message>
     <message>
         <source>States and their states groups for current object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Estats i grups d&apos;estats per a l&apos;objecte actual.</translation>
     </message>
     <message>
         <source>State group</source>
-        <translation type="unfinished"></translation>
+        <translation>Grup d&apos;estats</translation>
     </message>
     <message>
         <source>No content object state is configured. This can be done %urlstart here%urlend.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha configurat cap estat d&apos;objecte de contingut. Ho pots fer %urlstart aquí%urlend.</translation>
     </message>
     <message>
         <source>Locations (aka Nodes) for current object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Localitzacions (Nodes) de l&apos;objecte actual.</translation>
     </message>
     <message>
         <source>New translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nova traducció</translation>
     </message>
     <message>
         <source>Policy list and the Role that are assignet to current node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista de polítiques i rols assignats al node actual.</translation>
     </message>
     <message>
         <source>Limited to</source>
-        <translation type="unfinished"></translation>
+        <translation>Restringit a</translation>
     </message>
     <message>
         <source>%limitation_identifier %limitation_value</source>
-        <translation type="unfinished"></translation>
+        <translation>%limitation_identifier %limitation_value</translation>
     </message>
     <message>
         <source>Object relation list from current object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista de relacions d&apos;objecte de l&apos;objecte actual.</translation>
     </message>
     <message>
         <source>Related objects (%related_objects_count)</source>
@@ -6020,7 +6020,7 @@
     </message>
     <message>
         <source>Reverse object relation list to current object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista d&apos;objectes que relacionen l&apos;objecte actual.</translation>
     </message>
     <message>
         <source>Reverse related objects (%related_objects_count)</source>
@@ -6028,7 +6028,7 @@
     </message>
     <message>
         <source>List of roles assigned with and without limitations for current node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista de rols assignats amb limitacions i sense per al node actual.</translation>
     </message>
     <message>
         <source>Translations (%translations)</source>
@@ -6036,11 +6036,11 @@
     </message>
     <message>
         <source>Existing translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduccions existents</translation>
     </message>
     <message>
         <source>Language list of translations for current object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista d&apos;idiomes de traduccions per a l&apos;objecte actual.</translation>
     </message>
 </context>
 <context>
@@ -6632,7 +6632,7 @@ Nota: Els paquets no seran desinstal·lats.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Esborra</translation>
+        <translation>Esborra</translation>
     </message>
 </context>
 <context>
@@ -6823,33 +6823,33 @@ Nota: Els paquets no seran desinstal·lats.</translation>
     </message>
     <message>
         <source>Search in all content</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca a tot el contingut</translation>
     </message>
     <message>
         <source>Search in &apos;%node&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca a &apos;%node&apos;</translation>
     </message>
     <message>
         <source>User perferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferències d&apos;usuari</translation>
     </message>
 </context>
 <context>
     <name>design/admin/pagelayout/path</name>
     <message>
         <source>You are here:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ets aquí:</translation>
     </message>
 </context>
 <context>
     <name>design/admin/pagelayout/rightmenu</name>
     <message>
         <source>Show / Hide rightmenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra / Oculta menú de la dreta</translation>
     </message>
     <message>
         <source>Hide / Show rightmenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Oculta / Mostra menú de la dreta</translation>
     </message>
 </context>
 <context>
@@ -6900,7 +6900,7 @@ Nota: Els paquets no seran desinstal·lats.</translation>
     </message>
     <message>
         <source>Site structure</source>
-        <translation type="unfinished"></translation>
+        <translation>Estructura del web</translation>
     </message>
 </context>
 <context>
@@ -7018,23 +7018,23 @@ Nota: Els paquets no seran desinstal·lats.</translation>
     </message>
     <message>
         <source>Edit profile</source>
-        <translation type="unfinished">Edita el perfil</translation>
+        <translation>Edita el perfil</translation>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Escriptori</translation>
     </message>
     <message>
         <source>Preview tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Pestanya de vista prèvia</translation>
     </message>
     <message>
         <source>Disable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactiva &amp;quot;Vista prèvia&amp;quot; quan es navega pel contingut.</translation>
     </message>
     <message>
         <source>Enable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activa &amp;quot;Vista prèvia&amp;quot; quan es navega pel contingut.</translation>
     </message>
 </context>
 <context>
@@ -7585,15 +7585,15 @@ Nota: Els paquets no seran desinstal·lats.</translation>
     </message>
     <message>
         <source>Create RSS/ATOM feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea sindicació RSS/ATOM</translation>
     </message>
     <message>
         <source>Remove RSS/ATOM feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Esborra sindicació RSS/ATOM</translation>
     </message>
     <message>
         <source>New translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nova traducció</translation>
     </message>
 </context>
 <context>
@@ -7776,7 +7776,7 @@ Nota: Els paquets no seran desinstal·lats.</translation>
     </message>
     <message>
         <source>Every function</source>
-        <translation type="unfinished"></translation>
+        <translation>Totes les funcions</translation>
     </message>
 </context>
 <context>
@@ -7974,7 +7974,7 @@ Nota: Els paquets no seran desinstal·lats.</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propietats</translation>
     </message>
     <message>
         <source>Nodes (%node_count)</source>
@@ -8073,11 +8073,11 @@ Nota: Els paquets no seran desinstal·lats.</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Desa</translation>
+        <translation>Desa</translation>
     </message>
     <message>
         <source>Save policy changes to this role</source>
-        <translation type="unfinished"></translation>
+        <translation>Desa els canvis a les polítiques d&apos;aquest rol</translation>
     </message>
 </context>
 <context>
@@ -8342,7 +8342,7 @@ Nota: Els paquets no seran desinstal·lats.</translation>
     </message>
     <message>
         <source>Path: &apos;/%path_string&apos;, Class identifier: &apos;%class_identifier&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta: &apos;/%path_string&apos;, Identificador de classe: &apos;%class_identifier&apos;</translation>
     </message>
     <message>
         <source>Users and groups using the &lt;%role_name&gt; role (%users_count)</source>
@@ -8613,15 +8613,15 @@ Nota: Els paquets no seran desinstal·lats.</translation>
     </message>
     <message>
         <source>Enclosure (media)</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjunt (multimèdia)</translation>
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the enclosure of the RSS export entry, enclosures are direct link to a media file, so use a media/image/file datatype .</source>
-        <translation type="unfinished"></translation>
+        <translation>Fes servir aquest menú desplegable per triar l&apos;atribut que vols exportar com a adjunt de la exportació RSS, els adjunts son enllaços directes a un arxiu multimèdia, per tant fes servir un multimèdia/imatge/arxiu com a tipus de dades . </translation>
     </message>
     <message>
         <source>Field data</source>
-        <translation type="unfinished"></translation>
+        <translation>Cam de dades</translation>
     </message>
 </context>
 <context>
@@ -9065,7 +9065,7 @@ Nota: Els paquets no seran desinstal·lats.</translation>
     </message>
     <message>
         <source>Assign a subtree to the &lt;%section_name&gt; section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Assigna un subarbre &lt;%section_name&gt; a la secció.</translation>
     </message>
 </context>
 <context>
@@ -9144,11 +9144,11 @@ Nota: Els paquets no seran desinstal·lats.</translation>
     </message>
     <message>
         <source>Assign subtree</source>
-        <translation type="unfinished"></translation>
+        <translation>Assigna subarbre</translation>
     </message>
     <message>
         <source>Assign subtree of objects to this section</source>
-        <translation type="unfinished"></translation>
+        <translation>Assigna un subarbre d&apos;objectes a aquesta secció</translation>
     </message>
 </context>
 <context>
@@ -9561,11 +9561,11 @@ Nota: Els paquets no seran desinstal·lats.</translation>
     </message>
     <message>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Categories</translation>
     </message>
     <message>
         <source></source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -9623,11 +9623,11 @@ Nota: Els paquets no seran desinstal·lats.</translation>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation type="unfinished">Inverteix la selecció.</translation>
+        <translation>Inverteix la selecció.</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished">Activa</translation>
+        <translation>Activa</translation>
     </message>
 </context>
 <context>
@@ -10213,27 +10213,27 @@ Nota: Els paquets no seran desinstal·lats.</translation>
     </message>
     <message>
         <source>Not all timed out sessions were successfully removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;han pogut esborrar totes les sessions expirades.</translation>
     </message>
     <message>
         <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha detingut l&apos;operació per evitar l&apos;expiració del temps d&apos;espera.</translation>
     </message>
     <message>
         <source>Your alternatives are to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativament pots:</translation>
     </message>
     <message>
         <source>Repeat the operation several times to complete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetir l&apos;operació varies vegades fins completar-la.</translation>
     </message>
     <message>
         <source>Clear the timed out session data from command-line using: &amp;gt;php bin/php/ezsessiongc.php</source>
-        <translation type="unfinished"></translation>
+        <translation>Netejar les dades de sessió expirades fent servir la comanda: &amp;gt;php bin/php/ezsessiongc.php</translation>
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·lar la tasca programada per netejar les sessions &apos;session_gc.php&apos; i executar-la en intervals nocturns (veure cronjob.ini o la documentació per veure com)</translation>
     </message>
 </context>
 <context>
@@ -10977,7 +10977,7 @@ Nota: Els paquets no seran desinstal·lats.</translation>
     </message>
     <message>
         <source>Customers (users and user groups) (%customer_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Clients (usuaris i grups d&apos;usuaris) (%customer_count)</translation>
     </message>
 </context>
 <context>
@@ -15089,58 +15089,58 @@ Segueix les instruccions d&apos;aquest correu per activar el teu compte.</transl
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Descripció</translation>
+        <translation>Descripció</translation>
     </message>
     <message>
         <source>Use this field to set the informal description of the class. The description field can contain whitespaces and special characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fes servir aquest camp per especificar la descripció informal de la classe. Aquest camp pot contenir espais en blanc i caràcters especials.</translation>
     </message>
 </context>
 <context>
     <name>design/standard/class/edit_locked</name>
     <message>
         <source>Class locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Classe bloquejada</translation>
     </message>
     <message>
         <source>This class has pending modifications defered to cronjob and thus it cannot be edited.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquesta classe te modificacions pendents ajornades a una tasca programada i no pot ser editada.</translation>
     </message>
     <message>
         <source>Wait until the script is finished. You might see the status in the %urlstart script monitor%urlend&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Espera fins que la tasca programada hagi finalitzat. Pots veure l&apos;estat al %urlstart monitor de tasques%urlend&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>To force the modification of the class you may run the following command</source>
-        <translation type="unfinished"></translation>
+        <translation>Per forçar la modificació de la classe pots fer servir la següent comanda</translation>
     </message>
     <message>
         <source>Edit &lt;%class_name&gt; [Class]</source>
-        <translation type="unfinished">Edita [Classe] &lt;%class_name&gt;</translation>
+        <translation>Edita &lt;%class_name&gt; [Classe]</translation>
     </message>
     <message>
         <source>Class</source>
-        <translation type="unfinished">Classe</translation>
+        <translation>Classe</translation>
     </message>
     <message>
         <source>Last modifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Darrer editor</translation>
     </message>
     <message>
         <source>Last modified on</source>
-        <translation type="unfinished"></translation>
+        <translation>Darrera modificació el</translation>
     </message>
     <message>
         <source>The class will be available for editing after the script has been run by the cronjob.</source>
-        <translation type="unfinished"></translation>
+        <translation>La classe estarà disponible per a editar quan la tasca programada s&apos;executi.</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished">Intenta-ho de nou</translation>
+        <translation>Intenta-ho de nou</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·la</translation>
+        <translation>Cancel·la</translation>
     </message>
 </context>
 <context>
@@ -15306,7 +15306,7 @@ Segueix les instruccions d&apos;aquest correu per activar el teu compte.</transl
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Descripció</translation>
+        <translation>Descripció</translation>
     </message>
 </context>
 <context>
@@ -16380,15 +16380,15 @@ Si vols enviar comentaris a l&apos;encarregat d&apos;aprovar el contingut o veur
     </message>
     <message>
         <source>There are no related object.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hi ha objectes relacionats.</translation>
     </message>
     <message>
         <source>Find object</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca l&apos;objecte</translation>
     </message>
     <message>
         <source>Find objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca els objectes</translation>
     </message>
 </context>
 <context>
@@ -19897,7 +19897,7 @@ Fes clic en els noms d&apos;ubicació per canviar la llista de navegació.</tran
     </message>
     <message>
         <source>Enclosure (media)</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjunt (multimèdia)</translation>
     </message>
 </context>
 <context>
@@ -22520,27 +22520,27 @@ També podràs fer-ho més endavant de la Interfície d&apos;Administració.</tr
     </message>
     <message>
         <source>Not all timed out sessions were successfully removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;han pogut esborrar totes les sessions expirades.</translation>
     </message>
     <message>
         <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha detingut l&apos;operació per evitar l&apos;expiració del temps d&apos;espera.</translation>
     </message>
     <message>
         <source>Your alternatives are to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativament pots:</translation>
     </message>
     <message>
         <source>Repeat the operation several times to complete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetir l&apos;operació varies vegades fins completar-la.</translation>
     </message>
     <message>
         <source>Clear the timed out session data from command-line using: &amp;gt;php bin/php/ezsessiongc.php</source>
-        <translation type="unfinished"></translation>
+        <translation>Netejar les dades de sessió expirades fent servir la comanda: &amp;gt;php bin/php/ezsessiongc.php</translation>
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·lar la tasca programada per netejar les sessions &apos;session_gc.php&apos; i executar-la en intervals nocturns (veure cronjob.ini o la documentació per veure com)</translation>
     </message>
 </context>
 <context>
@@ -23169,11 +23169,11 @@ Per fer-ho, cal que canviïs els comandaments %chown sota els comandaments alter
     </message>
     <message>
         <source>Since some extensions might use $_ENV it is recomended to fix it unless you have full controll over all extensions you use!</source>
-        <translation type="unfinished"></translation>
+        <translation>Algunes extensions poden fer servir $_ENV, recomanem arreglar-ho a no ser que tinguis control total sobre totes les extensions que fas servir!</translation>
     </message>
     <message>
         <source>To fix this, edit your php.ini configuration and add E to the variables_order setting and restart your webserver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per arreglar això, edita l&apos;arxiu php.ini i afegeix E a la configuració variables_order i reinicia el teu servidor web.</translation>
     </message>
 </context>
 <context>
@@ -24588,7 +24588,7 @@ Segueix les instruccions d&apos;aquest correu per activar el teu compte. </trans
     </message>
     <message>
         <source>The new password must be at least %1 characters long. Please retype your new password.</source>
-        <translation type="unfinished">La nova contrasenya ha de tenir com a mínim %1 caràcters. Si us plau, torna a escriure la nova contrasenya.</translation>
+        <translation>La nova contrasenya ha de tenir com a mínim %1 caràcters. Si us plau, torna a escriure la nova contrasenya.</translation>
     </message>
 </context>
 <context>
