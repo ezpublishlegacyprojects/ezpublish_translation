@@ -7560,7 +7560,7 @@
     </message>
     <message>
         <source>New translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Übersetzung</translation>
     </message>
     <message>
         <source>Policy list and the Role that are assignet to current node.</source>
@@ -7568,7 +7568,7 @@
     </message>
     <message>
         <source>Limited to</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingeschränkt auf</translation>
     </message>
     <message>
         <source>%limitation_identifier %limitation_value</source>
@@ -8178,13 +8178,16 @@ You may also remove the package without uninstalling it from the package list.</
     <message>
         <source>The package can be installed on your system. Installing the package will copy files, create content classes etc., depending on the package.
 If you do not want to install the package at this time, you can do so later on the view page for the package.</source>
-        <translation type="unfinished">Das Paket kann auf Ihrem System installiert werden. Die Installation wird abhängig vom Paket Dateien kopieren, Klassen erstellen, usw.Falls Sie das Paket im Moment nicht installieren möchten, können Sie das auch später auf der Ansichtsseite des Pakets machen.</translation>
+        <translation>Das Paket kann auf Ihrem System installiert werden. Die Installation wird abhängig vom Paket Dateien kopieren, Klassen erstellen, usw.
+Falls Sie das Paket im Moment nicht installieren möchten, können Sie das auch später auf der Ansichtsseite des Pakets machen.</translation>
     </message>
     <message>
         <source>The package can be uninstalled from your system. Uninstalling the package will remove any installed files, content classes etc., depending on the package.
 If you do not want to uninstall the package at this time, you can do so later on the view page for the package.
 You can also remove the package without uninstalling it from the package list.</source>
-        <translation type="unfinished">Das Paket kann aus dem System deinstalliert werden. Die Deinstallation wird abhängig vom Paket installierte Dateien, Klassen, usw. entfernen.Falls Sie die Deinstallation im Moment nicht durchführen wollen, können Sie das später auf der Ansichtsseite des Pakets nachholen.Sie können das Paket auch entfernen ohne es von der Paketliste zu entfernen.</translation>
+        <translation>Das Paket kann aus dem System deinstalliert werden. Die Deinstallation wird abhängig vom Paket installierte Dateien, Klassen, usw. entfernen.
+Falls Sie die Deinstallation im Moment nicht durchführen wollen, können Sie das später auf der Ansichtsseite des Pakets nachholen
+.Sie können das Paket auch entfernen, ohne es von der Paketliste zu entfernen.</translation>
     </message>
     <message>
         <source>Select the file containing the package then click the upload button</source>
@@ -8289,11 +8292,13 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
         <source>Are you sure you want to remove the following packages?
 The packages will be lost forever.
 Note: The packages will not be uninstalled.</source>
-        <translation type="unfinished">Sind Sie sicher, dass Sie folgende Pakete entfernen möchten?Die Pakete werden dauerhaft gelöscht.Hinweis: Die Pakete werden nicht deinstalliert.</translation>
+        <translation>Sind Sie sicher, dass Sie folgende Pakete entfernen möchten?
+Die Pakete werden dauerhaft gelöscht.
+Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Entfernen</translation>
     </message>
 </context>
 <context>
@@ -8492,33 +8497,33 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Search in all content</source>
-        <translation type="unfinished"></translation>
+        <translation>Den kompletten Inhalt durchsuchen</translation>
     </message>
     <message>
         <source>Search in &apos;%node&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>In &apos;%node&apos; suchen</translation>
     </message>
     <message>
         <source>User perferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzer-Einstellungen</translation>
     </message>
 </context>
 <context>
     <name>design/admin/pagelayout/path</name>
     <message>
         <source>You are here:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie sind hier:</translation>
     </message>
 </context>
 <context>
     <name>design/admin/pagelayout/rightmenu</name>
     <message>
         <source>Show / Hide rightmenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtes Menu ein/ausblenden</translation>
     </message>
     <message>
         <source>Hide / Show rightmenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtes Menu aus/einblenden</translation>
     </message>
 </context>
 <context>
@@ -8569,7 +8574,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Site structure</source>
-        <translation type="unfinished"></translation>
+        <translation>Struktur der Site</translation>
     </message>
 </context>
 <context>
@@ -8714,11 +8719,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Disable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;quot;Vorschau&amp;quot; ausblenden, während im Inhalt navigiert wird.</translation>
     </message>
     <message>
         <source>Enable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;quot;Vorschau&amp;quot; anzeigen, während im Inhalt navigiert wird.</translation>
     </message>
 </context>
 <context>
@@ -9293,11 +9298,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Create RSS/ATOM feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuen RSS/ATOM Feed erstellen</translation>
     </message>
     <message>
         <source>Remove RSS/ATOM feed</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS/ATOM Feed entfernen</translation>
     </message>
     <message>
         <source>New translation</source>
@@ -9500,7 +9505,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Every function</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Funktionen</translation>
     </message>
 </context>
 <context>
@@ -11655,11 +11660,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation type="unfinished">Auswahl umkehren.</translation>
+        <translation>Auswahl umkehren.</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished">Aktivieren</translation>
+        <translation>Aktivieren</translation>
     </message>
 </context>
 <context>
@@ -12185,7 +12190,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Author</source>
-        <translation>Author</translation>
+        <translation>Autor</translation>
     </message>
     <message>
         <source>Description</source>
@@ -12340,7 +12345,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Not all timed out sessions were successfully removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht alle abgelaufenen Sessions konnten entfernt werden.</translation>
     </message>
     <message>
         <source>The operation were cut short in order to avoid execution timeout.</source>
@@ -12348,19 +12353,19 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Your alternatives are to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie können nun:</translation>
     </message>
     <message>
         <source>Repeat the operation several times to complete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Operation mehrfach wiederholen, um sie zu abzuschliessen.</translation>
     </message>
     <message>
         <source>Clear the timed out session data from command-line using: &amp;gt;php bin/php/ezsessiongc.php</source>
-        <translation type="unfinished"></translation>
+        <translation>Daten über abgelaufenen Sessions mittels der Kommandzeile löschen mit: &amp;gt;php bin/php/ezsessiongc.php</translation>
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
-        <translation type="unfinished"></translation>
+        <translation>Den Cronjob &apos;session_gc.php&apos; zur Session-Bereinigung installieren und ihn nächtlich ausführen (siehe cronjob.ini bzw. Dokumentation für weitere Details)</translation>
     </message>
 </context>
 <context>
@@ -13156,7 +13161,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Customers (users and user groups) (%customer_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunden (Benutzer und Benutzergruppen) (%customer_count)</translation>
     </message>
 </context>
 <context>
@@ -14861,7 +14866,7 @@ Bitte folgen Sie den Instruktionen in der Email um Ihr Konto zu aktivieren.</tra
         <source>Your account was successfully created. An email will be sent to the specified
 email address. Follow the instructions in that mail to activate
 your account.</source>
-        <translation type="unfinished">Ihr Benutzerkonto wurde erfolgreich eingerichtet. Eine Email zur angegebenen Adresse wurde Ihnen zugestellt.Bitte folgen Sie den Instruktionen in der Email um Ihr Konto zu aktivieren.</translation>
+        <translation>Ihr Benutzerkonto wurde erfolgreich eingerichtet. Eine Email zur angegebenen Adresse wurde Ihnen zugestellt.Bitte folgen Sie den Hinweisen in der Email um Ihr Konto zu aktivieren.</translation>
     </message>
 </context>
 <context>
@@ -17963,14 +17968,14 @@ your account.</source>
     </message>
     <message>
         <source>Use this field to set the informal description of the class. The description field can contain whitespaces and special characters.</source>
-        <translation type="unfinished">Verwenden Sie dieses Feld, um der Klasse eine Beschreibung zu geben. Die Beschreibung kann Leer- und Sonderzeichen enthalten.</translation>
+        <translation>Verwenden Sie dieses Feld, um der Klasse eine informelle Beschreibung zu geben. Die Beschreibung kann Leer- und Sonderzeichen enthalten.</translation>
     </message>
 </context>
 <context>
     <name>design/standard/class/edit_locked</name>
     <message>
         <source>Class locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasse ist gesperrt</translation>
     </message>
     <message>
         <source>This class has pending modifications defered to cronjob and thus it cannot be edited.</source>
@@ -17986,19 +17991,19 @@ your account.</source>
     </message>
     <message>
         <source>Edit &lt;%class_name&gt; [Class]</source>
-        <translation type="unfinished">&lt;%class_name&gt; [Klasse] bearbeiten</translation>
+        <translation>&lt;%class_name&gt; [Klasse] bearbeiten</translation>
     </message>
     <message>
         <source>Class</source>
-        <translation type="unfinished">Klasse</translation>
+        <translation>Klasse</translation>
     </message>
     <message>
         <source>Last modifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Letzter Bearbeiter</translation>
     </message>
     <message>
         <source>Last modified on</source>
-        <translation type="unfinished"></translation>
+        <translation>Zuletzt geändert am</translation>
     </message>
     <message>
         <source>The class will be available for editing after the script has been run by the cronjob.</source>
@@ -18006,11 +18011,11 @@ your account.</source>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished">Wiederholen</translation>
+        <translation>Wiederholen</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -18225,7 +18230,7 @@ your account.</source>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Beschreibung</translation>
+        <translation>Beschreibung</translation>
     </message>
 </context>
 <context>
