@@ -1,4 +1,6 @@
-<!DOCTYPE TS><TS>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="de_DE" sourcelanguage="en">
 <context>
     <name>content/datatypes</name>
     <message>
@@ -144,7 +146,8 @@
     </message>
     <message>
         <source>List of classes inside %group_name class group (%class_count)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Liste von Klassen in der %group_name Klassengruppe (%class_count)</translatorcomment>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -429,39 +432,39 @@
     </message>
     <message>
         <source>Edit &lt;%class_name&gt; (%object_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;%class_name&gt; bearbeiten (%object_count Objekte)</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Beschreibung</translation>
+        <translation>Beschreibung</translation>
     </message>
     <message>
         <source>Use this field to set the informal description of the class. The description field can contain whitespaces and special characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwenden Sie dieses Feld, um der Klasse eine Beschreibung zu geben. Die Beschreibung kann Leer- und Sonderzeichen enthalten.</translation>
     </message>
     <message>
         <source>List of class attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassen Attributsliste</translation>
     </message>
     <message>
         <source>Class attribute item</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassen Attribut Eintrag</translation>
     </message>
     <message>
         <source>Use this field to set the informal description of the attribute. This field can contain whitespaces and special characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwenden Sie dieses Feld, um dem Attribut eine Beschreibung zu geben. Die Beschreibung kann Leer- und Sonderzeichen enthalten.</translation>
     </message>
     <message>
         <source>Use this category to group attributes together in edit interface, some categories might also be hidden in full view if they are for instance only meta attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwenden Sie dieses Feld, um Attribute im Eingabemodus zu gruppieren. Attribute bestimmter Kategorien können z.B. in der Vollansicht versteckt sein (Beispiel Meta Attribute).</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished">Standard</translation>
+        <translation>Standard</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished">Kategorie</translation>
+        <translation>Kategorie</translation>
     </message>
 </context>
 <context>
@@ -625,15 +628,15 @@
     </message>
     <message>
         <source>List of class groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassengruppenliste</translation>
     </message>
     <message>
         <source>List of recently modified classes</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste der zuletzt geänderten Klassen</translation>
     </message>
     <message>
         <source>Objects</source>
-        <translation type="unfinished">Objekte</translation>
+        <translation>Objekte</translation>
     </message>
 </context>
 <context>
@@ -1122,19 +1125,19 @@
     </message>
     <message>
         <source>Class storing deferred</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern der Klasse verzögert</translation>
     </message>
     <message>
         <source>The storing of the class has been deferred because existing objects need to be updated. The process has been scheduled to run in the background and will be started automatically. Please do not edit the class again until the process has finished. You can monitor the progress of the background process here:</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Speichern der Klasse wurde verzögert, weil vorhandene Objekte aktualisiert werden müssen. Der Prozess wurde geplant und wird im Hintergrund gestartet. Bitte bearbeiten Sie die Klasse nicht erneut bis dieser Prozess abgeschlossen ist. Sie können den Prozess hier beobachten:</translation>
     </message>
     <message>
         <source>Background process monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitor der Hintergrund Prozesse</translation>
     </message>
     <message>
         <source>Class name and number of objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassenname und Anzahl der Objekte</translation>
     </message>
     <message>
         <source>Member of class groups (%group_count)</source>
@@ -1150,11 +1153,11 @@
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Beschreibung</translation>
+        <translation>Beschreibung</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished">Kategorie</translation>
+        <translation>Kategorie</translation>
     </message>
 </context>
 <context>
@@ -1927,7 +1930,7 @@
     <name>design/admin/content/dashboard</name>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Dashboard</translation>
     </message>
 </context>
 <context>
@@ -2454,7 +2457,7 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Vorschau</translation>
+        <translation>Vorschau</translation>
     </message>
     <message>
         <source>Translations</source>
@@ -2638,15 +2641,15 @@
     </message>
     <message>
         <source>Toggle fullscreen editing!</source>
-        <translation type="unfinished"></translation>
+        <translation>Umschalten zum Bearbeiten im Vollbildmodus!</translation>
     </message>
     <message>
         <source>Store draft and exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Entwurf speichern und beenden</translation>
     </message>
     <message>
         <source>Store the draft that is being edited and exit from edit mode. Use when you need to exit your work and return later to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den aktuellen Entwurf speichern und den Bearbeiten-Modus verlassen.Verwenden Sie dieses, wenn Sie später an diesem Entwurf weiterarbeiten wollen.</translation>
     </message>
     <message>
         <source>Edit &lt;%object_name&gt; (%class_name)</source>
@@ -2658,15 +2661,15 @@
     </message>
     <message>
         <source>Existing translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestehende Übersetzungen</translation>
     </message>
     <message>
         <source>Base translation on</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwende für Übersetzung</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Keine</translation>
+        <translation>Keine</translation>
     </message>
     <message>
         <source>Related objects (%related_objects)</source>
@@ -2963,23 +2966,23 @@
     </message>
     <message>
         <source>Existing translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestehende Übersetzungen</translation>
     </message>
     <message>
         <source>Select the translation you want to edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie die Sprache, die Sie bearbeiten wollen</translation>
     </message>
     <message>
         <source>New translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Übersetzung</translation>
     </message>
     <message>
         <source>Select the translation you want to add</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie die Übersetzung, die sie hinzufügen wollen</translation>
     </message>
     <message>
         <source>Translate based on</source>
-        <translation type="unfinished"></translation>
+        <translation>Übersetzung basiert auf</translation>
     </message>
 </context>
 <context>
@@ -3627,7 +3630,7 @@
     </message>
     <message>
         <source>Class attribute</source>
-        <translation>Klasseneigenschaft</translation>
+        <translation>Klassen Attribut</translation>
     </message>
     <message>
         <source>Any attribute</source>
@@ -4039,7 +4042,7 @@
     </message>
     <message>
         <source>Toggle all.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles umschalten.</translation>
     </message>
 </context>
 <context>
@@ -5501,11 +5504,11 @@
     </message>
     <message>
         <source>Back to edit</source>
-        <translation type="unfinished">Zurück zur Bearbeitung</translation>
+        <translation>Zurück zum Bearbeiten</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished">Zurück</translation>
+        <translation>Zurück</translation>
     </message>
 </context>
 <context>
@@ -5564,173 +5567,173 @@
     </message>
     <message>
         <source>Object ID</source>
-        <translation type="unfinished">Objekt ID</translation>
+        <translation>Objekt ID</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/all_latest_content</name>
     <message>
         <source>All latest content</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuellster Inhalt</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation type="unfinished">Veröffentlicht</translation>
+        <translation>Veröffentlicht</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Autor</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Bearbeiten</translation>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <source>Edit &lt;%child_name&gt;.</source>
-        <translation type="unfinished">&lt;%child_name&gt; bearbeiten.</translation>
+        <translation>&lt;%child_name&gt; bearbeiten.</translation>
     </message>
     <message>
         <source>You do not have permission to edit &lt;%child_name&gt;.</source>
-        <translation type="unfinished">Sie haben keine Rechte &lt;%child_name&gt; zu bearbeiten.</translation>
+        <translation>Sie haben keine Berechtigung, um &lt;%child_name&gt; zu bearbeiten.</translation>
     </message>
     <message>
         <source>Latest content list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein aktueller Content vorhanden.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/drafts</name>
     <message>
         <source>My drafts</source>
-        <translation type="unfinished"></translation>
+        <translation>Meine Entwürfe</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Geändert</translation>
     </message>
     <message>
         <source>Edit &lt;%draft_name&gt;.</source>
-        <translation type="unfinished">&lt;%draft_name&gt; bearbeiten.</translation>
+        <translation>&lt;%draft_name&gt; bearbeiten.</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Bearbeiten</translation>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <source>Currently you do not have any drafts available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie haben keine Entwürfe.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/latest_content</name>
     <message>
         <source>My latest content</source>
-        <translation type="unfinished"></translation>
+        <translation>Mein aktuellster Content</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Geändert</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Bearbeiten</translation>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <source>Edit &lt;%child_name&gt;.</source>
-        <translation type="unfinished">&lt;%child_name&gt; bearbeiten.</translation>
+        <translation>&lt;%child_name&gt; bearbeiten.</translation>
     </message>
     <message>
         <source>You do not have permission to edit &lt;%child_name&gt;.</source>
-        <translation type="unfinished">Sie haben keine Rechte &lt;%child_name&gt; zu bearbeiten.</translation>
+        <translation>Sie haben keine Berechtigung, um &lt;%child_name&gt; zu bearbeiten.</translation>
     </message>
     <message>
         <source>Your latest content list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihre aktuelle Content Liste ist leer.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/maintenance</name>
     <message>
         <source>Software update and Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Software update und Wartung</translation>
     </message>
     <message>
         <source>Your installation: &lt;span id=&quot;ez-version&quot;&gt;%1&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihre Installation: &lt;span id=&quot;ez-version&quot;&gt;%1&lt;/span&gt;</translation>
     </message>
     <message>
         <source>If your installation is not running eZ Publish Premium, it might not be up to date with the latest maintenance service packs. Contact eZ Systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn Sie keine eZ Publish Premium Version haben, könnte es sein, dass Ihnen die letzten Service Packs fehlen. Kontaktieren Sie eZ Systems.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/pending_list</name>
     <message>
         <source>My pending items</source>
-        <translation type="unfinished">Meine Warteliste</translation>
+        <translation>Meine Warteliste</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Geändert</translation>
     </message>
     <message>
         <source>Currently you do not have any pending items available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie haben keine schwebenden Einträge.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/wishlist</name>
     <message>
         <source>Wish list</source>
-        <translation type="unfinished">Wunschzettel</translation>
+        <translation>Wunschliste</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Currently you do not have any products on your wish list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Derzeit haben Sie keine Produkte auf der Wunschliste.</translation>
     </message>
 </context>
 <context>
@@ -7485,27 +7488,27 @@
     </message>
     <message>
         <source>Tab is disabled, enable on dashboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieser Reiter ist deaktiviert, sie können ihn am Dashboard aktivieren.</translation>
     </message>
     <message>
         <source>Translations (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Übersetzungen (%count)</translation>
     </message>
     <message>
         <source>Locations (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Orte (%count)</translation>
     </message>
     <message>
         <source>Relations (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Verknüpfungen (%count)</translation>
     </message>
     <message>
         <source>Roles (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rollen (%count)</translation>
     </message>
     <message>
         <source>Policies (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Richtlinien (%count)</translation>
     </message>
     <message>
         <source>Sub items (%children_count)</source>
@@ -7513,19 +7516,19 @@
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished">Erstellen</translation>
+        <translation>Erstellen</translation>
     </message>
     <message>
         <source>in</source>
-        <translation type="unfinished">in</translation>
+        <translation>in</translation>
     </message>
     <message>
         <source>Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Hier</translation>
     </message>
     <message>
         <source>Published order</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortierung der Inhalte</translation>
     </message>
     <message>
         <source>List of sub items of current node, with controlls to edit, remove and move them directly.</source>
@@ -8699,15 +8702,15 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit profile</source>
-        <translation type="unfinished">Profil bearbeiten</translation>
+        <translation>Profil bearbeiten</translation>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Dashboard</translation>
     </message>
     <message>
         <source>Preview tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorschau Reiter</translation>
     </message>
     <message>
         <source>Disable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
@@ -9298,7 +9301,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>New translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Übersetzung</translation>
     </message>
 </context>
 <context>
@@ -20508,7 +20511,7 @@ Sie sollten entweder die Person deswegen kontaktieren oder einen neuen Entwurf z
     </message>
     <message>
         <source>Class attribute</source>
-        <translation>Klasseneigenschaft</translation>
+        <translation>Klassen Attribut</translation>
     </message>
     <message>
         <source>In</source>

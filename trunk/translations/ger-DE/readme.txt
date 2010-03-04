@@ -15,8 +15,8 @@ Version 0.2 (dieses Dokument) vom 07.09.2009
 
 AUTOREN
 --------------
-Björn Dieding
-Georg Franz
+Björn Dieding (bd)
+Georg Franz (gwf)
 Dirk Schmedding
 Marco Zinn
 
@@ -39,10 +39,13 @@ DISKUSSIONEN
 --------------
 Für Diskussionen rund um die deutsche Übersetzung steht das Forum auf
 ezpublish.de offen.
-http://ezpublish.de/forum
+http://share.ez.no/forums/translation/german
 
 
 Changelog
+============================================================
+
+Übersetzung für eZ Publish 4.3, gwf
 ============================================================
 
 Übersetzung für eZ Publish 4.2, gwf

@@ -811,4 +811,16 @@
     <source>Send for publishing</source>
     <target>Zur Veröffentlichung schicken</target>
 </phrase>
+<phrase>
+    <source>Class attribute</source>
+    <target>Klassen Attribut</target>
+</phrase>
+<phrase>
+    <source>Dashboard</source>
+    <target>Dashboard</target>
+</phrase>
+<phrase>
+    <source>Author</source>
+    <target>Autor</target>
+</phrase>
 </QPH>
