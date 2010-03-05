@@ -14868,7 +14868,8 @@ Bitte folgen Sie den Instruktionen in der Email um Ihr Konto zu aktivieren.</tra
         <source>Your account was successfully created. An email will be sent to the specified
 email address. Follow the instructions in that mail to activate
 your account.</source>
-        <translation>Ihr Benutzerkonto wurde erfolgreich eingerichtet. Eine Email zur angegebenen Adresse wurde Ihnen zugestellt.Bitte folgen Sie den Hinweisen in der Email um Ihr Konto zu aktivieren.</translation>
+        <translation>Ihr Benutzerkonto wurde erfolgreich eingerichtet. Eine Email zur angegebenen Adresse wurde Ihnen zugestellt.
+Bitte folgen Sie den Instruktionen in der Email um Ihr Konto zu aktivieren.</translation>
     </message>
 </context>
 <context>
@@ -16182,7 +16183,7 @@ your account.</source>
     </message>
     <message>
         <source>Replies</source>
-        <translation>Anworten</translation>
+        <translation>Antworten</translation>
     </message>
     <message>
         <source>Author</source>
@@ -16190,7 +16191,7 @@ your account.</source>
     </message>
     <message>
         <source>Last reply</source>
-        <translation>Letzte Anwort</translation>
+        <translation>Letzte Antwort</translation>
     </message>
     <message>
         <source>Pages</source>
@@ -17208,7 +17209,7 @@ your account.</source>
     </message>
     <message>
         <source>The ini file has probably been modified manually since last time.</source>
-        <translation>Die Ini Datei wurde wahrscheinlich manuel modifziert seit dem letzen Mal.</translation>
+        <translation>Die Ini Datei wurde wahrscheinlich manuell seit dem letzen Mal bearbeitet.</translation>
     </message>
     <message>
         <source>Ini File : </source>
@@ -17392,7 +17393,7 @@ your account.</source>
     </message>
     <message>
         <source>New objects will not be placed in the content tree.</source>
-        <translation>Neue Objekte werden nicht im Inhaltebaum abgelegt.</translation>
+        <translation>Neue Objekte werden nicht im Inhaltsbaum abgelegt.</translation>
     </message>
     <message>
         <source>Select location</source>
@@ -17592,7 +17593,7 @@ your account.</source>
     </message>
     <message>
         <source>List with radio buttons</source>
-        <translation>Liste mit Optionfelder</translation>
+        <translation>Liste mit Optionsfeldern</translation>
     </message>
     <message>
         <source>List with Check boxes</source>
@@ -17656,7 +17657,7 @@ your account.</source>
     </message>
     <message>
         <source>Load the definition that follows the standard distribution here:</source>
-        <translation>Importieren Sie die ISBN Definiton für gültige Wertebereiche hier:</translation>
+        <translation>Importieren Sie die ISBN Definition für gültige Wertebereiche hier:</translation>
     </message>
     <message>
         <source>Import ISBN range data</source>
@@ -19265,7 +19266,7 @@ Wenn Sie einen Kommentar zum Freigebenden schicken oder den Status sehen wollen,
     </message>
     <message>
         <source>Use the radio buttons to set the default option.</source>
-        <translation>Benutzen Sie diese Optionsfelder, um die vorausgewählte Option zu defninieren.</translation>
+        <translation>Benutzen Sie diese Optionsfelder, um die vorausgewählte Option zu definieren.</translation>
     </message>
     <message>
         <source>Add option</source>
@@ -20388,7 +20389,7 @@ Sie sollten entweder den Benutzer kontaktieren oder einen neuen Entwurf erstelle
     </message>
     <message>
         <source>Versionview not supported in PDF yet</source>
-        <translation>Versionansichten werden noch nicht üntersützt im PDF export</translation>
+        <translation>Versionsansichten werden bei PDF noch nicht unterstützt</translation>
     </message>
     <message>
         <source>eZ Publish PDF export</source>
@@ -20637,7 +20638,7 @@ Sie sollten entweder den Benutzer kontaktieren oder einen neuen Entwurf erstelle
     </message>
     <message>
         <source>The message was not sent due to an unknown error. Please notify the site administrator about this error.</source>
-        <translation>Die Nachricht wurde wegen eines unbekannten Fehlers nicht versandt. Bitte benachrichten Sie den Administrator.</translation>
+        <translation>Die Nachricht wurde wegen eines unbekannten Fehlers nicht versandt. Bitte benachrichtigen Sie den Administrator.</translation>
     </message>
     <message>
         <source>Please correct the following errors:</source>
@@ -20822,7 +20823,7 @@ Sie sollten entweder den Benutzer kontaktieren oder einen neuen Entwurf erstelle
     </message>
     <message>
         <source>Some errors occurred</source>
-        <translation>Einige Fehler trahten auf</translation>
+        <translation>Einige Fehler sind aufgetreten</translation>
     </message>
     <message>
         <source>Location</source>
@@ -20850,7 +20851,7 @@ Sie sollten entweder den Benutzer kontaktieren oder einen neuen Entwurf erstelle
     </message>
     <message>
         <source>Choose a file from your locale machine then click the &quot;Upload&quot; button. An object will be created according to file type and placed in your chosen location.</source>
-        <translation>Wählen Sie eine Datei auf Ihrem lokalen Rechner aus und klicken Sie danach die &quot;Hochladen&quot; Schaltfläche. Es wird ein Objekt gemäß des Dateityps erstellt und an dem gewählen Ort platziert.</translation>
+        <translation>Wählen Sie eine Datei auf Ihrem lokalen Rechner aus und klicken Sie danach die &quot;Hochladen&quot; Schaltfläche. Es wird ein Objekt gemäß des Dateityps erstellt und an dem gewählten Ort platziert.</translation>
     </message>
 </context>
 <context>
@@ -21541,7 +21542,7 @@ Wenn Sie noch mehr Objekte hinzufügen wollen, klicken Sie die %emphasize_startL
     </message>
     <message>
         <source>The newly created template file will be placed in</source>
-        <translation>Die neu erstellte Template-Datei wird plaziert in</translation>
+        <translation>Die neu erstellte Template-Datei wird platziert in</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -21799,7 +21800,7 @@ Wenn Sie noch mehr Objekte hinzufügen wollen, klicken Sie die %emphasize_startL
     </message>
     <message>
         <source>View is disabled</source>
-        <translation>Sicht ist deakiviert</translation>
+        <translation>Sicht ist deaktiviert</translation>
     </message>
     <message>
         <source>Module is disabled</source>
@@ -22273,7 +22274,7 @@ Falls Sie das machen, werden die Unterelemente ebenfalls entfernt.</translation>
     </message>
     <message>
         <source>Removing this assignment will also remove its %1 children.</source>
-        <translation>Das Entfernen dieser Zuortnung wird auch seine %1 Kinder entfernen.</translation>
+        <translation>Das Entfernen dieser Zuordnung wird auch seine %1 Kinder entfernen.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove these items?</source>
@@ -28742,7 +28743,7 @@ Um das zu tun, müssen Sie die %chown Kommandos unter den alternativen Shell-Bef
     </message>
     <message>
         <source>Input did not validate, all fields marked with * must be filled in</source>
-        <translation>Die EIngaben konnten nicht validiert werden. Alle mit * markierten Felder müssen ausgefüllt werden</translation>
+        <translation>Die Eingaben konnten nicht validiert werden. Alle mit einem Stern (*) markierten Felder müssen ausgefüllt werden</translation>
     </message>
     <message>
         <source>All fields marked with * must be filled in.</source>
@@ -30096,7 +30097,7 @@ Bitte folgen Sie den Hinweisen in der Email, um Ihr Konto zu aktivieren.</transl
     </message>
     <message>
         <source>The newly created template file will be placed in</source>
-        <translation>Die neu erstellte Template-Datei wird plaziert in</translation>
+        <translation>Die neu erstellte Template-Datei wird platziert in</translation>
     </message>
     <message>
         <source>Filename</source>

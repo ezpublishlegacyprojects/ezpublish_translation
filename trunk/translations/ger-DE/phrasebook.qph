@@ -804,4 +804,8 @@
     <target>Hinweise</target>
     <definition>eigentlich &quot;Anweisungen&quot;, aber das ist zu forsch</definition>
 </phrase>
+<phrase>
+    <source>Properties</source>
+    <target>Eigenschaften</target>
+</phrase>
 </QPH>
