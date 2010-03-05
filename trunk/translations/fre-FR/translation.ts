@@ -960,39 +960,39 @@
     </message>
     <message>
         <source>Select a group that the &lt;%class_name&gt; class should be added to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le groupe où la classe &lt;%class_name&gt; devra être ajoutée.</translation>
     </message>
     <message>
         <source>Select the desired main language using the radio buttons above then click this button to store the setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la langue principale en utilisant les boutons radio ci-dessus puis cliquez sur ce bouton pour enregistrer ce paramètre.</translation>
     </message>
     <message>
         <source>You cannot change the main language because the object is not translated to any other languages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas changer la langue principal car cet objet n'est traduit dans aucune autre langue.</translation>
     </message>
     <message>
         <source>URL alias name pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle de génération de l'URL</translation>
     </message>
     <message>
         <source>Use this menu to select the language you want to use for editing then click the &quot;Edit&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ce menu pour sélectionner la langue à utiliser lors de la modification puis cliquez sur le bouton &quot;Edit&quot;</translation>
     </message>
     <message>
         <source>Class storing deferred</source>
-        <translation type="unfinished"></translation>
+        <translation>L'enregistrement de la classe est programmée</translation>
     </message>
     <message>
         <source>The storing of the class has been deferred because existing objects need to be updated. The process has been scheduled to run in the background and will be started automatically. Please do not edit the class again until the process has finished. You can monitor the progress of the background process here:</source>
-        <translation type="unfinished"></translation>
+        <translation>L'enregistrement de la classe a été programmée car des objets existants doivent être mis à jour. Ce processus a été programmée pour s'exécuter en arrière plan et pour démarrer automatiquement. N'éditez pas la classe à nouveau avant que ce processus soit terminé. Vous pouvez surveiller l'évolution de ces processus ici&#160;:</translation>
     </message>
     <message>
         <source>Background process monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Surveillance des processus en arrière plan</translation>
     </message>
     <message>
         <source>Class name and number of objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de la classe et nombre d'objets</translation>
     </message>
     <message>
         <source>Member of class groups (%group_count)</source>
@@ -1008,11 +1008,11 @@
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Description</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Catégorie</translation>
     </message>
 </context>
 <context>
@@ -1124,11 +1124,11 @@
     </message>
     <message>
         <source>You may edit the draft and publish it, in which case an approval is required again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous pouvez modifier le brouillon et le publier, dans ce cas une approbation sera à nouveau nécessaire.</translation>
     </message>
     <message>
         <source>The author can edit the draft and publish it again, in which case a new approval is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'auteur peut modifier le brouillon et le publier à noveau, dans ce cas une approbation sera à nouveau nécessaire.</translation>
     </message>
 </context>
 <context>
