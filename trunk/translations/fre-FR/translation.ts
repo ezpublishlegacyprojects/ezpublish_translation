@@ -10,7 +10,7 @@
     <name>design</name>
     <message>
         <source>%group_name [Content object state group]</source>
-        <translation type="unfinished"></translation>
+        <translation>%group_name [Groupe d'état des objets de contenu]</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -18,7 +18,7 @@
     </message>
     <message>
         <source>%state_name [Content object state]</source>
-        <translation type="unfinished"></translation>
+        <translation>%state_name [État d'objet de contenu]</translation>
     </message>
 </context>
 <context>
@@ -117,7 +117,7 @@
     </message>
     <message>
         <source>Use this menu to select the language you to want use then click the &quot;New class&quot; button. The item will be created within the current location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ce menu pour sélectionner la langue à utiliser puis cliquez sur le bouton &quot;Nouvelle classe&quot;. L'élément sera créé à l'emplacement actuel.</translation>
     </message>
     <message>
         <source>Classes inside &lt;%group_name&gt; (%class_count)</source>
@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>List of classes inside %group_name class group (%class_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste des classes dans le groupe de classes %group_name (%class_count)</translation>
     </message>
 </context>
 <context>
