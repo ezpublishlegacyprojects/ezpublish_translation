@@ -10,7 +10,7 @@ README zur deutschen Uebersetzung.
 
 VERSION
 --------------
-Version 0.2 (dieses Dokument) vom 07.09.2009
+Version 0.3 (dieses Dokument) vom 05.03.2010
 
 
 AUTOREN
@@ -18,7 +18,7 @@ AUTOREN
 Björn Dieding (bd)
 Georg Franz (gwf)
 Dirk Schmedding
-Marco Zinn
+Marco Zinn (mz)
 
 
 ZIEL
@@ -45,8 +45,10 @@ http://share.ez.no/forums/translation/german
 Changelog
 ============================================================
 
-Übersetzung für eZ Publish 4.3, gwf
+Übersetzung für eZ Publish 4.3
 ============================================================
+Neue Strings wurden übersetzt (gwf, mz)
+Viele Fehler ausgebessert (gwf, mz)
 
 Übersetzung für eZ Publish 4.2, gwf
 ============================================================
