@@ -364,7 +364,7 @@
     </message>
     <message>
         <source>Default sorting of children</source>
-        <translation>Standard Sortierung der Unterlemente</translation>
+        <translation>Standard Sortierung der Unterelemente</translation>
     </message>
     <message>
         <source>Use these controls to set the default sorting method for the sub items of instances of the content class.</source>
@@ -686,11 +686,11 @@
     </message>
     <message>
         <source>The %1 class was already removed from the group but still exists in other groups.</source>
-        <translation>Die %1 Klasse wurde vond er Gruppe entfernt, aber existiert noch in anderen Gruppen.</translation>
+        <translation>Die %1 Klasse wurde von der Gruppe entfernt, aber existiert noch in anderen Gruppen.</translation>
     </message>
     <message>
         <source>The %1 classes were already removed from the group but still exist in other groups.</source>
-        <translation>Die %1 Klassen wurden von der Gruppe entfernt, aber exsitieren noch in anderen Gruppen.</translation>
+        <translation>Die %1 Klassen wurden von der Gruppe entfernt, aber sie sind noch in anderen Gruppen vorhanden.</translation>
     </message>
     <message>
         <source>Removing class &lt;%1&gt; will result in the removal of %2 object.</source>
@@ -997,7 +997,7 @@
     </message>
     <message>
         <source>Existing languages</source>
-        <translation>Existierende Spachen</translation>
+        <translation>Vorhandene Sprachen</translation>
     </message>
     <message>
         <source>Invert selection.</source>
@@ -1121,7 +1121,7 @@
     </message>
     <message>
         <source>Use this menu to select the language you want to use for editing then click the &quot;Edit&quot; button.</source>
-        <translation>Benutzen Sie dieses Menü, um die zu bearbeitende Spache auszuwählen und drücken Sie &quot;Bearbeiten&quot;.</translation>
+        <translation>Benutzen Sie dieses Menü, um die zu bearbeitende Sprache auszuwählen und drücken Sie &quot;Bearbeiten&quot;.</translation>
     </message>
     <message>
         <source>Class storing deferred</source>
@@ -1494,7 +1494,7 @@
     </message>
     <message>
         <source>Display sub items as thumbnails.</source>
-        <translation>Unterelmenete als Miniaturbilder anzeigen.</translation>
+        <translation>Unterelemente als Miniaturbilder anzeigen.</translation>
     </message>
     <message>
         <source>Invert selection.</source>
@@ -1518,7 +1518,7 @@
     </message>
     <message>
         <source>To select an object that is a child of one of the displayed objects, click the object name for a list of the children of the object.</source>
-        <translation>Um ein Objekt auszuwählen, das unterhalb eines angezeigten Objekts liegt, klicken Sie auf den Namen. Sie bekommen dann eine Liste der untergeordeneten Objekte angezeigt.</translation>
+        <translation>Um ein Objekt auszuwählen, das unterhalb eines angezeigten Objekts liegt, klicken Sie auf den Namen. Sie bekommen dann eine Liste der untergeordneten Objekte angezeigt.</translation>
     </message>
     <message>
         <source>To select objects, choose the appropriate radio button or checkbox(es), then click the &quot;Select&quot; button.</source>
@@ -1545,7 +1545,7 @@
     </message>
     <message>
         <source>Select the items that you want to bookmark using the checkboxes then click &quot;Select&quot;.</source>
-        <translation>Wählen Sie die Elemente aus, die Sie zu Ihren Lesenzeichen hinzufügen wollen. Klicken Sie anschließend auf &quot;Auswählen&quot;.</translation>
+        <translation>Wählen Sie die Elemente aus, die Sie zu Ihren Lesezeichen hinzufügen wollen. Klicken Sie anschließend auf &quot;Auswählen&quot;.</translation>
     </message>
 </context>
 <context>
@@ -2145,7 +2145,7 @@
     </message>
     <message>
         <source>Store the contents of the draft that is being edited and continue editing. Use this button to periodically save your work while editing.</source>
-        <translation>Den Inhalt des derzeitgen Entwurf speichern und mit der Bearbeitung fortfahren. Benutzen Sie diese Schaltfläche regelmäßig, um Ihre Arbeit zu speichern.</translation>
+        <translation>Den Inhalt des derzeitigen Entwurfs speichern und mit der Bearbeitung fortfahren. Benutzen Sie diese Schaltfläche regelmäßig, um Ihre Arbeit zu speichern.</translation>
     </message>
     <message>
         <source>Discard draft</source>
@@ -2417,7 +2417,7 @@
     </message>
     <message>
         <source>Remove the selected items from the list(s) above. It is only the relations that will be removed. The items will not be deleted.</source>
-        <translation>Die ausgwählten Einträge aus der obigen Liste entfernen. Es wird nur die Verknüpfung entfernt, das Objekt selbst wird nicht gelöscht.</translation>
+        <translation>Die ausgewählten Einträge aus der obigen Liste entfernen. Es wird nur die Verknüpfung entfernt, das Objekt selbst wird nicht gelöscht.</translation>
     </message>
     <message>
         <source>Add existing</source>
@@ -2649,7 +2649,7 @@
     </message>
     <message>
         <source>Store the draft that is being edited and exit from edit mode. Use when you need to exit your work and return later to continue.</source>
-        <translation>Den aktuellen Entwurf speichern und den Bearbeiten-Modus verlassen.Verwenden Sie dieses, wenn Sie später an diesem Entwurf weiterarbeiten wollen.</translation>
+        <translation>Den aktuellen Entwurf speichern und den Bearbeiten-Modus verlassen. Verwenden Sie dieses, wenn Sie später an diesem Entwurf weiterarbeiten wollen.</translation>
     </message>
     <message>
         <source>Edit &lt;%object_name&gt; (%class_name)</source>
@@ -2739,6 +2739,7 @@
     </message>
     <message>
         <source>You should contact the other user(s) to make sure that you are not stepping on anyone&apos;s toes.</source>
+        <translatorcomment>Sie sollten den oder die Bearbeiter kontaktieren, damit die Arbeit nicht doppelt gemacht wird bzw. damit sich Änderungen nicht überschneiden.</translatorcomment>
         <translation>Sie sollten den anderen Anwender kontaktieren, um sicherzugehen, dass Sie ihm nicht auf die Füsse treten.</translation>
     </message>
     <message>
@@ -2747,7 +2748,7 @@
     </message>
     <message>
         <source>This object is already being edited by you.</source>
-        <translation>Diese Objekt wird bereits von Ihnen berarbeitet.</translation>
+        <translation>Diese Objekt wird bereits von Ihnen bearbeitet.</translation>
     </message>
     <message>
         <source>Your most recently modified draft is version #%version, last changed: %modified.</source>
@@ -2755,7 +2756,7 @@
     </message>
     <message>
         <source>This object is already being edited by someone else.</source>
-        <translation>Diese Objekt wird bereits von jemand anderen berarbeitet.</translation>
+        <translation>Dieses Objekt wird bereits von einem anderen Benutzer bearbeitet.</translation>
     </message>
     <message>
         <source>Possible actions</source>
@@ -4327,11 +4328,11 @@
     </message>
     <message>
         <source>The following errors occurred</source>
-        <translation>Die folgenden Fehler trahten auf</translation>
+        <translation>Folgende Fehler sind aufgetreten</translation>
     </message>
     <message>
         <source>File upload</source>
-        <translation>Datei upload</translation>
+        <translation>Datei Upload</translation>
     </message>
     <message>
         <source>Choose a file from your local machine and click the &quot;Upload&quot; button. An object will be created according to file type and placed in your chosen location.</source>
@@ -4383,7 +4384,7 @@
     </message>
     <message>
         <source>Choose a file from your local machine then click the &quot;Upload&quot; button. An object will be created according to file type and placed in the specified location.</source>
-        <translation>Wähle eine Datei von von Ihrem lokalen Rechner und klicken Sie den &quot;Hochladen&quot; Knopf. Es wird ein Objekt gemäß der Art der Datei erstellt und an dem gewählen Ort plaziert werden.</translation>
+        <translation>Wählen Sie eine Datei auf Ihrem Computer aus und klicken Sie dann auf den &quot;Upload&quot; Schaltknopf. Danach wird ein Objekt gemäß des Dateityps am angegebenen Ort erstellt.</translation>
     </message>
     <message>
         <source>Select the file that you want to upload.</source>
@@ -4521,7 +4522,7 @@
     </message>
     <message>
         <source>Enter the URL for the new alias. Use forward slashes (/) to create subentries.</source>
-        <translation>Geben Sie die URL für den neuen Alias ein. Benuten Sie Schrägstriche (/) um Untereinträge zu erzeugen.</translation>
+        <translation>Geben Sie die URL für den neuen Alias ein. Benutzen Sie Schrägstriche (/), um Untereinträge zu erzeugen.</translation>
     </message>
     <message>
         <source>Relative to parent</source>
@@ -4549,7 +4550,7 @@
     </message>
     <message>
         <source>Include in other languages</source>
-        <translation>Einschliesslich anderer Sprachen</translation>
+        <translation>Andere Sprachen miteinschließen</translation>
     </message>
     <message>
         <source>URL alias</source>
@@ -4561,7 +4562,7 @@
     </message>
     <message>
         <source>Existing objects or functionality with the same name take precedence on the name.</source>
-        <translation>Existierende Objekte oder Funktionalitäten mit dem selben namen, erhalten den Vorzug für diesen Namen.</translation>
+        <translation>Bestehende Objekte oder Funktionalitäten mit dem selben Namen haben Vorrang.</translation>
     </message>
     <message>
         <source>The URL alias &amp;lt;%new_alias&amp;gt; already exists, and it points to &amp;lt;%action_url&amp;gt;</source>
@@ -4752,11 +4753,11 @@
     </message>
     <message>
         <source>Enter the URL for the new alias. Use forward slashes (/) to create subentries.</source>
-        <translation>Geben Sie die URL für den neuen Alias ein. Benuten Sie Schrägstriche (/) um Untereinträge zu erzeugen.</translation>
+        <translation>Geben Sie die URL für den neuen Alias ein. Verwenden Sie Schrägstriche (/) um Untereinträge zu erzeugen.</translation>
     </message>
     <message>
         <source>Enter the destination URL for the new alias. Use forward slashes (/) to create subentries.</source>
-        <translation>Geben Sie die Ziel-URL für den neuen Alias ein. Benuten Sie Schrägstriche (/) um Untereinträge zu erzeugen.</translation>
+        <translation>Geben Sie die Ziel-URL für den neuen Alias ein. Verwenden Sie Schrägstriche (/), um Untereinträge zu erzeugen.</translation>
     </message>
     <message>
         <source>Choose the language for the new URL alias.</source>
@@ -4891,7 +4892,7 @@
     </message>
     <message>
         <source>The URL wildcard list does not contain any aliases.</source>
-        <translation>Die Liste enhält keine Aliase.</translation>
+        <translation>Die URL Wildcard Liste enthält keine Aliase.</translation>
     </message>
     <message>
         <source>Invert selection.</source>
@@ -5563,7 +5564,7 @@
     </message>
     <message>
         <source>[%classname] Click on the icon to display a context-sensitive menu.</source>
-        <translation>[%classname] Klicke auf das Icon, um ein context-sensitives Menü zu erhalten.</translation>
+        <translation>[%classname] Klicke auf das Icon, um ein kontextabhängiges Menü zu erhalten.</translation>
     </message>
     <message>
         <source>Object ID</source>
@@ -6002,7 +6003,7 @@
     </message>
     <message>
         <source>The site is using URL matching to determine which siteaccess to use, but the name of the siteaccess is missing from the URL. Try to add the name of the siteaccess; it should be specified before the name of the module.</source>
-        <translation>Diese Seite benutzt einen URL-Abgleich um herauszufinden, welcher Seitenzugang verwendet wird, aber der Name des Zugangs wurd nicht gesetzt. Versuchen Sie den Namen des Seitenzugangs zu ergänzen. Er sollte vor dem Namen des Moduls in der Adresse definiert werden.</translation>
+        <translation>Im Link fehlt der Name des Seitenzugangs. Versuchen Sie, die URL um den Namen des Seitenzugangs zu ergänzen.</translation>
     </message>
     <message>
         <source>The requested view cannot be accessed.</source>
@@ -6037,7 +6038,7 @@
     </message>
     <message>
         <source>The requested object is not a product and cannot be used by the shop module..</source>
-        <translation>Das angefordete Objekt ist kein Produkt und kann daher nicht vom Shop Modul genutzt werden.</translation>
+        <translation>Das angeforderte Objekt ist kein Produkt und kann daher nicht vom Shop Modul genutzt werden.</translation>
     </message>
     <message>
         <source>Incompatible product type. (2)</source>
@@ -6139,7 +6140,7 @@
     </message>
     <message>
         <source>Select collected information for removal.</source>
-        <translation>Gesammelte Infromationen zum entfernen auswählen.</translation>
+        <translation>Gesammelte Informationen zum Entfernen auswählen.</translation>
     </message>
     <message>
         <source>No information has been collected by this object.</source>
@@ -6459,7 +6460,7 @@
     </message>
     <message>
         <source>Some of the subtrees or objects selected for removal are used by other objects. Select the menu from the content tree, and</source>
-        <translation>Einige der zum Entfernen ausgewählen Knoten oder Objekte werden von anderen Objekten genutzt. Wählen das Menü im Inhalts-Baum und</translation>
+        <translation>Einige der zum Entfernen ausgewählten Knoten oder Objekte werden von anderen Objekten genutzt. Wählen das Menü im Inhalts-Baum und</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -7308,7 +7309,7 @@
     </message>
     <message>
         <source>Use this menu to select the type of item you want to create then click the &quot;Create here&quot; button. The item will be created in the current location.</source>
-        <translation>Benutzen Sie dieses Menü, um die Art des Elements auzuwählen, das erstellt werden soll. Klicken Sie anschließend auf  &quot;Hier erstellen&quot;. Das Element wird am aktuellen Ort erstellt werden. </translation>
+        <translation>Benutzen Sie dieses Menü, um die Art des Elements auszuwählen, das erstellt werden soll. Klicken Sie anschließend auf &quot;Hier erstellen&quot;. Das Element wird dann am aktuellen Ort erstellt.</translation>
     </message>
     <message>
         <source>Use this menu to select the language you want use for the creation and click the &quot;Create here&quot; button. The item will be created within the current location.</source>
@@ -7336,7 +7337,7 @@
     </message>
     <message>
         <source>Use the priority fields to control the order in which the items appear. You can use both positive and negative integers. Click the &quot;Update priorities&quot; button to apply the changes.</source>
-        <translation>Benutzen Sie die Prioritätsfelder, um die Reihenfolge zu ändern, in der die Elemnte erscheinen. Benutzen Sie posititve und negative Ganzzahlen. Klicken Sie auf &quot;Prioritäten speichern&quot;, um die Änderungen zu speichern.</translation>
+        <translation>Benutzen Sie die Prioritätsfelder, um die Reihenfolge der Elemente zu ändern. Sie können positive und negative Ganzzahlen verwenden. Klicken Sie dann auf die Schaltfläche &quot;Prioritäten speichern&quot;.</translation>
     </message>
     <message>
         <source>You are not allowed to update the priorities because you do not have permission to edit &lt;%node_name&gt;.</source>
@@ -7428,7 +7429,7 @@
     </message>
     <message>
         <source>The item being displayed has only one location, which is by default the main location.</source>
-        <translation>Das aktuell angezeigte Element hat nur einen Ort, dies ist standardmässig der Hauptort.</translation>
+        <translation>Das aktuelle Element hat nur einen Ort, das ist standardmäßig der Hauptort.</translation>
     </message>
     <message>
         <source>Select the desired main language using the radio buttons above then click this button to store the setting.</source>
@@ -7641,7 +7642,7 @@
     </message>
     <message>
         <source>Add to my notifications</source>
-        <translation>Zu Benachrichtungen hinzufügen</translation>
+        <translation>Zu Benachrichtigungen hinzufügen</translation>
     </message>
     <message>
         <source>Notification for node &lt;%node_name&gt; already exists.</source>
@@ -7664,7 +7665,7 @@
     </message>
     <message>
         <source>Choose which collaboration items you want to get notifications for.</source>
-        <translation>Wählen Sie, für welche Kollaborationelemente Sie Benachrichtigungen bekommen möchten.</translation>
+        <translation>Wählen Sie, für welche Kollaborationselemente Sie Benachrichtigungen bekommen möchten.</translation>
     </message>
 </context>
 <context>
@@ -8154,7 +8155,8 @@ Sie können das Paket auch entfernen ohne es von der Paketliste zu entfernen.</t
     <message>
         <source>Select an image file to be included in the package then click Next.
 Click &quot;Next&quot; without choosing an image to continue to the next step.</source>
-        <translation type="unfinished">Wählen Sie ein Bild aus, das im Paket nthalten sein soll und klicken dann auf Weiter.Wenn Sie auf &quot;Weiter&quot; klicken ohne ein Bild zu wählen, wird mit dem nächsten Schtitt fortgesetzt.</translation>
+        <translation>Wählen Sie ein Bild aus, das im Paket enthalten sein soll und klicken dann auf Weiter.
+Wenn Sie auf &quot;Weiter&quot; klicken, ohne ein Bild zu wählen, wird mit dem nächsten Schritt fortgesetzt.</translation>
     </message>
     <message>
         <source>The package can be installed on your system, installing the package will copy files, create content classes etc. all depending on the package.
@@ -9194,7 +9196,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Add to my notifications</source>
-        <translation>Zu Benachrichtungen hinzufügen</translation>
+        <translation>Zu Benachrichtigungen hinzufügen</translation>
     </message>
     <message>
         <source>Swap with another node</source>
@@ -9457,7 +9459,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Instructions</source>
-        <translation>Anleitung</translation>
+        <translation>Hinweise</translation>
     </message>
     <message>
         <source>Use the drop-down menu to select the module that you wish to grant access to.</source>
@@ -9497,7 +9499,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Welcome to the policy wizard. This three-step wizard will help you create a new policy that will be added to the role that is currently being edited. The wizard can be aborted at any stage by using the &quot;Cancel&quot; button.</source>
-        <translation>Willkommen im Richtlinien-Assistenten. In drei Schritten wird Ihnen dieser Assitent helfen eine neue Richtlinie zu erstellen, die der momentan in Bearbeitung befindlichen Rolle zugeordnet wird. Der Assistent kann durch Klicken auf &quot;Abbrechen&quot; verlassen werden.</translation>
+        <translation>Willkommen beim Richtlinien-Assistenten. In drei Schritten wird Ihnen dieser Assistent helfen eine neue Richtlinie zu erstellen, die der momentan in Bearbeitung befindlichen Rolle zugeordnet wird. Der Assistent kann durch Klicken auf &quot;Abbrechen&quot; verlassen werden.</translation>
     </message>
     <message>
         <source>Use the drop-down menu to select the module that you want to grant access to.</source>
@@ -9540,7 +9542,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Instructions</source>
-        <translation>Anleitung</translation>
+        <translation>Hinweise</translation>
     </message>
     <message>
         <source>Use the drop-down menu to select the function that you wish to grant access to.</source>
@@ -9655,7 +9657,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Instructions</source>
-        <translation>Anleitung</translation>
+        <translation>Hinweise</translation>
     </message>
     <message>
         <source>Set the desired function limitations using the controls below.</source>
@@ -9727,7 +9729,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschaften</translation>
     </message>
     <message>
         <source>Nodes (%node_count)</source>
@@ -9822,7 +9824,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>There are no policies set up for this role.</source>
-        <translation>Es sind keine Richtlininien für diese Rolle gesetzt.</translation>
+        <translation>Es sind keine Richtlinien für diese Rolle gesetzt.</translation>
     </message>
     <message>
         <source>Remove selected policies.</source>
@@ -10083,7 +10085,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Select user or user group for removal.</source>
-        <translation>benutzer oder Gruppe zum Entfernen auswählen.</translation>
+        <translation>Benutzer oder Gruppe zum Entfernen auswählen.</translation>
     </message>
     <message>
         <source>This role is not assigned to any users or user groups.</source>
@@ -10302,7 +10304,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Use this field to set the URL where the RSS export should be available. Note that &quot;rss/feed/&quot; will be appended to the real URL. </source>
-        <translation>Benutzen Sie dieses Feld um die URL, unter der der RSS Export verfügbar sein soll, zu defnieiren. Beachten Sie dass &quot;rss/feed/&quot; der fertigen URL hinzugefügt wird.</translation>
+        <translation>Benutzen Sie dieses Feld, um die URL, unter der der RSS Export verfügbar sein soll, zu definieren. Beachten Sie, dass &quot;rss/feed/&quot; der fertigen URL hinzugefügt wird.</translation>
     </message>
     <message>
         <source>Source</source>
@@ -10374,7 +10376,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Check if you want to only feed the object from the main node.</source>
-        <translation>Wählen Sie das aus, falls das Objekt nur vom Hauptknoten einspeißen soll.</translation>
+        <translation>Das auswählen, falls das Objekt nur vom Hauptknoten kommen soll.</translation>
     </message>
     <message>
         <source>Subnodes</source>
@@ -10414,7 +10416,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Activate this checkbox if objects from the subnodes of the source should also be fed.</source>
-        <translation>Aktivieren Sie diese Kontrollkästchen, falls auch Objekte von Unterknoten der Quelle eingespeißt werden sollen.</translation>
+        <translation>Aktivieren Sie dieses Kontrollkästchen, falls auch Objekte von Unterknoten der Quelle eingespeist werden sollen.</translation>
     </message>
     <message>
         <source>Click this button to load the correct values into the drop-down fields below. Use the drop-down menu on the left to select the class type.</source>
@@ -10438,11 +10440,11 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Use this drop-down to select the type of object that triggers the export. Click the &quot;Set&quot; button to load the correct attribute types for the remaining fields.</source>
-        <translation>Benutzen Sie diese Auswahlliste um die Art des Objekts auszuwählen, das den Export auslöst. Klicken Sie auf den Knopf &quot;Setzen&quot;, um die die korrekten Attributetypen für die verbeleibenden Felder zu laden.</translation>
+        <translation>Benutzen Sie diese Auswahlliste, um die Art des Objekts auszuwählen, das den Export auslöst. Klicken Sie auf die Schaltfläche &quot;Setzen&quot;, um die die korrekten Attributtypen für die verbleibenden Felder zu laden.</translation>
     </message>
     <message>
         <source>Click this button to load the correct values into the drop-down fields below. Use the drop-down menu on the left to select the class.</source>
-        <translation>Klicken Sie auf diesen Knopf um die richtigen Werte in die Asuwahlliste unten zu laden. Benutzen Sie die Auswahlliste links um die richtige Art der Klasse auszuwählen.</translation>
+        <translation>Klicken Sie auf diesen Knopf, um die richtigen Werte in die Auswahlliste unten zu laden. Benutzen Sie die Auswahlliste links, um die richtige Art der Klasse auszuwählen.</translation>
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the title of the RSS export entry.</source>
@@ -10561,11 +10563,11 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Use this field to enter the source URL of the RSS feed to import.</source>
-        <translation>Benutzen Sie dieses Feld, um die Quell-URL der zu importierenden RSS-Einspeißung einzugeben.</translation>
+        <translation>Benutzen Sie dieses Feld, um die Quell-URL der zu importierenden RSS-Einspeisung einzugeben.</translation>
     </message>
     <message>
         <source>Click this button to select the destination node where objects created by the import are located.</source>
-        <translation>Klicken Sie auf diesen Knopf, um den Zielknoten auszuwählen, an dem vom Import erstellte Knoten plaziert werden sollen.</translation>
+        <translation>Klicken Sie auf diesen Schaltknopf, um den Zielknoten auszuwählen, an dem vom Import erstellte Knoten platziert werden sollen.</translation>
     </message>
     <message>
         <source>Click this button to select the user who should own the objects created by the import.</source>
@@ -10593,7 +10595,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Use this checkbox to control if the RSS feed is active or not. An inactive feed will not be automatically updated.</source>
-        <translation>Benutzen Sie dieses Ankreuzfeld, um einzustellen, ob diese RSS-Einspeißung aktiv sein soll oder nicht. Eine inaktive Einspeißung wird nicht automatisch aktualisiert.</translation>
+        <translation>Benutzen Sie dieses Kontrollkästchen, um einzustellen, ob diese RSS-Einspeisung aktiv sein soll oder nicht. Eine inaktive Einspeisung wird nicht automatisch aktualisiert.</translation>
     </message>
     <message>
         <source>Apply the changes and return to the RSS overview.</source>
@@ -10653,11 +10655,11 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Use this drop-down to select the type of object the import should create. Click the &quot;Set&quot; button to load the attribute types for the remaining fields.</source>
-        <translation>Benutzen Sie diese Auswahlliste um den Typ des Objekts auszuwählen, der vom Import erstellt werden soll. Klicken Sie auf den Knopf &quot;Einstellen&quot;, um die Attributetypen für die verbleibenden Felder zu laden.</translation>
+        <translation>Benutzen Sie diese Auswahlliste, um den Typ des Objekts auszuwählen, der vom Import erstellt werden soll. Klicken Sie auf den Knopf &quot;Einstellen&quot;, um die Attributtypen für die verbleibenden Felder zu laden.</translation>
     </message>
     <message>
         <source>Click this button to load the correct values into the drop-down fields below. Use the drop-down menu on the left to select the class.</source>
-        <translation>Klicken Sie auf diesen Knopf um die richtigen Werte in die Asuwahlliste unten zu laden. Benutzen Sie die Auswahlliste links um die richtige Klasse auszuwählen.</translation>
+        <translation>Klicken Sie auf diesen Knopf, um die richtigen Werte in die Auswahlliste unten zu laden. Benutzen Sie die Auswahlliste links, um die richtige Klasse auszuwählen.</translation>
     </message>
 </context>
 <context>
@@ -15197,7 +15199,7 @@ your account.</source>
     </message>
     <message>
         <source>Invalid name. You can only use the characters a-z, numbers and _.</source>
-        <translation>Ungültiger name. Sie können nur die Buchstaben a-z, Nummern und _ benutzen. </translation>
+        <translation>Ungültiger Name. Sie können nur die Buchstaben a-z, Nummern und _ benutzen.</translation>
     </message>
     <message>
         <source>Create new template override for &lt;%template_name&gt;</source>
@@ -15205,7 +15207,7 @@ your account.</source>
     </message>
     <message>
         <source>The newly created template file will be placed in</source>
-        <translation>Die neu erstellte Template-Datei wird plaziert in</translation>
+        <translation type="unfinished">Die neu erstellte Template-Datei wird platziert in</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -18723,11 +18725,11 @@ Wenn Sie einen Kommentar zum Freigebenden schicken oder den Status sehen wollen,
     </message>
     <message>
         <source>To select an object that is a child of one of the displayed objects, click the object name for a list of the children of the object.</source>
-        <translation>Um ein Objekt auszuwählen, das unterhalb eines angezeigten Objekts liegt, klicken Sie auf den Namen. Sie bekommen dann eine Liste der untergeordeneten Objekte angezeigt.</translation>
+        <translation>Um ein Objekt auszuwählen, das unterhalb eines angezeigten Objekts liegt, klicken Sie auf den Namen. Sie bekommen dann eine Liste der untergeordneten Objekte angezeigt.</translation>
     </message>
     <message>
         <source>To select objects, choose the appropriate radio button or checkbox(es), then click the &quot;Select&quot; button.</source>
-        <translation>Um Objekte auszuwählen, wählen Sie diese aus und drücken Sie &quot;Ausählen&quot;.</translation>
+        <translation>Um Objekte auszuwählen, markieren Sie diese bei den entsprechenden Optionsfeldern und klicken Sie dann auf die &quot;Auswählen&quot; Schaltfläche.</translation>
     </message>
 </context>
 <context>
@@ -18933,7 +18935,7 @@ Wenn Sie einen Kommentar zum Freigebenden schicken oder den Status sehen wollen,
     </message>
     <message>
         <source>Find object</source>
-        <translation type="unfinished">Objekt finden</translation>
+        <translation>Objekt finden</translation>
     </message>
     <message>
         <source>New option</source>
@@ -19381,7 +19383,7 @@ Wenn Sie einen Kommentar zum Freigebenden schicken oder den Status sehen wollen,
     </message>
     <message>
         <source>There are no authors in the author list.</source>
-        <translation>Es befinden sich keine Authoren in der Liste der Authoren.</translation>
+        <translation>Keine Autoren in der Liste vorhanden.</translation>
     </message>
     <message>
         <source>There are no rows in the matrix.</source>
@@ -19645,11 +19647,11 @@ Wenn Sie einen Kommentar zum Freigebenden schicken oder den Status sehen wollen,
     </message>
     <message>
         <source>There are no related object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine verknüpften Objekte vorhanden.</translation>
     </message>
     <message>
         <source>Find objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekte finden</translation>
     </message>
 </context>
 <context>
@@ -19799,7 +19801,7 @@ Wenn Sie einen Kommentar zum Freigebenden schicken oder den Status sehen wollen,
     </message>
     <message>
         <source>Send for publishing</source>
-        <translation>Zur Veröffentlichung freigeben</translation>
+        <translation>Zur Veröffentlichung schicken</translation>
     </message>
     <message>
         <source>Discard</source>
@@ -19934,14 +19936,14 @@ Sie können entweder einen Ihrer Entwürfe weiter bearbeiten oder einen neuen er
     <message>
         <source>This object is already being edited by you.
         You can either continue editing one of your drafts or you can create a new draft.</source>
-        <translation type="unfinished">Das Objekt wird schon von Ihnen editiert.
-Sie können entweder einen Ihrer Entwürfe weiter bearbeiten oder einen neuen erstellen.</translation>
+        <translation>Das Objekt wird schon von Ihnen bearbeitet.
+         Sie können entweder einen Ihrer Entwürfe weiter bearbeiten, oder einen neuen Entwurf erstellen.</translation>
     </message>
     <message>
         <source>This object is already being edited by someone else.
         You should either contact the person about the draft or create a new draft for personal editing.</source>
-        <translation type="unfinished">Das Objekt wird schon von jemand anderen bearbeitet.
-Sie sollten entweder die Person deswegen kontaktieren oder einen neuen Entwurf zum persönlichen Bearbeiten erstellen. </translation>
+        <translation>Das Objekt wird schon von jemand anderem bearbeitet.
+Sie sollten entweder den Benutzer kontaktieren oder einen neuen Entwurf erstellen.</translation>
     </message>
     <message>
         <source>Current drafts</source>
@@ -20002,7 +20004,8 @@ Sie sollten entweder die Person deswegen kontaktieren oder einen neuen Entwurf z
     <message>
         <source>This object is already being edited by yourself or someone else.
     You can either continue editing one of your drafts or you can create a new draft.</source>
-        <translation type="unfinished">Das Objekt wird gerade von jemand anderen (oder Ihnen selbst) bearbeitet.Sie können entweder einen Ihrer Entwürfe weiter bearbeiten oder einen neuen erstellen.</translation>
+        <translation>Das Objekt wird gerade von jemand anderem (oder Ihnen selbst) bearbeitet.
+    Sie können entweder einen Ihrer Entwürfe weiter bearbeiten oder einen neuen Entwurf erstellen.</translation>
     </message>
     <message>
         <source>Class identifier</source>
@@ -20833,7 +20836,7 @@ Sie sollten entweder die Person deswegen kontaktieren oder einen neuen Entwurf z
     </message>
     <message>
         <source>Click here to upload a file. The file will be placed within the location that is specified using the dropdown menu on the top.</source>
-        <translation>Klicken Sie hier, um eine Datei hochzuladen. Die Datei wird an dem Ort plaziert, den Sie mit dem Dropdown-Menü oben gewählt haben.</translation>
+        <translation>Klicken Sie hier, um eine Datei hochzuladen. Die Datei wird an dem Ort platziert, den Sie in der Dropdown-Liste oben gewählt haben.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -20845,7 +20848,7 @@ Sie sollten entweder die Person deswegen kontaktieren oder einen neuen Entwurf z
     </message>
     <message>
         <source>Choose a file from your locale machine then click the &quot;Upload&quot; button. An object will be created according to file type and placed in your chosen location.</source>
-        <translation>Wähle eine Datei von von Ihrem lokalen Rechner und klicken Sie den &quot;Hochladen&quot; Knopf. Es wird ein Objekt gemäß der Art der Datei erstellt und an dem gewählen Ort plaziert werden.</translation>
+        <translation>Wählen Sie eine Datei auf Ihrem lokalen Rechner aus und klicken Sie danach die &quot;Hochladen&quot; Schaltfläche. Es wird ein Objekt gemäß des Dateityps erstellt und an dem gewählen Ort platziert.</translation>
     </message>
 </context>
 <context>
@@ -21434,7 +21437,11 @@ Sie können zur Auswahl oder zur Navigation auch Ihre Lesezeichen oder Aktuelle 
     Select your objects then click the %buttonname button.
     Using the recent and bookmark items for quick selection is also possible.
     Click on object names to change the browse listing.</source>
-        <translation type="unfinished">Welche Objekte sollen mit %name verwandt sein?Wählen Sie diese aus und klicken Sie dann auf &quot;%buttonname&quot;. Wenn Sie auf den Namen klicken, können Sie navigieren. Sie können zur Auswahl oder zur Navigation auch Ihre Lesezeichen oder Aktuelle Elemente verwenden.</translation>
+        <translation>Welche Objekte sollen mit %name verknüpft werden?
+
+    Wählen Sie diese aus und klicken Sie dann auf &quot;%buttonname&quot;. 
+   Wenn Sie auf den Namen klicken, können Sie seine Unterelemente auswählen. 
+    Sie können zur Auswahl oder zur Navigation auch Ihre Lesezeichen oder Aktuelle Elemente verwenden.</translation>
     </message>
     <message>
         <source>Choose the node to exchange for %objectname</source>
@@ -21446,12 +21453,16 @@ Sie können zur Auswahl oder zur Navigation auch Ihre Lesezeichen oder Aktuelle 
     Select the node then click the %buttonname button.
     Using the recent and bookmark items for quick placement is also possible.
     Click on placement names to change the browse listing.</source>
-        <translation type="unfinished">Wählen Sie, gegen welchen Knoten Sie %objectname austauschen wollen.Wählen Sie den Ort und klicken Sie dann auf &quot;%buttonname&quot;. Wenn Sie auf einen Namen klicken, können Sie navigieren. Sie können zur Auswahl oder zur Navigation auch Ihre Lesezeichen oder Aktuelle Elemente verwenden.</translation>
+        <translation>Wählen Sie aus, mit welchem Knoten Sie %objectname austauschen wollen.
+
+    Wählen Sie den Ort und klicken Sie dann auf &quot;%buttonname&quot;.
+    Wenn Sie auf einen Namen klicken, können Sie in diesen Ort navigieren. 
+    Sie können zur Auswahl oder zur Navigation auch Ihre Lesezeichen oder Aktuelle Elemente verwenden.</translation>
     </message>
     <message>
         <source>Choose a file from your locale machine then click the &quot;Upload&quot; button. An object will be created according to file type and placed in your chosen location.
 </source>
-        <translation type="unfinished">Wähle eine Datei von von Ihrem lokalen Rechner und klicken Sie den &quot;Hochladen&quot; Knopf. Es wird ein Objekt gemäß der Art der Datei erstellt und an dem gewählen Ort plaziert werden.</translation>
+        <translation>Wählen Sie eine Datei auf Ihrem lokalen Rechner aus und klicken Sie danach die &quot;Hochladen&quot; Schaltfläche. Es wird ein Objekt gemäß des Dateityps erstellt und an dem gewählen Ort platziert.</translation>
     </message>
 </context>
 <context>
@@ -21466,7 +21477,7 @@ Sie können zur Auswahl oder zur Navigation auch Ihre Lesezeichen oder Aktuelle 
     </message>
     <message>
         <source>[%classname] Click on the icon to display a context-sensitive menu.</source>
-        <translation>[%classname] Klicke auf das Icon, um ein context-sensitives Menü zu erhalten.</translation>
+        <translation type="unfinished">[%classname] Klicke auf das Icon, um ein  kontextabhängiges Menü zu erhalten.</translation>
     </message>
 </context>
 <context>
@@ -22546,7 +22557,7 @@ The item can viewed by using the URL below.</source>
     </message>
     <message>
         <source>&quot;%name&quot; was updated</source>
-        <translation>&quot;%name&quot; wurde aktuallisiert</translation>
+        <translation>&quot;%name&quot; wurde aktualisiert</translation>
     </message>
     <message>
         <source>The item can be viewed by using the URL below.</source>
@@ -22648,7 +22659,7 @@ The item be can viewed by using the URL below.</source>
     </message>
     <message>
         <source>Add to my notifications</source>
-        <translation>Zu Benachrichtungen hinzufügen</translation>
+        <translation>Zu Benachrichtigungen hinzufügen</translation>
     </message>
     <message>
         <source>Notification for node &lt;%node_name&gt; already exists.</source>
@@ -22671,7 +22682,7 @@ The item be can viewed by using the URL below.</source>
     </message>
     <message>
         <source>Choose which collaboration items you want to get notifications for.</source>
-        <translation>Wählen Sie, für welche Kollaborationelemente Sie Benachrichtigungen bekommen möchten.</translation>
+        <translation>Wählen Sie, für welche Kollaborationselemente Sie Benachrichtigungen bekommen möchten.</translation>
     </message>
 </context>
 <context>
@@ -22969,9 +22980,9 @@ Sie können das Paket auch entfernen ohne es von der Paketliste zu entfernen.</t
         <source>You must now choose which siteaccess the package contents should be installed to.
 The chosen siteaccess determines where design files and settings are written to.
 If unsure choose the siteaccess which reflects the user part of your site, i.e. not admin.</source>
-        <translation type="unfinished">Sie müssen nun auswählen, in welchen Seiten Zugang die Inhalte des Pakets installiert werden soll.
-Der gewählte Seiten Zugang setzt fest, wohin Designdateien und Einstellungen geschrieben werden sollen.
-Falls Sie unsicher sind, wählen Sie einen, der den Benutzerbereich Ihrer Seite widerspiegelt - also z.B. nicht &quot;admin&quot;</translation>
+        <translation>Sie müssen nun auswählen, in welchem Siteaccess die Inhalte des Pakets installiert werden soll.
+Der gewählte Siteaccess setzt fest, wohin Designdateien und Einstellungen geschrieben werden sollen.
+Falls Sie unsicher sind, wählen Sie einen, der den Benutzerbereich Ihrer Seite widerspiegelt - also z.B. nicht &quot;admin&quot;.</translation>
     </message>
     <message>
         <source>Select siteaccess</source>
@@ -24040,11 +24051,11 @@ Wenn Sie auf den Namen klicken, können Sie navigieren. Sie können zur Auswahl 
     </message>
     <message>
         <source>Activate this checkbox if objects from the subnodes of the source should also be fed.</source>
-        <translation>Aktivieren Sie diese Kontrollkästchen, falls auch Objekte von Unterknoten der Quelle eingespeißt werden sollen.</translation>
+        <translation>Aktivieren Sie dieses Kontrollkästchen, falls auch Objekte von Unterknoten der Quelle eingespeist werden sollen.</translation>
     </message>
     <message>
         <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your Web server and eZ Publish configuration.</source>
-        <translation>Benutzen Sie dieses Feld um die Basis-URL Ihrer Seite anzugeben. Sie wird benutzt um die URL für den Export zu generieren. Diese wird sich aus der URL der Seite (z.B. &quot;http://www.example.com/index.php&quot;) un dem Pfad zum Objekt (z.B. &quot;/articles/my_article&quot;)) zusammensetzen. Die URL der Seite hängt von Ihrem Webserver und der eZ Publish Konfiguration ab.</translation>
+        <translation>Benutzen Sie dieses Feld, um die Basis-URL Ihrer Seite anzugeben. Sie wird benutzt, um die URL für den Export zu generieren. Diese wird sich aus der URL der Seite (z.B. &quot;http://www.example.com/index.php&quot;) und dem Pfad zum Objekt (z.B. &quot;/articles/my_article&quot;)) zusammensetzen. Die URL der Seite hängt von Ihrem Webserver und der eZ Publish Konfiguration ab.</translation>
     </message>
     <message>
         <source>Category</source>
@@ -24060,7 +24071,7 @@ Wenn Sie auf den Namen klicken, können Sie navigieren. Sie können zur Auswahl 
     </message>
     <message>
         <source>Enclosure (media)</source>
-        <translation type="unfinished"></translation>
+        <translation>Anhang (Medien)</translation>
     </message>
 </context>
 <context>
@@ -26096,7 +26107,7 @@ Um das Problem zu lösen, müssen Sie eins der folgenden Dinge tun:</translation
     </message>
     <message>
         <source>This section will contain information/help about each step in the setup wizard.</source>
-        <translation>Dieser Teil wird Informationen/Hilfen zu jedem Schritt des Assitenten enthalten.</translation>
+        <translation>Dieser Teil wird Informationen/Hilfen zu jedem Schritt des Assistenten enthalten.</translation>
     </message>
     <message>
         <source>The summary section below will contain information about configured settings.</source>
@@ -27921,7 +27932,9 @@ To do this you need to change the %chown commands under Alternative shell comman
         <source>eZ Publish cannot create some important directories, because there are an files instead of these directories in the same places with the same names.
 You should replace these files with appropriate directories and give necessary permissions to them.
 Without this the setup cannot finish and parts of eZ Publish will fail.</source>
-        <translation type="unfinished">eZ Publish kann einge wichtige Verzeichnisse erstellen, da deren Stelle gleichnamige Dateien anstelle von Verzeichnissen sind.Sie sollten diese Dateien ersetzen und die notwendigen Berechtigungen vergeben.Ohne diese Einstellungen kann eZ Publish nicht installiert werden.</translation>
+        <translation>eZ Publish kann einge wichtige Verzeichnisse erstellen, da deren Stelle gleichnamige Dateien anstelle von Verzeichnissen sind.
+Sie sollten diese Dateien ersetzen und die notwendigen Berechtigungen vergeben.
+Ohne diese Einstellungen kann eZ Publish nicht installiert werden.</translation>
     </message>
     <message>
         <source>eZ publish could not detect the user and group of the webserver.
@@ -27999,8 +28012,8 @@ To do this you need to change the %chown commands under Alternative shell comman
         <source>eZ Publish could not detect the user and group of the web server.
 If you know the user and group of the web server it is recommended to change the ownership of the upload directory to match this user and group.
 To do this you need to change the %chown commands under Alternative shell commands.</source>
-        <translation type="unfinished">eZ publish konnte den Benutzer und die Gruppe des Webservers nicht erkennen.
-Falls Sie das wissen, wird empfohlen das Upload-Verzeichnis so anzupassen, dass Sie diesem benutzer und dieser Gruppe entsprechen.
+        <translation>eZ publish konnte den Benutzer und die Gruppe des Webservers nicht erkennen.
+Falls Sie das wissen, wird empfohlen das Upload-Verzeichnis so anzupassen, dass Sie diesem Benutzer und dieser Gruppe entsprechen.
 Um das zu tun, müssen Sie die %chown Kommandos unter den alternativen Shell-Befehlen anpassen.</translation>
     </message>
     <message>
