@@ -400,7 +400,7 @@
     </message>
     <message>
         <source>Use this checkbox to allow instances of the class to have sub items. If checked, it will be possible to create new sub items. If not checked, the sub items will not be displayed.</source>
-        <translation>Markieren Sie dieses Kontrollkästchen wenn Instanzen dieser Klasse Unterelemente haben können. Wenn es ausgewählt ist, wird es möglich sein, neue Unterelemente zu erstellen. Falls nicht, werden Unterelemente nicht angezeigt werden.</translation>
+        <translation>Markieren Sie dieses Kontrollkästchen wenn Objekte dieser Klasse Unterelemente haben können. Wenn es ausgewählt ist, wird es möglich sein, neue Unterelemente zu erstellen. Falls nicht, werden Unterelemente nicht angezeigt werden.</translation>
     </message>
     <message>
         <source>Use this checkbox to set the default availability for the objects of this class. The availability controls whether an object should be shown even if it does not exist in one of the languages specified by the &quot;SiteLanguageList&quot; setting. If this is the case, the system will use the main language of the object.</source>
@@ -2197,7 +2197,7 @@
     </message>
     <message>
         <source>Sub items</source>
-        <translation>Untergeordnete Einträge</translation>
+        <translation>Unterelemente</translation>
     </message>
     <message>
         <source>Sorting of sub items</source>
@@ -4241,7 +4241,7 @@
     </message>
     <message>
         <source>Permanently remove all items from the trash.</source>
-        <translation>Entferne dauerhaft alle Gegenstände aus dem Papierkorb.</translation>
+        <translation>Entferne dauerhaft alle Elemente aus dem Papierkorb.</translation>
     </message>
     <message>
         <source>There are no items in the trash</source>
@@ -7041,7 +7041,7 @@
     </message>
     <message>
         <source>Use these controls to set the sorting method for the sub items of the current location.</source>
-        <translation>Benutzen Sie diese Schaltfläche, um die Sortiermethode für die Unterelemente des aktuellen Orts einzustellen.</translation>
+        <translation>Sortiermethode für die Unterelemente hier einzustellen.</translation>
     </message>
     <message>
         <source>Descending</source>
@@ -7149,7 +7149,7 @@
     </message>
     <message>
         <source>The &lt;%class_name&gt; class is not configured to contain any sub items.</source>
-        <translation>Die Klasse &lt;%class_name&gt; ist nicht konfiguriert Unterelemente zu enthalten.</translation>
+        <translation>Die Klasse &lt;%class_name&gt; kann keineUnterelemente enthalten.</translation>
     </message>
     <message>
         <source>Edit the contents of this item.</source>
@@ -7221,7 +7221,7 @@
     </message>
     <message>
         <source>Reverse related objects [%related_objects_count]</source>
-        <translation>Verknüpfungen umdrehen [%related_objects_count]</translation>
+        <translation>Objekte, die mit diesem Objekt verknüpft sind [%related_objects_count]</translation>
     </message>
     <message>
         <source>Use this menu to select the language you wish use for the creation and click the &quot;Create here&quot; button. The item will be created within the current location.</source>
@@ -7401,7 +7401,7 @@
     </message>
     <message>
         <source>The item being viewed is not used by any other objects.</source>
-        <translation>Der aktuelle Eintrag wird nicht von anderen Objekten verwendet.</translation>
+        <translation>Dieses Objekt wird nicht von anderen Objekten verwendet.</translation>
     </message>
     <message>
         <source>You cannot remove any language because you do not have permission to edit the current item.</source>
@@ -7425,7 +7425,7 @@
     </message>
     <message>
         <source>Create a new item in the current location. Use the menu on the left to select the type of  item.</source>
-        <translation>Ein neues Element am aktuellen Ort erstellen. Benutzen Sie das Menü links um die Art des Elements auszuwählen.</translation>
+        <translation>Ein neues Element hier erstellen. Benutzen Sie das Menü links um die Art des Elements auszuwählen.</translation>
     </message>
     <message>
         <source>The item being displayed has only one location, which is by default the main location.</source>
@@ -7517,7 +7517,7 @@
     </message>
     <message>
         <source>Create</source>
-        <translation>Erstellen</translation>
+        <translation>Erstelle</translation>
     </message>
     <message>
         <source>in</source>
@@ -7529,7 +7529,7 @@
     </message>
     <message>
         <source>Published order</source>
-        <translation>Sortierung der Inhalte</translation>
+        <translation>Sortierung nach</translation>
     </message>
     <message>
         <source>List of sub items of current node, with controlls to edit, remove and move them directly.</source>
@@ -7616,7 +7616,7 @@
     </message>
     <message>
         <source>Node ID: %node_id Visibility: %node_visibility</source>
-        <translation>Node ID: %node_id Visibility: %node_visibility</translation>
+        <translation>Knoten ID: %node_id Sichtbarkeit: %visibility</translation>
     </message>
     <message>
         <source>Click on the icon to display a context-sensitive menu.</source>
@@ -8459,11 +8459,11 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation>Lesezeichen ablegen</translation>
+        <translation>Lesezeichen setzen</translation>
     </message>
     <message>
         <source>Add the current item to your bookmarks.</source>
-        <translation>Den aktuellen Eintrag zu Ihren Lesezeichen hinzufügen.</translation>
+        <translation>Ein Lesezeichen für dieses Eintrag setzen.</translation>
     </message>
     <message>
         <source>Hide clear cache menu.</source>
@@ -9192,7 +9192,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Add to my bookmarks</source>
-        <translation>Lesezeichen hinzufügen</translation>
+        <translation>Lesezeichen setzen</translation>
     </message>
     <message>
         <source>Add to my notifications</source>
@@ -9248,7 +9248,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Remove bookmark</source>
-        <translation>Lesezeichen entfernen</translation>
+        <translation>Lesezeichen löschen</translation>
     </message>
     <message>
         <source>Choose SiteAccess</source>
@@ -9693,15 +9693,15 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Subtrees [%subtree_count]</source>
-        <translation>Teile der Baumstruktur [%subtree_count]</translation>
+        <translation>Teilbäume [%subtree_count]</translation>
     </message>
     <message>
         <source>Subtree</source>
-        <translation>Teile der Baumstruktur</translation>
+        <translation>Teilbaum</translation>
     </message>
     <message>
         <source>The subtree list is empty.</source>
-        <translation>Die Liste der Teile der Baumstruktur ist leer.</translation>
+        <translation>Die Liste der Teilbäume ist leer.</translation>
     </message>
     <message>
         <source>Add subtrees</source>
@@ -9737,7 +9737,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Subtrees (%subtree_count)</source>
-        <translation>Teile der Baumstruktur (%subtree_count)</translation>
+        <translation>Teilbäume (%subtree_count)</translation>
     </message>
 </context>
 <context>
@@ -9930,7 +9930,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Function limitations</source>
-        <translation>Limitierungen der Funktion</translation>
+        <translation>Einschränkungen der Funktion</translation>
     </message>
     <message>
         <source>Any</source>
@@ -9958,19 +9958,19 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Subtrees [%subtree_count]</source>
-        <translation>Teile der Baumstruktur [%subtree_count]</translation>
+        <translation>Teilbäume [%subtree_count]</translation>
     </message>
     <message>
         <source>Subtree</source>
-        <translation>Teile der Baumstruktur</translation>
+        <translation>Teilbaum</translation>
     </message>
     <message>
         <source>The subtree list is empty.</source>
-        <translation>Die Liste der Teile der Baumstruktur ist leer.</translation>
+        <translation>Die Liste der Teilbäume ist leer.</translation>
     </message>
     <message>
         <source>Add subtrees</source>
-        <translation>Teile der Baumstruktur hinzufügen</translation>
+        <translation>Teilbäume hinzufügen</translation>
     </message>
     <message>
         <source>The function limitations of this policy can not be edited. This is either because the function simply does not support limitations or because the function was assigned without limitations when the policy was created.</source>
@@ -9994,7 +9994,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Subtrees (%subtree_count)</source>
-        <translation>Teile der Baumstruktur (%subtree_count)</translation>
+        <translation>Teilbäume (%subtree_count)</translation>
     </message>
 </context>
 <context>
@@ -10061,7 +10061,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Subtree</source>
-        <translation>Teile der Baumstruktur</translation>
+        <translation>Teilbaum</translation>
     </message>
     <message>
         <source>Section</source>
@@ -11146,7 +11146,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Siteaccess setting</source>
-        <translation>Seiten Zugang Einstellungen</translation>
+        <translation>Seitenzugangs- Einstellungen</translation>
     </message>
     <message>
         <source>Override setting (global)</source>
@@ -18833,7 +18833,7 @@ Wenn Sie einen Kommentar zum Freigebenden schicken oder den Status sehen wollen,
     </message>
     <message>
         <source>Copy subtree Notification</source>
-        <translation>Benachrichtigungen über Teile der Baumstruktur kopieren</translation>
+        <translation>Benachrichtigungen über Teilbaum kopieren</translation>
     </message>
 </context>
 <context>
@@ -22250,7 +22250,7 @@ Falls Sie das machen, werden die Unterelemente ebenfalls entfernt.</translation>
     </message>
     <message>
         <source>Removed nodes can be retrieved later. You will find them in the trash.</source>
-        <translation>Die entfernten Knoten können auch später zurückgeholt werden. Sie finden diese im Papierkorb.</translation>
+        <translation>Die gelöschten Elemente können auch später zurückgeholt werden. Sie finden diese im Papierkorb.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove these nodes?</source>
@@ -23264,7 +23264,7 @@ Sie können das Paket auch entfernen ohne es von der Paketliste zu entfernen.</t
     </message>
     <message>
         <source>Please choose the subtree(s) you wish to export.</source>
-        <translation>Bitte wählen Sie einen oder mehrere Teile der Baumstruktur für den Export aus.</translation>
+        <translation>Bitte wählen Sie einen oder mehrere Teilbäumer für den Export aus.</translation>
     </message>
     <message>
         <source>Choose node for export</source>
@@ -23700,7 +23700,7 @@ Die Sektionen können Sie über das Menü oben erreichen.</translation>
     </message>
     <message>
         <source>Subtree</source>
-        <translation>Teile der Baumstruktur</translation>
+        <translation>Teilbaum</translation>
     </message>
     <message>
         <source>Update</source>

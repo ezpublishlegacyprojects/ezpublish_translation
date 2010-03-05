@@ -808,4 +808,8 @@
     <source>Properties</source>
     <target>Eigenschaften</target>
 </phrase>
+<phrase>
+    <source>Sub items</source>
+    <target>Unterelemente</target>
+</phrase>
 </QPH>
