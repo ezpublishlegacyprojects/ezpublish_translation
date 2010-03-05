@@ -140,7 +140,7 @@
     </message>
     <message>
         <source>Select the item that you want to be the default selection then click &quot;OK&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez l'élément à utiliser comme sélection par défaut, puis cliquez sur &quot;OK&quot;</translation>
     </message>
 </context>
 <context>
@@ -155,7 +155,7 @@
     </message>
     <message>
         <source>Select the location that should be the default location then click &quot;OK&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez l'emplacement à utiliser par défaut, puis cliquez sur &quot;OK&quot;</translation>
     </message>
 </context>
 <context>
@@ -310,67 +310,67 @@
     </message>
     <message>
         <source>Use this field to set the internal name of the class. The identifier will be used in templates and in PHP code. Allowed characters are letters, numbers and underscores.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ce champ pour définir le nom interne de cette classe. Cet identifiant sera utilisé dans les templates and le code PHP. Seuls les lettres, les chiffres and le caractère souligné sont autorisés.</translation>
     </message>
     <message>
         <source>Use this field to configure how the name of the objects are generated. Type in the identifiers of the attributes that should be used. The identifiers must be enclosed in angle brackets. Text outside angle brackets will be included as it is shown here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ce champ pour définir la manière dont le nom des objets sont générés. Entrez l'identifiant des attributs qui doivent être utilisés. Les identifiants doivent être encadrés par les symboles inférieur (&lt;) and supérieur (&gt;). Les textes à l'extérieur de ces caractères seront utilisés tels quels.</translation>
     </message>
     <message>
         <source>URL alias name pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle de génération de l'URL</translation>
     </message>
     <message>
         <source>Use this field to configure how the url alias of the objects are generated (applies to nice URLs). Type in the identifiers of the attributes that should be used. The identifiers must be enclosed in angle brackets. Text outside angle brackets will be included as is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ce champ pour définir la manière dont les URL des objets sont générées par le système de réécriture d'URL. Entrez l'identifiant des attributs qui doivent être utilisés. Les identifiants doivent être encadrés par les symboles inférieur (&lt;) and supérieur (&gt;). Les textes à l'extérieur de ces caractères seront utilisés tels quels.</translation>
     </message>
     <message>
         <source>Use this checkbox to allow instances of the class to have sub items. If checked, it will be possible to create new sub items. If not checked, the sub items will not be displayed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez cette case à cocher pour autoriser les instances de cette classe à avoir des sous-éléments. Si cochée, il sera possible de créer des sous-éléments. Si non cochée, les sous-éléments ne seront pas affichés.</translation>
     </message>
     <message>
         <source>Use this checkbox to set the default availability for the objects of this class. The availability controls whether an object should be shown even if it does not exist in one of the languages specified by the &quot;SiteLanguageList&quot; setting. If this is the case, the system will use the main language of the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez cette case à cocher pour définir la disponibilité par défaut des instances de cette classe. La disponibilité définit si un objet doit être affiché même si il n'existe pas dans une des langues spécifiées dans le paramètre &quot;SiteLanguageList&quot;. Dans ce cas, le système utilisera la langue par défaut de l'objet.</translation>
     </message>
     <message>
         <source>Select attribute for removal. Click the &quot;Remove selected attributes&quot; button to remove the selected attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un attribute pour suppression. Cliquez sur le bouton &quot;Remove selected attributes&quot; pour supprimer les attributs sélectionnés.</translation>
     </message>
     <message>
         <source>Use this field to set the internal name of the attribute. The identifier will be used in templates and in PHP code. Allowed characters are letters, numbers and underscores.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ce champs pour définir le nom interne de l'attribut. L'identifiant sera utilisé dans les template et le code PHP. Seuls les lettres, les chiffres and le caractère souligné sont autorisés.</translation>
     </message>
     <message>
         <source>Use this checkbox to specify whether the user should be forced to enter information into the attribute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez cette case à cocher pour rendre la saisie de cet attribut obligatoire.</translation>
     </message>
     <message>
         <source>Use this checkbox to specify whether the contents of the attribute should be indexed by the search engine.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez cette case à cocher pour que le contenu de cet attribut soit indexé par le moteur de recherche.</translation>
     </message>
     <message>
         <source>Use this checkbox to specify whether the attribute should collect input from users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez cette case à cocher pour rendre cet attribut collecteur d'information auprès des utilisateurs.</translation>
     </message>
     <message>
         <source>The &lt;%datatype_name&gt; datatype cannot be used as an information collector.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le type de donnée &lt;%datatype_name&gt; ne peut pas être configuré comme collecteur d'information.</translation>
     </message>
     <message>
         <source>Edit &lt;%class_name&gt; (%object_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier &lt;%class_name&gt; (%object_count)</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Description</translation>
     </message>
     <message>
         <source>Use this field to set the informal description of the class. The description field can contain whitespaces and special characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ce champ pour définir une description de la classe. La description peut contenir des espaces et des caractères spéciaux.</translation>
     </message>
     <message>
         <source>List of class attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste des attributs de la classe</translation>
     </message>
     <message>
         <source>Class attribute item</source>
@@ -378,19 +378,19 @@
     </message>
     <message>
         <source>Use this field to set the informal description of the attribute. This field can contain whitespaces and special characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ce champ pour définir la description de l'attribut. La description peut contenir des espaces et des caractères spéciaux.</translation>
     </message>
     <message>
         <source>Use this category to group attributes together in edit interface, some categories might also be hidden in full view if they are for instance only meta attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez cette catégorie pour grouper les attributs dans l'interface de modification, certaines de ces catégories peuvent aussi être cachées dans la vue full par exemple si ce sont uniquement des meta-informations.</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished">Par défaut</translation>
+        <translation>Par défaut</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Catégorie</translation>
     </message>
 </context>
 <context>
@@ -441,11 +441,11 @@
     </message>
     <message>
         <source>The class is temporarily locked and thus it cannot be edited by you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette classe est temporairement verrouillée et par conséquent vous ne pouvez la modifier.</translation>
     </message>
     <message>
         <source>The class will be available for editing after it has been stored by the current modifier or when it is unlocked by the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette classe sera à nouveau modifiable une fois que le modificateur actuel ou le système l'aura déverouillé.</translation>
     </message>
 </context>
 <context>
@@ -459,7 +459,7 @@
     <name>design/admin/class/groupedit</name>
     <message>
         <source>Edit &lt;%group_name&gt; [Class group]</source>
-        <translation>Editer &lt;%group_name&gt; [Class group]</translation>
+        <translation>Modifier &lt;%group_name&gt; [Class group]</translation>
     </message>
     <message>
         <source>Name</source>
@@ -538,7 +538,7 @@
     </message>
     <message>
         <source>Edit the &lt;%class_name&gt; class.</source>
-        <translation>Editer la classe &lt;%class_name&gt;.</translation>
+        <translation>Modifier la classe &lt;%class_name&gt;.</translation>
     </message>
     <message>
         <source>Class groups (%group_count)</source>
@@ -546,15 +546,15 @@
     </message>
     <message>
         <source>List of class groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste des groupes de classes</translation>
     </message>
     <message>
         <source>List of recently modified classes</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste des classes modifiées récemment</translation>
     </message>
     <message>
         <source>Objects</source>
-        <translation type="unfinished">Objets</translation>
+        <translation>Objets</translation>
     </message>
 </context>
 <context>
@@ -593,11 +593,11 @@
     </message>
     <message>
         <source>Removing class &lt;%1&gt; will result in the removal of %2 object and all its sub items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer la classe &lt;%1&gt; entrainera la suppression de %2 objet et de tous ces sous-éléments.</translation>
     </message>
     <message>
         <source>Removing class &lt;%1&gt; will result in the removal of %2 objects and all their sub items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer la classe &lt;%1&gt; entrainera la suppression de %2 objets et de tous leurs sous-éléments.</translation>
     </message>
 </context>
 <context>
@@ -4559,7 +4559,7 @@
     </message>
     <message>
         <source>If your installation is not running eZ Publish Premium, it might not be up to date with the latest maintenance service packs. Contact eZ Systems.</source>
-        <translation>Si vous n'avez pas souscrit à eZ Publish Premium, votre installation n'est pas peut être pas à jour. Contactez eZ Systems.</translation>
+        <translation>Si vous n'avez pas souscrit à eZ Publish Premium, votre installation n'est peut-être pas à jour. Contactez eZ Systems.</translation>
     </message>
 </context>
 <context>
@@ -26310,12 +26310,6 @@ your account.</source>
     </message>
 </context>
 <context>
-    <name>kernel/content/urlalias_global</name>
-</context>
-<context>
-    <name>kernel/content/urlalias_wildcard</name>
-</context>
-<context>
     <name>kernel/contentclass</name>
     <message>
         <source>New %1</source>
@@ -26802,9 +26796,6 @@ your account.</source>
     </message>
 </context>
 <context>
-    <name>kernel/rss/edit_export</name>
-</context>
-<context>
     <name>kernel/search</name>
     <message>
         <source>Search stats</source>
@@ -27210,9 +27201,6 @@ your account.</source>
     </message>
 </context>
 <context>
-    <name>kernel/state/edit</name>
-</context>
-<context>
     <name>kernel/trigger</name>
     <message>
         <source>Trigger</source>
@@ -27407,9 +27395,6 @@ your account.</source>
         <comment>Keyword index name</comment>
         <translation type="obsolete">Index</translation>
     </message>
-</context>
-<context>
-    <name>lib/eztemplate</name>
 </context>
 <context>
     <name>lib/template</name>
