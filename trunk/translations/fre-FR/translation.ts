@@ -1326,11 +1326,11 @@
     </message>
     <message>
         <source>To select objects, choose the appropriate radio button or checkbox(es), then click the &quot;Select&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour sélectionner des objets, choisissez le bouton radio ou les cases à cocher appropriés, puis cliquez sur le bouton &quot;Select&quot;</translation>
     </message>
     <message>
         <source>To select an object that is a child of one of the displayed objects, click the object name for a list of the children of the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour sélectionner un objet enfant d'un de ceux affichés, cliquez sur le nom de l'objet pour obtenir la liste de ces enfants.</translation>
     </message>
 </context>
 <context>
@@ -1345,7 +1345,7 @@
     </message>
     <message>
         <source>Select the items that you want to bookmark using the checkboxes then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez les éléments que vous voulez ajouter dans vos signets en utilisant les cases à cocher puis cliquez sur &quot;Select&quot;.</translation>
     </message>
 </context>
 <context>
@@ -1364,11 +1364,11 @@
     </message>
     <message>
         <source>Choose a new location for the copy of &lt;%object_name&gt; using the radio buttons then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nouvel emplacement pour la copie de &lt;%object_name&gt; en utilisant les boutons radio puis cliquez sur &quot;Select&quot;.</translation>
     </message>
     <message>
         <source>Choose a new location for the copy of subtree of node &lt;%node_name&gt; using the radio buttons then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nouvel emplacement pour la copie de la sous-arborescence du nœud  &lt;%node_name&gt; en utilisant les boutons radio puis cliquez sur &quot;Select&quot;.</translation>
     </message>
 </context>
 <context>
@@ -1383,7 +1383,7 @@
     </message>
     <message>
         <source>Select the item that you want to export using the checkboxes then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez l'élément que vous voulez exporter en utilisant les cases à cocher puis cliquez sur &quot;Select&quot;.</translation>
     </message>
 </context>
 <context>
@@ -1398,7 +1398,7 @@
     </message>
     <message>
         <source>Choose a location for the new &lt;%classname&gt; using the radio buttons then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un emplacement pour le nouvel objet &lt;%classname&gt; en utilisant les boutons radio puis cliquez sur &quot;Select&quot;.</translation>
     </message>
 </context>
 <context>
@@ -1413,7 +1413,7 @@
     </message>
     <message>
         <source>Choose a new location for &lt;%object_name&gt; using the radio buttons then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nouvel emplacement pour &lt;%object_name&gt; en utilisant les boutons radio puis cliquez sur &quot;Select&quot;.</translation>
     </message>
 </context>
 <context>
@@ -1432,7 +1432,7 @@
     </message>
     <message>
         <source>Choose a new location for &lt;%version_name&gt; using the radio buttons then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nouvel emplacement pour &lt;%version_name&gt; en utilisant les boutons radio puis cliquez sur &quot;Select&quot;.</translation>
     </message>
 </context>
 <context>
@@ -1447,7 +1447,7 @@
     </message>
     <message>
         <source>Choose locations for &lt;%version_name&gt; using the checkboxes then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez les emplacements pour &lt;%version_name&gt; en utilisant les cases à cocher puis cliquez sur &quot;Select&quot;.</translation>
     </message>
 </context>
 <context>
@@ -1458,11 +1458,11 @@
     </message>
     <message>
         <source>Choose objects that you want to relate to &lt;%version_name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez les objets que vous mettre en relation avec &lt;%version_name&gt;</translation>
     </message>
     <message>
         <source>Use the checkboxes to choose the objects that you want to relate to &lt;%version_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez les cases à cocher pour choisir les objets que vous voulez mettre en relation avec &lt;%version_name&gt;.</translation>
     </message>
 </context>
 <context>
@@ -1473,22 +1473,22 @@
     </message>
     <message>
         <source>Choose the node to exchange for &lt;%object_name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez le nœud à échanger avec &lt;%object_name&gt;</translation>
     </message>
     <message>
         <source>Use the radio buttons to choose the node that you want to swap with &lt;%object_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez les boutons radio pour choisir le nœud avec lequel échanger &lt;%object_name&gt;.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/children_reverserelatedlist</name>
     <message>
         <source>Item</source>
-        <translation>Elément</translation>
+        <translation>Élément</translation>
     </message>
     <message>
         <source>Objects referring to this item</source>
-        <translation type="unfinished"></translation>
+        <translation>Objets en relation avec cet élément</translation>
     </message>
 </context>
 <context>
@@ -1503,11 +1503,11 @@
     </message>
     <message>
         <source>You have already submitted feedback. The previously submitted data was:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous avez déjà soumis ce formulaire. Voici les informations que vous aviez soumises&#160;:</translation>
     </message>
     <message>
         <source>Thanks for your feedback. The following information was collected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Merci. Les informations suivantes ont été enregistrées.</translation>
     </message>
 </context>
 <context>
@@ -1526,7 +1526,7 @@
     </message>
     <message>
         <source>You have already submitted this form. The previously submitted data was:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous avez déjà soumis ce formulaire. Voici les informations que vous aviez soumises&#160;:</translation>
     </message>
 </context>
 <context>
@@ -1545,11 +1545,11 @@
     </message>
     <message>
         <source>Anonymous users are not allowed to vote in this poll. Please log in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les utilisateurs anonymes n'ont pas le droit de voter pour ce sondage. Veuillez vous identifier.</translation>
     </message>
     <message>
         <source>You have already voted in this poll.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous avez déjà voté pour ce sondage.</translation>
     </message>
 </context>
 <context>
@@ -1599,7 +1599,7 @@
     </message>
     <message>
         <source>You do not have permission to create an object of the requested class in any language.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez pas le droit de créer un objet de cette classe dans aucune langue.</translation>
     </message>
 </context>
 <context>
