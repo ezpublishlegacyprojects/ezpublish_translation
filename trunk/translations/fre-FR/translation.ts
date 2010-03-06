@@ -7543,23 +7543,23 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Manage URL aliases</source>
-        <translation type="unfinished"></translation>
+        <translation>Gérer les alias d'URL</translation>
     </message>
     <message>
         <source>Choose siteaccess</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisir un siteaccess</translation>
     </message>
     <message>
         <source>Create RSS/ATOM feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un flux RSS/ATOM</translation>
     </message>
     <message>
         <source>Remove RSS/ATOM feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer un flux RSS/ATOM</translation>
     </message>
     <message>
         <source>New translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouvelle traduction</translation>
     </message>
 </context>
 <context>
@@ -25144,7 +25144,7 @@ your account.</source>
     </message>
     <message>
         <source>Class attributes</source>
-        <translation type="unfinished">Attributs de classe</translation>
+        <translation>Attributs de classe</translation>
     </message>
 </context>
 <context>
