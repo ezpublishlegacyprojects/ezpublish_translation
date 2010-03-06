@@ -6789,33 +6789,33 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Search in all content</source>
-        <translation type="unfinished"></translation>
+        <translation>Chercher dans tous les contenus</translation>
     </message>
     <message>
         <source>Search in &apos;%node&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Chercher à partir de &apos;%node&apos;</translation>
     </message>
     <message>
         <source>User perferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Préférences utilisateur</translation>
     </message>
 </context>
 <context>
     <name>design/admin/pagelayout/path</name>
     <message>
         <source>You are here:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous êtes ici&#160;:</translation>
     </message>
 </context>
 <context>
     <name>design/admin/pagelayout/rightmenu</name>
     <message>
         <source>Show / Hide rightmenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher / Cacher le menu de droite</translation>
     </message>
     <message>
         <source>Hide / Show rightmenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Cacher / Afficher le menu de droite</translation>
     </message>
 </context>
 <context>
@@ -6866,7 +6866,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Site structure</source>
-        <translation type="unfinished"></translation>
+        <translation>Structure du site</translation>
     </message>
 </context>
 <context>
@@ -6976,31 +6976,31 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Disable &amp;quot;Back to edit&amp;quot; checkbox when editing content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactiver la case à cocher &amp;quot;Retour à l'édition&amp;quot; dans le formulaire de modification d'un contenu.</translation>
     </message>
     <message>
         <source>Enable &amp;quot;Back to edit&amp;quot; checkbox when editing content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer la case à cocher &amp;quot;Retour à l'édition&amp;quot; dans le formulaire de modification d'un contenu.</translation>
     </message>
     <message>
         <source>Edit profile</source>
-        <translation type="unfinished">Modifier profile</translation>
+        <translation>Modifier mon profil</translation>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Tableau de bord</translation>
     </message>
     <message>
         <source>Preview tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Onglet de prévisualisation</translation>
     </message>
     <message>
         <source>Disable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactiver l'onglet de prévisualisation pendant la naviguation.</translation>
     </message>
     <message>
         <source>Enable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer l'onglet de prévisualisation pendant la naviguation.</translation>
     </message>
 </context>
 <context>
@@ -7109,7 +7109,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>States</source>
-        <translation type="unfinished"></translation>
+        <translation>États des objets</translation>
     </message>
 </context>
 <context>
@@ -7416,11 +7416,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>PDF exports [%export_count]</source>
-        <translation type="unfinished"></translation>
+        <translation>Exports PDF [%export_count]</translation>
     </message>
     <message>
         <source>PDF exports (%export_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Exports PDF (%export_count)</translation>
     </message>
 </context>
 <context>
@@ -7612,7 +7612,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Your email address</source>
-        <translation type="unfinished">Votre courriel</translation>
+        <translation>Votre adresse email</translation>
     </message>
 </context>
 <context>
