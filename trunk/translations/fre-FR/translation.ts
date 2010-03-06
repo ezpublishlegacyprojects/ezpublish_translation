@@ -5720,127 +5720,127 @@
     </message>
     <message>
         <source>You do not have permission to remove any of the items from the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez le droit de supprimer aucun des éléments de la liste ci-dessus.</translation>
     </message>
     <message>
         <source>You cannot update the priorities because you do not have permission to edit the current item or because a non-priority sorting method is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas mettre à jour les priorités parce que vous n'avez pas le droit de modifier l'élément selectionné ou parce que la priorité n'est pas utilisé comme critère de tri.</translation>
     </message>
     <message>
         <source>Use this menu to select the type of item you want to create then click the &quot;Create here&quot; button. The item will be created in the current location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ce menu pour sélectionner le type d'élément que vous voulez créer puis cliquez sur le bouton &quot;Créer ici&quot;. Cet élément sera créé à l'emplement courant.</translation>
     </message>
     <message>
         <source>Use this menu to select the language you want to use for the creation then click the &quot;Create here&quot; button. The item will be created in the current location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ce menu pour sélectionner la langue à utiliser pour la création puis cliquez sur le bouton &quot;Créer ici&quot;. Cet élément sera créé à l'emplacement courant.</translation>
     </message>
     <message>
         <source>Create a new item in the current location. Use the menu on the left to select the type of  item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouvel élément à l'emplacement actuel. Utilisez le menu de gauche pour sélectionner le type d'élément.</translation>
     </message>
     <message>
         <source>You do not have permission to create new items in the current location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez pas le droit de créer de nouveaux éléments à l'emplacement actuel.</translation>
     </message>
     <message>
         <source>You cannot set the sorting method for the current location because you do not have permission to edit the current item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas définir la méthode de tri à l'emplacement actuel parce que vous n'avez pas le droit de modifier l'élément courant.</translation>
     </message>
     <message>
         <source>Use these checkboxes to select items for removal. Click the &quot;Remove selected&quot; button to remove the selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez les cases à cocher pour sélectionner les éléments à supprimer. Cliquez sur le bouton &quot;Supprimer la sélection&quot; pour supprimer les éléments sélectionnés.</translation>
     </message>
     <message>
         <source>You do not have permission to remove this item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez pas le droit de supprimer cet élément.</translation>
     </message>
     <message>
         <source>Use the priority fields to control the order in which the items appear. You can use both positive and negative integers. Click the &quot;Update priorities&quot; button to apply the changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez le champ priorité pour contrôler l'ordre dans lequel les éléments apparaissent. Vous pouvez utiliser des priorités positives et négatives. Cliquez sur le bouton &quot;Mettre à jour les priorités&quot; pour enregistrer les changements.</translation>
     </message>
     <message>
         <source>You are not allowed to update the priorities because you do not have permission to edit &lt;%node_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'êtes pas autorisé à mettre à jour les priorités parce que vous n'avez pas le droit de modifier &lt;%node_name&gt;.</translation>
     </message>
     <message>
         <source>You cannot make a copy of &lt;%child_name&gt; because you do not have create permission for &lt;%node_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas copier &lt;%child_name&gt; parce que vous n'avez pas le droit de créer des sous-éléments de &lt;%node_name&gt;.</translation>
     </message>
     <message>
         <source>You do not have permission to edit &lt;%child_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez pas le droit de modifier &lt;%child_name&gt;.</translation>
     </message>
     <message>
         <source>Use these checkboxes to select items for removal. Click the &quot;Remove selected&quot; button to  remove the selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ces cases à cocher pour sélectionner les éléments à supprimer. Cliquez sur le bouton &quot;Supprimer la sélection&quot; pour supprimer les éléments sélectionnés.</translation>
     </message>
     <message>
         <source>You do not have permission to edit %child_name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez pas le droit de modifier %child_name.</translation>
     </message>
     <message>
         <source>This location cannot be removed either because you do not have permission to remove it or because it is currently being displayed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cet emplacement ne peut être supprimé soit parce que vous n'avez pas le droit de le supprimer ou parce qu'il est actuellement affiché.</translation>
     </message>
     <message>
         <source>The item being displayed has only one location, which is by default the main location.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'élément actuellement affiché n'a qu'un seul emplacement qui est l'emplacement principal.</translation>
     </message>
     <message>
         <source>You cannot set the main location because you do not have permission to edit the item being displayed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas définir l'emplacement principal parce que vous n'avez pas le droit de modifier l'élément affiché.</translation>
     </message>
     <message>
         <source>You cannot remove any locations because you do not have permission to edit the current item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez supprimer aucun emplacement car vous n'avez pas le droit de modifier l'élément courant.</translation>
     </message>
     <message>
         <source>You cannot add new locations because you do not have permission to edit the current item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas ajouter de nouveaux emplacements parce que vous n'avez pas le droit de modifier l'élément courant.</translation>
     </message>
     <message>
         <source>Select the desired main location using the radio buttons above then click this button to store the setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez l'emplacement principal souhaité en utilisant les boutons radio ci-dessus puis cliquez sur ce bouton pour enregistrer.</translation>
     </message>
     <message>
         <source>You cannot set the main location because there is only one location present.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez définir cet emplacement comme emplacement principal car il n'y a qu'un seul emplacement.</translation>
     </message>
     <message>
         <source>You cannot set the main location because you do not have permission to edit the current item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas définir l'emplacement principal parce que vous n'avez pas le droit de modifier l'élément courant.</translation>
     </message>
     <message>
         <source>You do not have permission to edit this item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez pas le droit de modifier cet élément.</translation>
     </message>
     <message>
         <source>You do not have permission to move this item to another location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez pas le droit de déplacer cet élément vers un autre emplacement.</translation>
     </message>
     <message>
         <source>The item being viewed is not used by any other objects.</source>
-        <translation>L&apos;élément actuellement affiché n&apos;est pas utilisé par aucun autre objet.</translation>
+        <translation>L&apos;élément actuellement affiché n&apos;est utilisé par aucun autre objet.</translation>
     </message>
     <message>
         <source>You cannot remove any language because you do not have permission to edit the current item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez supprimer aucunes des langues parce que vous n'avez pas le droit de modifier l'élément courant.</translation>
     </message>
     <message>
         <source>Select the desired main language using the radio buttons above then click this button to store the setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la langue principale en utilisant les boutons radio ci-dessus puis cliquez sur ce bouton pour enregistrer.</translation>
     </message>
     <message>
         <source>You cannot change the main language because the object is not translated to any other languages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas changer la langue principale parce que cet objet n'est traduit dans un aucune autre langue.</translation>
     </message>
     <message>
         <source>You cannot change the main language because you do not have permission to edit the current item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas changer la langue princiaple parce que vous n'avez pas le droit de modifier l'élément courant.</translation>
     </message>
     <message>
         <source>You do not have permission to change this setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez pas le droit de changer ce paramètre.</translation>
     </message>
     <message>
         <source>Move selected</source>
@@ -5848,75 +5848,75 @@
     </message>
     <message>
         <source>Move the selected items from the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacer les éléments sélectionnés de la liste ci-dessus.</translation>
     </message>
     <message>
         <source>You do not have permission to move any of the items from the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez le droit de déplacer aucun des éléments de la liste ci-dessus.</translation>
     </message>
     <message>
         <source>Object states for object</source>
-        <translation type="unfinished"></translation>
+        <translation>États pour cet objet</translation>
     </message>
     <message>
         <source>Content object state group</source>
-        <translation type="unfinished"></translation>
+        <translation>Groupe d'état d'objet de conteny</translation>
     </message>
     <message>
         <source>Available states</source>
-        <translation type="unfinished"></translation>
+        <translation>États disponibles</translation>
     </message>
     <message>
         <source>No content object state is configured. This can be done %urlstart here %urlend.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun état n'est configuré. Ceci peut être réaliser %urlstart ici %urlend.</translation>
     </message>
     <message>
         <source>Set states</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir les états</translation>
     </message>
     <message>
         <source>Apply states from the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer les états de la liste ci-dessus.</translation>
     </message>
     <message>
         <source>No state to be applied to this content object. You might need to be assigned a more permissive access policy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun état ne peut être appliqué à cet objet de contenu. Vous avez peut-être besoin d'accès plus permissifs.</translation>
     </message>
     <message>
         <source>Object states</source>
-        <translation type="unfinished"></translation>
+        <translation>États de l'objet</translation>
     </message>
     <message>
         <source>Hide state assignment widget.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cacher l'interface d'assignation des états.</translation>
     </message>
     <message>
         <source>Show state assignment widget.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher l'interface d'assignation des états.</translation>
     </message>
     <message>
         <source>Tab is disabled, enable on dashboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cet onglet est désactivé, activez le sur le tableau de bord.</translation>
     </message>
     <message>
         <source>Translations (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Traductions (%count)</translation>
     </message>
     <message>
         <source>Locations (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Emplacements (%count)</translation>
     </message>
     <message>
         <source>Relations (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Relations (%count)</translation>
     </message>
     <message>
         <source>Roles (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rôles (%count)</translation>
     </message>
     <message>
         <source>Policies (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Politiques de sécurité (%count)</translation>
     </message>
     <message>
         <source>Sub items (%children_count)</source>
@@ -5924,67 +5924,67 @@
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished">Créer</translation>
+        <translation>Créer</translation>
     </message>
     <message>
         <source>in</source>
-        <translation type="unfinished">dans</translation>
+        <translation>en</translation>
     </message>
     <message>
         <source>Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Ici</translation>
     </message>
     <message>
         <source>Published order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordre</translation>
     </message>
     <message>
         <source>List of sub items of current node, with controlls to edit, remove and move them directly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste des sous-éléments du nœud courant, avec les boutons pour les modifier, les supprimer et les déplacer.</translation>
     </message>
     <message>
         <source>Node and object details like creator, when it was created, section it belongs to, number of versions and translations, Node ID and Object ID.</source>
-        <translation type="unfinished"></translation>
+        <translation>Détail du nœud et de l'objet comme son créateur, sa date de création, la section à laquelle il appartient, nombre de versions et de traductions, ID du nœud et de l'objet.</translation>
     </message>
     <message>
         <source>Content state</source>
-        <translation type="unfinished"></translation>
+        <translation>État du contenu</translation>
     </message>
     <message>
         <source>States and their states groups for current object.</source>
-        <translation type="unfinished"></translation>
+        <translation>États et groupes d'états du l'objet courant.</translation>
     </message>
     <message>
         <source>State group</source>
-        <translation type="unfinished"></translation>
+        <translation>Groupe d'états</translation>
     </message>
     <message>
         <source>No content object state is configured. This can be done %urlstart here%urlend.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun état d'objet de contenu n'est configuré. Ceci peut être fait %urlstart ici%urlend.</translation>
     </message>
     <message>
         <source>Locations (aka Nodes) for current object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Emplacements (ie. nœeud) pour l'objet courant.</translation>
     </message>
     <message>
         <source>New translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouvelle traduction</translation>
     </message>
     <message>
         <source>Policy list and the Role that are assignet to current node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste des politiques de sécurité and rôles assignés au nœud courant.</translation>
     </message>
     <message>
         <source>Limited to</source>
-        <translation type="unfinished"></translation>
+        <translation>Limité à</translation>
     </message>
     <message>
         <source>%limitation_identifier %limitation_value</source>
-        <translation type="unfinished"></translation>
+        <translation>%limitation_identifier %limitation_value</translation>
     </message>
     <message>
         <source>Object relation list from current object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste des relations pour l'objet courant.</translation>
     </message>
     <message>
         <source>Related objects (%related_objects_count)</source>
@@ -5992,7 +5992,7 @@
     </message>
     <message>
         <source>Reverse object relation list to current object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Objets associés par relation inverse avec l'objet courant.</translation>
     </message>
     <message>
         <source>Reverse related objects (%related_objects_count)</source>
@@ -6000,7 +6000,7 @@
     </message>
     <message>
         <source>List of roles assigned with and without limitations for current node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste des rôles assignés avec ou sans limitations pour le nœud courant.</translation>
     </message>
     <message>
         <source>Translations (%translations)</source>
@@ -6008,11 +6008,11 @@
     </message>
     <message>
         <source>Existing translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traductions existantes</translation>
     </message>
     <message>
         <source>Language list of translations for current object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste des traductions de l'objet courant.</translation>
     </message>
 </context>
 <context>
