@@ -3576,199 +3576,199 @@
     <name>design/admin/content/urlalias</name>
     <message>
         <source>The selected aliases were successfully removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les alias sélectionnés ont bien été supprimés.</translation>
     </message>
     <message>
         <source>All aliases for this node were successfully removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les alias de ce nœud ont bien été supprimés.</translation>
     </message>
     <message>
         <source>The specified language code &lt;%language&gt; is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le code du langage &lt;%language&gt; n'est pas valide.</translation>
     </message>
     <message>
         <source>Text is missing for the URL alias</source>
-        <translation type="unfinished"></translation>
+        <translation>Le texte est manquant pour l'alias d'URL</translation>
     </message>
     <message>
         <source>Enter text in the input box to create a new alias.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le texte dans le champ pour créer un nouveal alias.</translation>
     </message>
     <message>
         <source>The URL alias was successfully created, but was modified by the system to &lt;%new_alias&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>L'alias d'URL a bien été créé, mais a été modifié en &lt;%new_alias&gt;  par le système </translation>
     </message>
     <message>
         <source>Invalid characters will be removed or transformed to valid characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les caractères invalides seront supprimés ou transformés en caractères valides.</translation>
     </message>
     <message>
         <source>Existing objects or functionality with the same name take precedence on the name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les objets ou les fonctionnalités existants avec le même nom ont la priorité au niveau du nom.</translation>
     </message>
     <message>
         <source>The URL alias &lt;%new_alias&gt; was successfully created</source>
-        <translation type="unfinished"></translation>
+        <translation>L'alias d'URL &lt;%new_alias&gt; a bien été créé.</translation>
     </message>
     <message>
         <source>The URL alias &amp;lt;%new_alias&amp;gt; already exists, and it points to &amp;lt;%action_url&amp;gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>L'alias d'URL &amp;lt;%new_alias&amp;gt; existe déjà et pointe vers &amp;lt;%action_url&amp;gt;</translation>
     </message>
     <message>
         <source>URL aliases for &lt;%node_name&gt; [%alias_count]</source>
-        <translation type="unfinished"></translation>
+        <translation>Aalias d'URL for &lt;%node_name&gt; [%alias_count]</translation>
     </message>
     <message>
         <source>The current item does not have any aliases associated with it.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'élément courant n'a aucun alias.</translation>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation type="unfinished">Inverser la sélection.</translation>
+        <translation>Inverser la sélection.</translation>
     </message>
     <message>
         <source>URL alias</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias d'URL</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Langue</translation>
+        <translation>Langue</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Type</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Redirect</source>
-        <translation type="unfinished">Redirection</translation>
+        <translation>Redirection</translation>
     </message>
     <message>
         <source>Direct</source>
-        <translation type="unfinished"></translation>
+        <translation>Direct</translation>
     </message>
     <message>
         <source>Remove selected</source>
-        <translation type="unfinished">Supprimer la sélection</translation>
+        <translation>Supprimer la sélection</translation>
     </message>
     <message>
         <source>Remove selected alias from the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les alias d'URL sélectionnés dans la liste ci-dessus.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the selected aliases?</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes vous sûr de vouloir supprimer les alias d'URL sélectionnés&#160;?</translation>
     </message>
     <message>
         <source>Remove all</source>
-        <translation type="unfinished">Supprimer tout</translation>
+        <translation>Supprimer tout</translation>
     </message>
     <message>
         <source>Remove all aliases for this node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer tous les alias d'URL pour ce nœud.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove all aliases for this node?</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes vous sûr de vouloir supprimer tous les alias d'URL pour ce nœud&#160;?</translation>
     </message>
     <message>
         <source>There are no removable aliases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun alias ne peut être supprimé.</translation>
     </message>
     <message>
         <source>You cannot remove any aliases because you do not have permission to edit the current item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez supprimer aucun alias d'URL car vous n'avez pas le droit de modifier l'élément courant.</translation>
     </message>
     <message>
         <source>Generated aliases [%count]</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias d'URL générés [%count]</translation>
     </message>
     <message>
         <source>Note that these entries are automatically generated from the name of the object. To change these names you must edit the object in the specific language and publish the changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Note&#160;: ces entrées sont générées automatiquement à partir du nom de l'objet. Pour changer ces noms, vous devez modifier l'objet dans la langue voulue and vous devez publier les changements.</translation>
     </message>
     <message>
         <source>Edit the contents for language %language.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier les contenus pour la langue %language.</translation>
     </message>
     <message>
         <source>You cannot edit the contents for language %language because you do not have permission to edit the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas modifier les contenus pour la langue %language car vous n'avez pas le droit de modifier l'objet.</translation>
     </message>
     <message>
         <source>Create new alias</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouvel alias d'URL</translation>
     </message>
     <message>
         <source>URL alias name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de l'alias d'URL</translation>
     </message>
     <message>
         <source>Enter the URL for the new alias. Use forward slashes (/) to create subentries.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez l'URL pour le nouvel alias. Utilisez le caractères slash (/) pour créer des sous-entrées.</translation>
     </message>
     <message>
         <source>Destination:</source>
-        <translation type="unfinished"></translation>
+        <translation>Destination&#160;:</translation>
     </message>
     <message>
         <source>Destination.</source>
-        <translation type="unfinished"></translation>
+        <translation>Destination.</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Langue&#160;:</translation>
     </message>
     <message>
         <source>Choose the language for the new URL alias.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez la langue pour le nouvel alias d'URL.</translation>
     </message>
     <message>
         <source>Not available</source>
-        <translation type="unfinished">Non disponible</translation>
+        <translation>Non disponible</translation>
     </message>
     <message>
         <source>Alias should redirect to its destination</source>
-        <translation type="unfinished"></translation>
+        <translation>L'alias doit rediriger vers sa destination</translation>
     </message>
     <message>
         <source>With &lt;em&gt;Alias should redirect to its destination&lt;/em&gt; checked eZ Publish will redirect to the destination using a HTTP 301 response. Un-check it and the URL will stay the same &amp;#8212; no redirection will be performed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avec &lt;em&gt;L'alias doit rediriger vers sa destination&lt;/em&gt; cochée, eZ Publish générera une redirection HTTP 301 vers sa destination. Décochée, l'URL restera identique &amp;#8212; aucune redirection ne sera effectuée.</translation>
     </message>
     <message>
         <source>If checked the alias will start from the parent of the current node. If un-checked the aliases will start from the root of the site.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cochée, l'alias débutera à partir du parent du nœud courant. Si décochée, l'alias débutera à partir de la racine du site.</translation>
     </message>
     <message>
         <source>Place alias on the site root</source>
-        <translation type="unfinished"></translation>
+        <translation>Placez l'alias à la racine du site</translation>
     </message>
     <message>
         <source>The new alias be placed under %link</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nouvel alias d'URL sera placé sous %link</translation>
     </message>
     <message>
         <source>&lt;em&gt;Un-check&lt;/em&gt; to create the new alias under %link. Leave it checked and the new alias will be created on &lt;em&gt;&lt;a href=&apos;/&apos;&gt;%siteroot&lt;/a&gt;&lt;/em&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>>&lt;em&gt;Décochez&lt;/em&gt; pour créer le nouvel alias d'URL sous %link. En cochant, le nouvel alias d'URL sera créé à partir de &lt;em&gt;&lt;a href=&apos;/&apos;&gt;%siteroot&lt;/a&gt;&lt;/em&gt;.</translation>
     </message>
     <message>
         <source>Include in other languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclure dans les autres langues</translation>
     </message>
     <message>
         <source>Create new URL forwarding with wildcard</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer une nouvelle URL de redirection avec des jokers</translation>
     </message>
     <message>
         <source>Redirecting URL</source>
-        <translation type="unfinished">Redirection d&apos;URL</translation>
+        <translation>Redirection d&apos;URL</translation>
     </message>
     <message>
         <source>URL aliases for &lt;%node_name&gt; (%alias_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias d'URL pour &lt;%node_name&gt; (%alias_count)</translation>
     </message>
     <message>
         <source>Generated aliases (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias d'URL générés (%count)</translation>
     </message>
 </context>
 <context>
@@ -24354,33 +24354,33 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>Your account is already active.</source>
-        <translation type="unfinished"></translation>
+        <translation>Votre compte est déjà actif.</translation>
     </message>
     <message>
         <source>Password did not match. Please retype your new password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les mots de passe ne sont pas identique. Veuillez saisr à nouveau votre mot de passe.</translation>
     </message>
     <message>
         <source>Your account was successfully created. An email will be sent to the specified
 email address. Follow the instructions in that mail to activate
 your account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Votre compte a bien été créé. Un courriel sera envoyé à l'adresse email indiquée. Suivez les instructions indiquées dans cet email pour activer votre compte.</translation>
     </message>
     <message>
         <source>Please note that your browser must use and support cookies to register a new user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le support des cookies doit être activé dans votre navigateur pour creer votre compte.</translation>
     </message>
     <message>
         <source>Your browser does not seem to support cookies, to register a new user, cookies need to be supported and enabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Le support des cookies dans votre navigateur semble désactivé. Pour créer votre compte cet fonctionnalité doit être activée.</translation>
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Essayez encore</translation>
     </message>
     <message>
         <source>The new password must be at least %1 characters long. Please retype your new password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nouveau mot de passe doit comporter au moins %1 caractères. Veuillez saisir à nouveau votre mot de passe.</translation>
     </message>
 </context>
 <context>
@@ -24510,7 +24510,7 @@ your account.</source>
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation type="unfinished">Siteaccess</translation>
+        <translation>Siteaccess</translation>
     </message>
 </context>
 <context>
@@ -24597,7 +24597,7 @@ your account.</source>
     </message>
     <message>
         <source>Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Extension</translation>
     </message>
 </context>
 <context>
@@ -24656,15 +24656,15 @@ your account.</source>
     </message>
     <message>
         <source>You do not have permission to save the contents of the text field above to the template file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez pas le droit d'enregistrer le contenu du champ texte ci-dessus dans un template.</translation>
     </message>
     <message>
         <source>The template cannot be edited.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce template ne peut pas être modifié.</translation>
     </message>
     <message>
         <source>Override template</source>
-        <translation type="unfinished"></translation>
+        <translation>Surcharger le template</translation>
     </message>
 </context>
 <context>
