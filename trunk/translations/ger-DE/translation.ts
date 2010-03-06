@@ -7149,7 +7149,7 @@
     </message>
     <message>
         <source>The &lt;%class_name&gt; class is not configured to contain any sub items.</source>
-        <translation>Die Klasse &lt;%class_name&gt; kann keineUnterelemente enthalten.</translation>
+        <translation>Die Klasse &lt;%class_name&gt; kann keine Unterelemente enthalten.</translation>
     </message>
     <message>
         <source>Edit the contents of this item.</source>
