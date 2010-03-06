@@ -4205,43 +4205,43 @@
     </message>
     <message>
         <source>Version is not a draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette version n'est pas un brouillon</translation>
     </message>
     <message>
         <source>Version %1 is not available for editing anymore. Only drafts can be edited.</source>
-        <translation type="unfinished"></translation>
+        <translation>La version %1 n'est plus disponible pour la modification. Seuls les brouillons peuvent être modifiés.</translation>
     </message>
     <message>
         <source>To edit this version, first create a copy of it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour modifier cette version, commencez par la copier.</translation>
     </message>
     <message>
         <source>Version is not yours</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette version ne vous appartient pas</translation>
     </message>
     <message>
         <source>Version %1 was not created by you. You can only edit your own drafts.</source>
-        <translation type="unfinished"></translation>
+        <translation>La version %1 n'a pas été créée par vous. Vous ne pouvez modifier que vos propres brouillons.</translation>
     </message>
     <message>
         <source>Modified translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduction modifiée</translation>
     </message>
     <message>
         <source>Version #%version_number cannot be removed because it is either the published version of the object or because you do not have permission to remove it.</source>
-        <translation type="unfinished"></translation>
+        <translation>La version #%version_number ne peut être supprimée car il s'agit soit de la version publiée de l'objet ou vous n'avez pas le droit de la supprimer.</translation>
     </message>
     <message>
         <source>There is no need to make copies of untouched drafts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il n'est pas nécessaire de faire des copies des brouillons intactes.</translation>
     </message>
     <message>
         <source>You cannot make copies of versions because you do not have permission to edit the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez copier ces version car vous n'avez pas le droit de modifier cet objet.</translation>
     </message>
     <message>
         <source>You cannot edit the contents of version #%version_number either because it is not a draft or because you do not have permission to edit the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez modifier la version #%version_number soit parce qu'il ne s'agit pas d'un brouillon ou parce que vous n'avez pas le droit de modifier l'objet.</translation>
     </message>
     <message>
         <source>Versions for &lt;%object_name&gt; (%version_count)</source>
@@ -4364,27 +4364,27 @@
     </message>
     <message>
         <source>You cannot manage the versions of this object because there is only one version available (the one that is being displayed).</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas géré les version de cet objet parce qu'une seule version est disponible (la version actuellement affichée)</translation>
     </message>
     <message>
         <source>This version is not a draft and therefore cannot be edited.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette version n'est pas un brouillon et ne peut donc pas être modifiée/</translation>
     </message>
     <message>
         <source>Translation mismatch</source>
-        <translation type="unfinished"></translation>
+        <translation>La traduction ne correspond pas</translation>
     </message>
     <message>
         <source>Your selected translation does not match the language of your selected siteaccess. This may lead to unexpected results in the preview, however it may also be what you intended.</source>
-        <translation type="unfinished"></translation>
+        <translation>La traduction sélectionnée ne correspond pas à la langue du siteaccess sélectionné. Cet état peut engendrer des résultats inattendus dans la prévisualisation mais c'est peut être ce que vous souhaitez.</translation>
     </message>
     <message>
         <source>Back to edit</source>
-        <translation type="unfinished">Retour à l&apos;édition</translation>
+        <translation>Retour à l&apos;édition</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished">Retour</translation>
+        <translation>Retour</translation>
     </message>
 </context>
 <context>
@@ -4435,7 +4435,7 @@
     </message>
     <message>
         <source>Object ID</source>
-        <translation type="unfinished">ID de l&apos;objet </translation>
+        <translation>ID de l&apos;objet </translation>
     </message>
 </context>
 <context>
@@ -4729,43 +4729,43 @@
     </message>
     <message>
         <source>The draft could not be created. (5)</source>
-        <translation type="unfinished"></translation>
+        <translation>Le brouillon n'a pu être créé. (5)</translation>
     </message>
     <message>
         <source>Invalid language code provided. The draft could not be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le code de la langue est invalide. Le brouillon n'a pu être créé.</translation>
     </message>
     <message>
         <source>You are not logged in to the system. Please log in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'êtes pas identifié. Veuillez vous identifier.</translation>
     </message>
     <message>
         <source>The site is using URL matching to determine which siteaccess to use, but the name of the siteaccess is missing from the URL. Try to add the name of the siteaccess; it should be specified before the name of the module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le site utilise une correspondance sur l'URL pour déterminer quel siteaccess utilisé, mais le nom du siteaccess est manquant dans l'URL. Essayez d'ajouter le nom du siteaccess&#160;: il doit être défini avant le nom du module.</translation>
     </message>
     <message>
         <source>The requested view cannot be accessed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La vue demandée est inaccessible.</translation>
     </message>
     <message>
         <source>The &lt;%view&gt; within the &lt;%module&gt; is disabled and thus it cannot be accessed.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;%view&gt; dans le module &lt;%module&gt; est désactivée et est donc inaccessible.</translation>
     </message>
     <message>
         <source>The requested module cannot be accessed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le module demandé est inaccessible.</translation>
     </message>
     <message>
         <source>The &lt;%module&gt; module is disabled and thus it cannot be accessed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le module &lt;%module&gt; est désactivé et est donc inaccessible.</translation>
     </message>
     <message>
         <source>The ID number of the object is incorrect. Check the URL for spelling mistakes.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'identifiant de l'objet est incorrect. Vérifiez que vous n'ayez pas fait d'erreur dans l'URL.</translation>
     </message>
     <message>
         <source>If redirection fails, click on the following address: %url.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si la redirection échoue, cliquez sur l'adresse suivante&#160;: %url.</translation>
     </message>
 </context>
 <context>
@@ -4796,11 +4796,11 @@
     </message>
     <message>
         <source>&apos;%1&apos; currency does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>La devise '%1' n'existe pas.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; cannot be used because it is inactive.</source>
-        <translation type="unfinished"></translation>
+        <translation>'%1' ne peut être utilisé car il est désactivé.</translation>
     </message>
 </context>
 <context>
@@ -4811,7 +4811,7 @@
     </message>
     <message>
         <source>Copyright Notice</source>
-        <translation>Avertissement de copyright</translation>
+        <translation>Informations sur la propriété intellectuelle</translation>
     </message>
     <message>
         <source>Third-Party Software</source>
@@ -4823,15 +4823,15 @@
     </message>
     <message>
         <source>eZ Publish information: %version</source>
-        <translation type="unfinished"></translation>
+        <translation>Information sur eZ Publish&#160;: %version</translation>
     </message>
     <message>
         <source>What is eZ Publish?</source>
-        <translation type="unfinished"></translation>
+        <translation>Qu'est ce qu'eZ Publish&#160;?</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licence</translation>
     </message>
 </context>
 <context>
@@ -6060,7 +6060,7 @@
     </message>
     <message>
         <source>Choose which collaboration items you want to get notifications for.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez les éléments de collaboration au sujet desquels vous souhaitez être notifié.</translation>
     </message>
 </context>
 <context>
@@ -11116,7 +11116,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Country/region</source>
-        <translation type="unfinished"></translation>
+        <translation>Pays/région</translation>
     </message>
 </context>
 <context>
