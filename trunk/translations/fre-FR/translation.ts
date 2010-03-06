@@ -2823,11 +2823,11 @@
     </message>
     <message>
         <source>The locations marked with red contain items that you do not have permission to remove.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les emplacements marqués en rouge contiennent des éléments que vous n'avez pas le droit de supprimer.</translation>
     </message>
     <message>
         <source>You cannot continue because you do not have permission to remove some of the selected locations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez continuer car vous n'avez pas le droit de supprimer certains des emplacements sélectionnés.</translation>
     </message>
 </context>
 <context>
@@ -2960,11 +2960,11 @@
     </message>
     <message>
         <source>The system will prompt you to specify a location by browsing the tree.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le système vous demandera de définir un emplacement en parcourant l'arborescence.</translation>
     </message>
     <message>
         <source>The system will prompt you to browse for a location for the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le système vous demandera de parcourir l'arborescence pour déterminer l'emplacement de l'objet.</translation>
     </message>
 </context>
 <context>
@@ -3131,11 +3131,11 @@
     </message>
     <message>
         <source>Try changing some keywords e.g. &amp;quot;car&amp;quot; instead of &amp;quot;cars&amp;quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Essayez de changer quelques mots clés par exemple &amp;quot;voiture&amp;quot; au lieu de &amp;quot;voitures&amp;quot;.</translation>
     </message>
     <message>
         <source>Fewer keywords result in more matches. Try reducing keywords until you get a result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Moins de mots clés donnent plus de résultats. Essayez de réduire le nombre de mots clés juqu'à obtenir un résultat.</translation>
     </message>
 </context>
 <context>
@@ -3213,15 +3213,15 @@
     </message>
     <message>
         <source>Classes translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traductions des classes</translation>
     </message>
     <message>
         <source>Country/region</source>
-        <translation type="unfinished"></translation>
+        <translation>Pays/région</translation>
     </message>
     <message>
         <source>The language cannot be removed because it is in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>La langue ne peut être supprimée car elle est utilisée.</translation>
     </message>
     <message>
         <source>Available languages for translation of content (%translations_count)</source>
@@ -3229,7 +3229,7 @@
     </message>
     <message>
         <source>Toggle all.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout inverser.</translation>
     </message>
 </context>
 <context>
@@ -3368,19 +3368,19 @@
     </message>
     <message>
         <source>Country/region name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du pays/de la région</translation>
     </message>
     <message>
         <source>Country/region comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Commentaire pour le pays/la région</translation>
     </message>
     <message>
         <source>Country/region code</source>
-        <translation type="unfinished"></translation>
+        <translation>Code du pays/de la région</translation>
     </message>
     <message>
         <source>Country/region variation</source>
-        <translation type="unfinished"></translation>
+        <translation>Variation du pays/de la région</translation>
     </message>
 </context>
 <context>
@@ -3439,7 +3439,7 @@
     </message>
     <message>
         <source>Use these checkboxes to mark items for removal. Click the &quot;Remove selected&quot; button to remove the selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ces cases à cocher pour marquer ces éléments pour la suppression. Cliquez sur le bouton &quot;Supprimer la sélection&quot; pour supprimer les éléments sélectionnés.</translation>
     </message>
     <message>
         <source>Trash (%list_count)</source>
@@ -3518,7 +3518,7 @@
     </message>
     <message>
         <source>Upload</source>
-        <translation>Chargement</translation>
+        <translation>Envoyer le fichier</translation>
     </message>
     <message>
         <source>Proceed with uploading the selected file.</source>
@@ -3534,15 +3534,15 @@
     </message>
     <message>
         <source>Choose a file from your local machine then click the &quot;Upload&quot; button. An object will be created according to file type and placed in the specified location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un fichier sur votre machine puis cliquez sur le bouton &quot;Envoyer le fichier&quot;. Un objet sera créé en fonction du type de fichier à l'emplacement spécifié.</translation>
     </message>
     <message>
         <source>Select the file that you want to upload.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le fichier à envoyer.</translation>
     </message>
     <message>
         <source>Abort the upload operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler l'envoi du fichier.</translation>
     </message>
 </context>
 <context>
@@ -3565,11 +3565,11 @@
     </message>
     <message>
         <source>The newly created object will be placed within the specified location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nouvel objet sera placé à l'emplacement spécifié.</translation>
     </message>
     <message>
         <source>Select the file you want to upload then click the &quot;Upload&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le fichier que vous voulez envoyé puis cliquez sur le bouton 'Envoyer le fichier''</translation>
     </message>
 </context>
 <context>
