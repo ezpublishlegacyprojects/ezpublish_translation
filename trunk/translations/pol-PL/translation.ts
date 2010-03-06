@@ -6504,7 +6504,7 @@ You can also remove the package without uninstalling it from the package list.</
     </message>
     <message>
         <source>Select the file containing the package then click the upload button</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz plik zawierający pakiet, następnie kliknij przycisk importuj pakiet</translation>
     </message>
     <message>
         <source>Regarding eZ Publish package &apos;%packagename&apos;</source>
@@ -6601,11 +6601,14 @@ You can also remove the package without uninstalling it from the package list.</
         <source>Are you sure you want to remove the following packages?
 The packages will be lost forever.
 Note: The packages will not be uninstalled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy na pewno chcesz usunąć następujące pakiety?
+Pakiety zostaną utracone na zawsze.
+Uwaga: Pakiety nie będą mogły być odinstalowane.
+        </translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń</translation>
     </message>
 </context>
 <context>
@@ -6641,6 +6644,10 @@ Note: The packages will not be uninstalled.</source>
     <message>
         <source>User accounts</source>
         <translation>Konta użytkowników</translation>
+    </message>
+    <message>
+        <source>Dashboard</source>
+        <translation>Panel kontrolny</translation>
     </message>
     <message>
         <source>Webshop</source>
@@ -8454,7 +8461,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Click this button to select an image for the RSS export. Note that images only work with RSS version 2.0</source>
-        <translation>Kliknij ten przycisk, aby zaznaczyć obrazek dla RSS eksportu. Notka: ten rysunek będzie działał tylko z RSS w wersji 2.0</translation>
+        <translation>Kliknij ten przycisk, aby zaznaczyć obrazek dla eksportu RSS. Uwaga: rysunek będzie działał tylko z RSS w wersji 2.0</translation>
     </message>
     <message>
         <source>Use this drop-down menu to select the RSS version to use for the export. You must select RSS 2.0 in order to export the image selected above.</source>
@@ -8531,11 +8538,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and eZ Publish configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj tego pola aby wprowadzić bazowy adres url Twojej witryny. Adres ten jest wykorzystywany do tworzenia adresów URL w eksporcie (e.g. &quot;http://www.example.com/index.php&quot;) i ścieżki do obiektu (e.g. &quot;/articles/my_article&quot;). URL strony zależy od serwera i konfiguracji eZ Publish.</translation>
     </message>
     <message>
         <source>Leave this field empty if you want system automaticaly detect the URL of your site from the URL you access feed with</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozostaw to pole puste, jeśli chcesz aby system automatycznie wykrył adres URL witryny, adres URL kanału dostępu z</translation>
     </message>
     <message>
         <source>Use this drop-down to select the maximum number of objects included in the RSS feed.</source>
@@ -8567,19 +8574,19 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategoria</translation>
     </message>
     <message>
         <source>optional</source>
-        <translation type="unfinished"></translation>
+        <translation>opcjonalne</translation>
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the category of the RSS export entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj tej listy rozwijanej, aby wybrać atrybut, który powinien być eksportowany jako kategoria eksportu wejścia RSS.</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Pomiń</translation>
+        <translation>Pomiń</translation>
     </message>
     <message>
         <source>Enclosure (media)</source>
@@ -9269,7 +9276,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>[add setting]</source>
-        <translation>[dodaj ustawienie]</translation>
+        <translation>[dodaj ustawienia]</translation>
     </message>
     <message>
         <source>Placement</source>
@@ -9289,23 +9296,23 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Ini setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia ini</translation>
     </message>
     <message>
         <source>Location (prioritized list shown)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalizacja (</translation>
     </message>
     <message>
         <source>Default (cannot change)</source>
-        <translation type="unfinished"></translation>
+        <translation>Domyślny (nie można zmienić)</translation>
     </message>
     <message>
         <source>No value</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez wartości</translation>
     </message>
     <message>
         <source>Ini File</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik Ini</translation>
     </message>
     <message>
         <source>Siteaccess</source>
@@ -9329,11 +9336,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Please select an ini file from the drop-down below</source>
-        <translation type="unfinished"></translation>
+        <translation>Proszę wybrać plik ini z poniższej listy rozwijalnej</translation>
     </message>
     <message>
         <source>Values for each location setting are shown. The first values have lowest priority; the values toward the end have higher priority than the first ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartości dla każdego ustawienia lokalizacji są widoczne. Pierwsze wartości mają najniższy priorytet; wartości pod koniec mają wyższy priorytet niż te pierwsze.</translation>
     </message>
 </context>
 <context>
@@ -13285,7 +13292,7 @@ your account.</source>
     </message>
     <message>
         <source>Affected languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostępne języki</translation>
     </message>
     <message>
         <source>All languages</source>
@@ -13321,19 +13328,19 @@ your account.</source>
     </message>
     <message>
         <source>Affected versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostępne wersje</translation>
     </message>
     <message>
         <source>Users who approve content</source>
-        <translation type="unfinished"></translation>
+        <translation>Użytkownicy, którzy zatwierdzają zawartość</translation>
     </message>
     <message>
         <source>Groups who approve content</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupy, które zatwierdzają zawartość</translation>
     </message>
     <message>
         <source>There are no payment gateway extensions installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie ma zainstalowanych rozszerzeń bramki płatności.</translation>
     </message>
     <message>
         <source>Class/attribute combinations (%count)</source>
@@ -16227,7 +16234,7 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Nic</translation>
+        <translation>Nic</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -16239,39 +16246,39 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>Allowed classes</source>
-        <translation type="unfinished">Dozwolone klasy</translation>
+        <translation>Dozwolone klasy</translation>
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished">Dowolny</translation>
+        <translation>Dowolny</translation>
     </message>
     <message>
         <source>There are no objects of allowed classes</source>
-        <translation type="unfinished">Nie ma obiektów dozwolonych klas</translation>
+        <translation>Nie ma obiektów dozwolonych klas</translation>
     </message>
     <message>
         <source>Create new object with name</source>
-        <translation type="unfinished">Utwórz nowy obiekt z nazwą</translation>
+        <translation>Utwórz nowy obiekt z nazwą</translation>
     </message>
     <message>
         <source>locked</source>
-        <translation type="unfinished">zablokowano</translation>
+        <translation>zablokowano</translation>
     </message>
     <message>
         <source>Using tag &apos;%tagname&apos; with class &apos;%class&apos; is not allowed.</source>
-        <translation type="unfinished">Użycie znacznika &apos;%tagname&apos; w klasie &apos;%class&apos; nie jest dozwolone.</translation>
+        <translation>Użycie znacznika &apos;%tagname&apos; w klasie &apos;%class&apos; nie jest dozwolone.</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished">Zamówienie</translation>
+        <translation>Zamówienie</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation type="unfinished"></translation>
+        <translation>Opublikowane</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekund</translation>
     </message>
     <message>
         <source>RealPlayer</source>
@@ -16287,11 +16294,11 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>Add group</source>
-        <translation type="unfinished">Dodaj grupę</translation>
+        <translation>Dodaj grupę</translation>
     </message>
     <message>
         <source>Add a new group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj nową grupę</translation>
     </message>
     <message>
         <source>Rules</source>
@@ -16311,7 +16318,7 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdjęcie</translation>
     </message>
     <message>
         <source>Def</source>
@@ -16323,7 +16330,7 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>Select if you want to disallow this option choice</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz jeśli chcesz zrezygnować z tej opcji wyboru</translation>
     </message>
     <message>
         <source>Add multioption sub level</source>
@@ -16339,7 +16346,7 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished">Grupa</translation>
+        <translation>Grupa</translation>
     </message>
     <message>
         <source>Option group name</source>
@@ -16347,15 +16354,15 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>There are no related object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak powiązanych obiektów.</translation>
     </message>
     <message>
         <source>Find object</source>
-        <translation type="unfinished"></translation>
+        <translation>Znajdź obiekt</translation>
     </message>
     <message>
         <source>Find objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Znajdź obiekty</translation>
     </message>
 </context>
 <context>
@@ -16407,7 +16414,7 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>Untouched draft</source>
-        <translation type="unfinished">Nieużywany szkic</translation>
+        <translation>Nieużywany szkic</translation>
     </message>
     <message>
         <source>Show differences</source>
@@ -16423,11 +16430,11 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>Inline changes</source>
-        <translation type="unfinished">Zmiany w linii</translation>
+        <translation>Zmiany w linii</translation>
     </message>
     <message>
         <source>Block changes</source>
-        <translation type="unfinished">Zmiany blokowe</translation>
+        <translation>Zmiany blokowe</translation>
     </message>
     <message>
         <source>New version</source>
@@ -16660,7 +16667,7 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished">Przetłumacz</translation>
+        <translation>Przetłumacz</translation>
     </message>
     <message>
         <source>This object is already being edited by yourself or someone else.
@@ -19018,69 +19025,75 @@ The change will continue to the next change marker.</source>
     </message>
     <message>
         <source>Provide some basic information for your package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podaj podstawowe informacje o pakiecie.</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencja</translation>
     </message>
     <message>
         <source>Provide information about the maintainer of the package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacje na temat opiekuna pakietu.</translation>
     </message>
     <message>
         <source>Please choose the content classes you want to be included in the package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz zawartość klas, które chcesz aby zostały dodane do pakietu.</translation>
     </message>
     <message>
         <source>Choose the objects to include in the package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz obiekty, które mają być dołączone do pakietu.</translation>
     </message>
     <message>
         <source>Please select the extensions to be exported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Proszę wybrać rozszerzenia, które mają być eksportowane.</translation>
     </message>
     <message>
         <source>Select an image file to be included in the package then click Next.
 When you are done with adding images click Next without choosing an image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz plik zdjęcia, który zostanie dodany do pakietu, a następnie kliknij Dalej.</translation>
     </message>
     <message>
         <source>The package can be installed on your system. Installing the package will copy files, create content classes etc., depending on the package.
 If you do not want to install the package at this time, you can do so later on the view page for the package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakiet może być zainstalowany na Twoim systemie. Instalacja pakietu kopiuje pliki, tworzy zawartość klasy itp., w zależności od pakietu.
+Jeśli nie chcesz teraz zainstalować pakietu, to możesz wykonać instalację bezpośrednio z widoku pakietu.</translation>
     </message>
     <message>
         <source>If you want to change the placement click the browse button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeśli chcesz zmienić położenie, kliknij przycisk przeglądaj.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the following packages?
 The packages will be lost forever.
 Note: The packages will not be uninstalled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy na pewno chcesz usunąć następujące pakiety?
+Pakiety zostaną utracone na zawsze.
+Uwaga: Pakiety nie będą mogły być odinstalowane.
+        </translation>
     </message>
     <message>
         <source>Package removal was canceled.</source>
-        <translation type="unfinished">Usunięcie pakietów zostało anulowane.</translation>
+        <translation>Usunięcie pakietów zostało anulowane.</translation>
     </message>
     <message>
         <source>The package can be uninstalled from your system. Uninstalling the package will remove any installed files, content classes etc., depending on the package.
 If you do not want to uninstall the package at this time, you can do so later on the view page for the package.
 You can also remove the package without uninstalling it from the package list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakiet może zostać odinstalowany z Twojego systemu. Odinstalowanie pakietu usunie wszystkie zainstalowane pliki, zawartości klas itp., w zależności od pakietu.
+Jeśli nie chcesz teraz odinstalować pakietu, to możesz odinstalować później bezpośrednio z widoku pakietu.
+Możesz również odinstalować pakiet bez odinstalowywania go z listy pakietów.</translation>
     </message>
     <message>
         <source>Select the file containing the package then click the upload button</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz plik zawierający pakiet, następnie kliknij przycisk importuj pakiet</translation>
     </message>
     <message>
         <source>Regarding eZ Publish package &apos;%packagename&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Odnośnie pakietu eZ Publish &apos;%packagename&apos;</translation>
     </message>
     <message>
         <source>Use content object modification and publication dates from the package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj datę modyfikacji i publikacji obiektu z pakietu.</translation>
     </message>
 </context>
 <context>
