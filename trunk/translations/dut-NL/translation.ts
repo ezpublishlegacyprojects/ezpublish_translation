@@ -1,4 +1,6 @@
-<!DOCTYPE TS><TS>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="nl_NL" sourcelanguage="en_GB">
 <context>
     <name>contentstructuremenu/show_content_structure</name>
     <message>
@@ -10,15 +12,15 @@
     <name>design</name>
     <message>
         <source>%group_name [Content object state group]</source>
-        <translation type="unfinished"></translation>
+        <translation>%group_name [Content object toestand groep]</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Bewerken</translation>
+        <translation>Bewerken</translation>
     </message>
     <message>
         <source>%state_name [Content object state]</source>
-        <translation type="unfinished"></translation>
+        <translation>%group_name [Content object toestand]</translation>
     </message>
 </context>
 <context>
@@ -125,7 +127,7 @@
     </message>
     <message>
         <source>List of classes inside %group_name class group (%class_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijst van klassen in %group_name klasse groep (%class_count)</translation>
     </message>
 </context>
 <context>
@@ -246,79 +248,79 @@
     </message>
     <message>
         <source>Use this field to set the informal name of the class. The name field can contain whitespaces and special characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik dit veld voor de informele naam van de klasse. Het naam veld kan spaties en speciale karakters bevatten.</translation>
     </message>
     <message>
         <source>Use the order buttons to set the order of the class attributes. The up arrow moves the attribute one place up. The down arrow moves the attribute one place down.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik de rangschikking knoppen om de rangschikking van attributen te bepalen. De pijl omhoog plaatst het attribuut  één positie omhoog. De pijl omlaag plaatst het attribuut  één positie omlaag.</translation>
     </message>
     <message>
         <source>Use this field to set the informal name of the attribute. This field can contain whitespaces and special characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik dit veld voor de informele naam van de klasse. Het naam veld kan spaties en speciale karakters bevatten.</translation>
     </message>
     <message>
         <source>The &lt;%datatype_name&gt; datatype does not support search indexing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het &lt;%datatype_name&gt; gegevenstype ondersteund geen zoek indexering.</translation>
     </message>
     <message>
         <source>Use this checkbox for attributes that contain non-translatable content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik deze checkbox voor attributen welke niet vertaalbare content bevatten.</translation>
     </message>
     <message>
         <source>Remove the selected attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder de geselecteerde attributen.</translation>
     </message>
     <message>
         <source>Add a new attribute to the class. Use the menu on the left to select the attribute type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg een nieuw attribuut toe aan de klasse. Gebruik het menu links voor het selecteren van het atrribuut type.</translation>
     </message>
     <message>
         <source>Store changes and exit from edit mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sla wijzigingen op en verlaat bewerk mode.</translation>
     </message>
     <message>
         <source>Store changes and continue editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sla wijzigingen op en ga door met bewerken.</translation>
     </message>
     <message>
         <source>Discard all changes and exit from edit mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Negeer alle wijzigingen en verlaat bewerk mode.</translation>
     </message>
     <message>
         <source>The class definition contains the following errors</source>
-        <translation type="unfinished"></translation>
+        <translation>De klasse definitie bevat de volgende fouten</translation>
     </message>
     <message>
         <source>Use these controls to set the default sorting method for the sub items of instances of the content class.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik deze bediening voor het bepalen van de standaard sorteer methode van sub items van instanties van de content klasse.</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished">Aflopend</translation>
+        <translation>Aflopend</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished">Oplopend</translation>
+        <translation>Oplopend</translation>
     </message>
     <message>
         <source>Class attributes</source>
-        <translation type="unfinished">Klassekenmerken</translation>
+        <translation>Klasse attributen</translation>
     </message>
     <message>
         <source>Default sorting of children</source>
-        <translation type="unfinished"></translation>
+        <translation>Standaard sortering van kinderen</translation>
     </message>
     <message>
         <source>Use this field to set the internal name of the class. The identifier will be used in templates and in PHP code. Allowed characters are letters, numbers and underscores.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik dit veld voor de interne naam van de klasse. De identifier wordt gebruikt in templates en in PHP code. Toegestande karakters zijn alfanumeriek en numerieke karakters en underscores.</translation>
     </message>
     <message>
         <source>Use this field to configure how the name of the objects are generated. Type in the identifiers of the attributes that should be used. The identifiers must be enclosed in angle brackets. Text outside angle brackets will be included as it is shown here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik dit veld voor de configuratie hoe de naam van een object wordt gegenereerd. Voer de identifiers van de attributen in welke gebruikt dienen te worden. De identifiers moeten omsloten worden met groter-dan en kleiner-dan tekens. Tekst buiten deze tekens wordt toegevoegd zoals getoond.</translation>
     </message>
     <message>
         <source>URL alias name pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>URL alias naampatroon</translation>
     </message>
     <message>
         <source>Use this field to configure how the url alias of the objects are generated (applies to nice URLs). Type in the identifiers of the attributes that should be used. The identifiers must be enclosed in angle brackets. Text outside angle brackets will be included as is.</source>
@@ -358,11 +360,11 @@
     </message>
     <message>
         <source>Edit &lt;%class_name&gt; (%object_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk &lt;%class_name&gt; (%object_count)</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Omschrijving</translation>
+        <translation>Omschrijving</translation>
     </message>
     <message>
         <source>Use this field to set the informal description of the class. The description field can contain whitespaces and special characters.</source>
@@ -370,11 +372,11 @@
     </message>
     <message>
         <source>List of class attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijst van klasse attributen</translation>
     </message>
     <message>
         <source>Class attribute item</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasse attribuut item</translation>
     </message>
     <message>
         <source>Use this field to set the informal description of the attribute. This field can contain whitespaces and special characters.</source>
@@ -386,73 +388,73 @@
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished">Standaard</translation>
+        <translation>Standaard</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished">Kategorie</translation>
+        <translation>Categorie</translation>
     </message>
 </context>
 <context>
     <name>design/admin/class/edit_denied</name>
     <message>
         <source>Class edit conflict</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasse bewerkings conflict</translation>
     </message>
     <message>
         <source>This class is already being edited by someone else.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze klasse wordt reeds bewerkt door iemand anders.</translation>
     </message>
     <message>
         <source>Possible actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Mogelijke acties</translation>
     </message>
     <message>
         <source>Contact the person who is editing the class.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neem contact op met de pseroon welke de klasse bewerkt.</translation>
     </message>
     <message>
         <source>Wait until the lock expires and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wacht tot vergrendeling verloopt en probeer opnieuw.</translation>
     </message>
     <message>
         <source>Edit &lt;%class_name&gt; [Class]</source>
-        <translation type="unfinished">Bewerk &lt;%class_name&gt; [Klasse]</translation>
+        <translation>Bewerk &lt;%class_name&gt; [Klasse]</translation>
     </message>
     <message>
         <source>Class</source>
-        <translation type="unfinished">Klasse</translation>
+        <translation>Klasse</translation>
     </message>
     <message>
         <source>Current modifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige modificeerder</translation>
     </message>
     <message>
         <source>Unlock time</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontgrendel tijd</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished">Probeer opnieuw</translation>
+        <translation>Probeer opnieuw</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuleren</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>The class is temporarily locked and thus it cannot be edited by you.</source>
-        <translation type="unfinished"></translation>
+        <translation>De klasse is tijdelijk vergrendeld en kan hierdoor niet bewerkt worden door u.</translation>
     </message>
     <message>
         <source>The class will be available for editing after it has been stored by the current modifier or when it is unlocked by the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>De klasse is weer beschikbaar voor bewerking nadat het is opgeslagen door de huidige modificeerder of wanneer het systeem het ontgrendeld.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/class/edit_language</name>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Bewerken</translation>
+        <translation>Bewerken</translation>
     </message>
 </context>
 <context>
@@ -514,7 +516,7 @@
     </message>
     <message>
         <source>Remove the selected class groups. This will also remove all classes that only exist within the selected groups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder de geselecteerde klasse. Dit verwijdert ook alle klassen welke alleen bestaan binnen de geselecteerde groep.</translation>
     </message>
     <message>
         <source>New class group</source>
@@ -546,15 +548,15 @@
     </message>
     <message>
         <source>List of class groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijst van klasse groepen</translation>
     </message>
     <message>
         <source>List of recently modified classes</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijst van recent bewerkte klassen</translation>
     </message>
     <message>
         <source>Objects</source>
-        <translation type="unfinished">Objecten</translation>
+        <translation>Objecten</translation>
     </message>
 </context>
 <context>
@@ -589,15 +591,15 @@
     </message>
     <message>
         <source>You do not have permission to remove classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>U heeft geen rechten om klassen te verwijderen.</translation>
     </message>
     <message>
         <source>Removing class &lt;%1&gt; will result in the removal of %2 object and all its sub items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen van klasse &lt;%1&gt; resulteerd in het verwijderen van %2 objecten en alle sub items.</translation>
     </message>
     <message>
         <source>Removing class &lt;%1&gt; will result in the removal of %2 objects and all their sub items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen van klasse &lt;%1&gt; resulteerd in het verwijderen van %2 objecten en alle sub items.</translation>
     </message>
 </context>
 <context>
@@ -624,68 +626,68 @@
     </message>
     <message>
         <source>The following classes will be removed from the &lt;%group_name&gt; class group</source>
-        <translation type="unfinished"></translation>
+        <translation>De volgende klassen worden verwijderd van de &lt;%group_name&gt; klasse groep</translation>
     </message>
     <message>
         <source>%objects objects will be removed</source>
-        <translation type="unfinished"></translation>
+        <translation>%objects objecten worden verwijderd</translation>
     </message>
 </context>
 <context>
     <name>design/admin/class/removetranslation</name>
     <message>
         <source>Confirm translation removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevestig verwijdering vertaling</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the following translations from class &lt;%1&gt;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet u zeker dat u de volgende vertalingen van klasse &lt;%1&gt; wilt verwijderen?</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Taal</translation>
+        <translation>Taal</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuleren</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Cancel the removal of translations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer het verwijderen van vertalingen.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/class/select_language</name>
     <message>
         <source>New languages</source>
-        <translation type="unfinished">Nieuwe talen</translation>
+        <translation>Nieuwe talen</translation>
     </message>
     <message>
         <source>Select the language you want to add</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer de taal welke u wilt toevoegen</translation>
     </message>
     <message>
         <source>Select the language the added translation will be based on</source>
-        <translation type="unfinished">Selecteer de taal waarop de toegevoegde vertaling gebaseerd zal zijn</translation>
+        <translation>Selecteer de taal waarop de toegevoegde vertaling gebaseerd zal zijn</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Geen</translation>
+        <translation>Geen</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuleren</translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
     <name>design/admin/class/select_languages</name>
     <message>
         <source>Edit &lt;%class_name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk &lt;%class_name&gt;</translation>
     </message>
 </context>
 <context>
@@ -804,7 +806,7 @@
     </message>
     <message>
         <source>Remove selected</source>
-        <translation type="unfinished">Verwijder selectie</translation>
+        <translation>Verwijder selectie</translation>
     </message>
     <message>
         <source>Add to class group</source>
@@ -828,171 +830,171 @@
     </message>
     <message>
         <source>Remove from selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder uit selectie</translation>
     </message>
     <message>
         <source>Remove the &lt;%class_name&gt; class from the selected class groups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder de &lt;%class_name&gt; klasse van de geselecteerde klasse groep.</translation>
     </message>
     <message>
         <source>Add the &lt;%class_name&gt; class to the group specified in the menu on the left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg de &lt;%class_name&gt; klasse toe aan de groep gespecificeerd in het menu links.</translation>
     </message>
     <message>
         <source>The &lt;%class_name&gt; class already exists within all class groups.</source>
-        <translation type="unfinished"></translation>
+        <translation>De &lt;%class_name&gt; klasse bestaat reeds in alle klasse groepen.</translation>
     </message>
     <message>
         <source>View template overrides for the &lt;%source_template_name&gt; template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk template vervangingen voor de &lt;%source_template_name&gt; template.</translation>
     </message>
     <message>
         <source>Edit the override template for the &lt;%override_name&gt; override.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk de vervangings template voor de &lt;%override_name&gt; vervanging.</translation>
     </message>
     <message>
         <source>This class does not have any class-level override templates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze klasse heeft geen klasse-niveau vervangings templates.</translation>
     </message>
     <message>
         <source>Default object availability</source>
-        <translation type="unfinished">Standaard objectbeschikbaarheid</translation>
+        <translation>Standaard objectbeschikbaarheid</translation>
     </message>
     <message>
         <source>Not available</source>
-        <translation type="unfinished">Niet beschikbaar</translation>
+        <translation>Niet beschikbaar</translation>
     </message>
     <message>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Beschikbaar</translation>
     </message>
     <message>
         <source>Translations [%translations]</source>
-        <translation type="unfinished">Vertalingen [%translations]</translation>
+        <translation>Vertalingen [%translations]</translation>
     </message>
     <message>
         <source>Existing languages</source>
-        <translation type="unfinished">Bestaande talen</translation>
+        <translation>Bestaande talen</translation>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation type="unfinished">Selectie omkeren.</translation>
+        <translation>Selectie omkeren.</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Taal</translation>
+        <translation>Taal</translation>
     </message>
     <message>
         <source>Locale</source>
-        <translation type="unfinished">Taal-land specificatie</translation>
+        <translation>Taal-land specificatie</translation>
     </message>
     <message>
         <source>Main</source>
-        <translation type="unfinished">Voornaamste</translation>
+        <translation>Voornaamste</translation>
     </message>
     <message>
         <source>View translation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk vertaling.</translation>
     </message>
     <message>
         <source>Use these radio buttons to select the desired main language.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik deze radioknoppen om de gewenste standaard taal te selecteren.</translation>
     </message>
     <message>
         <source>Edit in &lt;%language_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk in &lt;%language_name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected languages from the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder geselcteerde talen uit de lijst hierboven.</translation>
     </message>
     <message>
         <source>There is no removable language.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is geen verwijderbare taal.</translation>
     </message>
     <message>
         <source>Set main</source>
-        <translation type="unfinished">Verander voornaamste</translation>
+        <translation>Verander voornaamste</translation>
     </message>
     <message>
         <source>Another language</source>
-        <translation type="unfinished"></translation>
+        <translation>Andere taal</translation>
     </message>
     <message>
         <source>Hide class groups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verberg klasse groep.</translation>
     </message>
     <message>
         <source>Class groups</source>
-        <translation type="unfinished">Klassegroepen</translation>
+        <translation>Klasse groepen</translation>
     </message>
     <message>
         <source>Show class groups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon klasse groepen.</translation>
     </message>
     <message>
         <source>Hide override templates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verberg vervangings templates.</translation>
     </message>
     <message>
         <source>Override templates</source>
-        <translation type="unfinished">Vervangende templates</translation>
+        <translation>Vervangende templates</translation>
     </message>
     <message>
         <source>Show override templates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon vervangende templates.</translation>
     </message>
     <message>
         <source>Hide available translations.</source>
-        <translation type="unfinished">Verberg beschikbare vertalingen.</translation>
+        <translation>Verberg beschikbare vertalingen.</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished">Vertalingen</translation>
+        <translation>Vertalingen</translation>
     </message>
     <message>
         <source>Show available translations.</source>
-        <translation type="unfinished">Toon beschikbare vertalingen.</translation>
+        <translation>Toon beschikbare vertalingen.</translation>
     </message>
     <message>
         <source>Default sorting of children</source>
-        <translation type="unfinished"></translation>
+        <translation>Standaard sortering van kinderen</translation>
     </message>
     <message>
         <source>Select a group that the &lt;%class_name&gt; class should be added to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer een groep waar de &lt;%class_name&gt; klasse aan toegevoegd dient te worden.</translation>
     </message>
     <message>
         <source>Select the desired main language using the radio buttons above then click this button to store the setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer de gewenste standaard taal middels de radioknoppen hierboven en klik dan op deze knop om de instellingen op te slaan.</translation>
     </message>
     <message>
         <source>You cannot change the main language because the object is not translated to any other languages.</source>
-        <translation type="unfinished"></translation>
+        <translation>U kunt de standaard taal niet wijzigen omdat het object niet vertaald is in een andere talen.</translation>
     </message>
     <message>
         <source>URL alias name pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>URL alias naampatroon</translation>
     </message>
     <message>
         <source>Use this menu to select the language you want to use for editing then click the &quot;Edit&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik dit menu om de taal te selecteren welke u wilt gebruiken voor het bewerken en klik dan op de &quot;Bewerk&quot; knop.</translation>
     </message>
     <message>
         <source>Class storing deferred</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasse opslag uitgesteld</translation>
     </message>
     <message>
         <source>The storing of the class has been deferred because existing objects need to be updated. The process has been scheduled to run in the background and will be started automatically. Please do not edit the class again until the process has finished. You can monitor the progress of the background process here:</source>
-        <translation type="unfinished"></translation>
+        <translation>Het opslaan van de klasse is uitgesteld omdat bestaande objecten ge-update dienen te worden. Het proces is ingepland in de achtergrond en zal automatisch starten. Gelieve de klasse niet weer te bewerken totdat het proces beeindigt is. U kunt de voortgang van het proces in de achtergrond hier bekijken:</translation>
     </message>
     <message>
         <source>Background process monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrond proces monitor</translation>
     </message>
     <message>
         <source>Class name and number of objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasse naam en aantal objecten</translation>
     </message>
     <message>
         <source>Member of class groups (%group_count)</source>
@@ -1004,15 +1006,15 @@
     </message>
     <message>
         <source>Translations (%translations)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalingen (%translations)</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Omschrijving</translation>
+        <translation>Omschrijving</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished">Kategorie</translation>
+        <translation>Categorie</translation>
     </message>
 </context>
 <context>
@@ -1034,7 +1036,7 @@
     </message>
     <message>
         <source>Group tree for &apos;%1&apos;</source>
-        <translation type="unfinished">Groepboom voor %1</translation>
+        <translation>Groepboom voor %1</translation>
     </message>
 </context>
 <context>
@@ -1100,35 +1102,35 @@
     </message>
     <message>
         <source>The content object %1 [deleted] was approved and will be published once the publishing workflow continues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het content object %1 [verwijderd] is goedgekeurd en zal gepucliceerd worden zodra de publicatie workflow doorgaat.</translation>
     </message>
     <message>
         <source>The content object %1 [deleted] was not accepted but is available as a draft again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het content object %1 [verwijderd] was niet geaccepteerd maar is weer beschikbaar als concept.</translation>
     </message>
     <message>
         <source>The content object %1 [deleted] was not accepted but will be available as a draft for the author.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het content object %1 [verwijderd] was niet geaccepteerd maar is weer beschikbaar als concept voor de auteur.</translation>
     </message>
     <message>
         <source>Do you want to send a message to the person approving it?</source>
-        <translation type="unfinished">Wilt u een bericht verzenden naar de fiatteur?</translation>
+        <translation>Wilt u een bericht verzenden naar de fiatteur?</translation>
     </message>
     <message>
         <source>The content object %1 was approved and will be published when the publishing workflow continues.</source>
-        <translation type="unfinished">Het inhoudsobject %1 werd goedgekeurd en zal gepubliceerd worden wanneer de publicatieworkflow voortgezet wordt.</translation>
+        <translation>Het inhoudsobject %1 werd goedgekeurd en zal gepubliceerd worden wanneer de publicatieworkflow voortgezet wordt.</translation>
     </message>
     <message>
         <source>The content object %1 was not accepted but is still available as a draft.</source>
-        <translation type="unfinished">Het inhoudsobject %1 werd niet geaccepteerd, maar is nog steeds beschikbaar als concept.</translation>
+        <translation>Het content object %1 werd niet geaccepteerd, maar is nog steeds beschikbaar als concept.</translation>
     </message>
     <message>
         <source>You may edit the draft and publish it, in which case an approval is required again.</source>
-        <translation type="unfinished"></translation>
+        <translation>U kunt het concept bewerken en publiceren. In dit geval is een goedkeuring opnieuw noodzakelijk.</translation>
     </message>
     <message>
         <source>The author can edit the draft and publish it again, in which case a new approval is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>De auteur kan het concept bewerken en opnieuw publiceren. In dit geval is opnieuw goedkeuring vereist.</translation>
     </message>
 </context>
 <context>
@@ -1151,7 +1153,7 @@
     </message>
     <message>
         <source>The content object %1 [deleted]</source>
-        <translation type="unfinished">Het inhoudsobject %1 (gewist)</translation>
+        <translation>Het content object %1 (gewist)</translation>
     </message>
 </context>
 <context>
@@ -1235,31 +1237,31 @@
     </message>
     <message>
         <source>Select bookmark for removal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer te verwijderen bladwijzer.</translation>
     </message>
     <message>
         <source>Edit &lt;%bookmark_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk &lt;%bookmark_name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected bookmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder geselecteerde bladwijzers.</translation>
     </message>
     <message>
         <source>Add items</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg items toe</translation>
     </message>
     <message>
         <source>Add items to your personal bookmark list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg items toe aan uw persoonlijke bladwijzerlijst.</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Onbekend</translation>
+        <translation>Onbekend</translation>
     </message>
     <message>
         <source>You do not have permission to edit the contents of &lt;%bookmark_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>U heeft geen rechten om de content te bewerken van &lt;%bookmark_name&gt;.</translation>
     </message>
     <message>
         <source>My bookmarks (%bookmark_count)</source>
@@ -1294,43 +1296,43 @@
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation type="unfinished">Selectie omkeren.</translation>
+        <translation>Selectie omkeren.</translation>
     </message>
     <message>
         <source>Display sub items using a simple list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon sub items in eenvoudige lijst.</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijst</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation type="unfinished">Thumbnail</translation>
+        <translation>Thumbnail</translation>
     </message>
     <message>
         <source>Display sub items as thumbnails.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon sub items als thumbnails.</translation>
     </message>
     <message>
         <source>Search result</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoekresultaten</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Selecteren</translation>
+        <translation>Selecteren</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished">Favorieten</translation>
+        <translation>Favorieten</translation>
     </message>
     <message>
         <source>To select objects, choose the appropriate radio button or checkbox(es), then click the &quot;Select&quot; button.</source>
-        <translation type="unfinished">Om de objecten te selecteren, kies de gewenste radioknop of checkbox(es), klik vervolgens op de &quot;Selecteren&quot;-knop.</translation>
+        <translation>Om de objecten te selecteren, kies de gewenste radioknop of checkbox(es), klik vervolgens op de &quot;Selecteren&quot;-knop.</translation>
     </message>
     <message>
         <source>To select an object that is a child of one of the displayed objects, click the object name for a list of the children of the object.</source>
-        <translation type="unfinished">Om een object te selecteren dat een onderliggend knooppunt is van één van de weergegeven objecten, klik op de objectnaam voor een lijst met de onderliggende knooppunten van het object.</translation>
+        <translation>Om een object te selecteren dat een onderliggend knooppunt is van één van de weergegeven objecten, klik op de objectnaam voor een lijst met de onderliggende knooppunten van het object.</translation>
     </message>
 </context>
 <context>
@@ -1341,64 +1343,64 @@
     </message>
     <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
-        <translation type="unfinished">Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
+        <translation>Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
     </message>
     <message>
         <source>Select the items that you want to bookmark using the checkboxes then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer met de checkboxen de items welke u wilt toevoegen aan uw favorieten en klik dan op &quot;Selecteer&quot;.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/browse_copy_node</name>
     <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
-        <translation type="unfinished">Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
+        <translation>Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
     </message>
     <message>
         <source>Choose location for the copy of &lt;%object_name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies locatie voor de kopie van &lt;%object_name&gt;</translation>
     </message>
     <message>
         <source>Choose location for the copy of subtree of node &lt;%node_name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies locatie voor de kopie van sub-boom van knoop &lt;%node_name&gt;</translation>
     </message>
     <message>
         <source>Choose a new location for the copy of &lt;%object_name&gt; using the radio buttons then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies een nieuwe locatie voor de kopie van &lt;%object_name&gt; met de radioknoppen en klik op &quot;Selecteer&quot;.</translation>
     </message>
     <message>
         <source>Choose a new location for the copy of subtree of node &lt;%node_name&gt; using the radio buttons then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies een nieuwe locatie voor de kopie van de sub-boom van knoop &lt;%node_name&gt; met de radioknoppen en klik op &quot;Selecteer&quot;.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/browse_export</name>
     <message>
         <source>Choose export node</source>
-        <translation type="unfinished">Selecteer uitvoerknoop</translation>
+        <translation>Selecteer uitvoerknoop</translation>
     </message>
     <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
-        <translation type="unfinished">Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
+        <translation>Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
     </message>
     <message>
         <source>Select the item that you want to export using the checkboxes then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer de items welke u wilt exporteren met de checkboxen en klik op &quot;Selecteer&quot;.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/browse_first_placement</name>
     <message>
         <source>Choose location for new &lt;%classname&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies locatie voor nieuwe &lt;%classname&gt;</translation>
     </message>
     <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
-        <translation type="unfinished">Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
+        <translation>Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
     </message>
     <message>
         <source>Choose a location for the new &lt;%classname&gt; using the radio buttons then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies een locatie voor de nieuwe &lt;%classname&gt; met de radioknoppen en klik op &quot;Selecteer&quot;.</translation>
     </message>
 </context>
 <context>
@@ -27541,9 +27543,6 @@ indien u optie &quot;%3&quot; tot &quot;%4&quot; koos</translation>
         <source>Group edit</source>
         <translation type="obsolete">Bewerk groep</translation>
     </message>
-</context>
-<context>
-    <name>kernel/state/edit</name>
 </context>
 <context>
     <name>kernel/trigger</name>
