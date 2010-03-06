@@ -1793,7 +1793,7 @@
     </message>
     <message>
         <source>Store draft</source>
-        <translation>Sauvegarder le brouillon</translation>
+        <translation>Enregistrer le brouillon</translation>
     </message>
     <message>
         <source>Store the contents of the draft that is being edited and continue editing. Use this button to periodically save your work while editing.</source>
@@ -1865,11 +1865,11 @@
     </message>
     <message>
         <source>Desc.</source>
-        <translation>Descendant.</translation>
+        <translation>Descendant</translation>
     </message>
     <message>
         <source>Asc.</source>
-        <translation>Ascendant.</translation>
+        <translation>Ascendant</translation>
     </message>
     <message>
         <source>Hidden by parent</source>
@@ -1889,7 +1889,7 @@
     </message>
     <message>
         <source>Use these radio buttons to specify the main location (main node) for the object being edited.</source>
-        <translation>Utilisez ces boutons radio pour spécifier l&apos;emplacement principal (node principal) pour l&apos;objet qui est édité.</translation>
+        <translation>Utilisez ces boutons radio pour spécifier l&apos;emplacement principal (nœeud principal) pour l&apos;objet qui est édité.</translation>
     </message>
     <message>
         <source>Move to another location.</source>
@@ -2093,7 +2093,7 @@
     </message>
     <message>
         <source>Copy this code and paste it into an XML field to embed the object.</source>
-        <translation>Copiez ce code et collez le au sein d&apos;un champ XML pour entourer l&apos;objet.</translation>
+        <translation>Copiez ce code et collez le au sein d&apos;un champ XML pour incorporer l&apos;objet.</translation>
     </message>
     <message>
         <source>Copy this code and paste it into an XML field to link the object.</source>
@@ -2101,79 +2101,79 @@
     </message>
     <message>
         <source>Top node</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœeud supérieur</translation>
     </message>
     <message>
         <source>Publish the contents of the draft that is being edited. The draft will become the published version of the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Publier le contenu du brouillon en court de modification. Ce brouillon sera la version publiée de l'objet.</translation>
     </message>
     <message>
         <source>Class identifier</source>
-        <translation type="unfinished">Identifiant de classe</translation>
+        <translation>Identifiant de la classe</translation>
     </message>
     <message>
         <source>Class name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de la classe</translation>
     </message>
     <message>
         <source>This location will remain unchanged when the object is published.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cet emplacement restera inchangé quand l'objet sera publié.</translation>
     </message>
     <message>
         <source>This location will be created when the object is published.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cet emplacement sera créé quand l'objet sera publié.</translation>
     </message>
     <message>
         <source>This location will be moved when the object is published.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cet emplacement sera déplacé quand l'objet sera publié.</translation>
     </message>
     <message>
         <source>This location will be removed when the object is published.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cet emplacement sera supprimé quand l'objet sera publié.</translation>
     </message>
     <message>
         <source>You do not have permission to remove this location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez pas le droit de supprimer cet emplacement.</translation>
     </message>
     <message>
         <source>Use this menu to set the sorting method for the sub items in this location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ce menu pour définir le critère de tri pour les sous-éléments à cet emplacement.</translation>
     </message>
     <message>
         <source>Use this menu to set the sorting direction for the sub items in this location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ce menu pour définir le sens du tri pour les sous-éléments à cet emplacement.</translation>
     </message>
     <message>
         <source>You cannot add or remove locations because the object being edited belongs to a top node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez ajouter ou supprimer des emplacements car cet objet appartient à un nœeud supérieur.</translation>
     </message>
     <message>
         <source>You cannot manage the versions of this object because there is only one version available (the one that is being edited).</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez gérer les version de cet objet car une seule version est disponible (celle en cours de modification).</translation>
     </message>
     <message>
         <source>You do not have permission to view this object</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez pas le droit de voir cet objet</translation>
     </message>
     <message>
         <source>The following data is invalid according to the custom validation rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Les informations suivantes sont invalides par rapport aux règles de validation.</translation>
     </message>
     <message>
         <source>States</source>
-        <translation type="unfinished"></translation>
+        <translation>États</translation>
     </message>
     <message>
         <source>Toggle fullscreen editing!</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer / Désactiver l'édition en plein écran&#160;!</translation>
     </message>
     <message>
         <source>Store draft and exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer le brouillon et quitter</translation>
     </message>
     <message>
         <source>Store the draft that is being edited and exit from edit mode. Use when you need to exit your work and return later to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer le brouillon en cours de modification et quitter le mode modification. Utilisez ce bouton pour enregistrer votre travail pour revenir plus tard.</translation>
     </message>
     <message>
         <source>Edit &lt;%object_name&gt; (%class_name)</source>
@@ -2185,19 +2185,19 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Prévisualisation</translation>
     </message>
     <message>
         <source>Existing translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traductions existantes</translation>
     </message>
     <message>
         <source>Base translation on</source>
-        <translation type="unfinished"></translation>
+        <translation>Baser la traduction sur</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune</translation>
     </message>
     <message>
         <source>Related objects (%related_objects)</source>
@@ -2224,7 +2224,7 @@
     </message>
     <message>
         <source>required</source>
-        <translation>Requis</translation>
+        <translation>requis</translation>
     </message>
     <message>
         <source>information collector</source>
@@ -2371,15 +2371,15 @@
     </message>
     <message>
         <source>Create a new draft. The contents of the new draft will be copied from the published version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouveau brouillon. Le contenu de ce nouveau brouillon sera copié de la version publiée.</translation>
     </message>
     <message>
         <source>You cannot select draft version #%version for editing because it belongs to another user. Please select a draft that belongs to you or create a new draft and then edit it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas sélectionner le brouillon version #%version pour la modification car il appartient à un autre utilisateur. Veuillez sélectionner un brouillon qui vous appartient ou créer un nouveau brouillon puis modifiez le.</translation>
     </message>
     <message>
         <source>You cannot edit any of the drafts because none of them belong to you. You can create a new draft, select it and then edit it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez modifier aucun brouillon car aucun ne vous appartient. Vous pouvez créer un nouveau brouillon, sélectionnez le puis modifiez le.</translation>
     </message>
     <message>
         <source>Conflicting versions (%draft_count)</source>
@@ -2462,31 +2462,31 @@
     </message>
     <message>
         <source>You do not have permission to create a translation in another language.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez pas le droit de créer une traduction.</translation>
     </message>
     <message>
         <source>However you can select one of the following languages for editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais vous pouvez sélectionner une des traductions à modifier.</translation>
     </message>
     <message>
         <source>Existing translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traductions existantes</translation>
     </message>
     <message>
         <source>Select the translation you want to edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la traduction que vous voulez modifier</translation>
     </message>
     <message>
         <source>New translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouvelle traduction</translation>
     </message>
     <message>
         <source>Select the translation you want to add</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la traduction que vous voulez ajouter</translation>
     </message>
     <message>
         <source>Translate based on</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduire à partir de</translation>
     </message>
 </context>
 <context>
@@ -2645,43 +2645,43 @@
     </message>
     <message>
         <source>Version is not a draft</source>
-        <translation type="unfinished"></translation>
+        <translation>La version n'est pas un brouillon</translation>
     </message>
     <message>
         <source>Version %1 is not available for editing anymore. Only drafts can be edited.</source>
-        <translation type="unfinished"></translation>
+        <translation>La version %1 n'est plus disponible pour la modification. Seuls les brouillons peuvent être modifiés.</translation>
     </message>
     <message>
         <source>To edit this version, first create a copy of it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour modifier cette version, commencez par la copier.</translation>
     </message>
     <message>
         <source>Version is not yours</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette version ne vous appartient pas.</translation>
     </message>
     <message>
         <source>Version %1 was not created by you. You can only edit your own drafts.</source>
-        <translation type="unfinished"></translation>
+        <translation>La version %1 n'a pas été créée par vous. Vous ne pouvez modifier que vos propres brouillons.</translation>
     </message>
     <message>
         <source>Modified translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduction modifiée</translation>
     </message>
     <message>
         <source>Version #%version_number cannot be removed because it is either the published version of the object or because you do not have permission to remove it.</source>
-        <translation type="unfinished"></translation>
+        <translation>La version #%version_number ne peut être supprimée car il s'agit soit de la version publiée de l'objet ou vous n'avez pas le droit de la supprimer.</translation>
     </message>
     <message>
         <source>There is no need to make copies of untouched drafts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il n'est pas nécessaire de faire des copies des brouillons intacts.</translation>
     </message>
     <message>
         <source>You cannot make copies of versions because you do not have permission to edit the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez copier aucune version car vous n'avez pas de le droit de modifier cet objet.</translation>
     </message>
     <message>
         <source>You cannot edit the contents of version #%version_number either because it is not a draft or because you do not have permission to edit the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas modifier le contenu de la version #%version_number soit parce qu'il ne s'agit pas d'un brouillon ou parce que vous n'avez pas la droit de modifier cet objet.</translation>
     </message>
     <message>
         <source>Versions for &lt;%object_name&gt; (%version_count)</source>
@@ -4407,27 +4407,27 @@
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished">Caché</translation>
+        <translation>Caché</translation>
     </message>
     <message>
         <source>Hidden by superior</source>
-        <translation type="unfinished">Caché par un élément supérieur</translation>
+        <translation>Caché par un élément supérieur</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="unfinished">Visible</translation>
+        <translation>Visible</translation>
     </message>
     <message>
         <source>Dynamic tree not allowed for this siteaccess</source>
-        <translation type="unfinished"></translation>
+        <translation>L'arborescence dynamique n'est pas autorisée sur ce siteaccess</translation>
     </message>
     <message>
         <source>Node does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nœud n'existe pas</translation>
     </message>
     <message>
         <source>Internal error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur interne</translation>
     </message>
     <message>
         <source>[%classname] Click on the icon to display a context-sensitive menu.</source>
