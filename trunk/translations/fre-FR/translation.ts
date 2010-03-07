@@ -1503,7 +1503,7 @@
     </message>
     <message>
         <source>You have already submitted feedback. The previously submitted data was:</source>
-        <translation>Vous avez déjà soumis ce formulaire. Voici les informations que vous aviez soumises&#160;:</translation>
+        <translation>VVous avez déjà soumis ce formulaire. Voici les informations que vous aviez soumises&#160;:ous avez déjà soumis ce formulaire. Voici les informations que vous aviez soumises&#160;:</translation>
     </message>
     <message>
         <source>Thanks for your feedback. The following information was collected.</source>
@@ -4815,7 +4815,7 @@
     </message>
     <message>
         <source>Third-Party Software</source>
-        <translation>Logiciel 3 tiers</translation>
+        <translation>Logiciels tiers</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -7105,7 +7105,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>URL wildcards</source>
-        <translation type="unfinished"></translation>
+        <translation>URL avec jokers</translation>
     </message>
     <message>
         <source>States</source>
@@ -8387,7 +8387,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Site URL</source>
-        <translation>URL du Site</translation>
+        <translation>URL du site</translation>
     </message>
     <message>
         <source>Image</source>
@@ -8515,75 +8515,75 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Invalid input</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrée invalide</translation>
     </message>
     <message>
         <source>Name of the RSS export. This name is used in the Administration Interface only, to distinguish the different exports from each other.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de l'export RSS. Ce nom est uniquement utilisé dans l'interface d'administration pour différencier les différents exports.</translation>
     </message>
     <message>
         <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and eZ Publish configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ce champ pour saisir l'URL de base de votre site. Elle sera utilisée pour produire les URLs dans l'export, composées de l'URL du site (par exemple 'http://www.example.com/index.php') et du chemin vers l'objet (par exemple '/article/my_article'). L'URL du site dépend de la configuration du serveur web et d'eZ Publish.</translation>
     </message>
     <message>
         <source>Leave this field empty if you want system automaticaly detect the URL of your site from the URL you access feed with</source>
-        <translation type="unfinished"></translation>
+        <translation>Laissez ce champ vide si vous voulez que le système détecte automatiquement l'URL de votre site à partir de l'URL d'accès au flux.</translation>
     </message>
     <message>
         <source>Use this drop-down to select the maximum number of objects included in the RSS feed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez cette liste déroulante pour sélectionner le nombre maximale d'objets à inclure dans le flux RSS.</translation>
     </message>
     <message>
         <source>Click this button to select the source node for the RSS export source. Objects of the type selected in the drop-down below published as sub items of the selected node will be included in the RSS export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur ce bouton pour sélectionner le nœud source de l'export RSS. Les objets publiés du type sélectionné dans la liste déroulante ci-dessous sous éléments du nœud sélectionné seront inclus dans l'export RSS.</translation>
     </message>
     <message>
         <source>Activate this checkbox if objects from the subnodes of the source should also be fed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cochez cet case si les sous-éléments du nœud source doivent aussi être inclus.</translation>
     </message>
     <message>
         <source>Use this drop-down to select the type of object that triggers the export. Click the &quot;Set&quot; button to load the correct attribute types for the remaining fields.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez la liste déroulante pour sélectionner le type d'objet qui déclencheront l'export. Cliquez sur le bouton 'Assigner' pour remplir les listes des attributs suivantes.</translation>
     </message>
     <message>
         <source>Click this button to load the correct values into the drop-down fields below. Use the drop-down menu on the left to select the class.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur ce bouton pour remplir correctement les menus déroulants ci-dessous. Utilisez le menu déroulant sur la gauche pour sélectionner une classe.</translation>
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the title of the RSS export entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez cette liste déroulante pour sélectionner l'attribut utilisé en tant que titre d'un élément du flux RSS.</translation>
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the description of the RSS export entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez cette liste déroulante pour sélectionner l'attribut utilisé en tant que description d'un élément du flux RSS.</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Catégorie</translation>
     </message>
     <message>
         <source>optional</source>
-        <translation type="unfinished"></translation>
+        <translation>optionnel</translation>
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the category of the RSS export entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez cette liste déroulante pour sélectionner l'attribut utilisé en tant que catégorie d'un élément du flux RSS.</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Passer</translation>
+        <translation>Passer</translation>
     </message>
     <message>
         <source>Enclosure (media)</source>
-        <translation type="unfinished"></translation>
+        <translation>Media attaché (enclosure)</translation>
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the enclosure of the RSS export entry, enclosures are direct link to a media file, so use a media/image/file datatype .</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez cette liste déroulante pour sélectionner l'attribut utilisé en tant que media attaché d'un élément du flux RSS, les medias attachés sont des liens direct vers un fichier, vous devriez donc choisir un attribut de type media, image ou fichier.</translation>
     </message>
     <message>
         <source>Field data</source>
-        <translation type="unfinished"></translation>
+        <translation>Champ de données</translation>
     </message>
 </context>
 <context>
@@ -8682,27 +8682,27 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Name of the RSS import. This name is used in the Administration Interface only, to distinguish the different imports from each other.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de l'import RSS. Ce nom est uniquement utilisé dans l'interface d'administration pour différencier les différents imports.</translation>
     </message>
     <message>
         <source>Click this button to proceed and analyze the import feed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur ce bouton pour continuer et déclencher l'import du flux.</translation>
     </message>
     <message>
         <source>Use this drop-down to select the type of object the import should create. Click the &quot;Set&quot; button to load the attribute types for the remaining fields.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez cette liste déroulante pour sélectionner le type des objets qui vont être créés. Cliquez sur le bouton 'Assigner' pour charger les types d'attribut pour les champs restants.</translation>
     </message>
     <message>
         <source>Click this button to load the correct values into the drop-down fields below. Use the drop-down menu on the left to select the class.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur ce bouton pour charger les valeurs correctes dans les menus déroulants ci-dessous. Utilisez ce menu déroulant sur la gauche pour sélectionner la classe.</translation>
     </message>
     <message>
         <source>Class attributes</source>
-        <translation type="unfinished">Attributs de classe</translation>
+        <translation>Attributs de classe</translation>
     </message>
     <message>
         <source>Name of the RSS import. This name is used in the Administration Interface only to distinguish the different imports from each other.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de l'import RSS. Ce nom est uniquement utilisé dans l'interface d'administration pour différencier les différents imports.</translation>
     </message>
 </context>
 <context>
@@ -12517,7 +12517,7 @@ Note: The packages will not be uninstalled.</source>
         <source>Your account was successfully created. An email will be sent to the specified
 email address. Follow the instructions in that mail to activate
 your account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Votre compte a bien été créé. Un courriel sera envoyé à l'adresse email indiquée. Suivez les instructions indiquées dans cet email pour activer votre compte.</translation>
     </message>
 </context>
 <context>
@@ -12586,11 +12586,11 @@ your account.</source>
     </message>
     <message>
         <source>All letters must be entered in the correct case.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toutes les lettres doivent être saisies avec la bonne casse.</translation>
     </message>
     <message>
         <source>You do not have permission to access &lt;%siteaccess_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez pas le droit d'accèder à &lt;%siteaccess_name&gt;.</translation>
     </message>
     <message>
         <source>Log in to the Administration Interface of eZ Publish</source>
@@ -12774,7 +12774,7 @@ your account.</source>
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation type="unfinished">Siteaccess</translation>
+        <translation>Siteaccess</translation>
     </message>
 </context>
 <context>
@@ -12916,15 +12916,15 @@ your account.</source>
     </message>
     <message>
         <source>You do not have permission to save the contents of the text field above to the template file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez pas le droit d'enregistrer le contenu du champ texte ci-dessus dans un template.</translation>
     </message>
     <message>
         <source>The template cannot be edited.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce template ne peut pas être modifié.</translation>
     </message>
     <message>
         <source>Override template</source>
-        <translation type="unfinished"></translation>
+        <translation>Surcharger le template</translation>
     </message>
 </context>
 <context>
@@ -13026,11 +13026,11 @@ your account.</source>
     </message>
     <message>
         <source>There are no overrides for the &lt;%template_name&gt; template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il n'y a pas de surcharge pour le template &lt;%template_name&gt;</translation>
     </message>
     <message>
         <source>The override.ini file could not be modified because of insufficient permission.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier override.ini n'a pu être modifié en raison de permissions insuffisante.</translation>
     </message>
     <message>
         <source>Overrides for &lt;%template_name&gt; template in &lt;%current_siteaccess&gt; siteaccess (%override_count)</source>
@@ -13113,11 +13113,11 @@ your account.</source>
     </message>
     <message>
         <source>Tool list for &lt;Toolbar_%toolbar_position&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste d'outil pour &lt;Toolbar_%toolbar_position&gt;</translation>
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation type="unfinished">Siteaccess</translation>
+        <translation>Siteaccess</translation>
     </message>
 </context>
 <context>
@@ -13307,19 +13307,19 @@ your account.</source>
     </message>
     <message>
         <source>Affected versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions concernées</translation>
     </message>
     <message>
         <source>Users who approve content</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisateurs qui peuvent approuver un contenu</translation>
     </message>
     <message>
         <source>Groups who approve content</source>
-        <translation type="unfinished"></translation>
+        <translation>Groupe d'utilisateurs qui peuvent approuver un contenu</translation>
     </message>
     <message>
         <source>There are no payment gateway extensions installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune extension de paiement installée.</translation>
     </message>
     <message>
         <source>Class/attribute combinations (%count)</source>
@@ -14005,39 +14005,39 @@ your account.</source>
     </message>
     <message>
         <source>Anonymous users are not allowed to vote in this poll. Please log in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les utilisateurs anonymes n'ont pas le droit de voter pour ce sondage. Veuillez vous identifier.</translation>
     </message>
     <message>
         <source>You have already voted in this poll.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous avez déjà voté pour ce sondage.</translation>
     </message>
     <message>
         <source>Your email address</source>
-        <translation type="unfinished">Votre courriel</translation>
+        <translation>Votre courriel</translation>
     </message>
     <message>
         <source>You need to be logged in to get access to the forums. Log in  %login_link_start%here%login_link_end%</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous devez être identifié pour avoir accès aux forums. Identifiez vous %login_link_start%ici%login_link_end%</translation>
     </message>
     <message>
         <source>You need to be logged in to get access to the forums. Log in</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous devez être identifié pour avoir accès aux forums. Identifiez vous</translation>
     </message>
     <message>
         <source>Try changing some keywords eg. &amp;quot;car&amp;quot; instead of &amp;quot;cars&amp;quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Essayez de changer quelques mots clés par exemple &amp;quot;voiture&amp;quot; au lieu de &amp;quot;voitures&amp;quot;.</translation>
     </message>
     <message>
         <source>Fewer keywords result in more matches. Try reducing keywords until you get a result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Moins de mots clés donnent plus de résultats. Essayez de réduire le nombre de mots clés juqu'à obtenir un résultat.</translation>
     </message>
     <message>
         <source>Powered by %linkStartTag eZ Publish&amp;reg;&amp;trade; open source content management system %linkEndTag and development framework.</source>
-        <translation type="unfinished"></translation>
+        <translation>Propulsé par %linkStartTag eZ Publish &amp;reg;&amp;trade; système de gestion de contenu open source %linkEndTag and framework de développement.</translation>
     </message>
     <message>
         <source>Powered by %linkStartTag eZ Publish&amp;reg; open source content management system %linkEndTag and development framework.</source>
-        <translation type="unfinished"></translation>
+        <translation>Powered by %linkStartTag eZ Publish&amp;reg;&amp;trade; système de gestion de contenu open source %linkEndTag et framework de développement.</translation>
     </message>
 </context>
 <context>
@@ -14144,39 +14144,39 @@ your account.</source>
     </message>
     <message>
         <source>The following items were removed from your basket because the products were changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Les éléments suivants ont été supprimés de votre panier car ces produits ont changé</translation>
     </message>
     <message>
         <source>Total price</source>
-        <translation type="unfinished"></translation>
+        <translation>Prix total</translation>
     </message>
     <message>
         <source>Subtotal inc. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Sous-total TTC</translation>
     </message>
     <message>
         <source>Shipping total inc. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Total pour l'expédition TTC</translation>
     </message>
     <message>
         <source>Item total inc. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Total pour cet élément TTC</translation>
     </message>
     <message>
         <source>Total inc. VAT</source>
-        <translation type="unfinished">Total TTC</translation>
+        <translation>Total TTC</translation>
     </message>
     <message>
         <source>Subtotal of items ex. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Sous-total pour cet élément HT</translation>
     </message>
     <message>
         <source>Shipping total ex. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Total pour l'expédition HT</translation>
     </message>
     <message>
         <source>Item total ex. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Total pour l'élément HT</translation>
     </message>
 </context>
 <context>
@@ -14792,79 +14792,79 @@ your account.</source>
     </message>
     <message>
         <source>Use seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclure les secondes</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Seconde</translation>
     </message>
     <message>
         <source>Checkboxes / radio buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Cases à cocher / boutons radio</translation>
     </message>
     <message>
         <source>Drop-down menu / multi menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu déroulant / menu déroulant à mutli-sélection</translation>
     </message>
     <message>
         <source>Range data for the ISBN-13 does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Les données pour le type de donnée ISBN-13 n'existe pas</translation>
     </message>
     <message>
         <source>Please follow the instructions for the ISBN datatype to install the valid ranges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez suivre les instructions d'installtion du type de donnée ISBN</translation>
     </message>
     <message>
         <source>Definition from distribution</source>
-        <translation type="unfinished"></translation>
+        <translation>Définition de la distribution</translation>
     </message>
     <message>
         <source>Load the definition that follows the standard distribution here:</source>
-        <translation type="unfinished"></translation>
+        <translation>Charger la définition qui suit la distribution standard ici&#160;:</translation>
     </message>
     <message>
         <source>Import ISBN range data</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer les données ISBN</translation>
     </message>
     <message>
         <source>RealPlayer</source>
-        <translation type="unfinished"></translation>
+        <translation>RealPlayer</translation>
     </message>
     <message>
         <source>Silverlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Silverlight</translation>
     </message>
     <message>
         <source>Windows Media Player</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Media Player</translation>
     </message>
     <message>
         <source>List with checkboxes</source>
-        <translation type="unfinished"></translation>
+        <translation>List de cases à cocher</translation>
     </message>
     <message>
         <source>seconds(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>secondes(s)</translation>
     </message>
     <message>
         <source>Drop-down menu / multi select</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu déroulant / menu déroulant de multi-sélection</translation>
     </message>
     <message>
         <source>Radio buttons / checkboxes</source>
-        <translation type="unfinished"></translation>
+        <translation>Boutons radio / cases à cocher</translation>
     </message>
     <message>
         <source>Warning: the ini file settings value and object value does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attention&#160;: la valeur dans le fichier de configuration ini et la valeur dans l'objet sont différentes.</translation>
     </message>
     <message>
         <source>Ini File: </source>
-        <translation type="unfinished"></translation>
+        <translation>Fichier ini&#160;: </translation>
     </message>
     <message>
         <source>Tag preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Ensemble de balise</translation>
     </message>
 </context>
 <context>
@@ -15022,74 +15022,74 @@ your account.</source>
     </message>
     <message>
         <source>Use this menu to select the type of attribute you want to create. Click the &quot;add attribute&quot; button. The attribute will be appended to the bottom of the list of attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ce menu pour sélectionner le type d'attribut à créer. Cliquez sur le button 'Ajouter un attribut'. L'attribut sera ajouté à la fin de la liste des attributs.</translation>
     </message>
     <message>
         <source>The class should have at least one attribute and a nonempty &apos;Name&apos; attribute</source>
-        <translation type="unfinished"></translation>
+        <translation>Une classe doit avoir au moins un attribut et un nom</translation>
     </message>
     <message>
         <source>Is container class</source>
-        <translation type="unfinished"></translation>
+        <translation>Classe conteneur</translation>
     </message>
     <message>
         <source>Discard changes</source>
-        <translation type="unfinished">Abandonner les modifications</translation>
+        <translation>Abandonner les modifications</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Description</translation>
     </message>
     <message>
         <source>Use this field to set the informal description of the class. The description field can contain whitespaces and special characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ce champ pour définir une description de la classe. La description peut contenir des espaces et des caractères spéciaux.</translation>
     </message>
 </context>
 <context>
     <name>design/standard/class/edit_locked</name>
     <message>
         <source>Class locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Classe verrouillée</translation>
     </message>
     <message>
         <source>This class has pending modifications defered to cronjob and thus it cannot be edited.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette classe a des modifications en cours qui seront traitées par un script de cronjob, elle ne peut donc pas être édité.</translation>
     </message>
     <message>
         <source>Wait until the script is finished. You might see the status in the %urlstart script monitor%urlend&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attendez jusqu'à ce que le script se termine. Vous pouvez voir l'état de l'exécution dans %urlstart l'interface de surveillance des scripts%urlend&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>To force the modification of the class you may run the following command</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour forcer la modification de la classe vous pouvez exécuter la commande suivante</translation>
     </message>
     <message>
         <source>Edit &lt;%class_name&gt; [Class]</source>
-        <translation type="unfinished">Modifier &lt;%class_name&gt; [Class]</translation>
+        <translation>Modifier &lt;%class_name&gt; [Classe]</translation>
     </message>
     <message>
         <source>Class</source>
-        <translation type="unfinished">Classe</translation>
+        <translation>Classe</translation>
     </message>
     <message>
         <source>Last modifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Auteur de la dernière modification</translation>
     </message>
     <message>
         <source>Last modified on</source>
-        <translation type="unfinished"></translation>
+        <translation>Date de dernière modification</translation>
     </message>
     <message>
         <source>The class will be available for editing after the script has been run by the cronjob.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette classe sera à nouveau disponible après l'éxécution du script cron.</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished">Réessayer</translation>
+        <translation>Réessayer</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
 </context>
 <context>
@@ -15509,11 +15509,11 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Below you will find a list of active translations that content objects may be translated into.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voici la liste des traductions actives dans lesquelles les objets de contenu peuvent être traduits.</translation>
     </message>
     <message>
         <source>Country/region</source>
-        <translation type="unfinished"></translation>
+        <translation>Pays/région</translation>
     </message>
 </context>
 <context>
@@ -15588,11 +15588,11 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>To select objects, choose the appropriate radio button or checkbox(es), then click the &quot;Select&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour sélectionner des objets, choisissez le bouton radio ou la case à cocher approprié puis cliquez sur le bouton 'Sélectionner'.</translation>
     </message>
     <message>
         <source>To select an object that is a child of one of the displayed objects, click the object name for a list of the children of the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour sélectionner un objet enfant de l'un des objets affichés, cliquez sur le nom de l'objet pour voir la liste de ces enfants.</translation>
     </message>
 </context>
 <context>
@@ -15619,7 +15619,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Version count is %1 and current version is %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nombre de version est %1 et la version courante est la version %2.</translation>
     </message>
 </context>
 <context>
@@ -15646,19 +15646,19 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Keep creators of content objects being copied unchanged.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conserver les créateurs des objets de contenu copiés/</translation>
     </message>
     <message>
         <source>Set new creator for content objects being copied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir le nouveau créateur des objets de contenu copiés.</translation>
     </message>
     <message>
         <source>Keep time of creation and modification of content objects being copied unchanged.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conserver les dates de création et de modification des objets contenu copiés.</translation>
     </message>
     <message>
         <source>Copy and publish content objects at current time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier et publier l'objet de contenu avec la date et l'heure actuelle.</translation>
     </message>
 </context>
 <context>
@@ -16254,91 +16254,91 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Seconde</translation>
     </message>
     <message>
         <source>RealPlayer</source>
-        <translation type="unfinished"></translation>
+        <translation>RealPlayer</translation>
     </message>
     <message>
         <source>Silverlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Silverlight</translation>
     </message>
     <message>
         <source>Windows Media Player</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Media Player</translation>
     </message>
     <message>
         <source>Add group</source>
-        <translation type="unfinished">Ajouter un groupe</translation>
+        <translation>Ajouter un groupe</translation>
     </message>
     <message>
         <source>Add a new group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un nouveau groupe</translation>
     </message>
     <message>
         <source>Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Règles</translation>
     </message>
     <message>
         <source>Set rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir les règles</translation>
     </message>
     <message>
         <source>Reset rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Remettre à zéro les règles</translation>
     </message>
     <message>
         <source>Multioption:</source>
-        <translation type="unfinished"></translation>
+        <translation>Option multiple&#160;:</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Image</translation>
+        <translation>Image</translation>
     </message>
     <message>
         <source>Def</source>
-        <translation type="unfinished"></translation>
+        <translation>Défaut</translation>
     </message>
     <message>
         <source>Dis</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactivé</translation>
     </message>
     <message>
         <source>Select if you want to disallow this option choice</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez si vous voulez désactiver cette option</translation>
     </message>
     <message>
         <source>Add multioption sub level</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un niveau d'option multiple</translation>
     </message>
     <message>
         <source>Add a new multioption sub level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un nouveau niveau d'option.</translation>
     </message>
     <message>
         <source>Remove multioption</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les options multiples</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished">Groupe</translation>
+        <translation>Groupe</translation>
     </message>
     <message>
         <source>Option group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du groupe d'options</translation>
     </message>
     <message>
         <source>There are no related object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun objet lié.</translation>
     </message>
     <message>
         <source>Find object</source>
-        <translation type="unfinished"></translation>
+        <translation>Chercher un objet</translation>
     </message>
     <message>
         <source>Find objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Chercher des objets</translation>
     </message>
 </context>
 <context>
@@ -16645,15 +16645,15 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     <message>
         <source>This object is already being edited by yourself or someone else.
     You can either continue editing one of your drafts or you can create a new draft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cet objet est déjà en cours de modification par vous ou quelqu'un d'autre. Vous pouvez continuer à modifier un de vos brouillons ou en créer un nouveau.</translation>
     </message>
     <message>
         <source>Class identifier</source>
-        <translation type="unfinished">Identifiant de classe</translation>
+        <translation>Identifiant de classe</translation>
     </message>
     <message>
         <source>Class name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de classe</translation>
     </message>
 </context>
 <context>
@@ -16696,11 +16696,11 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Use an empty, untranslated draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser un brouillon vide et non traduit</translation>
     </message>
     <message>
         <source>You do not have permission to create a translation in another language.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez pas le droit de créer une traduction.</translation>
     </message>
 </context>
 <context>
@@ -16722,11 +16722,11 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>You have already submitted feedback. The previously submitted data was:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous avez déjà soumis ce formulaire. Voici les informations que vous aviez soumises&#160;:</translation>
     </message>
     <message>
         <source>Thanks for your feedback. The following information was collected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Merci. Les informations suivantes ont été enregistrées.</translation>
     </message>
 </context>
 <context>
@@ -16745,7 +16745,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>You have already submitted this form. The previously submitted data was:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous avez déjà soumis ce formulaire. Voici les informations que vous aviez soumises&#160;:</translation>
     </message>
 </context>
 <context>
@@ -16892,39 +16892,39 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Version is not a draft</source>
-        <translation type="unfinished"></translation>
+        <translation>La version n'est pas un brouillon</translation>
     </message>
     <message>
         <source>Version %1 is not available for editing anymore. Only drafts can be edited.</source>
-        <translation type="unfinished"></translation>
+        <translation>La version %1 n'est plus disponible pour la modification. Seuls les brouillons peuvent être modifiés.</translation>
     </message>
     <message>
         <source>To edit this version, first create a copy of it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour modifier cette version, commencez par la copier.</translation>
     </message>
     <message>
         <source>Version is not yours</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette version ne vous appartient pas.</translation>
     </message>
     <message>
         <source>Version %1 was not created by you. You can only edit your own drafts.</source>
-        <translation type="unfinished"></translation>
+        <translation>La version %1 n'a pas été créée par vous. Vous ne pouvez modifier que vos propres brouillons.</translation>
     </message>
     <message>
         <source>Modified translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduction modifiée</translation>
     </message>
     <message>
         <source>Version #%version_number cannot be removed because it is either the published version of the object or because you do not have permission to remove it.</source>
-        <translation type="unfinished"></translation>
+        <translation>La version #%version_number ne peut être supprimée car il s'agit soit de la version publiée de l'objet ou vous n'avez pas le droit de la supprimer.</translation>
     </message>
     <message>
         <source>You cannot make copies of versions because you do not have permission to edit the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez copier aucune version car vous n'avez pas de le droit de modifier cet objet.</translation>
     </message>
     <message>
         <source>You cannot edit the contents of version #%version_number either because it is not a draft or because you do not have permission to edit the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas modifier le contenu de la version #%version_number soit parce qu'il ne s'agit pas d'un brouillon ou parce que vous n'avez pas la droit de modifier cet objet.</translation>
     </message>
 </context>
 <context>
@@ -16966,7 +16966,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>eZ Publish PDF export</source>
-        <translation type="unfinished"></translation>
+        <translation>Export PDF d'eZ Publish</translation>
     </message>
 </context>
 <context>
@@ -16985,11 +16985,11 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Anonymous users are not allowed to vote in this poll. Please log in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les utilisateurs anonymes n'ont pas le droit de voter pour ce sondage. Veuillez vous identifier.</translation>
     </message>
     <message>
         <source>You have already voted in this poll.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous avez déjà voté pour ce sondage.</translation>
     </message>
 </context>
 <context>
@@ -17144,11 +17144,11 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Try changing some keywords eg. &amp;quot;car&amp;quot; instead of &amp;quot;cars&amp;quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Essayez de changer quelques mots clés par exemple &amp;quot;voiture&amp;quot; au lieu de &amp;quot;voitures&amp;quot;.</translation>
     </message>
     <message>
         <source>Fewer keywords result in more matches. Try reducing keywords until you get a result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Moins de mots clés donnent plus de résultats. Essayez de réduire le nombre de mots clés juqu'à obtenir un résultat.</translation>
     </message>
 </context>
 <context>
@@ -17305,7 +17305,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Choose a file from your locale machine then click the &quot;Upload&quot; button. An object will be created according to file type and placed in your chosen location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un fichier sur votre machine puis cliquez sur le bouton &quot;Envoyer le fichier&quot;. Un objet sera créé en fonction du type de fichier à l'emplacement spécifié.</translation>
     </message>
 </context>
 <context>
@@ -17360,19 +17360,19 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Version is not a draft</source>
-        <translation type="unfinished"></translation>
+        <translation>La version n'est pas un brouillon</translation>
     </message>
     <message>
         <source>To edit this version, first create a copy of it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour modifier cette version, commencez par la copier.</translation>
     </message>
     <message>
         <source>Version is not yours</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette version ne vous appartient pas.</translation>
     </message>
     <message>
         <source>Version %1 was not created by you. You can only edit your own drafts.</source>
-        <translation type="unfinished"></translation>
+        <translation>La version %1 n'a pas été créée par vous. Vous ne pouvez modifier que vos propres brouillons.</translation>
     </message>
 </context>
 <context>
@@ -17644,7 +17644,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     <message>
         <source>Choose a file from your locale machine then click the &quot;Upload&quot; button. An object will be created according to file type and placed in your chosen location.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un fichier sur votre machine puis cliquez sur le bouton &quot;Envoyer le fichier&quot;. Un objet sera créé en fonction du type de fichier à l'emplacement spécifié.</translation>
     </message>
 </context>
 <context>
@@ -17894,7 +17894,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation type="unfinished">Siteaccess</translation>
+        <translation>Siteaccess</translation>
     </message>
 </context>
 <context>
@@ -18045,11 +18045,11 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>You do not have permission to access this area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez pas le droit d'accèder à cet zone.</translation>
     </message>
     <message>
         <source>This site uses siteaccess matching in the URL and you did not supply one, try inserting a siteaccess name before the module in the URL .</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce site utilise le siteaccess fourni dans l'URL mais aucun n'est pas présent, essayez d'ajouter un nom de siteaccess avant le module dans l'URL</translation>
     </message>
 </context>
 <context>
@@ -18076,11 +18076,11 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>&apos;%1&apos; currency does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>La devise '%1' n'existe pas.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; cannot be used because it is inactive.</source>
-        <translation type="unfinished"></translation>
+        <translation>'%1' ne peut être utilisé car il est désactivé.</translation>
     </message>
 </context>
 <context>
@@ -18091,11 +18091,11 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Copyright Notice</source>
-        <translation>Avertissement de copyright</translation>
+        <translation>Informations sur la propriété intellectuelle</translation>
     </message>
     <message>
         <source>Third-Party Software</source>
-        <translation>Logiciel 3 tiers</translation>
+        <translation>Logiciels tiers</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -18103,15 +18103,15 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>eZ Publish information: %version</source>
-        <translation type="unfinished"></translation>
+        <translation>Information sur eZ Publish&#160;: %version</translation>
     </message>
     <message>
         <source>What is eZ Publish?</source>
-        <translation type="unfinished"></translation>
+        <translation>Qu'est ce qu'eZ Publish&#160;?</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licence</translation>
     </message>
 </context>
 <context>
@@ -18212,11 +18212,11 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Welcome to eZ Publish administration</source>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenue dans l'administration d'eZ Publish</translation>
     </message>
     <message>
         <source>eZ Publish redirection - %url</source>
-        <translation type="unfinished"></translation>
+        <translation>Redirection eZ Publish - %url</translation>
     </message>
 </context>
 <context>
@@ -18280,7 +18280,7 @@ Les enfants seront également supprimés.</translation>
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation type="unfinished">Siteaccess</translation>
+        <translation>Siteaccess</translation>
     </message>
 </context>
 <context>
@@ -18350,7 +18350,7 @@ Les enfants seront également supprimés.</translation>
     </message>
     <message>
         <source>If %trashname is checked you will find the removed items in the trash afterward.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si %trashname est coché, les éléments supprimés sera placés dans la corbeille.</translation>
     </message>
 </context>
 <context>
@@ -18644,7 +18644,7 @@ Cet objet peut être visualisé en utilisant l&apos;adresse URL suivante.</trans
     </message>
     <message>
         <source>Choose which collaboration items you want to get notifications for.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez les éléments de collaboration au sujet desquels vous souhaitez être notifié.</translation>
     </message>
 </context>
 <context>
@@ -18974,86 +18974,86 @@ Si vous n&apos;êtes pas certain, choisissez le siteaccess qui correspond à la 
     <message>
         <source>Please select a thumbnail file to be included in the package,
 if you do not want to have a thumbnail simply click Next.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez sélectionner une miniature à inclure dans le paquetage, si vous ne voulez pas de miniature, cliquez sur Suivant.</translation>
     </message>
     <message>
         <source>Unhandled installation error has occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur inconnue s'est produite à l'installation.</translation>
     </message>
     <message>
         <source>Unhandled uninstallation error has occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur inconnue s'est produite à la désinstallation.</translation>
     </message>
     <message>
         <source>Start an entry with a marker ( %emstart-%emend (dash) or %emstart*%emend (asterisk) ) at the beginning of the line.
 The change will continue to the next change marker.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Provide some basic information for your package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fournissez quelques informations de base sur votre paquetage.</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licence</translation>
     </message>
     <message>
         <source>Provide information about the maintainer of the package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fournissez des informations sur le mainteneur du paquetage.</translation>
     </message>
     <message>
         <source>Please choose the content classes you want to be included in the package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez choisir les classes de contenu que vous voulez inclure dans votre paquetage.</translation>
     </message>
     <message>
         <source>Choose the objects to include in the package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez les objets à inclure dans le paquetage.</translation>
     </message>
     <message>
         <source>Please select the extensions to be exported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez sélectionner les extensions à exporter.</translation>
     </message>
     <message>
         <source>Select an image file to be included in the package then click Next.
 When you are done with adding images click Next without choosing an image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner une image à inclure dans le paquetage puis cliquez sur Suivant. Si vous ne voulez pas ajouter d'image, cliquez directement sur Next.</translation>
     </message>
     <message>
         <source>The package can be installed on your system. Installing the package will copy files, create content classes etc., depending on the package.
 If you do not want to install the package at this time, you can do so later on the view page for the package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le paquetage peut être installé sur votre système. L'installation d'un paquetage copiera des fichiers, créera des classes de contenu etc., en fonction du paquetage. Si vous ne voulez pas installer le paquetage maintenant, vous pouvez le faire plus tard la page de visualisation du paquetage.</translation>
     </message>
     <message>
         <source>If you want to change the placement click the browse button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si vous voulez changer l'emplacement, cliquez sur le bouton Parcourir.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the following packages?
 The packages will be lost forever.
 Note: The packages will not be uninstalled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes vous sûr de vouloir supprimer les paquetages suivants&#160;? Les paquetages seront irrémédiablement supprimés. Note&#160;: les paquetages ne seront pas désinstallés.</translation>
     </message>
     <message>
         <source>Package removal was canceled.</source>
-        <translation type="unfinished">La suppression des paquetages a été annulée.</translation>
+        <translation>La suppression des paquetages a été annulée.</translation>
     </message>
     <message>
         <source>The package can be uninstalled from your system. Uninstalling the package will remove any installed files, content classes etc., depending on the package.
 If you do not want to uninstall the package at this time, you can do so later on the view page for the package.
 You can also remove the package without uninstalling it from the package list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le paquetage peut être désinstallé de votre système. Désinstaller le paquetage supprimera les fichiers, les classes de contenu etc., en fonction du paquetage. Si vous ne voulez pas désinstaller le paquetage maintenant, vous pourrez le faire plus tard sur la page de visualisation du paquetage. Vous pouvez aussi supprimer le paquetage sans le désinstaller à partir de la liste des paquetages.</translation>
     </message>
     <message>
         <source>Select the file containing the package then click the upload button</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le fichier contenant le paquetage puis cliquez sur le bouton Charger le paquetage</translation>
     </message>
     <message>
         <source>Regarding eZ Publish package &apos;%packagename&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Use content object modification and publication dates from the package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez les dates de modification et de publication des objets de contenu du paquetage.</translation>
     </message>
 </context>
 <context>
@@ -19128,11 +19128,11 @@ You can also remove the package without uninstalling it from the package list.</
     </message>
     <message>
         <source>Specify export properties. Default settings will probably be suitable for your needs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Définissez les propriétés de l'export. Les paramètres par défaut sont probablement adaptés à vos besoins.</translation>
     </message>
     <message>
         <source>Include templates related to exported objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclure les templates liés aux objets exportés.</translation>
     </message>
 </context>
 <context>
@@ -19209,11 +19209,11 @@ You can also remove the package without uninstalling it from the package list.</
     </message>
     <message>
         <source>PDF exports</source>
-        <translation type="unfinished"></translation>
+        <translation>Export PDF</translation>
     </message>
     <message>
         <source>New export</source>
-        <translation type="unfinished">Nouvel export</translation>
+        <translation>Nouvel export</translation>
     </message>
 </context>
 <context>
@@ -19580,7 +19580,11 @@ menu on the top.</source>
     Select your placements then click the %buttonname button.
     Using the recent and bookmark items for quick placement is also possible.
     Click on placement names to change the browse listing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Veuillez choisir où l'export débute.
+    Sélectionner les emplacements puis cliquez sur le bouton %buttonname.
+    L'utilisation des éléments récemment utilisés ou de signets pour un accès plus rapide est possible.
+    Cliquez sur les noms des emplacements pour changer le mode de parcours.
+        </translation>
     </message>
     <message>
         <source>Please choose where to store imported items.
@@ -21412,7 +21416,7 @@ Pour résoudre ce problème, vous devez choisir l&apos;une des options suivantes
     </message>
     <message>
         <source>Site url</source>
-        <translation>URL du Site</translation>
+        <translation>URL du site</translation>
     </message>
     <message>
         <source>User path</source>
@@ -23521,35 +23525,35 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>You have chosen invalid combination of options</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous avez choisi une combinaison invalide d'options</translation>
     </message>
     <message>
         <source>Country/region</source>
-        <translation type="unfinished"></translation>
+        <translation>Pays/région</translation>
     </message>
     <message>
         <source>The following items were removed from your basket because the products were changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Les éléments suivants ont été supprimés de votre panier car ces produits ont changé</translation>
     </message>
     <message>
         <source>Total price ex. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Prix total HT</translation>
     </message>
     <message>
         <source>Total price inc. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Prix total TTC</translation>
     </message>
     <message>
         <source>Subtotal ex. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Sous-total HT</translation>
     </message>
     <message>
         <source>Subtotal inc. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Sous total TTC</translation>
     </message>
     <message>
         <source>Payment was canceled for an unknown reason. Please try to buy again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le paiement a été annulé pour une raison inconue. Veuillez ré-essayer.</translation>
     </message>
 </context>
 <context>
@@ -23819,57 +23823,57 @@ To do this you need to change the %chown commands under Alternative shell comman
     <name>design/standard/state/edit</name>
     <message>
         <source>Identifier:</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifiant&#160;:</translation>
     </message>
     <message>
         <source>Default language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Langue par défaut&#160;:</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Name&#160;:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Description&#160;:</translation>
     </message>
 </context>
 <context>
     <name>design/standard/state/group</name>
     <message>
         <source>ID</source>
-        <translation type="unfinished">ID</translation>
+        <translation>ID</translation>
     </message>
     <message>
         <source>Identifier</source>
-        <translation type="unfinished">Identifiant</translation>
+        <translation>Identifiant</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Description</translation>
     </message>
 </context>
 <context>
     <name>design/standard/state/group_edit</name>
     <message>
         <source>Identifier:</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifiant&#160;:</translation>
     </message>
     <message>
         <source>Default language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Langue par défaut&#160;:</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Name&#160;:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Description&#160;:</translation>
     </message>
 </context>
 <context>
@@ -23989,7 +23993,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>My notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Mes notifications</translation>
     </message>
 </context>
 <context>
@@ -24766,11 +24770,11 @@ your account.</source>
     </message>
     <message>
         <source>There are no overrides for the &lt;%template_name&gt; template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il n'y a pas de surcharge pour le template &lt;%template_name&gt;</translation>
     </message>
     <message>
         <source>The override.ini file could not be modified because of insufficient permission.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier override.ini n'a pu être modifié en raison de permissions insuffisante.</translation>
     </message>
 </context>
 <context>
@@ -24849,11 +24853,11 @@ your account.</source>
     </message>
     <message>
         <source>Tool list for &lt;Toolbar_%toolbar_position&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste d'outil pour &lt;Toolbar_%toolbar_position&gt;</translation>
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation type="unfinished">Siteaccess</translation>
+        <translation>Siteaccess</translation>
     </message>
 </context>
 <context>
