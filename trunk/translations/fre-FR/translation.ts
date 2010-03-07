@@ -16250,7 +16250,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Order</source>
-        <translation>Commande</translation>
+        <translation>Ordre</translation>
     </message>
     <message>
         <source>Published</source>
