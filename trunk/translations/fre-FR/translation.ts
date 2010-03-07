@@ -3,7 +3,7 @@
     <name>contentstructuremenu/show_content_structure</name>
     <message>
         <source>Node ID: %node_id Visibility: %visibility</source>
-        <translation>ID du Noeud : %node_id  Visibilité : %visibility</translation>
+        <translation>ID du Nœud : %node_id  Visibilité : %visibility</translation>
     </message>
 </context>
 <context>
@@ -132,7 +132,7 @@
     <name>design/admin/class/datatype/browse_objectrelation_placement</name>
     <message>
         <source>Choose node for default selection</source>
-        <translation>Choisissez le noeud agissant comme sélection par défaut</translation>
+        <translation>Choisissez le nœud agissant comme sélection par défaut</translation>
     </message>
     <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
@@ -952,7 +952,7 @@
     </message>
     <message>
         <source>Show available translations.</source>
-        <translation>Montrer les traductions disponibles.</translation>
+        <translation>Afficher les traductions disponibles.</translation>
     </message>
     <message>
         <source>Default sorting of children</source>
@@ -1360,7 +1360,7 @@
     </message>
     <message>
         <source>Choose location for the copy of subtree of node &lt;%node_name&gt;</source>
-        <translation>Choisissez l&apos;emplacement pour la copie de la sous arborescence du noeud &lt;%node_name&gt;</translation>
+        <translation>Choisissez l&apos;emplacement pour la copie de la sous arborescence du nœud &lt;%node_name&gt;</translation>
     </message>
     <message>
         <source>Choose a new location for the copy of &lt;%object_name&gt; using the radio buttons then click &quot;Select&quot;.</source>
@@ -1375,7 +1375,7 @@
     <name>design/admin/content/browse_export</name>
     <message>
         <source>Choose export node</source>
-        <translation>Choisir un noeud à exporter</translation>
+        <translation>Choisir un nœud à exporter</translation>
     </message>
     <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
@@ -4399,7 +4399,7 @@
     </message>
     <message>
         <source>Node ID</source>
-        <translation>ID du Noeud </translation>
+        <translation>ID du Nœud </translation>
     </message>
     <message>
         <source>Visibility</source>
@@ -5016,11 +5016,11 @@
     <name>design/admin/node/removenode</name>
     <message>
         <source>Remove node?</source>
-        <translation>Supprimer le noeud?</translation>
+        <translation>Supprimer le nœud?</translation>
     </message>
     <message>
         <source>Are you sure you want to remove %1 from node %2?</source>
-        <translation>Voulez-vous vraiment supprimer %1 du noeud %2?</translation>
+        <translation>Voulez-vous vraiment supprimer %1 du nœud %2?</translation>
     </message>
     <message>
         <source>Removing this assignment will also remove its %1 children.</source>
@@ -5028,11 +5028,11 @@
     </message>
     <message>
         <source>Removed nodes can be retrieved later. You will find them in the trash.</source>
-        <translation>Les noeuds supprimés peuvent être récupérés ultérieurement. Vous les trouverez dans la corbeille.</translation>
+        <translation>Les nœuds supprimés peuvent être récupérés ultérieurement. Vous les trouverez dans la corbeille.</translation>
     </message>
     <message>
         <source>Removing node assignment of %1</source>
-        <translation>Supprimer l&apos;assignement du noeud de %1</translation>
+        <translation>Supprimer l&apos;assignement du nœud de %1</translation>
     </message>
     <message>
         <source>OK</source>
@@ -5180,7 +5180,7 @@
     </message>
     <message>
         <source>Show preview of content.</source>
-        <translation>Montrer la prévisualisation du contenu.</translation>
+        <translation>Afficher la prévisualisation du contenu.</translation>
     </message>
     <message>
         <source>Hide available translations.</source>
@@ -5188,7 +5188,7 @@
     </message>
     <message>
         <source>Show available translations.</source>
-        <translation>Montrer les traductions disponibles.</translation>
+        <translation>Afficher les traductions disponibles.</translation>
     </message>
     <message>
         <source>Hide location overview.</source>
@@ -5200,7 +5200,7 @@
     </message>
     <message>
         <source>Show location overview.</source>
-        <translation>Montrer la supervision des emplacements.</translation>
+        <translation>Afficher les emplacements.</translation>
     </message>
     <message>
         <source>Hide relation overview.</source>
@@ -5212,7 +5212,7 @@
     </message>
     <message>
         <source>Show relation overview.</source>
-        <translation>Montrer la supervision des relations.</translation>
+        <translation>Afficher les relations.</translation>
     </message>
     <message>
         <source>Hide role overview.</source>
@@ -5224,7 +5224,7 @@
     </message>
     <message>
         <source>Show role overview.</source>
-        <translation>Montrer la surpervision des rôles.</translation>
+        <translation>Afficher les rôles.</translation>
     </message>
     <message>
         <source>Hide policy overview.</source>
@@ -5340,7 +5340,7 @@
     </message>
     <message>
         <source>Node ID</source>
-        <translation>ID du Noeud </translation>
+        <translation>ID du Nœud </translation>
     </message>
     <message>
         <source>Object ID</source>
@@ -6019,7 +6019,7 @@
     <name>design/admin/node/view/line</name>
     <message>
         <source>Node ID: %node_id Visibility: %node_visibility</source>
-        <translation>ID du Noeud : %node_id  Visibilité : %node_visibility</translation>
+        <translation>ID du Nœud : %node_id  Visibilité : %node_visibility</translation>
     </message>
     <message>
         <source>Click on the icon to display a context-sensitive menu.</source>
@@ -6045,11 +6045,11 @@
     </message>
     <message>
         <source>Notification for node &lt;%node_name&gt; already exists.</source>
-        <translation>Une notification pour le noeud &lt;%node_name&gt; existe déjà.</translation>
+        <translation>Une notification pour le nœud &lt;%node_name&gt; existe déjà.</translation>
     </message>
     <message>
         <source>Notification for node &lt;%node_name&gt; was added successfully.</source>
-        <translation>La nofication pour le noeud &lt;%node_name&gt; a été ajoutée avec succès.</translation>
+        <translation>La nofication pour le nœud &lt;%node_name&gt; a été ajoutée avec succès.</translation>
     </message>
 </context>
 <context>
@@ -6281,11 +6281,11 @@
     </message>
     <message>
         <source>Node assignments</source>
-        <translation>Assignations de noeuds</translation>
+        <translation>Assignations de nœuds</translation>
     </message>
     <message>
         <source>Keep all in selected nodes</source>
-        <translation>Tout conserver dans les noeuds sélectionnés</translation>
+        <translation>Tout conserver dans les nœuds sélectionnés</translation>
     </message>
     <message>
         <source>Main only</source>
@@ -6301,7 +6301,7 @@
     </message>
     <message>
         <source>Selected nodes</source>
-        <translation>Noeuds sélectionnés</translation>
+        <translation>Nœuds sélectionnés</translation>
     </message>
     <message>
         <source>Invert selection.</source>
@@ -6309,7 +6309,7 @@
     </message>
     <message>
         <source>Node</source>
-        <translation>Noeud</translation>
+        <translation>Nœud</translation>
     </message>
     <message>
         <source>Export type</source>
@@ -6325,7 +6325,7 @@
     </message>
     <message>
         <source>Add node</source>
-        <translation>Ajouter un noeud</translation>
+        <translation>Ajouter un nœud</translation>
     </message>
     <message>
         <source>Please select the site CSS file to be included in the package.</source>
@@ -7281,7 +7281,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Source node</source>
-        <translation>Noeud source</translation>
+        <translation>Nœud source</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -7297,7 +7297,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Node</source>
-        <translation>Noeud</translation>
+        <translation>Nœud</translation>
     </message>
     <message>
         <source>OK</source>
@@ -7325,7 +7325,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>There is no source node.</source>
-        <translation>Il n&apos;y a pas de noeud source.</translation>
+        <translation>Il n&apos;y a pas de nœud source.</translation>
     </message>
     <message>
         <source>Export classes (if exporting a tree)</source>
@@ -7467,7 +7467,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Swap with another node</source>
-        <translation>Echanger avec un autre noeud</translation>
+        <translation>Echanger avec un autre nœud</translation>
     </message>
     <message>
         <source>Hide / unhide</source>
@@ -7507,7 +7507,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>New node override</source>
-        <translation>Nouvelle surcharge de noeud</translation>
+        <translation>Nouvelle surcharge de nœud</translation>
     </message>
     <message>
         <source>Remove bookmark</source>
@@ -7619,7 +7619,7 @@ Note: The packages will not be uninstalled.</source>
     <name>design/admin/preview/folder</name>
     <message>
         <source>Show children</source>
-        <translation>Voir les noeuds fils</translation>
+        <translation>Voir les nœuds fils</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -7884,7 +7884,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Nodes [%node_count]</source>
-        <translation>Noeuds [%node_count]</translation>
+        <translation>Nœuds [%node_count]</translation>
     </message>
     <message>
         <source>Name</source>
@@ -7892,7 +7892,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>The node list is empty.</source>
-        <translation>La liste des noeuds est vide.</translation>
+        <translation>La liste des nœuds est vide.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -7900,7 +7900,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Add nodes</source>
-        <translation>Ajouter des noeuds</translation>
+        <translation>Ajouter des nœuds</translation>
     </message>
     <message>
         <source>Subtrees [%subtree_count]</source>
@@ -7944,7 +7944,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Nodes (%node_count)</source>
-        <translation>Noeuds (%node_count)</translation>
+        <translation>Nœuds (%node_count)</translation>
     </message>
     <message>
         <source>Subtrees (%subtree_count)</source>
@@ -8137,7 +8137,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Nodes [%node_count]</source>
-        <translation>Noeuds [%node_count]</translation>
+        <translation>Nœuds [%node_count]</translation>
     </message>
     <message>
         <source>Name</source>
@@ -8145,7 +8145,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>The node list is empty.</source>
-        <translation>La liste des noeuds est vide.</translation>
+        <translation>La liste des nœuds est vide.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -8153,7 +8153,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Add nodes</source>
-        <translation>Ajouter des noeuds</translation>
+        <translation>Ajouter des nœuds</translation>
     </message>
     <message>
         <source>Subtrees [%subtree_count]</source>
@@ -8185,7 +8185,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Nodes (%node_count)</source>
-        <translation>Noeuds (%node_count)</translation>
+        <translation>Nœuds (%node_count)</translation>
     </message>
     <message>
         <source>Subtrees (%subtree_count)</source>
@@ -8495,15 +8495,15 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Main node only</source>
-        <translation>Noeud principal uniquement</translation>
+        <translation>Nœud principal uniquement</translation>
     </message>
     <message>
         <source>Check if you want to only feed the object from the main node.</source>
-        <translation>Vérifiez si vous voulez uniquement alimenter l&apos;objet à partir du noeud principal.</translation>
+        <translation>Vérifiez si vous voulez uniquement alimenter l&apos;objet à partir du nœud principal.</translation>
     </message>
     <message>
         <source>Subnodes</source>
-        <translation>Sous-noeuds</translation>
+        <translation>Sous-nœuds</translation>
     </message>
     <message>
         <source>Remove image</source>
@@ -8646,7 +8646,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Click this button to select the destination node where objects created by the import are located.</source>
-        <translation>Cliquez sur ce bouton pour sélectionner le noeud de destination où les objets créés par l&apos;import seront placés.</translation>
+        <translation>Cliquez sur ce bouton pour sélectionner le nœud de destination où les objets créés par l&apos;import seront placés.</translation>
     </message>
     <message>
         <source>Click this button to select the user who should own the objects created by the import.</source>
@@ -11882,7 +11882,7 @@ Note: The packages will not be uninstalled.</source>
     <name>design/admin/shop/wishlist</name>
     <message>
         <source>My wish list [%item_count]</source>
-        <translation>Ma liste de voeux [%item_count]</translation>
+        <translation>Ma liste de vœux [%item_count]</translation>
     </message>
     <message>
         <source>Invert selection.</source>
@@ -11930,7 +11930,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>The wish list is empty.</source>
-        <translation>La liste de voeux est vide.</translation>
+        <translation>La liste de vœux est vide.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -11950,7 +11950,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>My wish list (%item_count)</source>
-        <translation>Ma liste de voeux (%item_count)</translation>
+        <translation>Ma liste de vœux (%item_count)</translation>
     </message>
 </context>
 <context>
@@ -12821,7 +12821,7 @@ your account.</source>
     </message>
     <message>
         <source>Node ID</source>
-        <translation>ID du Noeud</translation>
+        <translation>ID du Nœud</translation>
     </message>
     <message>
         <source>Base template on</source>
@@ -15626,7 +15626,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     <name>design/standard/content/copy_subtree</name>
     <message>
         <source>Copying subtree from node %1</source>
-        <translation>Copie de la sous-arborescence depuis le noeud %1</translation>
+        <translation>Copie de la sous-arborescence depuis le nœud %1</translation>
     </message>
     <message>
         <source>Copy all versions.</source>
@@ -16198,7 +16198,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Parent node</source>
-        <translation>Noeud parent</translation>
+        <translation>Nœud parent</translation>
     </message>
     <message>
         <source>Allowed classes</source>
@@ -17514,7 +17514,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Choose node for default selection</source>
-        <translation>Choisissez le noeud agissant comme sélection par défaut</translation>
+        <translation>Choisissez le nœud agissant comme sélection par défaut</translation>
     </message>
     <message>
         <source>Collected info</source>
@@ -17542,7 +17542,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Choose new location for the copy of subtree of node %node_name</source>
-        <translation>Choisissez un nouvel emplacement pour la copie de la sous arborescence du noeud %node_name</translation>
+        <translation>Choisissez un nouvel emplacement pour la copie de la sous arborescence du nœud %node_name</translation>
     </message>
     <message>
         <source>Please choose where you want the default selection of object relation to start from.
@@ -17717,7 +17717,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Node ID</source>
-        <translation>ID du Noeud</translation>
+        <translation>ID du Nœud</translation>
     </message>
     <message>
         <source>Base template on</source>
@@ -18298,7 +18298,7 @@ Les enfants seront également supprimés.</translation>
     <name>design/standard/node</name>
     <message>
         <source>Are you sure you want to remove %1 from node %2?</source>
-        <translation>Voulez-vous vraiment supprimer %1 du noeud %2?</translation>
+        <translation>Voulez-vous vraiment supprimer %1 du nœud %2?</translation>
     </message>
     <message>
         <source>Note:</source>
@@ -18306,7 +18306,7 @@ Les enfants seront également supprimés.</translation>
     </message>
     <message>
         <source>Removed nodes can be retrieved later. You will find them in the trash.</source>
-        <translation>Les noeuds supprimés peuvent être récupérés ultérieurement. Vous les trouverez dans la corbeille.</translation>
+        <translation>Les nœuds supprimés peuvent être récupérés ultérieurement. Vous les trouverez dans la corbeille.</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -18318,7 +18318,7 @@ Les enfants seront également supprimés.</translation>
     </message>
     <message>
         <source>Removing node assignment of %1</source>
-        <translation>Supprimer l&apos;assignement du noeud de %1</translation>
+        <translation>Supprimer l&apos;assignement du nœud de %1</translation>
     </message>
     <message>
         <source>Move to trash</source>
@@ -18433,7 +18433,7 @@ Les enfants seront également supprimés.</translation>
     </message>
     <message>
         <source>Node ID</source>
-        <translation>ID du Noeud </translation>
+        <translation>ID du Nœud </translation>
     </message>
     <message>
         <source>Object ID</source>
@@ -18560,7 +18560,7 @@ Les enfants seront également supprimés.</translation>
     </message>
     <message>
         <source>Node notification</source>
-        <translation>Noeud de notification</translation>
+        <translation>Nœud de notification</translation>
     </message>
     <message>
         <source>Name</source>
@@ -18629,11 +18629,11 @@ Cet objet peut être visualisé en utilisant l&apos;adresse URL suivante.</trans
     </message>
     <message>
         <source>Notification for node &lt;%node_name&gt; already exists.</source>
-        <translation>Une notification pour le noeud &lt;%node_name&gt; existe déjà.</translation>
+        <translation>Une notification pour le nœud &lt;%node_name&gt; existe déjà.</translation>
     </message>
     <message>
         <source>Notification for node &lt;%node_name&gt; was added successfully.</source>
-        <translation>La nofication pour le noeud &lt;%node_name&gt; a été ajoutée avec succès.</translation>
+        <translation>La nofication pour le nœud &lt;%node_name&gt; a été ajoutée avec succès.</translation>
     </message>
 </context>
 <context>
@@ -18845,7 +18845,7 @@ Cet objet peut être visualisé en utilisant l&apos;adresse URL suivante.</trans
     </message>
     <message>
         <source>Selected nodes</source>
-        <translation>Noeuds sélectionnés</translation>
+        <translation>Nœuds sélectionnés</translation>
     </message>
     <message>
         <source>Please select the site CSS file to be included in the package.</source>
@@ -18877,7 +18877,7 @@ Si vous n&apos;êtes pas certain, choisissez le siteaccess qui correspond à la 
     </message>
     <message>
         <source>Place %object_name in node %node_placement</source>
-        <translation>Placer %object_name dans le noeud %node_placement</translation>
+        <translation>Placer %object_name dans le nœud %node_placement</translation>
     </message>
     <message>
         <source>Choose placement for %object_name</source>
@@ -18893,7 +18893,7 @@ Si vous n&apos;êtes pas certain, choisissez le siteaccess qui correspond à la 
     </message>
     <message>
         <source>Node</source>
-        <translation>Noeud</translation>
+        <translation>Nœud</translation>
     </message>
     <message>
         <source>Export type</source>
@@ -18909,7 +18909,7 @@ Si vous n&apos;êtes pas certain, choisissez le siteaccess qui correspond à la 
     </message>
     <message>
         <source>Add node</source>
-        <translation>Ajouter un noeud</translation>
+        <translation>Ajouter un nœud</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -19060,7 +19060,7 @@ You can also remove the package without uninstalling it from the package list.</
     <name>design/standard/package/creators/ezcontentobject</name>
     <message>
         <source>Please choose the node(s) you wish to export.</source>
-        <translation>Veuillez choisir le(s) noeud(s) à exporter.</translation>
+        <translation>Veuillez choisir le(s) nœud(s) à exporter.</translation>
     </message>
     <message>
         <source>Please choose the subtree(s) you wish to export.</source>
@@ -19068,7 +19068,7 @@ You can also remove the package without uninstalling it from the package list.</
     </message>
     <message>
         <source>Choose node for export</source>
-        <translation>Choisir un noeud pour exporation</translation>
+        <translation>Choisir un nœud pour exporation</translation>
     </message>
     <message>
         <source>Choose subtree for export</source>
@@ -19108,11 +19108,11 @@ You can also remove the package without uninstalling it from the package list.</
     </message>
     <message>
         <source>Node assignments</source>
-        <translation>Assignations de noeuds</translation>
+        <translation>Assignations de nœuds</translation>
     </message>
     <message>
         <source>Keep all in selected nodes</source>
-        <translation>Tout conserver dans les noeuds sélectionnés</translation>
+        <translation>Tout conserver dans les nœuds sélectionnés</translation>
     </message>
     <message>
         <source>Main only</source>
@@ -19139,11 +19139,11 @@ You can also remove the package without uninstalling it from the package list.</
     <name>design/standard/package/installers/ezcontentobject</name>
     <message>
         <source>Choose parent node</source>
-        <translation>Sélectionnez le noeud parent</translation>
+        <translation>Sélectionnez le nœud parent</translation>
     </message>
     <message>
         <source>Select parent node for new node.</source>
-        <translation>Sélectionner le noeud parent pour le nouveau noeud.</translation>
+        <translation>Sélectionner le nœud parent pour le nouveau nœud.</translation>
     </message>
 </context>
 <context>
@@ -19158,7 +19158,7 @@ You can also remove the package without uninstalling it from the package list.</
     </message>
     <message>
         <source>Content - node</source>
-        <translation>Contenu - noeud</translation>
+        <translation>Contenu - nœud</translation>
     </message>
     <message>
         <source>Content - subtree</source>
@@ -19425,7 +19425,7 @@ menu on the top.</source>
     </message>
     <message>
         <source>Node</source>
-        <translation>Noeud</translation>
+        <translation>Nœud</translation>
     </message>
     <message>
         <source>Not specified.</source>
@@ -19524,7 +19524,7 @@ menu on the top.</source>
     <name>design/standard/rss</name>
     <message>
         <source>Choose export node</source>
-        <translation>Choisir un noeud pour exporation</translation>
+        <translation>Choisir un nœud pour exporation</translation>
     </message>
     <message>
         <source>Select</source>
@@ -19699,7 +19699,7 @@ menu on the top.</source>
     </message>
     <message>
         <source>Source node</source>
-        <translation>Noeud source</translation>
+        <translation>Nœud source</translation>
     </message>
     <message>
         <source>Export structure</source>
@@ -19711,7 +19711,7 @@ menu on the top.</source>
     </message>
     <message>
         <source>Node</source>
-        <translation>Noeud</translation>
+        <translation>Nœud</translation>
     </message>
     <message>
         <source>Export classes</source>
@@ -19739,15 +19739,15 @@ menu on the top.</source>
     </message>
     <message>
         <source>Main node only</source>
-        <translation>Noeud principal uniquement</translation>
+        <translation>Nœud principal uniquement</translation>
     </message>
     <message>
         <source>Check if you want to only feed the object from the main node.</source>
-        <translation>Vérifiez si vous voulez uniquement alimenter l&apos;objet à partir du noeud principal.</translation>
+        <translation>Vérifiez si vous voulez uniquement alimenter l&apos;objet à partir du nœud principal.</translation>
     </message>
     <message>
         <source>Subnodes</source>
-        <translation>Sous-noeuds</translation>
+        <translation>Sous-nœuds</translation>
     </message>
     <message>
         <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your Web server and eZ Publish configuration.</source>
@@ -19868,7 +19868,7 @@ menu on the top.</source>
     <name>design/standard/section</name>
     <message>
         <source>Assign section to node</source>
-        <translation>Assigner une section au noeud</translation>
+        <translation>Assigner une section au nœud</translation>
     </message>
     <message>
         <source>Are you sure you want to remove these sections?</source>
@@ -20095,7 +20095,7 @@ menu on the top.</source>
     </message>
     <message>
         <source>Node</source>
-        <translation>Noeud</translation>
+        <translation>Nœud</translation>
     </message>
     <message>
         <source>Base template on</source>
@@ -24350,7 +24350,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>The node (%1) specified in [UserSettings].DefaultUserPlacement setting in site.ini does not exist!</source>
-        <translation type="obsolete">Le noeud (%1) spécifié dans le paramètre [UserSettings].DefaultUserPlacement au sein du site.ini n&apos;existe pas !</translation>
+        <translation type="obsolete">Le nœud (%1) spécifié dans le paramètre [UserSettings].DefaultUserPlacement au sein du site.ini n&apos;existe pas !</translation>
     </message>
     <message>
         <source>Email</source>
@@ -24561,7 +24561,7 @@ your account.</source>
     </message>
     <message>
         <source>Node ID</source>
-        <translation>ID du Noeud </translation>
+        <translation>ID du Nœud </translation>
     </message>
     <message>
         <source>Base template on</source>
@@ -25962,7 +25962,7 @@ your account.</source>
     </message>
     <message>
         <source>Node &apos;%1&apos; does not exist.</source>
-        <translation type="obsolete">Le noeud &apos;%1&apos; n&apos;existe pas.</translation>
+        <translation type="obsolete">Le nœud &apos;%1&apos; n&apos;existe pas.</translation>
     </message>
     <message>
         <source>Using scripts in links is not allowed, link &apos;%1&apos; has been removed</source>
@@ -26000,7 +26000,7 @@ your account.</source>
     </message>
     <message>
         <source>No main node selected, please select one.</source>
-        <translation type="obsolete">Aucun noeud pricipal sélectionné, veuillez en sélectionnez un.</translation>
+        <translation type="obsolete">Aucun nœud pricipal sélectionné, veuillez en sélectionnez un.</translation>
     </message>
     <message>
         <source>Content</source>
@@ -26084,7 +26084,7 @@ your account.</source>
     </message>
     <message>
         <source>Top Level Nodes</source>
-        <translation type="obsolete">Niveaux supérieurs des noeuds</translation>
+        <translation type="obsolete">Niveaux supérieurs des nœuds</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -26100,7 +26100,7 @@ your account.</source>
     </message>
     <message>
         <source>A node in the node assignment list has been deleted.</source>
-        <translation type="obsolete">Un noeud au sein de la liste d&apos;assignation des noeuds a été effacé.</translation>
+        <translation type="obsolete">Un nœud au sein de la liste d&apos;assignation des nœuds a été effacé.</translation>
     </message>
     <message>
         <source>Differences</source>
@@ -26183,15 +26183,15 @@ your account.</source>
     </message>
     <message>
         <source>Fatal error: cannot get subtree main node (ID = %1).</source>
-        <translation type="obsolete">Erreur fatale: impossible de récupérer la sous-arborescence du noeud principal (ID = %1).</translation>
+        <translation type="obsolete">Erreur fatale: impossible de récupérer la sous-arborescence du nœud principal (ID = %1).</translation>
     </message>
     <message>
         <source>Fatal error: cannot get destination node (ID = %1).</source>
-        <translation type="obsolete">Erreur fatale: impossible de récupérer le noeud de destination (ID = %1).</translation>
+        <translation type="obsolete">Erreur fatale: impossible de récupérer le nœud de destination (ID = %1).</translation>
     </message>
     <message>
         <source>Number of nodes of source subtree - %1</source>
-        <translation type="obsolete">Nombre de noeuds de la sous-arborescence source - %1</translation>
+        <translation type="obsolete">Nombre de nœuds de la sous-arborescence source - %1</translation>
     </message>
     <message>
         <source>Subtree was not copied.</source>
@@ -26199,7 +26199,7 @@ your account.</source>
     </message>
     <message>
         <source>Number of copied nodes - %1</source>
-        <translation type="obsolete">Nombre de noeuds copiés - %1</translation>
+        <translation type="obsolete">Nombre de nœuds copiés - %1</translation>
     </message>
     <message>
         <source>Number of copied contentobjects - %1</source>
@@ -26211,7 +26211,7 @@ your account.</source>
     </message>
     <message>
         <source>You are trying to copy a subtree that contains more than the maximum possible nodes for subtree copying. You can copy this subtree using Subtree Copy script.</source>
-        <translation type="obsolete">Vous être entrain d&apos;essayer de copier une sous-arborescence qui comporte plus de noeuds que le maximum autorisé pour la copie de sous-arborescence. Vous pouvez copier cette sous-arborescence en utilisant un script de copie de sous-arborescence.</translation>
+        <translation type="obsolete">Vous être entrain d&apos;essayer de copier une sous-arborescence qui comporte plus de nœuds que le maximum autorisé pour la copie de sous-arborescence. Vous pouvez copier cette sous-arborescence en utilisant un script de copie de sous-arborescence.</translation>
     </message>
 </context>
 <context>
@@ -26325,7 +26325,7 @@ your account.</source>
     </message>
     <message>
         <source>The class is used by a top-level node and cannot be removed.</source>
-        <translation type="obsolete">La classe est utilisée par un noeud de niveau principal et ne peut pas être supprimée.</translation>
+        <translation type="obsolete">La classe est utilisée par un nœud de niveau principal et ne peut pas être supprimée.</translation>
     </message>
 </context>
 <context>
@@ -26572,11 +26572,11 @@ your account.</source>
     </message>
     <message>
         <source>Selected nodes</source>
-        <translation type="obsolete">Noeuds sélectionnés</translation>
+        <translation type="obsolete">Nœuds sélectionnés</translation>
     </message>
     <message>
         <source>You must select one or more node(s)/subtree(s) for export.</source>
-        <translation type="obsolete">Vous devez sélectionner un ou plusieurs noeud(s)/sous-arborescence(s) pour l&apos;export.</translation>
+        <translation type="obsolete">Vous devez sélectionner un ou plusieurs nœud(s)/sous-arborescence(s) pour l&apos;export.</translation>
     </message>
     <message>
         <source>You must choose one or more languages.</source>
@@ -26604,7 +26604,7 @@ your account.</source>
     </message>
     <message>
         <source>Top node placements</source>
-        <translation type="obsolete">Emplacements du noeud principal</translation>
+        <translation type="obsolete">Emplacements du nœud principal</translation>
     </message>
     <message>
         <source>Content object import</source>
@@ -26612,11 +26612,11 @@ your account.</source>
     </message>
     <message>
         <source>Select parent nodes</source>
-        <translation type="obsolete">Sélectionnez les noeuds parents</translation>
+        <translation type="obsolete">Sélectionnez les nœuds parents</translation>
     </message>
     <message>
         <source>You must assign all nodes to new parent nodes.</source>
-        <translation type="obsolete">Vous devez assigner tous les noeuds aux nouveaux noeuds parents.</translation>
+        <translation type="obsolete">Vous devez assigner tous les nœuds aux nouveaux nœuds parents.</translation>
     </message>
     <message>
         <source>Lead</source>
@@ -27447,7 +27447,7 @@ your account.</source>
     <name>simplified_treemenu/show_simplified_menu</name>
     <message>
         <source>Node ID: %node_id Visibility: %visibility</source>
-        <translation>ID du Noeud : %node_id  Visibilité : %visibility</translation>
+        <translation>ID du Nœud : %node_id  Visibilité : %visibility</translation>
     </message>
 </context>
 </TS>
