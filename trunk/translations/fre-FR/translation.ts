@@ -506,7 +506,7 @@
     </message>
     <message>
         <source>Edit the &lt;%class_group_name&gt; class group.</source>
-        <translation>Éditer le groupe de classes &lt;%class_group_name&gt;.</translation>
+        <translation>Modifier le groupe de classes &lt;%class_group_name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -792,7 +792,7 @@
     </message>
     <message>
         <source>Edit this class.</source>
-        <translation>Éditer cette classe.</translation>
+        <translation>Modifier cette classe.</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -844,7 +844,7 @@
     </message>
     <message>
         <source>Edit the override template for the &lt;%override_name&gt; override.</source>
-        <translation>Éditer le template surchargé de pour la surchage &lt;%override_name&gt;.</translation>
+        <translation>Modifier le template surchargé de pour la surchage &lt;%override_name&gt;.</translation>
     </message>
     <message>
         <source>This class does not have any class-level override templates.</source>
@@ -884,7 +884,7 @@
     </message>
     <message>
         <source>Edit in &lt;%language_name&gt;.</source>
-        <translation>Éditer en &lt;%language_name&gt;.</translation>
+        <translation>Modifier en &lt;%language_name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -1064,7 +1064,7 @@
     </message>
     <message>
         <source>Edit the object</source>
-        <translation>Éditer l&apos;objet</translation>
+        <translation>Modifier l&apos;objet</translation>
     </message>
     <message>
         <source>The content object %1 was not accepted but will be available as a draft for the author.</source>
@@ -1239,7 +1239,7 @@
     </message>
     <message>
         <source>Edit &lt;%bookmark_name&gt;.</source>
-        <translation>Éditer &lt;%bookmark_name&gt;.</translation>
+        <translation>Modifier &lt;%bookmark_name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected bookmarks.</source>
@@ -1259,7 +1259,7 @@
     </message>
     <message>
         <source>You do not have permission to edit the contents of &lt;%bookmark_name&gt;.</source>
-        <translation>Vous n&apos;avez pas les droits suffisants pour éditer les contenus de &lt;%bookmark_name&gt;.</translation>
+        <translation>Vous n&apos;avez pas les droits suffisants pour modifier les contenus de &lt;%bookmark_name&gt;.</translation>
     </message>
     <message>
         <source>My bookmarks (%bookmark_count)</source>
@@ -1781,7 +1781,7 @@
     <name>design/admin/content/edit</name>
     <message>
         <source>Edit &lt;%object_name&gt; [%class_name]</source>
-        <translation>Éditer &lt;%object_name&gt; [%class_name]</translation>
+        <translation>Modifier &lt;%object_name&gt; [%class_name]</translation>
     </message>
     <message>
         <source>Translating content from %from_lang to %to_lang</source>
@@ -2177,7 +2177,7 @@
     </message>
     <message>
         <source>Edit &lt;%object_name&gt; (%class_name)</source>
-        <translation>Éditer &lt;%object_name&gt; (%class_name)</translation>
+        <translation>Modifier &lt;%object_name&gt; (%class_name)</translation>
     </message>
     <message>
         <source>Locations (%locations)</source>
@@ -2319,7 +2319,7 @@
     </message>
     <message>
         <source>Select draft version #%version for editing.</source>
-        <translation>Sélectionner le brouillon #%version pour l&apos;éditer.</translation>
+        <translation>Sélectionner le brouillon #%version pour le modifier.</translation>
     </message>
     <message>
         <source>View the contents of version #%version_number. Translation: %translation.</source>
@@ -2327,11 +2327,11 @@
     </message>
     <message>
         <source>Edit selected</source>
-        <translation>Éditer l&apos;élément sélectionné</translation>
+        <translation>Modifier l&apos;élément sélectionné</translation>
     </message>
     <message>
         <source>Edit the selected draft.</source>
-        <translation>Éditer le brouillon sélectionné.</translation>
+        <translation>Modifier le brouillon sélectionné.</translation>
     </message>
     <message>
         <source>New draft</source>
@@ -2418,7 +2418,7 @@
     </message>
     <message>
         <source>Edit &lt;%object_name&gt;</source>
-        <translation>Éditer &lt;%object_name&gt;</translation>
+        <translation>Modifier &lt;%object_name&gt;</translation>
     </message>
     <message>
         <source>Existing languages</source>
@@ -2426,7 +2426,7 @@
     </message>
     <message>
         <source>Select the language you want to edit</source>
-        <translation>Sélectionner la langue à éditer</translation>
+        <translation>Sélectionner la langue à modifier</translation>
     </message>
     <message>
         <source>New languages</source>
@@ -2446,7 +2446,7 @@
     </message>
     <message>
         <source>You do not have permission to edit the object in any available languages.</source>
-        <translation>Vous n&apos;avez pas les droits suffisants pour éditer l&apos;objet en aucune autre langue.</translation>
+        <translation>Vous n&apos;avez pas les droits suffisants pour modifier l&apos;objet en aucune autre langue.</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -2525,7 +2525,7 @@
     </message>
     <message>
         <source>You can change your version history settings in content.ini, remove draft versions or edit existing drafts.</source>
-        <translation>Vous pouvez modifier la configuration de l&apos;historique des versions dans le fichier content.ini, supprimer les versions des brouillons ou éditer les brouillons existants.</translation>
+        <translation>Vous pouvez modifier la configuration de l&apos;historique des versions dans le fichier content.ini, supprimer les versions des brouillons ou modifier les brouillons existants.</translation>
     </message>
     <message>
         <source>Versions for &lt;%object_name&gt; [%version_count]</source>
@@ -2581,7 +2581,7 @@
     </message>
     <message>
         <source>Edit the contents of version #%version_number.</source>
-        <translation>Éditer le contenu de la version #%version_number.</translation>
+        <translation>Modifier le contenu de la version #%version_number.</translation>
     </message>
     <message>
         <source>This object does not have any versions.</source>
@@ -4097,7 +4097,7 @@
     </message>
     <message>
         <source>You can change your version history settings in content.ini, remove draft versions or edit existing drafts.</source>
-        <translation>Vous pouvez modifier la configuration de l&apos;historique des versions dans content.ini, supprimer les versions brouillon ou éditer des brouillons.</translation>
+        <translation>Vous pouvez modifier la configuration de l&apos;historique des versions dans content.ini, supprimer les versions brouillon ou modifier des brouillons.</translation>
     </message>
     <message>
         <source>Versions for &lt;%object_name&gt; [%version_count]</source>
@@ -4185,7 +4185,7 @@
     </message>
     <message>
         <source>Edit the contents of version #%version_number.</source>
-        <translation>Éditer le contenu de la version #%version_number.</translation>
+        <translation>Modifier le contenu de la version #%version_number.</translation>
     </message>
     <message>
         <source>This object does not have any versions.</source>
@@ -5320,7 +5320,7 @@
     </message>
     <message>
         <source>Edit &lt;%child_name&gt;.</source>
-        <translation>Éditer &lt;%child_name&gt;.</translation>
+        <translation>Modifier &lt;%child_name&gt;.</translation>
     </message>
     <message>
         <source>Creator</source>
@@ -5440,7 +5440,7 @@
     </message>
     <message>
         <source>Edit role.</source>
-        <translation>Éditer le rôle.</translation>
+        <translation>Modifier le rôle.</translation>
     </message>
     <message>
         <source>There are no assigned roles.</source>
@@ -5596,7 +5596,7 @@
     </message>
     <message>
         <source>Edit the contents of this item.</source>
-        <translation>Éditer le contenu de cet élément.</translation>
+        <translation>Modifier le contenu de cet élément.</translation>
     </message>
     <message>
         <source>Module</source>
@@ -5692,7 +5692,7 @@
     </message>
     <message>
         <source>Edit in &lt;%language_name&gt;.</source>
-        <translation>Éditer en &lt;%language_name&gt;.</translation>
+        <translation>Modifier en &lt;%language_name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected languages from the list above.</source>
@@ -6972,7 +6972,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Re-edit</source>
-        <translation>Rééditer</translation>
+        <translation>Modifier à nouveau</translation>
     </message>
     <message>
         <source>Disable &amp;quot;Back to edit&amp;quot; checkbox when editing content.</source>
@@ -7396,7 +7396,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit the &lt;%pdf_export_name&gt; PDF export.</source>
-        <translation>Éditer l&apos;export PDF &lt;%pdf_export_name&gt;.</translation>
+        <translation>Modifier l&apos;export PDF &lt;%pdf_export_name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -7515,7 +7515,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit in</source>
-        <translation>Éditer en</translation>
+        <translation>Modifier en</translation>
     </message>
     <message>
         <source>Create here</source>
@@ -7535,7 +7535,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit class in</source>
-        <translation>Éditer la classe en</translation>
+        <translation>Modifier la classe en</translation>
     </message>
     <message>
         <source>Copy subtree</source>
@@ -7955,7 +7955,7 @@ Note: The packages will not be uninstalled.</source>
     <name>design/admin/role/edit</name>
     <message>
         <source>Edit &lt;%role_name&gt; [Role]</source>
-        <translation>Éditer &lt;%role_name&gt; [Rôle]</translation>
+        <translation>Modifier &lt;%role_name&gt; [Rôle]</translation>
     </message>
     <message>
         <source>Name</source>
@@ -8019,7 +8019,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit the policy&apos;s function limitations.</source>
-        <translation>Éditer les limitations de la politique de sécurité.</translation>
+        <translation>Modifier les limitations de la politique de sécurité.</translation>
     </message>
     <message>
         <source>There are no policies set up for this role.</source>
@@ -8098,7 +8098,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit the &lt;%role_name&gt; role.</source>
-        <translation>Éditer le rôle &lt;%role_name&gt;.</translation>
+        <translation>Modifier le rôle &lt;%role_name&gt;.</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -8117,7 +8117,7 @@ Note: The packages will not be uninstalled.</source>
     <name>design/admin/role/policyedit</name>
     <message>
         <source>Edit &lt;%policy_name&gt; policy for &lt;%role_name&gt; role</source>
-        <translation>Éditer la politique de sécurité &lt;%policy_name&gt; pour le rôle &lt;%role_name&gt;</translation>
+        <translation>Modifier la politique de sécurité &lt;%policy_name&gt; pour le rôle &lt;%role_name&gt;</translation>
     </message>
     <message>
         <source>Module</source>
@@ -8224,7 +8224,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit this role.</source>
-        <translation>Éditer ce rôle.</translation>
+        <translation>Modifier ce rôle.</translation>
     </message>
     <message>
         <source>Users and groups using the &lt;%role_name&gt; role [%users_count]</source>
@@ -8439,7 +8439,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit &lt;%rss_export_name&gt; [RSS Export]</source>
-        <translation>Éditer &lt;%rss_export_name [RSS Export]</translation>
+        <translation>Modifier &lt;%rss_export_name [RSS Export]</translation>
     </message>
     <message>
         <source>Use the description field to write a text explaining what users can expect from the RSS export.</source>
@@ -8638,7 +8638,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit &lt;%rss_import_name&gt; [RSS Import]</source>
-        <translation>Éditer &lt;%rss_import_name&gt; [RSS Import]</translation>
+        <translation>Modifier &lt;%rss_import_name&gt; [RSS Import]</translation>
     </message>
     <message>
         <source>Use this field to enter the source URL of the RSS feed to import.</source>
@@ -8781,7 +8781,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit the &lt;%name&gt; RSS export.</source>
-        <translation>Éditer l&apos;export RSS &lt;%name&gt;.</translation>
+        <translation>Modifier l&apos;export RSS &lt;%name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected RSS exports.</source>
@@ -8797,7 +8797,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit the &lt;%name&gt; RSS import.</source>
-        <translation>Éditer l&apos;import RSS &lt;%name&gt;.</translation>
+        <translation>Modifier l&apos;import RSS &lt;%name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected RSS imports.</source>
@@ -8940,7 +8940,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit &lt;%section_name&gt; [Section]</source>
-        <translation>Éditer &lt;%section_name&gt; [Section]</translation>
+        <translation>Modifier &lt;%section_name&gt; [Section]</translation>
     </message>
     <message>
         <source>Name</source>
@@ -9007,7 +9007,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit the &lt;%section_name&gt; section.</source>
-        <translation>Éditer la section &lt;%section_name&gt;.</translation>
+        <translation>Modifier la section &lt;%section_name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected sections.</source>
@@ -9054,7 +9054,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit this section.</source>
-        <translation>Éditer cette section.</translation>
+        <translation>Modifier cette section.</translation>
     </message>
     <message>
         <source>Roles containing limitations associated with this section [%number_of_roles]</source>
@@ -9117,7 +9117,7 @@ Note: The packages will not be uninstalled.</source>
     <name>design/admin/settings</name>
     <message>
         <source>Edit setting %setting</source>
-        <translation>Éditer le paramtre %setting</translation>
+        <translation>Modifier le paramtre %setting</translation>
     </message>
     <message>
         <source>New setting</source>
@@ -10619,7 +10619,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit &apos;%currency_code&apos; currency.</source>
-        <translation>Éditer la devise &apos;%currency_code&apos;.</translation>
+        <translation>Modifier la devise &apos;%currency_code&apos;.</translation>
     </message>
     <message>
         <source>The available currency list is empty</source>
@@ -10788,7 +10788,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit the &lt;%discountgroup_name&gt; discount group.</source>
-        <translation>Éditer le groupe de remise &lt;%discountgroup_name&gt;.</translation>
+        <translation>Modifier le groupe de remise &lt;%discountgroup_name&gt;.</translation>
     </message>
     <message>
         <source>There are no discount groups.</source>
@@ -10811,7 +10811,7 @@ Note: The packages will not be uninstalled.</source>
     <name>design/admin/shop/discountgroupedit</name>
     <message>
         <source>Edit &lt;%discount_group&gt; [Discount group]</source>
-        <translation>Éditer &lt;%discount_group&gt; [Groupe de remise]</translation>
+        <translation>Modifier &lt;%discount_group&gt; [Groupe de remise]</translation>
     </message>
     <message>
         <source>Name</source>
@@ -10866,7 +10866,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit this discount group.</source>
-        <translation>Éditer le groupe de remise.</translation>
+        <translation>Modifier le groupe de remise.</translation>
     </message>
     <message>
         <source>Remove this discount group.</source>
@@ -10882,7 +10882,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit the &lt;%discount_rule_name&gt; discount rule.</source>
-        <translation>Éditer la règle de remise &lt;%discount_rule_name&gt;.</translation>
+        <translation>Modifier la règle de remise &lt;%discount_rule_name&gt;.</translation>
     </message>
     <message>
         <source>There are no discount rules in this group.</source>
@@ -10937,7 +10937,7 @@ Note: The packages will not be uninstalled.</source>
     <name>design/admin/shop/discountruleedit</name>
     <message>
         <source>Edit &lt;%rule_name&gt; [Discount rule]</source>
-        <translation>Éditer &lt;%rule_name&gt; [Règle de remise]</translation>
+        <translation>Modifier &lt;%rule_name&gt; [Règle de remise]</translation>
     </message>
     <message>
         <source>Name</source>
@@ -11000,7 +11000,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit &apos;%currency_code&apos; currency</source>
-        <translation>Éditer la devise &apos;%currency_code&apos;</translation>
+        <translation>Modifier la devise &apos;%currency_code&apos;</translation>
     </message>
     <message>
         <source>Currency code</source>
@@ -11033,7 +11033,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Unable to edit</source>
-        <translation>Impossible d&apos;éditer</translation>
+        <translation>Impossible de modifier</translation>
     </message>
     <message>
         <source>Create</source>
@@ -11788,7 +11788,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit rule.</source>
-        <translation>Éditer la règle.</translation>
+        <translation>Modifier la règle.</translation>
     </message>
     <message>
         <source>There are no VAT charging rules.</source>
@@ -12274,7 +12274,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit URL #%url_id</source>
-        <translation>Éditer l&apos;URL #url_id</translation>
+        <translation>Modifier l&apos;URL #url_id</translation>
     </message>
 </context>
 <context>
@@ -12361,7 +12361,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit URL.</source>
-        <translation>Éditer l&apos;URL.</translation>
+        <translation>Modifier l&apos;URL.</translation>
     </message>
     <message>
         <source>The requested list is empty.</source>
@@ -12444,11 +12444,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Edit this URL.</source>
-        <translation>Éditer cette URL.</translation>
+        <translation>Modifier cette URL.</translation>
     </message>
     <message>
         <source>Edit &lt;%object_name&gt;.</source>
-        <translation>Éditer &lt;%object_name&gt;.</translation>
+        <translation>Modifier &lt;%object_name&gt;.</translation>
     </message>
     <message>
         <source>Draft</source>
@@ -12896,7 +12896,7 @@ your account.</source>
     </message>
     <message>
         <source>Edit &lt;%template_name&gt; [Template]</source>
-        <translation>Éditer &lt;%template_name&gt; [Template]</translation>
+        <translation>Modifier &lt;%template_name&gt; [Template]</translation>
     </message>
     <message>
         <source>Requested template</source>
@@ -12990,7 +12990,7 @@ your account.</source>
     </message>
     <message>
         <source>Edit override template.</source>
-        <translation>Éditer la surcharge de template.</translation>
+        <translation>Modifier la surcharge de template.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -13132,7 +13132,7 @@ your account.</source>
     </message>
     <message>
         <source>Edit &lt;%workflow_name&gt; [Workflow]</source>
-        <translation>Éditer &lt;%workflow_name&gt; [Workflow]</translation>
+        <translation>Modifier &lt;%workflow_name&gt; [Workflow]</translation>
     </message>
     <message>
         <source>Name</source>
@@ -13330,7 +13330,7 @@ your account.</source>
     <name>design/admin/workflow/groupedit</name>
     <message>
         <source>Edit &lt;%group_name&gt; [Workflow group]</source>
-        <translation>Éditer &lt;%group_name&gt; [Groupe de workflow]</translation>
+        <translation>Modifier &lt;%group_name&gt; [Groupe de workflow]</translation>
     </message>
     <message>
         <source>Name</source>
@@ -13385,7 +13385,7 @@ your account.</source>
     </message>
     <message>
         <source>Edit the &lt;%workflow_group_name&gt; workflow group.</source>
-        <translation>Éditer le groupe de workflow &lt;%workflow_group_name&gt;.</translation>
+        <translation>Modifier le groupe de workflow &lt;%workflow_group_name&gt;.</translation>
     </message>
     <message>
         <source>Create a new workflow group.</source>
@@ -13573,7 +13573,7 @@ your account.</source>
     </message>
     <message>
         <source>Edit this workflow group.</source>
-        <translation>Éditer ce groupe de workflow.</translation>
+        <translation>Modifier ce groupe de workflow.</translation>
     </message>
     <message>
         <source>Remove this workflow group.</source>
@@ -13593,7 +13593,7 @@ your account.</source>
     </message>
     <message>
         <source>Edit the &lt;%workflow_name&gt; workflow.</source>
-        <translation>Éditer le workflow &lt;%workflow_name&gt;.</translation>
+        <translation>Modifier le workflow &lt;%workflow_name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected workflows.</source>
@@ -13896,7 +13896,7 @@ your account.</source>
     </message>
     <message>
         <source>Edit %1 - %2</source>
-        <translation>Éditer %1 - %2</translation>
+        <translation>Modifier %1 - %2</translation>
     </message>
     <message>
         <source>Send for publishing</source>
@@ -15333,7 +15333,7 @@ your account.</source>
     </message>
     <message>
         <source>Edit the object</source>
-        <translation>Éditer l&apos;objet</translation>
+        <translation>Modifier l&apos;objet</translation>
     </message>
     <message>
         <source>The content object %1 was not accepted but will be available as a draft for the author.</source>
@@ -15373,7 +15373,7 @@ your account.</source>
     </message>
     <message>
         <source>You may re-edit the draft and publish it, in which case an approval is required again.</source>
-        <translation>Vous pouvez éditer à nouveau le brouillon et le publier, auquel cas l&apos;approbation sera à nouveau requise.</translation>
+        <translation>Vous pouvez modifier à nouveau le brouillon et le publier, auquel cas l&apos;approbation sera à nouveau requise.</translation>
     </message>
     <message>
         <source>This email is to inform you that &quot;%objectname&quot; awaits your attention at %sitename.
@@ -15403,7 +15403,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>The author can re-edit the draft and publish it again, in which case a new approval item is made.</source>
-        <translation>L&apos;auteur peut rééditer le brouillon et le publier à nouveau, auquel cas l&apos;approbation sera à nouveau requise.</translation>
+        <translation>L&apos;auteur peut modifier à nouveau le brouillon et le publier à nouveau, auquel cas l&apos;approbation sera à nouveau requise.</translation>
     </message>
 </context>
 <context>
@@ -16062,7 +16062,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Edit selected</source>
-        <translation>Éditer l&apos;élément sélectionné</translation>
+        <translation>Modifier l&apos;élément sélectionné</translation>
     </message>
     <message>
         <source>Create new object</source>
@@ -16094,7 +16094,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Edit &lt;%object_name&gt; [%object_class]</source>
-        <translation>Éditer &lt;%object_name&gt; [%object_class]</translation>
+        <translation>Modifier &lt;%object_name&gt; [%object_class]</translation>
     </message>
     <message>
         <source>Add objects</source>
@@ -16424,7 +16424,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Edit %1 - %2</source>
-        <translation>Éditer %1 - %2</translation>
+        <translation>Modifier %1 - %2</translation>
     </message>
     <message>
         <source>Send for publishing</source>
@@ -16664,7 +16664,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Select the language you want to use when editing the object</source>
-        <translation>Choisissez la langue que vous souhaitez utiliser pour éditer l&apos;objet</translation>
+        <translation>Choisissez la langue que vous souhaitez utiliser pour modifier l&apos;objet</translation>
     </message>
     <message>
         <source>New languages</source>
@@ -16684,7 +16684,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>You do not have permission to edit the object in any available languages.</source>
-        <translation>Vous n&apos;avez pas les droits suffisants pour éditer l&apos;objet en aucune langue disponible.</translation>
+        <translation>Vous n&apos;avez pas les droits suffisants pour modifier l&apos;objet en aucune langue disponible.</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -16760,7 +16760,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>You can change your version history settings in content.ini, remove draft versions or edit existing drafts.</source>
-        <translation>Vous pouvez modifier la configuration de l&apos;historique des versions dans le fichier content.ini, supprimer les versions des brouillons ou éditer les brouillons existants.</translation>
+        <translation>Vous pouvez modifier la configuration de l&apos;historique des versions dans le fichier content.ini, supprimer les versions des brouillons ou modifier les brouillons existants.</translation>
     </message>
     <message>
         <source>Versions for &lt;%object_name&gt; [%version_count]</source>
@@ -16824,7 +16824,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Edit the contents of version #%version_number.</source>
-        <translation>Éditer le contenu de la version #%version_number.</translation>
+        <translation>Modifier le contenu de la version #%version_number.</translation>
     </message>
     <message>
         <source>This object does not have any versions.</source>
@@ -17332,7 +17332,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>You can change your version history settings in content.ini, remove draft versions or edit existing drafts.</source>
-        <translation>Vous pouvez modifier la configuration de l&apos;historique des versions dans content.ini, supprimer les versions brouillons ou éditer des brouillons.</translation>
+        <translation>Vous pouvez modifier la configuration de l&apos;historique des versions dans content.ini, supprimer les versions brouillons ou modifier des brouillons.</translation>
     </message>
     <message>
         <source>Version %1 is not available for editing any more, only drafts can be edited.</source>
@@ -19377,7 +19377,7 @@ menu on the top.</source>
     </message>
     <message>
         <source>Role edit %1</source>
-        <translation>Éditer le rôle : %1</translation>
+        <translation>Modifier le rôle : %1</translation>
     </message>
     <message>
         <source>Name</source>
@@ -19417,7 +19417,7 @@ menu on the top.</source>
     </message>
     <message>
         <source>Edit policy</source>
-        <translation>Éditer la règle</translation>
+        <translation>Modifier la règle</translation>
     </message>
     <message>
         <source>Policy</source>
@@ -19473,7 +19473,7 @@ menu on the top.</source>
     </message>
     <message>
         <source>Edit role</source>
-        <translation>Éditer rôle</translation>
+        <translation>Modifier rôle</translation>
     </message>
     <message>
         <source>Assign role to user or group</source>
@@ -19485,7 +19485,7 @@ menu on the top.</source>
     </message>
     <message>
         <source>Edit current role</source>
-        <translation>Éditer le rôle courant</translation>
+        <translation>Modifier le rôle courant</translation>
     </message>
     <message>
         <source>Remove selected assignments</source>
@@ -19884,7 +19884,7 @@ menu on the top.</source>
     </message>
     <message>
         <source>Section edit</source>
-        <translation>Éditer la section</translation>
+        <translation>Modifier la section</translation>
     </message>
     <message>
         <source>Name</source>
@@ -23120,7 +23120,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>Edit discount group - %1</source>
-        <translation>Éditer le groupe de remise - %1</translation>
+        <translation>Modifier le groupe de remise - %1</translation>
     </message>
     <message>
         <source>Discard</source>
@@ -23168,7 +23168,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>Editing rule</source>
-        <translation>Éditer la règle</translation>
+        <translation>Modifier la règle</translation>
     </message>
     <message>
         <source>Attributes</source>
@@ -23924,7 +23924,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>Edit account</source>
-        <translation>Éditer compte</translation>
+        <translation>Modifier compte</translation>
     </message>
     <message>
         <source>Change password</source>
@@ -24168,7 +24168,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     <name>design/standard/url/edit</name>
     <message>
         <source>Editing URL - %1</source>
-        <translation>Éditer URL -%1</translation>
+        <translation>Modifier URL -%1</translation>
     </message>
     <message>
         <source>URL</source>
@@ -24640,7 +24640,7 @@ your account.</source>
     </message>
     <message>
         <source>Edit &lt;%template_name&gt; [Template]</source>
-        <translation>Éditer &lt;%template_name&gt; [Template]</translation>
+        <translation>Modifier &lt;%template_name&gt; [Template]</translation>
     </message>
     <message>
         <source>Requested template</source>
@@ -24746,7 +24746,7 @@ your account.</source>
     </message>
     <message>
         <source>Edit override template.</source>
-        <translation>Éditer la surcharge de template.</translation>
+        <translation>Modifier la surcharge de template.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -24868,7 +24868,7 @@ your account.</source>
     </message>
     <message>
         <source>Editing workflow</source>
-        <translation>Éditer le processus de workflow</translation>
+        <translation>Modifier le processus de workflow</translation>
     </message>
     <message>
         <source>Workflow stored</source>
@@ -25048,7 +25048,7 @@ your account.</source>
     </message>
     <message>
         <source>Editing workflow group - %1</source>
-        <translation>Éditer groupe de processus de workflow - %1</translation>
+        <translation>Modifier groupe de processus de workflow - %1</translation>
     </message>
     <message>
         <source>Modified by %username on %time</source>
@@ -25056,7 +25056,7 @@ your account.</source>
     </message>
     <message>
         <source>Edit workflow</source>
-        <translation>Éditer le processus de workflow</translation>
+        <translation>Modifier le processus de workflow</translation>
     </message>
     <message>
         <source>Remove selected workflows</source>
@@ -25277,7 +25277,7 @@ your account.</source>
     </message>
     <message>
         <source>Class edit</source>
-        <translation type="obsolete">Éditer la classe</translation>
+        <translation type="obsolete">Modifier la classe</translation>
     </message>
     <message>
         <source>Classes</source>
@@ -26810,7 +26810,7 @@ your account.</source>
     <name>kernel/section</name>
     <message>
         <source>Edit Section</source>
-        <translation type="obsolete">Éditer la section</translation>
+        <translation type="obsolete">Modifier la section</translation>
     </message>
     <message>
         <source>Sections</source>
@@ -26896,7 +26896,7 @@ your account.</source>
     </message>
     <message>
         <source>Editing rule</source>
-        <translation type="obsolete">Éditer la règle</translation>
+        <translation type="obsolete">Modifier la règle</translation>
     </message>
     <message>
         <source>Order list</source>
@@ -27052,7 +27052,7 @@ your account.</source>
     </message>
     <message>
         <source>Edit currency</source>
-        <translation type="obsolete">Éditer la devise</translation>
+        <translation type="obsolete">Modifier la devise</translation>
     </message>
     <message>
         <source>Create new currency</source>
@@ -27201,7 +27201,7 @@ your account.</source>
     </message>
     <message>
         <source>Group edit</source>
-        <translation type="obsolete">Éditer le groupe</translation>
+        <translation type="obsolete">Modifier le groupe</translation>
     </message>
 </context>
 <context>
@@ -27231,7 +27231,7 @@ your account.</source>
     </message>
     <message>
         <source>URL edit</source>
-        <translation type="obsolete">Éditer l&apos;URL</translation>
+        <translation type="obsolete">Modifier l&apos;URL</translation>
     </message>
 </context>
 <context>
@@ -27288,7 +27288,7 @@ your account.</source>
     <name>kernel/workflow</name>
     <message>
         <source>Edit workflow</source>
-        <translation type="obsolete">Éditer le processus de workflow</translation>
+        <translation type="obsolete">Modifier le processus de workflow</translation>
     </message>
     <message>
         <source>Workflow</source>
@@ -27300,11 +27300,11 @@ your account.</source>
     </message>
     <message>
         <source>Edit workflow group</source>
-        <translation type="obsolete">Éditer le groupe de processus de workflow</translation>
+        <translation type="obsolete">Modifier le groupe de processus de workflow</translation>
     </message>
     <message>
         <source>Group edit</source>
-        <translation type="obsolete">Éditer le groupe</translation>
+        <translation type="obsolete">Modifier le groupe</translation>
     </message>
     <message>
         <source>Workflow group list</source>
