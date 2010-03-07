@@ -1407,90 +1407,90 @@
     <name>design/admin/content/browse_move_node</name>
     <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
-        <translation type="unfinished">Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
+        <translation>Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
     </message>
     <message>
         <source>Choose a new location for &lt;%object_name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies een nieuwe locatie voor &lt;%object_name&gt;</translation>
     </message>
     <message>
         <source>Choose a new location for &lt;%object_name&gt; using the radio buttons then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies een nieuwe locatie voor &lt;%object_name&gt; met de radioknoppen en klik op &quot;Selecteer&quot;.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/browse_move_placement</name>
     <message>
         <source>Choose a new location for &lt;%version_name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies een nieuwe locatie voor &lt;%version_name&gt;</translation>
     </message>
     <message>
         <source>The previous location was &lt;%previous_location&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>De vorige locatie was &lt;%previous_location&gt;.</translation>
     </message>
     <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
-        <translation type="unfinished">Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
+        <translation>Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
     </message>
     <message>
         <source>Choose a new location for &lt;%version_name&gt; using the radio buttons then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies een nieuwe locatie voor &lt;%version_name&gt; met de radioknoppen en klik op &quot;Selecteer&quot;.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/browse_placement</name>
     <message>
         <source>Choose locations for &lt;%version_name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies locatie voor &lt;%version_name&gt;</translation>
     </message>
     <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
-        <translation type="unfinished">Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
+        <translation>Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
     </message>
     <message>
         <source>Choose locations for &lt;%version_name&gt; using the checkboxes then click &quot;Select&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies locatie voor &lt;%version_name&gt; met de checkboxen en klik op &quot;Selecteer&quot;.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/browse_related</name>
     <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
-        <translation type="unfinished">Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
+        <translation>Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
     </message>
     <message>
         <source>Choose objects that you want to relate to &lt;%version_name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies objecten welke u wilt relateren tot &lt;%version_name&gt;</translation>
     </message>
     <message>
         <source>Use the checkboxes to choose the objects that you want to relate to &lt;%version_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik de checkboxen om de objecten te kiezen welke u wilt relateren tot &lt;%version_name&gt;.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/browse_swap_node</name>
     <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
-        <translation type="unfinished">Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
+        <translation>Navigeer door de beschikbare tabbladen (bovenstaand), het structuurmenu (links) en de inhoudslijst (midden) te gebruiken.</translation>
     </message>
     <message>
         <source>Choose the node to exchange for &lt;%object_name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies het knooppunt om om te wisselen met &lt;%objectname&gt;</translation>
     </message>
     <message>
         <source>Use the radio buttons to choose the node that you want to swap with &lt;%object_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik de radioknoppen om het knooppunt te kiezen welke u wilt omwisselen met &lt;%object_name&gt;.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/children_reverserelatedlist</name>
     <message>
         <source>Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Item</translation>
     </message>
     <message>
         <source>Objects referring to this item</source>
-        <translation type="unfinished"></translation>
+        <translation>Objecten welke verwijzen naar dit item</translation>
     </message>
 </context>
 <context>
@@ -1505,11 +1505,11 @@
     </message>
     <message>
         <source>You have already submitted feedback. The previously submitted data was:</source>
-        <translation type="unfinished">U heeft reeds een feedback gegeven. De eerder opgegeven gegevens waren:</translation>
+        <translation>U heeft reeds feedback ingediend. De eerder ingediende gegevens waren:</translation>
     </message>
     <message>
         <source>Thanks for your feedback. The following information was collected.</source>
-        <translation type="unfinished">Dank u wel voor uw feedback. De volgende informatie werd verzameld.</translation>
+        <translation>Dank u wel voor uw feedback. De volgende informatie werd verzameld.</translation>
     </message>
 </context>
 <context>
@@ -1524,11 +1524,11 @@
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished">Terug</translation>
+        <translation>Terug</translation>
     </message>
     <message>
         <source>You have already submitted this form. The previously submitted data was:</source>
-        <translation type="unfinished">U heeft reeds dit formulier ingediend. De eerder opgegeven gegevens waren:</translation>
+        <translation>U heeft reeds dit formulier ingediend. De eerder ingediende gegevens waren:</translation>
     </message>
 </context>
 <context>
@@ -1547,161 +1547,161 @@
     </message>
     <message>
         <source>Anonymous users are not allowed to vote in this poll. Please log in.</source>
-        <translation type="unfinished">Anonieme gebruikers hebben geen toestemming om in deze poll te stemmen. Gelieve u aan te melden.</translation>
+        <translation>Anonieme gebruikers hebben geen toestemming om in deze poll te stemmen. Gelieve u aan te melden.</translation>
     </message>
     <message>
         <source>You have already voted in this poll.</source>
-        <translation type="unfinished">U heeft in deze poll al gestemd.</translation>
+        <translation>U heeft in deze poll al gestemd.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/confirmtranslationremove</name>
     <message>
         <source>Confirm language removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevestig verwijdering taal</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the language?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet u zeker dat u de taal wilt verwijderen?</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the languages?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet u zeker dat u de taal wilt verwijderen?</translation>
     </message>
     <message>
         <source>Removing &lt;%1&gt; will also result in the removal of %2 translated versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen van &lt;%1&gt; resulteerd ook in het verwijderen van %2 vertaalde versies.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuleren</translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/create_languages</name>
     <message>
         <source>Language selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Taal selectie</translation>
     </message>
     <message>
         <source>Select the language in which you want to create the object</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer de taal waarin u een object wilt aanmaken</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuleren</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>You do not have permission to create an object of the requested class in any language.</source>
-        <translation type="unfinished"></translation>
+        <translation>U heeft geen toestemming een object aan te maken van de gevraagde klasse in alle talen.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/dashboard</name>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Dashboard</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/datatype</name>
     <message>
         <source>No media file is available.</source>
-        <translation type="unfinished">Er is geen media bestand aanwezig.</translation>
+        <translation>Er is geen media bestand aanwezig.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/datatype/ezuser</name>
     <message>
         <source>Account status</source>
-        <translation type="unfinished"></translation>
+        <translation>Account status</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/diff</name>
     <message>
         <source>Versions for &lt;%object_name&gt; [%version_count]</source>
-        <translation type="unfinished">Versies voor &lt;%object_name&gt; [%version_count]</translation>
+        <translation>Versies voor &lt;%object_name&gt; [%version_count]</translation>
     </message>
     <message>
         <source>Show differences</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon verschillen</translation>
     </message>
     <message>
         <source>Differences between versions %oldVersion and %newVersion</source>
-        <translation type="unfinished">Verschillen tussen versies %oldVersion en %newVersion</translation>
+        <translation>Verschillen tussen versies %oldVersion en %newVersion</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versie</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished">Vertalingen</translation>
+        <translation>Vertalingen</translation>
     </message>
     <message>
         <source>Creator</source>
-        <translation type="unfinished">Auteur</translation>
+        <translation>Auteur</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepast</translation>
     </message>
     <message>
         <source>Draft</source>
-        <translation type="unfinished">Voorlopige versie</translation>
+        <translation>Voorlopige versie</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation type="unfinished"></translation>
+        <translation>Gepubliceerd</translation>
     </message>
     <message>
         <source>Pending</source>
-        <translation type="unfinished">In wachtrij</translation>
+        <translation>In wachtrij</translation>
     </message>
     <message>
         <source>Archived</source>
-        <translation type="unfinished">Gearchiveerd</translation>
+        <translation>Gearchiveerd</translation>
     </message>
     <message>
         <source>Rejected</source>
-        <translation type="unfinished">Verworpen</translation>
+        <translation>Verworpen</translation>
     </message>
     <message>
         <source>Untouched draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Onaangeroerd concept</translation>
     </message>
     <message>
         <source>Inline changes</source>
-        <translation type="unfinished">Inline wijzigingen</translation>
+        <translation>Inline wijzigingen</translation>
     </message>
     <message>
         <source>Block changes</source>
-        <translation type="unfinished">Wijzigingen blokkeren</translation>
+        <translation>Wijzigingen blokkeren</translation>
     </message>
     <message>
         <source>Old version</source>
-        <translation type="unfinished">Oude versie</translation>
+        <translation>Oude versie</translation>
     </message>
     <message>
         <source>New version</source>
-        <translation type="unfinished">Nieuwe versie</translation>
+        <translation>Nieuwe versie</translation>
     </message>
     <message>
         <source>Versions for &lt;%object_name&gt; (%version_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Versies voor &lt;%object_name&gt; (%version_count)</translation>
     </message>
 </context>
 <context>
@@ -1744,35 +1744,35 @@
     </message>
     <message>
         <source>Select draft for removal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer te verwijderen concept.</translation>
     </message>
     <message>
         <source>Edit &lt;%draft_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk &lt;%draft_name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected drafts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder geselecteerde concepten.</translation>
     </message>
     <message>
         <source>Remove all drafts that belong to you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijdere alle concepten welke u toebehoren.</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Onbekend</translation>
+        <translation>Onbekend</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Bewerken</translation>
+        <translation>Bewerken</translation>
     </message>
     <message>
         <source>Are you sure you want to remove all drafts?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wet u zeker dat u alle concepten wilt verwijderen?</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Taal</translation>
+        <translation>Taal</translation>
     </message>
     <message>
         <source>My drafts (%draft_count)</source>
