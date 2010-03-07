@@ -692,7 +692,7 @@
     <name>design/admin/class/view</name>
     <message>
         <source>Last modified: %time, %username</source>
-        <translation>Dernière modification: %time, %username</translation>
+        <translation>Dernière modification&#160;: %time, %username</translation>
     </message>
     <message>
         <source>Name</source>
@@ -3411,7 +3411,7 @@
     </message>
     <message>
         <source>There are no items in the trash</source>
-        <translation>Il n&apos;y a pas d&apos;éléments dans la corbeille</translation>
+        <translation>Il n&apos;y a pas d&apos;élément dans la corbeille</translation>
     </message>
     <message>
         <source>Name</source>
@@ -4173,7 +4173,7 @@
     </message>
     <message>
         <source>View the contents of version #%version_number. Translation: %translation.</source>
-        <translation>Voir le contenu de la version #%version_number. Traduction: %translation.</translation>
+        <translation>Voir le contenu de la version #%version_number. Traduction&#160;: %translation.</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -6341,7 +6341,7 @@
     </message>
     <message>
         <source>Package wizard: %wizardname</source>
-        <translation>Assistant de paquetage: %wizardname</translation>
+        <translation>Assistant de paquetage&#160;: %wizardname</translation>
     </message>
     <message>
         <source>Install package</source>
@@ -6357,7 +6357,7 @@
     </message>
     <message>
         <source>Package install wizard: %wizardname</source>
-        <translation>Assistant d&apos;installation de paquetage: %wizardname</translation>
+        <translation>Assistant d&apos;installation de paquetage&#160;: %wizardname</translation>
     </message>
     <message>
         <source>Next %arrowright</source>
@@ -7773,7 +7773,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Step two: select function</source>
-        <translation>Etape deux: sélection de la fonction</translation>
+        <translation>Etape deux&#160;: sélection de la fonction</translation>
     </message>
     <message>
         <source>Instructions</source>
@@ -7868,7 +7868,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Step three: set function limitations</source>
-        <translation>Etape trois: assignation des limitations de fonctions</translation>
+        <translation>Etape trois&#160;: assignation des limitations de fonctions</translation>
     </message>
     <message>
         <source>Instructions</source>
@@ -9137,7 +9137,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Setting: &lt;new setting&gt;</source>
-        <translation>Paramètre: &lt;new setting&gt;</translation>
+        <translation>Paramètre&#160;: &lt;new setting&gt;</translation>
     </message>
     <message>
         <source>Change setting type</source>
@@ -9948,7 +9948,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Hint: The first line will be used as the brief description. The rest will become operator documentation.</source>
-        <translation>Astuce: la première ligne sera utilisée comme une courte description. Le reste deviendra la documentation de l&apos;opérateur.</translation>
+        <translation>Astuce&#160;: la première ligne sera utilisée comme une courte description. Le reste deviendra la documentation de l&apos;opérateur.</translation>
     </message>
     <message>
         <source>Finish and generate</source>
@@ -10031,7 +10031,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Hint: The first line will be used for the brief description. The rest will become the documentation.</source>
-        <translation>Astuce: La première ligne sera utilisée comme une courte description. Le reste deviendra la documentation.</translation>
+        <translation>Astuce&#160;: La première ligne sera utilisée comme une courte description. Le reste deviendra la documentation.</translation>
     </message>
     <message>
         <source>Example code</source>
@@ -10039,7 +10039,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Hint: Feel free to add example code that demonstrates how the operator works.</source>
-        <translation>Astuce: N&apos;hésitez pas à ajouter un exemple de code expliquant comment l&apos;opérateur fonctionne.</translation>
+        <translation>Astuce&#160;: N&apos;hésitez pas à ajouter un exemple de code expliquant comment l&apos;opérateur fonctionne.</translation>
     </message>
     <message>
         <source>Finish and generate</source>
@@ -12868,7 +12868,7 @@ your account.</source>
     <name>design/admin/visual/templateedit</name>
     <message>
         <source>Edit template: &lt;%template&gt;</source>
-        <translation>Edition du template: &lt;%template&gt;</translation>
+        <translation>Edition du template&#160;: &lt;%template&gt;</translation>
     </message>
     <message>
         <source>Apply changes</source>
@@ -13952,7 +13952,7 @@ your account.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur:</translation>
+        <translation>Auteur&#160;:</translation>
     </message>
     <message>
         <source>#page of #total</source>
@@ -14464,7 +14464,7 @@ your account.</source>
     </message>
     <message>
         <source>Ini Value: </source>
-        <translation>Valeur ini:</translation>
+        <translation>Valeur ini&#160;:</translation>
     </message>
     <message>
         <source>Enabled</source>
@@ -15509,7 +15509,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Removing &apos;%1&apos; will remove the translation itself and %2 translated versions!</source>
-        <translation>Supprimer &apos;%1&apos; supprimera la traduction elle-même et %2 versions traduites!</translation>
+        <translation>Supprimer &apos;%1&apos; supprimera la traduction elle-même et %2 versions traduites&#160;!</translation>
     </message>
     <message>
         <source>Below you will find a list of active translations that content objects may be translated into.</source>
@@ -18354,7 +18354,7 @@ Les enfants seront également supprimés.</translation>
     </message>
     <message>
         <source>If %trashname is checked you will find the removed items in the trash afterward.</source>
-        <translation>Si %trashname est coché, les éléments supprimés sera placés dans la corbeille.</translation>
+        <translation>Si %trashname est coché, les éléments supprimés seront placés dans la corbeille.</translation>
     </message>
 </context>
 <context>
@@ -18741,7 +18741,7 @@ Cet objet peut être visualisé en utilisant l&apos;adresse URL suivante.</trans
     </message>
     <message>
         <source>Package wizard: %wizardname</source>
-        <translation>Assistant de paquetage: %wizardname</translation>
+        <translation>Assistant de paquetage&#160;: %wizardname</translation>
     </message>
     <message>
         <source>Install items</source>
@@ -18861,7 +18861,7 @@ Cet objet peut être visualisé en utilisant l&apos;adresse URL suivante.</trans
     </message>
     <message>
         <source>Package install wizard: %wizardname</source>
-        <translation>Assistant d&apos;installation de paquetage: %wizardname</translation>
+        <translation>Assistant d&apos;installation de paquetage&#160;: %wizardname</translation>
     </message>
     <message>
         <source>You must now choose which siteaccess the package contents should be installed to.
@@ -21290,7 +21290,7 @@ The default code was made from the basic parameters you chose.</source>
     </message>
     <message>
         <source>Server name: </source>
-        <translation>Nom du serveur:</translation>
+        <translation>Nom du serveur&#160;:</translation>
     </message>
     <message>
         <source>Username (optional): </source>
@@ -21376,7 +21376,7 @@ Pour résoudre ce problème, vous devez choisir l&apos;une des options suivantes
     </message>
     <message>
         <source>Hostname. Note: Requires DNS setup.</source>
-        <translation>Nom de l&apos;hôte. Note: Nécessite la configuration DNS.</translation>
+        <translation>Nom de l&apos;hôte. Note&#160;: Nécessite la configuration DNS.</translation>
     </message>
     <message>
         <source>Hostname</source>
@@ -21726,7 +21726,7 @@ L&apos;installation peut continuer avec l&apos;initialisation mais peut endommag
     </message>
     <message>
         <source>Action: </source>
-        <translation>Action:</translation>
+        <translation>Action&#160;:</translation>
     </message>
     <message>
         <source>Current site functionality</source>
@@ -22422,7 +22422,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>Note:</source>
-        <translation>Note:</translation>
+        <translation>Note&#160;:</translation>
     </message>
     <message>
         <source>Missing ImageMagick program</source>
@@ -23361,7 +23361,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>Are you sure you want to remove order: </source>
-        <translation>Êtes-vous sûr que vous souhaitez supprimer cette commande:</translation>
+        <translation>Êtes-vous sûr que vous souhaitez supprimer cette commande&#160;:</translation>
     </message>
     <message>
         <source>Selected options</source>
@@ -23924,7 +23924,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>Logged in as: %username</source>
-        <translation>Connecté sous le nom de: %username</translation>
+        <translation>Connecté sous le nom de&#160;: %username</translation>
     </message>
     <message>
         <source>Edit account</source>
@@ -23969,7 +23969,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     <message>
         <source>Online: %logged_in_count:%anonymous_count</source>
         <comment>Short user information</comment>
-        <translation>En ligne: %logged_in_count:%anonymous_count</translation>
+        <translation>En ligne&#160;: %logged_in_count:%anonymous_count</translation>
     </message>
     <message>
         <source>Username</source>
@@ -24016,7 +24016,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>Search: </source>
-        <translation>Recherche: </translation>
+        <translation>Recherche&#160;: </translation>
     </message>
 </context>
 <context>
@@ -24612,7 +24612,7 @@ your account.</source>
     <name>design/standard/visual/templateedit</name>
     <message>
         <source>Edit template: &lt;%template&gt;</source>
-        <translation>Edition du template: &lt;%template&gt;</translation>
+        <translation>Edition du template&#160;: &lt;%template&gt;</translation>
     </message>
     <message>
         <source>Apply changes</source>
@@ -25740,7 +25740,7 @@ your account.</source>
     </message>
     <message>
         <source>Cannot remove the account:</source>
-        <translation type="obsolete">Il n&apos;est pas possible de supprimer le compte:</translation>
+        <translation type="obsolete">Il n&apos;est pas possible de supprimer le compte&#160;:</translation>
     </message>
     <message>
         <source>The account owner is currently logged in.</source>
@@ -26084,7 +26084,7 @@ your account.</source>
     </message>
     <message>
         <source>You are not allowed to place this object under: %1</source>
-        <translation type="obsolete">Vous n&apos;êtes pas autorisé à placer cet objet sous: %1</translation>
+        <translation type="obsolete">Vous n&apos;êtes pas autorisé à placer cet objet sous&#160;: %1</translation>
     </message>
     <message>
         <source>Top Level Nodes</source>
@@ -26191,11 +26191,11 @@ your account.</source>
     </message>
     <message>
         <source>Fatal error: cannot get subtree main node (ID = %1).</source>
-        <translation type="obsolete">Erreur fatale: impossible de récupérer la sous-arborescence du nœud principal (ID = %1).</translation>
+        <translation type="obsolete">Erreur fatale&#160;: impossible de récupérer la sous-arborescence du nœud principal (ID = %1).</translation>
     </message>
     <message>
         <source>Fatal error: cannot get destination node (ID = %1).</source>
-        <translation type="obsolete">Erreur fatale: impossible de récupérer le nœud de destination (ID = %1).</translation>
+        <translation type="obsolete">Erreur fatale&#160;: impossible de récupérer le nœud de destination (ID = %1).</translation>
     </message>
     <message>
         <source>Number of nodes of source subtree - %1</source>
