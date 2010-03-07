@@ -3,7 +3,7 @@
     <name>contentstructuremenu/show_content_structure</name>
     <message>
         <source>Node ID: %node_id Visibility: %visibility</source>
-        <translation>ID du Nœud : %node_id  Visibilité : %visibility</translation>
+        <translation>ID du Nœud&#160;: %node_id  Visibilité&#160;: %visibility</translation>
     </message>
 </context>
 <context>
@@ -290,7 +290,7 @@
     </message>
     <message>
         <source>Use these controls to set the default sorting method for the sub items of instances of the content class.</source>
-        <translation>Utilisez ces controles pour paramétrer la méthode de tri par défaut pour les sous éléments de la classe de contenu par exemple.</translation>
+        <translation>Utilisez ces controles pour paramétrer la méthode de tri par défaut pour les sous-éléments de la classe de contenu par exemple.</translation>
     </message>
     <message>
         <source>Descending</source>
@@ -1181,7 +1181,7 @@
     <name>design/admin/collaboration/view/element/ezapprove_comment</name>
     <message>
         <source>Posted: %1</source>
-        <translation>Posté : %1</translation>
+        <translation>Posté&#160;: %1</translation>
     </message>
 </context>
 <context>
@@ -1298,7 +1298,7 @@
     </message>
     <message>
         <source>Display sub items using a simple list.</source>
-        <translation>Afficher les sous éléments sous forme de liste simple.</translation>
+        <translation>Afficher les sous-éléments sous forme de liste simple.</translation>
     </message>
     <message>
         <source>List</source>
@@ -1310,7 +1310,7 @@
     </message>
     <message>
         <source>Display sub items as thumbnails.</source>
-        <translation>Afficher les sous éléments sous forme de vignettes.</translation>
+        <translation>Afficher les sous-éléments sous forme de vignettes.</translation>
     </message>
     <message>
         <source>Search result</source>
@@ -1770,7 +1770,7 @@
     </message>
     <message>
         <source>Are you sure you want to remove all drafts?</source>
-        <translation>Etes-vous sur de vouloir supprimer tous les brouillons ?</translation>
+        <translation>Êtes-vous sur de vouloir supprimer tous les brouillons ?</translation>
     </message>
     <message>
         <source>My drafts (%draft_count)</source>
@@ -1845,7 +1845,7 @@
     </message>
     <message>
         <source>Sorting of sub items</source>
-        <translation>Classement des sous éléments</translation>
+        <translation>Classement des sous-éléments</translation>
     </message>
     <message>
         <source>Current visibility</source>
@@ -2279,7 +2279,7 @@
     </message>
     <message>
         <source>Your most recently modified draft is version #%version, last changed: %modified.</source>
-        <translation>Votre brouillon modifié le plus récemment est la version #%version, changée le : %modified.</translation>
+        <translation>Votre brouillon modifié le plus récemment est la version #%version, changée le&#160;: %modified.</translation>
     </message>
     <message>
         <source>This object is already being edited by someone else.</source>
@@ -2323,7 +2323,7 @@
     </message>
     <message>
         <source>View the contents of version #%version_number. Translation: %translation.</source>
-        <translation>Voir le contenu de la version #%version_number. Traduction : %translation.</translation>
+        <translation>Voir le contenu de la version #%version_number. Traduction&#160;: %translation.</translation>
     </message>
     <message>
         <source>Edit selected</source>
@@ -2359,7 +2359,7 @@
     </message>
     <message>
         <source>View the contents of version #%version. Translation: %translation.</source>
-        <translation>Voir le contenu de la version #%version. Traduction : %translation.</translation>
+        <translation>Voir le contenu de la version #%version. Traduction&#160;: %translation.</translation>
     </message>
     <message>
         <source>Show the published data</source>
@@ -2549,7 +2549,7 @@
     </message>
     <message>
         <source>View the contents of version #%version_number. Translation: %translation.</source>
-        <translation>Voir le contenu de la version #%version_number. Traduction : %translation.</translation>
+        <translation>Voir le contenu de la version #%version_number. Traduction&#160;: %translation.</translation>
     </message>
     <message>
         <source>Draft</source>
@@ -2971,7 +2971,7 @@
     <name>design/admin/content/reverserelatedlist</name>
     <message>
         <source>&quot;%contentObjectName&quot; [%children_count]: Sub items that are used by other objects </source>
-        <translation>&quot;%contentObjectName&quot; [%children_count] : sous éléments utilisés par d&apos;autres objets </translation>
+        <translation>&quot;%contentObjectName&quot; [%children_count]&#160;: sous-éléments utilisés par d&apos;autres objets </translation>
     </message>
     <message>
         <source>This subtree/item has no external relations.</source>
@@ -2979,7 +2979,7 @@
     </message>
     <message>
         <source>&quot;%contentObjectName&quot; (%children_count): Sub items that are used by other objects </source>
-        <translation>&quot;%contentObjectName&quot; (%children_count) : sous éléments utilisés par d&apos;autres objets </translation>
+        <translation>&quot;%contentObjectName&quot; (%children_count)&#160;: sous-éléments utilisés par d&apos;autres objets </translation>
     </message>
 </context>
 <context>
@@ -3656,7 +3656,7 @@
     </message>
     <message>
         <source>Are you sure you want to remove the selected aliases?</source>
-        <translation>Êtes vous sûr de vouloir supprimer les alias d'URL sélectionnés&#160;?</translation>
+        <translation>Êtes-vous sûr de vouloir supprimer les alias d'URL sélectionnés&#160;?</translation>
     </message>
     <message>
         <source>Remove all</source>
@@ -3668,7 +3668,7 @@
     </message>
     <message>
         <source>Are you sure you want to remove all aliases for this node?</source>
-        <translation>Êtes vous sûr de vouloir supprimer tous les alias d'URL pour ce nœud&#160;?</translation>
+        <translation>Êtes-vous sûr de vouloir supprimer tous les alias d'URL pour ce nœud&#160;?</translation>
     </message>
     <message>
         <source>There are no removable aliases.</source>
@@ -3907,7 +3907,7 @@
     </message>
     <message>
         <source>Are you sure you want to remove the selected aliases?</source>
-        <translation>Êtes vous sûr de vouloir supprimer les alias d'URL sélectionné&#160;?</translation>
+        <translation>Êtes-vous sûr de vouloir supprimer les alias d'URL sélectionné&#160;?</translation>
     </message>
     <message>
         <source>Remove all</source>
@@ -3919,7 +3919,7 @@
     </message>
     <message>
         <source>Are you sure you want to remove all global aliases?</source>
-        <translation>Êtes vous sûr de vouloir supprimer tous les alias d'URL globaux&#160;?</translation>
+        <translation>Êtes-vous sûr de vouloir supprimer tous les alias d'URL globaux&#160;?</translation>
     </message>
     <message>
         <source>There are no removable aliases.</source>
@@ -6019,7 +6019,7 @@
     <name>design/admin/node/view/line</name>
     <message>
         <source>Node ID: %node_id Visibility: %node_visibility</source>
-        <translation>ID du Nœud : %node_id  Visibilité : %node_visibility</translation>
+        <translation>ID du Nœud&#160;: %node_id  Visibilité&#160;: %node_visibility</translation>
     </message>
     <message>
         <source>Click on the icon to display a context-sensitive menu.</source>
@@ -7698,7 +7698,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Step one: select module</source>
-        <translation>Etape une : sélection du module</translation>
+        <translation>Etape une&#160;: sélection du module</translation>
     </message>
     <message>
         <source>Instructions</source>
@@ -7753,7 +7753,7 @@ Note: The packages will not be uninstalled.</source>
     <name>design/admin/role/createpolicystep2</name>
     <message>
         <source>Step one: select module [completed]</source>
-        <translation>Etape une : sélection du module [terminée]</translation>
+        <translation>Etape une&#160;: sélection du module [terminée]</translation>
     </message>
     <message>
         <source>Selected module</source>
@@ -7840,7 +7840,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Step one: select module [completed]</source>
-        <translation>Etape une : sélection du module [terminée]</translation>
+        <translation>Etape une&#160;: sélection du module [terminée]</translation>
     </message>
     <message>
         <source>Selected module</source>
@@ -7860,7 +7860,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Step two: select function [completed]</source>
-        <translation>Etape deux : sélection de la fonction [terminée]</translation>
+        <translation>Etape deux&#160;: sélection de la fonction [terminée]</translation>
     </message>
     <message>
         <source>Selected function</source>
@@ -8539,7 +8539,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Click this button to select the source node for the RSS export source. Objects of the type selected in the drop-down below published as sub items of the selected node will be included in the RSS export.</source>
-        <translation>Cliquez sur ce bouton pour sélectionner le nœud source de l'export RSS. Les objets publiés du type sélectionné dans la liste déroulante ci-dessous sous éléments du nœud sélectionné seront inclus dans l'export RSS.</translation>
+        <translation>Cliquez sur ce bouton pour sélectionner le nœud source de l'export RSS. Les objets publiés du type sélectionné dans la liste déroulante ci-dessous sous-éléments du nœud sélectionné seront inclus dans l'export RSS.</translation>
     </message>
     <message>
         <source>Activate this checkbox if objects from the subnodes of the source should also be fed.</source>
@@ -11505,7 +11505,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Are you sure you want to remove the following orders?</source>
-        <translation>Etes-vous certain de vouloir supprimer les commandes suivantes?</translation>
+        <translation>Êtes-vous certain de vouloir supprimer les commandes suivantes?</translation>
     </message>
 </context>
 <context>
@@ -14005,7 +14005,7 @@ your account.</source>
     </message>
     <message>
         <source>Reply to:</source>
-        <translation>Répondre à :</translation>
+        <translation>Répondre à&#160;:</translation>
     </message>
     <message>
         <source>Anonymous users are not allowed to vote in this poll. Please log in.</source>
@@ -15302,7 +15302,7 @@ your account.</source>
     </message>
     <message>
         <source>Posted: %1</source>
-        <translation>Posté : %1</translation>
+        <translation>Posté&#160;: %1</translation>
     </message>
     <message>
         <source>No new items to be handled.</source>
@@ -16110,11 +16110,11 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Version: %old</source>
-        <translation>Version : %old</translation>
+        <translation>Version&#160;: %old</translation>
     </message>
     <message>
         <source>Version: %new</source>
-        <translation>Version : %new</translation>
+        <translation>Version&#160;: %new</translation>
     </message>
     <message>
         <source>Diff output disabled for %type</source>
@@ -16226,7 +16226,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Current account status:</source>
-        <translation>Statut du compte courant :</translation>
+        <translation>Statut du compte courant&#160;:</translation>
     </message>
     <message>
         <source>enabled</source>
@@ -16796,7 +16796,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>View the contents of version #%version_number. Translation: %translation.</source>
-        <translation>Voir le contenu de la version #%version_number. Traduction : %translation.</translation>
+        <translation>Voir le contenu de la version #%version_number. Traduction&#160;: %translation.</translation>
     </message>
     <message>
         <source>Draft</source>
@@ -17316,7 +17316,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     <name>design/standard/content/version</name>
     <message>
         <source>Versions for: %1</source>
-        <translation>Versions pour : %1</translation>
+        <translation>Versions pour&#160;: %1</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -18020,11 +18020,11 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Module : </source>
-        <translation>Module :</translation>
+        <translation>Module&#160;:</translation>
     </message>
     <message>
         <source>Function : </source>
-        <translation>Fonction :</translation>
+        <translation>Fonction&#160;:</translation>
     </message>
     <message>
         <source>You misspelled some parts of your URL, try changing it.</source>
@@ -18192,7 +18192,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Undefined module: </source>
-        <translation>Module indéfini :</translation>
+        <translation>Module indéfini&#160;:</translation>
     </message>
     <message>
         <source>%sitetitle front page</source>
@@ -18306,7 +18306,7 @@ Les enfants seront également supprimés.</translation>
     </message>
     <message>
         <source>Note:</source>
-        <translation>Note :</translation>
+        <translation>Note&#160;:</translation>
     </message>
     <message>
         <source>Removed nodes can be retrieved later. You will find them in the trash.</source>
@@ -18941,7 +18941,7 @@ Si vous n&apos;êtes pas certain, choisissez le siteaccess qui correspond à la 
     </message>
     <message>
         <source>Please choose action:</source>
-        <translation>Veuillez choisir une action :</translation>
+        <translation>Veuillez choisir une action&#160;:</translation>
     </message>
     <message>
         <source>Use this choice for all the items</source>
@@ -19035,7 +19035,7 @@ If you do not want to install the package at this time, you can do so later on t
         <source>Are you sure you want to remove the following packages?
 The packages will be lost forever.
 Note: The packages will not be uninstalled.</source>
-        <translation>Êtes vous sûr de vouloir supprimer les paquetages suivants&#160;? Les paquetages seront irrémédiablement supprimés. Note&#160;: les paquetages ne seront pas désinstallés.</translation>
+        <translation>Êtes-vous sûr de vouloir supprimer les paquetages suivants&#160;? Les paquetages seront irrémédiablement supprimés. Note&#160;: les paquetages ne seront pas désinstallés.</translation>
     </message>
     <message>
         <source>Package removal was canceled.</source>
@@ -19381,7 +19381,7 @@ menu on the top.</source>
     </message>
     <message>
         <source>Role edit %1</source>
-        <translation>Modifier le rôle : %1</translation>
+        <translation>Modifier le rôle&#160;: %1</translation>
     </message>
     <message>
         <source>Name</source>
@@ -21368,7 +21368,7 @@ Pour résoudre ce problème, vous devez choisir l&apos;une des options suivantes
     </message>
     <message>
         <source>Port. Note: Requires web server configuration </source>
-        <translation>Port. Note : Nécessite configurations au serveur web</translation>
+        <translation>Port. Note&#160;: Nécessite configurations au serveur web</translation>
     </message>
     <message>
         <source>Port</source>
@@ -21460,7 +21460,7 @@ Pour résoudre ce problème, vous devez choisir l&apos;une des options suivantes
     </message>
     <message>
         <source>Select which sites you would like to install on your system.</source>
-        <translation>Sélectionner quels sites vous voulez installer sur votre système.</translation>
+        <translation>Sélectionner quels sites-vous voulez installer sur votre système.</translation>
     </message>
     <message>
         <source>Next &amp;gt;</source>
@@ -21526,7 +21526,7 @@ Pour résoudre ce problème, vous devez choisir l&apos;une des options suivantes
     </message>
     <message>
         <source>Click on the URL to access your new %ezlink or click the %donebutton button. Enjoy one of the most successful web content management systems!</source>
-        <translation>Cliquez sur l&apos;URL pour accéder à votre nouveau %ezlink ou cliquez le bouton %donebutton. Profitez de l&apos;un des systèmes de gestion de contenu Web le plus populaire !</translation>
+        <translation>Cliquez sur l&apos;URL pour accéder à votre nouveau %ezlink ou cliquez le bouton %donebutton. Profitez de l&apos;un des systèmes de gestion de contenu Web le plus populaire&#160;!</translation>
     </message>
     <message>
         <source>Change the second line from %false to %true.</source>
@@ -21805,7 +21805,7 @@ Il est possible de changer ces paramètres plus tard.</translation>
     </message>
     <message>
         <source>There are two options:&lt;br&gt;- Direct delivery through transfer agent (must be available on the server).&lt;br&gt;- Indirect delivery using an SMTP relay server.</source>
-        <translation>Il y a 2 options : &lt;br&gt;- Expédition directe au travers d&apos;un agent de transfert (doit être disponible sur le serveur).&lt;br&gt;- Expédition indirecte en utilisant un serveur relais SMTP.</translation>
+        <translation>Il y a 2 options&#160;: &lt;br&gt;- Expédition directe au travers d&apos;un agent de transfert (doit être disponible sur le serveur).&lt;br&gt;- Expédition indirecte en utilisant un serveur relais SMTP.</translation>
     </message>
     <message>
         <source>Sendmail/MTA</source>
@@ -21813,7 +21813,7 @@ Il est possible de changer ces paramètres plus tard.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Sendmail/MTA:&lt;/b&gt;&lt;br&gt;Mail is delivered directly using the mail transfer agent. The most common agent, sendmail, is usually available on most Linux/UNIX systems. If a mail transfer agent is not available then SMTP should be used.</source>
-        <translation>&lt;b&gt;Sendmail/MTA :&lt;/b&gt;&lt;br&gt; Le message est délivré directement en utilisant l&apos;agent de transfert de courriels. L&apos;agent le plus courant, sendmail, est habituellement disponible sur la plupart des systèmes Lunix / UNIX. Si un agent de transfert de courriels n&apos;est pas disponible, alors un SMTP devra être utilisé.</translation>
+        <translation>&lt;b&gt;Sendmail/MTA&#160;:&lt;/b&gt;&lt;br&gt; Le message est délivré directement en utilisant l&apos;agent de transfert de courriels. L&apos;agent le plus courant, sendmail, est habituellement disponible sur la plupart des systèmes Lunix / UNIX. Si un agent de transfert de courriels n&apos;est pas disponible, alors un SMTP devra être utilisé.</translation>
     </message>
     <message>
         <source>The database [%database_name] cannot be used, the setup wizard wants to create the site in [%req_charset] but the database has been created using character set [%charset]. You will have to choose a database having support for [%req_charset] or modify [%database_name] .</source>
@@ -21913,7 +21913,7 @@ Il est possible de changer ces paramètres plus tard.</translation>
     </message>
     <message>
         <source>&lt;b&gt;SMTP:&lt;/b&gt;&lt;br&gt;Mail is delivered through an SMTP server. At the minimum, the hostname of the SMTP server must be specified. Hint: check the SMTP settings in your email application.</source>
-        <translation>&lt;b&gt;SMTP :&lt;/b&gt;&lt;br&gt;Le courriel est expédié au travers d&apos;un serveur SMTP. Au minimum, le nom d&apos;hôte (hostname) du serveur SMTP doit être spécifié. Conseil : vérifiez les paramètres SMTP de votre application de messagerie.</translation>
+        <translation>&lt;b&gt;SMTP&#160;:&lt;/b&gt;&lt;br&gt;Le courriel est expédié au travers d&apos;un serveur SMTP. Au minimum, le nom d&apos;hôte (hostname) du serveur SMTP doit être spécifié. Conseil&#160;: vérifiez les paramètres SMTP de votre application de messagerie.</translation>
     </message>
     <message>
         <source>Sending email failed</source>
@@ -22618,7 +22618,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>The affected directories are: %dir_list</source>
-        <translation>Les dossiers affectés sont : %dir_list</translation>
+        <translation>Les dossiers affectés sont&#160;: %dir_list</translation>
     </message>
     <message>
         <source>Alternative shell commands</source>
@@ -23361,7 +23361,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>Are you sure you want to remove order: </source>
-        <translation>Etes vous sûr que vous souhaitez supprimer cette commande:</translation>
+        <translation>Êtes-vous sûr que vous souhaitez supprimer cette commande:</translation>
     </message>
     <message>
         <source>Selected options</source>
@@ -23481,7 +23481,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>Incorrect quantity! The quantity of the product(s) must be numeric and not less than 1.</source>
-        <translation>Quantité incorrecte ! La quantité du (des) produit(s) doit être numérique et supérieure à 1.</translation>
+        <translation>Quantité incorrecte&#160;! La quantité du (des) produit(s) doit être numérique et supérieure à 1.</translation>
     </message>
     <message>
         <source>Archive list</source>
@@ -23525,7 +23525,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>SUM:</source>
-        <translation>TOTAL :</translation>
+        <translation>TOTAL&#160;:</translation>
     </message>
     <message>
         <source>You have chosen invalid combination of options</source>
@@ -24354,7 +24354,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>The node (%1) specified in [UserSettings].DefaultUserPlacement setting in site.ini does not exist!</source>
-        <translation type="obsolete">Le nœud (%1) spécifié dans le paramètre [UserSettings].DefaultUserPlacement au sein du site.ini n&apos;existe pas !</translation>
+        <translation type="obsolete">Le nœud (%1) spécifié dans le paramètre [UserSettings].DefaultUserPlacement au sein du site.ini n&apos;existe pas&#160;!</translation>
     </message>
     <message>
         <source>Email</source>
@@ -24407,7 +24407,7 @@ your account.</source>
     </message>
     <message>
         <source>Password was successfully generated and sent to: %1</source>
-        <translation>Mot de passe généré et envoyé à :%1</translation>
+        <translation>Mot de passe généré et envoyé à&#160;:%1</translation>
     </message>
     <message>
         <source>The key is invalid or has been used. </source>
@@ -24427,7 +24427,7 @@ your account.</source>
     </message>
     <message>
         <source>A mail has been sent to the following email address: %1. This email contains a link you need to click so that we can confirm that the correct user is getting the new password.</source>
-        <translation>Un message a été envoyé à l&apos;adresse courriel suivante : %1. Ce message contient un lien sur lequel vous devrez cliquer afin que nous puissions confirmer que l&apos;utilisateur désigné a bien reçu le nouveau mot de passe.</translation>
+        <translation>Un message a été envoyé à l&apos;adresse courriel suivante&#160;: %1. Ce message contient un lien sur lequel vous devrez cliquer afin que nous puissions confirmer que l&apos;utilisateur désigné a bien reçu le nouveau mot de passe.</translation>
     </message>
     <message>
         <source>There is no registered user with that email address.</source>
@@ -25301,7 +25301,7 @@ your account.</source>
     </message>
     <message>
         <source>You have to have at least one group that the class belongs to!</source>
-        <translation type="obsolete">Vous devez avoir au moins un groupe auquel la classe appartient !</translation>
+        <translation type="obsolete">Vous devez avoir au moins un groupe auquel la classe appartient&#160;!</translation>
     </message>
     <message>
         <source>Remove classes %class_id</source>
@@ -25329,7 +25329,7 @@ your account.</source>
     </message>
     <message>
         <source>Could not load datatype: </source>
-        <translation type="obsolete">Impossible de charger le datatype : </translation>
+        <translation type="obsolete">Impossible de charger le datatype&#160;: </translation>
     </message>
     <message>
         <source>Editing this content class may cause data corruption in your system.</source>
@@ -25631,7 +25631,7 @@ your account.</source>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the maximum upload size: %1 bytes.</source>
-        <translation type="obsolete">La taille du fichier chargé dépasse la taille maximum : %1 bytes.</translation>
+        <translation type="obsolete">La taille du fichier chargé dépasse la taille maximum&#160;: %1 bytes.</translation>
     </message>
     <message>
         <source>The email address is empty.</source>
@@ -25663,7 +25663,7 @@ your account.</source>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
-        <translation type="obsolete">Lataille du fichier chargé dépasse la limite fixée pour ce site : %1 bytes.</translation>
+        <translation type="obsolete">Lataille du fichier chargé dépasse la limite fixée pour ce site&#160;: %1 bytes.</translation>
     </message>
     <message>
         <source>Could not locate the ini file.</source>
@@ -25699,7 +25699,7 @@ your account.</source>
     </message>
     <message>
         <source>The size of the uploaded file exceeds site maximum: %1 bytes.</source>
-        <translation type="obsolete">La taille du fichier téléchargé dépasse le maximum du site : %1 bytes.</translation>
+        <translation type="obsolete">La taille du fichier téléchargé dépasse le maximum du site&#160;: %1 bytes.</translation>
     </message>
     <message>
         <source>The option value must be provided.</source>
@@ -25926,7 +25926,7 @@ your account.</source>
     </message>
     <message>
         <source>Wrong closing tag : &amp;lt;/%1&amp;gt;.</source>
-        <translation type="obsolete">Mauvaise balise de fermeture : &amp;lt;/%1&amp;gt;.</translation>
+        <translation type="obsolete">Mauvaise balise de fermeture&#160;: &amp;lt;/%1&amp;gt;.</translation>
     </message>
     <message>
         <source>Wrong opening tag</source>
@@ -25934,11 +25934,11 @@ your account.</source>
     </message>
     <message>
         <source>Unknown tag: &amp;lt;%1&amp;gt;.</source>
-        <translation type="obsolete">Balise inconnue : &amp;lt;%1&amp;gt;.</translation>
+        <translation type="obsolete">Balise inconnue&#160;: &amp;lt;%1&amp;gt;.</translation>
     </message>
     <message>
         <source>Can&apos;t convert tag&apos;s name: &amp;lt;%1&amp;gt;.</source>
-        <translation type="obsolete">Impossible de convertir le nom de la balise : &amp;lt;%1&amp;gt;.</translation>
+        <translation type="obsolete">Impossible de convertir le nom de la balise&#160;: &amp;lt;%1&amp;gt;.</translation>
     </message>
     <message>
         <source>Class &apos;%1&apos; is not allowed for element &amp;lt;%2&amp;gt; (check content.ini).</source>
@@ -26032,7 +26032,7 @@ your account.</source>
     </message>
     <message>
         <source>Tip from %1: %2</source>
-        <translation type="obsolete">Suggestion de %1 : %2</translation>
+        <translation type="obsolete">Suggestion de %1&#160;: %2</translation>
     </message>
     <message>
         <source>The email address of the sender is not valid</source>
@@ -26116,7 +26116,7 @@ your account.</source>
     </message>
     <message>
         <source>&quot;$contentObjectName&quot;: Sub items that are used by other objects</source>
-        <translation type="obsolete">&quot;$contentObjectName&quot; : sous éléments qui sont utilisés par d&apos;autres objets</translation>
+        <translation type="obsolete">&quot;$contentObjectName&quot;&#160;: sous-éléments qui sont utilisés par d&apos;autres objets</translation>
     </message>
     <message>
         <source>Remove translation</source>
@@ -26318,7 +26318,7 @@ your account.</source>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
-        <translation type="obsolete">La taille du fichier téléchargé dépasse la limite fixée pour ce site : %1 bytes.</translation>
+        <translation type="obsolete">La taille du fichier téléchargé dépasse la limite fixée pour ce site&#160;: %1 bytes.</translation>
     </message>
 </context>
 <context>
@@ -26656,7 +26656,7 @@ your account.</source>
     </message>
     <message>
         <source>Removing class &apos;%classname&apos; will result in the removal of %objectscount object(s) of this class and all their sub-items. Are you sure you want to uninstall it?</source>
-        <translation type="obsolete">La suppression de la classe &apos;%classname&apos; entrainera la suppression de %objectscount objet(s) de cette classe et tous leurs sous-éléments. Etes-vous sur de vouloir la désinstaller ?</translation>
+        <translation type="obsolete">La suppression de la classe &apos;%classname&apos; entrainera la suppression de %objectscount objet(s) de cette classe et tous leurs sous-éléments. Êtes-vous sur de vouloir la désinstaller ?</translation>
     </message>
     <message>
         <source>Class &apos;%classname&apos; already exists.</source>
@@ -26668,7 +26668,7 @@ your account.</source>
     </message>
     <message>
         <source>(Warning! $objectsCount content object(s) and their sub-items will be removed)</source>
-        <translation type="obsolete">(Attention ! $objectsCount objet(s) de contenu et leurs sous-éléments vont être supprimés)</translation>
+        <translation type="obsolete">(Attention&#160;! $objectsCount objet(s) de contenu et leurs sous-éléments vont être supprimés)</translation>
     </message>
     <message>
         <source>Skip installing this class</source>
@@ -26684,7 +26684,7 @@ your account.</source>
     </message>
     <message>
         <source>Object &apos;%objectname&apos; has been modified since installation. Are you sure you want to remove it?</source>
-        <translation type="obsolete">L&apos;objet &apos;%objectname&apos; a été modifié depuis son installation. Etes-vous sur de vouloir le supprimer ?</translation>
+        <translation type="obsolete">L&apos;objet &apos;%objectname&apos; a été modifié depuis son installation. Êtes-vous sur de vouloir le supprimer ?</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -26716,7 +26716,7 @@ your account.</source>
     </message>
     <message>
         <source>Install script: %description</source>
-        <translation type="obsolete">Installer le script : %description</translation>
+        <translation type="obsolete">Installer le script&#160;: %description</translation>
     </message>
     <message>
         <source>Email</source>
@@ -26764,19 +26764,19 @@ your account.</source>
     </message>
     <message>
         <source>Create new policy, step 2: select function</source>
-        <translation type="obsolete">Créez un nouveau droit, étape 2 : sélectionnez la fonction</translation>
+        <translation type="obsolete">Créez un nouveau droit, étape 2&#160;: sélectionnez la fonction</translation>
     </message>
     <message>
         <source>Create new policy, step three: set function limitations</source>
-        <translation type="obsolete">Créez un nouveau droit, étape 3 : fixer les limites de la fonction</translation>
+        <translation type="obsolete">Créez un nouveau droit, étape 3&#160;: fixer les limites de la fonction</translation>
     </message>
     <message>
         <source>Create new policy, step two: select function</source>
-        <translation type="obsolete">Créer un nouveau droit, étape 2 : sélectionner la fonction</translation>
+        <translation type="obsolete">Créer un nouveau droit, étape 2&#160;: sélectionner la fonction</translation>
     </message>
     <message>
         <source>Create new policy, step one: select module</source>
-        <translation type="obsolete">Créer un nouveau droit, étape 1 : sélectionner le module</translation>
+        <translation type="obsolete">Créer un nouveau droit, étape 1&#160;: sélectionner le module</translation>
     </message>
 </context>
 <context>
@@ -27012,7 +27012,7 @@ your account.</source>
     </message>
     <message>
         <source>Unknown body format in HTTP response. Expected &apos;text/xml&apos;</source>
-        <translation type="obsolete">Format de réponse HTTP inconnu. Attente : &apos;texte/xml&apos;</translation>
+        <translation type="obsolete">Format de réponse HTTP inconnu. Attente&#160;: &apos;texte/xml&apos;</translation>
     </message>
     <message>
         <source>Invalid HTTP response</source>
@@ -27020,11 +27020,11 @@ your account.</source>
     </message>
     <message>
         <source>Unable to send http request: %1:%2/%3</source>
-        <translation type="obsolete">Impossible d&apos;envoyer une requête http : %1:%2/%3</translation>
+        <translation type="obsolete">Impossible d&apos;envoyer une requête http&#160;: %1:%2/%3</translation>
     </message>
     <message>
         <source>eZExchangeRatesUpdateHandler: you should reimplement &apos;requestRates&apos; method</source>
-        <translation type="obsolete">eZExchangeRatesUpdateHandler : vous devriez réimplémenter la méthode &apos;requestRates&apos;</translation>
+        <translation type="obsolete">eZExchangeRatesUpdateHandler&#160;: vous devriez réimplémenter la méthode &apos;requestRates&apos;</translation>
     </message>
     <message>
         <source>&apos;Auto&apos; prices were updated successfully.</source>
@@ -27339,8 +27339,8 @@ your account.</source>
         <translation type="obsolete">Vue</translation>
     </message>
     <message>
-        <source>You have to have at least one group that the workflow belongs to!</source>
-        <translation type="obsolete">Vous devez avoir au moins un groupe auquel le workflow appartient !</translation>
+        <source>you have to have at least one group that the workflow belongs to!</source>
+        <translation type="obsolete">Vous devez avoir au moins un groupe auquel le workflow appartient&#160;!</translation>
     </message>
     <message>
         <source>Process list</source>
@@ -27455,7 +27455,7 @@ your account.</source>
     <name>simplified_treemenu/show_simplified_menu</name>
     <message>
         <source>Node ID: %node_id Visibility: %visibility</source>
-        <translation>ID du Nœud : %node_id  Visibilité : %visibility</translation>
+        <translation>ID du Nœud&#160;: %node_id  Visibilité&#160;: %visibility</translation>
     </message>
 </context>
 </TS>
