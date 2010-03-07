@@ -7227,7 +7227,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Access control</source>
-        <translation>Control d&apos;accès</translation>
+        <translation>Contrôle d&apos;accès</translation>
     </message>
 </context>
 <context>
@@ -9297,11 +9297,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Ini File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichier INI</translation>
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation type="unfinished">Siteaccess</translation>
+        <translation>Siteaccess</translation>
     </message>
     <message>
         <source>Values for each location setting are shown. The first values are lowest priority; the values toward the end have higher priority than the first ones.</source>
@@ -9352,43 +9352,43 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>File consistency check</source>
-        <translation>Vérification de la consistance des fichiers</translation>
+        <translation>Vérification de la cohérence des fichiers</translation>
     </message>
     <message>
         <source>Database consistency check</source>
-        <translation>Vérification de la consistance de la base de données</translation>
+        <translation>Vérification de la cohérence de la base de données</translation>
     </message>
     <message>
         <source>Check file consistency</source>
-        <translation>Vérification de la consistance des fichiers</translation>
+        <translation>Vérification de la cohérence des fichiers</translation>
     </message>
     <message>
         <source>Check database consistency</source>
-        <translation>Vérification de la consistance de la base de données</translation>
+        <translation>Vérification de la cohérence de la base de données</translation>
     </message>
     <message>
         <source>Warning: it is not safe to upgrade without checking the modifications done to the following files</source>
-        <translation type="unfinished"></translation>
+        <translation>Attention&#160;: il n'est pas recommandé de mettre à jour sans vérifier les modifications faites dans les fichiers suivants</translation>
     </message>
     <message>
         <source>Before upgrading eZ Publish to a newer version, it is important to check that the current installation is ready for upgrading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avant de mettre à jour eZ Publish vers une version plus récente, il est important de vérifier que l'installation actuelle est prête à être mise à jour.</translation>
     </message>
     <message>
         <source>Remember to make a backup of the eZ Publish directory and the database before you upgrade.</source>
-        <translation type="unfinished"></translation>
+        <translation>N'oubliez pas de faire une sauvegarde du répertoire d'eZ Publish et de la base de données avant de mettre à jour.</translation>
     </message>
     <message>
         <source>The file consistency tool checks if you have altered any of the files that came with the current installation. Altered files may be replaced by new versions that contain bugfixes, new features, etc. Make sure that you backup and then merge your changes into the new versions of the files.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'outil de vérification de la cohérence des fichiers vérifie si vous avez modifié des fichiers de l'installation actuelle. Les fichiers modifiés peuvent être remplacés par une nouvelle version qui contient des corrections de bugs, des nouvelles fonctionnalités, etc. Pensez à faire des sauvegardes et à incorporer vos changements dans la nouvelle version des fichiers.</translation>
     </message>
     <message>
         <source>The database consistency tool checks if the current database is consistent with the database schema that came with the eZ Publish distribution. If there are any inconsistencies, the tool will suggest the necessary SQL statements that should be run in order to bring the database into a consistent state. Please run the suggested SQL statements before upgrading.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'outil de vérification de la cohérence de la base de données vérifie que la base de données actuelle est cohérente avec le schéma de base d'eZ Publish. Si des incohérences sont trouvées, l'outil suggère les requêtes SQL qui devraient être exécutées pour rendre la base cohérente. Veuillez exécuter les requêtes SQL suggérées avant de faire une mise à jour.</translation>
     </message>
     <message>
         <source>The upgrade checking tools require a lot of system resources. They may take some time to run.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'outil de vérification de mise à jour demande des ressources système importantes. Cette opération peut prendre un peu de temps.</translation>
     </message>
 </context>
 <context>
@@ -9495,35 +9495,35 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>This operation will clear all the template override caches and the compiled templates. It may lead to slower site performance until the caches are recreated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette opération videra les caches des surcharges de templates et les templates compilés. Cette opération peut rendre le site plus lent jusqu'à ce que les caches soient recréer.</translation>
     </message>
     <message>
         <source>This operation will clear all caches that are related to either template views or cache blocks inside the pagelayout template. Use it if you have modified templates or if you have made changes inside a cache block.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette opération videra les caches relatifs aux template de vue et aux cache blocks dans le pagelayout. Utilisez cette option si vous avez modifié des templates ou si vous avez fait des changements dans un cache-block</translation>
     </message>
     <message>
         <source>Clear Ini caches</source>
-        <translation type="unfinished"></translation>
+        <translation>Vider les caches INI</translation>
     </message>
     <message>
         <source>This operation will clear all the configuration caches. Use it to force the system to re-read the configuration files if you have changed settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette opération videra les caches de configuration. Utilisez cette option pour forcer le système à relire les fichiers de configuration si vous les avez changés.</translation>
     </message>
     <message>
         <source>This operation will clear all the caches and may lead to slow site response times until the caches are recreated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette opération videra tous les caches et peut engendrer un site lent jusqu'à ce que les caches soient regénérés.</translation>
     </message>
     <message>
         <source>The &lt;%cache_name&gt; is disabled and thus it cannot be marked for clearing.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;%cache_name&gt; est désactivé and ne peut donc pas être sélectionné pour vidange.</translation>
     </message>
     <message>
         <source>This operation will regenerate all the static content caches that are configured. This action can take  some time depending on the specifications of the server and the number of locations that are configured to be statically cached. If you encounter time-out problems, use the &amp;quot;bin/php/makestaticcache.php&amp;quot; shell script.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette opération regénérera les caches statiques configurés. Cette action peut prendre du temps en fonction du serveur, du nombre d'emplacements affectés par le cache statique. Si vous rencontrez un problème de timeout, utilisez le script 'bin/php/makestaticcache.php' en ligne de commande.</translation>
     </message>
     <message>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Catégories</translation>
     </message>
     <message>
         <source></source>
@@ -9569,15 +9569,15 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Regenerate autoload arrays for extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Regénérer le tableau de chargement des classes des extensions</translation>
     </message>
     <message>
         <source>Click this button to regenerate the autoload arrays used by the system for extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur ce bouton pour regénérer le tableau des classes utilisé par le système d'extensions.</translation>
     </message>
     <message>
         <source>Problems detected during autoload generation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Problème détecté durant la génération du tableau de classe&#160;:</translation>
     </message>
     <message>
         <source>Available extensions (%extension_count)</source>
@@ -9585,11 +9585,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation type="unfinished">Inverser la sélection.</translation>
+        <translation>Inverser la sélection.</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished">Activer</translation>
+        <translation>Activer</translation>
     </message>
 </context>
 <context>
@@ -9762,72 +9762,72 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>eZ Publish</source>
-        <translation type="unfinished"></translation>
+        <translation>eZ Publish</translation>
     </message>
     <message>
         <source>Version</source>
         <comment>eZ Publish version</comment>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>SVN revision</source>
         <comment>eZ Publish version</comment>
-        <translation type="unfinished">Révision SVN</translation>
+        <translation>Révision SVN</translation>
     </message>
     <message>
         <source>Extensions</source>
         <comment>eZ Publish extensions</comment>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Extensions</translation>
     </message>
     <message>
         <source>Script memory limit is unlimited.</source>
-        <translation type="unfinished"></translation>
+        <translation>La mémoire allouée aux scripts est illimitée.</translation>
     </message>
     <message>
         <source>A known and active PHP Accelerator could not be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun accélérateur PHP n'a été trouvé.</translation>
     </message>
     <message>
         <source>Web server (software)</source>
         <comment>Web server title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Serveur web (logiciel)</translation>
     </message>
     <message>
         <source>Name</source>
         <comment>Web server name</comment>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Version</source>
         <comment>Web server version</comment>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Modules</source>
         <comment>Web server modules</comment>
-        <translation type="unfinished">Modules</translation>
+        <translation>Modules</translation>
     </message>
     <message>
         <source>The modules of the web server could not be detected.</source>
         <comment>Web server modules</comment>
-        <translation type="unfinished"></translation>
+        <translation>Les modules du serveur web n'ont pu être détectés.</translation>
     </message>
     <message>
         <source>eZ Publish was unable to extract information from the web server.</source>
-        <translation type="unfinished"></translation>
+        <translation>eZ Publish n'a pu extraire les informations du serveur web.</translation>
     </message>
     <message>
         <source>Web server (hardware)</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveur web (matériel)</translation>
     </message>
     <message>
         <source>Details</source>
         <comment>Detailed PHP information</comment>
-        <translation type="unfinished">Détails</translation>
+        <translation>Détails</translation>
     </message>
     <message>
         <source>PHP autoload functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonctions PHP d'autoload</translation>
     </message>
 </context>
 <context>
@@ -9846,11 +9846,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>\\return an array with the template operator name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\\return un tableau with le nom de l'opérateur de template</translation>
     </message>
     <message>
         <source>Example code. This code must be modified to do what the operator should do. Currently it only trims text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exemple de code. Ce code doit être modifié pour faire ce que l'opérateur doit faire. Il ne supprime que les caractères non imprimables pour le moment.</translation>
     </message>
 </context>
 <context>
@@ -9885,11 +9885,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>The rapid application development (RAD) tools make the creation of new/extended functionality for eZ Publish easier. Currently there are two RAD tools available: the template operator wizard and the datatype wizard. The template operator wizard basically generates a valid framework (PHP code) for a new template operator. The datatype wizard generates a valid framework (PHP code) for a new datatype.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'outil de développement d'application rapide (RAD) rend la création ou l'extension de fonctionnalités pour eZ Publish plus facile. Pour le moment, deux outils sont disponibles&#160;: un assistant de création d'opérateurs de template et un assistant de création de type de données (datatype). L'assistant de création d'opérateurs de template génére le code PHP nécessaire à la création d'un nouvel opérateur de template. L'assistant de création de type de données génére le code PHP nécessaire à la définition d'un type de données.</translation>
     </message>
     <message>
         <source>Welcome to the template operator wizard. Template operators are usually used for manipulating template variables. However, they can also be used to generate or fetch data. This wizard will take you through a couple of steps with some basic choices. When finished, eZ Publish will generate a PHP framework for a new operator (which will be available for download).</source>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenue dans l'assistant de création d'opérateur de template. Les opérateurs de templates servent habituellement à manipuler les variables dans les templates. Il peuvent également servir à générer ou à récupérer des données. L'assistant comporte deux étapes avec des choix simples. À la fin, eZ Publish générera le code PHP pour le nouvel opérator (qui sera disponible au téléchargement).</translation>
     </message>
 </context>
 <context>
@@ -9952,11 +9952,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Welcome to the wizard for creating a new datatype. Everything stored in a content object are called attributes. Attributes are defined as data types. To customize storing and validation of attributes, you can create your own data types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenue dans l'assistant de création de type de donnée (datatype). Tout ce qui est enregistré dans un objet de contenu est appelé attribut. Les attributs sont définis par leur type de donnée. Pour modifier l'enregistrement ou la validation des attributs, vous pouvez créer vos propres types de données.</translation>
     </message>
     <message>
         <source>Class constant name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de la constante de classe</translation>
     </message>
 </context>
 <context>
@@ -10166,27 +10166,27 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Not all timed out sessions were successfully removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toutes les sessions expirées n'ont pu être supprimées.</translation>
     </message>
     <message>
         <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'opération a été raccourcie pour éviter de prendre trop de temps.</translation>
     </message>
     <message>
         <source>Your alternatives are to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Les choix possibles sont&#160;:</translation>
     </message>
     <message>
         <source>Repeat the operation several times to complete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Répéter l'opération plusieurs fois</translation>
     </message>
     <message>
         <source>Clear the timed out session data from command-line using: &amp;gt;php bin/php/ezsessiongc.php</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les sessions expirées en ligne de commande avec &amp;gt;php bin/php/ezsessiongc.php</translation>
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer le script de nettoyage par cron 'session_gc.php' et faites en sorte qu'il s'exécute toutes les nuits (voir cronjob.ini ou la documentation sur la manière de réaliser cela)</translation>
     </message>
 </context>
 <context>
