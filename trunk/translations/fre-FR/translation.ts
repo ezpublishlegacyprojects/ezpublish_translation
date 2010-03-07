@@ -10,7 +10,7 @@
     <name>design</name>
     <message>
         <source>%group_name [Content object state group]</source>
-        <translation>%group_name [Groupe d'état des objets de contenu]</translation>
+        <translation>%group_name [Groupe d'état d'objets de contenu]</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -3592,7 +3592,7 @@
     </message>
     <message>
         <source>Enter text in the input box to create a new alias.</source>
-        <translation>Entrez le texte dans le champ pour créer un nouveal alias.</translation>
+        <translation>Saisissez le texte dans le champ pour créer un nouveal alias.</translation>
     </message>
     <message>
         <source>The URL alias was successfully created, but was modified by the system to &lt;%new_alias&gt;</source>
@@ -3616,7 +3616,7 @@
     </message>
     <message>
         <source>URL aliases for &lt;%node_name&gt; [%alias_count]</source>
-        <translation>Aalias d'URL for &lt;%node_name&gt; [%alias_count]</translation>
+        <translation>Alias d'URL for &lt;%node_name&gt; [%alias_count]</translation>
     </message>
     <message>
         <source>The current item does not have any aliases associated with it.</source>
@@ -3704,7 +3704,7 @@
     </message>
     <message>
         <source>Enter the URL for the new alias. Use forward slashes (/) to create subentries.</source>
-        <translation>Entrez l'URL pour le nouvel alias. Utilisez le caractères slash (/) pour créer des sous-entrées.</translation>
+        <translation>Saisissez l'URL pour le nouvel alias. Utilisez le caractère slash (/) pour créer des sous-entrées.</translation>
     </message>
     <message>
         <source>Destination:</source>
@@ -3775,314 +3775,314 @@
     <name>design/admin/content/urlalias_global</name>
     <message>
         <source>Alias should redirect to its destination</source>
-        <translation type="unfinished"></translation>
+        <translation>L'alias doit rediriger vers sa destination</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished">Créer</translation>
+        <translation>Créer</translation>
     </message>
     <message>
         <source>Create a new global URL alias.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouvel alias d'URL global.</translation>
     </message>
     <message>
         <source>The selected aliases were successfully removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les alias d'URL sélectionnés ont bien été supprimés.</translation>
     </message>
     <message>
         <source>All global aliases were successfully removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les alias d'URL ont bien été supprimés.</translation>
     </message>
     <message>
         <source>The specified language code &lt;%language&gt; is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le code de la langue &lt;%language&gt; n'est pas valide.</translation>
     </message>
     <message>
         <source>Text is missing for the URL alias</source>
-        <translation type="unfinished"></translation>
+        <translation>Le texte est manquant pour cet alias d'URL</translation>
     </message>
     <message>
         <source>Enter text in the input box to create a new alias.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saisissez le texte dans le champ pour créer un nouvel alias d'URL.</translation>
     </message>
     <message>
         <source>Text is missing for the URL alias destination</source>
-        <translation type="unfinished"></translation>
+        <translation>Le texte est manquant pour la destination de l'alias d'URL</translation>
     </message>
     <message>
         <source>Enter some text in the destination input box to create a new alias.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saisissez le texte dans le champ destination pour créer un nouvel alias d'URL.</translation>
     </message>
     <message>
         <source>The specified destination URL %url does not exist in the system, cannot create alias for it</source>
-        <translation type="unfinished"></translation>
+        <translation>L'URL de destination saisie n'est pas dans le système, il n'est pas possible de créer un alias pour celui-ci.</translation>
     </message>
     <message>
         <source>Ensure that the destination points to a valid entry, one of:</source>
-        <translation type="unfinished"></translation>
+        <translation>Veillez à ce que la destination soit valide, par exemple&#160;:</translation>
     </message>
     <message>
         <source>Built-in functionality, e.g. %example.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonctionnalité de base d'eZ Publish, par exemple %example.</translation>
     </message>
     <message>
         <source>Existing aliases for the content structure.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias d'URL existants pour le contenu</translation>
     </message>
     <message>
         <source>The URL alias was successfully created, but was modified by the system to &lt;%new_alias&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>L'alias d'URL a bien été créé mais il a été modifié par le système en &lt;%new_alias&gt;</translation>
     </message>
     <message>
         <source>Note that the new alias points to a node and will not be displayed in the global list. It can be examined on the URL-Alias page of the node, %node_link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notez que le nouvel alias d'URL pointe vers un nœud and ne sera donc pas affiché dans la liste global. Il sera disponible dans la liste des alias d'URL du nœud, %node_link.</translation>
     </message>
     <message>
         <source>Invalid characters will be removed or transformed to valid characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les caractères invalides seront supprimés ou transformés en caractère valide.</translation>
     </message>
     <message>
         <source>Existing objects or functionality with the same name take precedence on the name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les objets ou les fonctionnalités existants avec le même nom ont la priorité au niveau du nom.</translation>
     </message>
     <message>
         <source>The URL alias &lt;%new_alias&gt; was successfully created</source>
-        <translation type="unfinished"></translation>
+        <translation>L'alias d'URL &lt;%new_alias&gt; a bien été créé.</translation>
     </message>
     <message>
         <source>The URL alias &amp;lt;%new_alias&amp;gt; already exists, and it points to &amp;lt;%action_url&amp;gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>L'alias d'URL &amp;lt;%new_alias&amp;gt; existe déjà et pointe vers &amp;lt;%action_url&amp;gt;</translation>
     </message>
     <message>
         <source>Globally defined URL aliases [%alias_count]</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias d'URL globaux [%alias_count]</translation>
     </message>
     <message>
         <source>Show %number_of items per page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher %number_of éléments par page.</translation>
     </message>
     <message>
         <source>The global list does not contain any aliases.</source>
-        <translation type="unfinished"></translation>
+        <translation>La liste globale ne contient aucun alias d'URL.</translation>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation type="unfinished">Inverser la sélection.</translation>
+        <translation>Inverser la sélection.</translation>
     </message>
     <message>
         <source>URL alias</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias d'URL</translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation type="unfinished"></translation>
+        <translation>Destination</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Langue</translation>
+        <translation>Langue</translation>
     </message>
     <message>
         <source>Always available</source>
-        <translation type="unfinished"></translation>
+        <translation>Toujours disponible</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Type</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Redirect</source>
-        <translation type="unfinished">Redirection</translation>
+        <translation>Redirection</translation>
     </message>
     <message>
         <source>Direct</source>
-        <translation type="unfinished"></translation>
+        <translation>Direct</translation>
     </message>
     <message>
         <source>Remove selected</source>
-        <translation type="unfinished">Supprimer la sélection</translation>
+        <translation>Supprimer la sélection</translation>
     </message>
     <message>
         <source>Remove selected aliases from the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les alias d'URL sélectionnés dans la liste ci-dessus.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the selected aliases?</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes vous sûr de vouloir supprimer les alias d'URL sélectionné&#160;?</translation>
     </message>
     <message>
         <source>Remove all</source>
-        <translation type="unfinished">Supprimer tout</translation>
+        <translation>Tout supprimer</translation>
     </message>
     <message>
         <source>Remove all global aliases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer tous les alias d'URL globaux.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove all global aliases?</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes vous sûr de vouloir supprimer tous les alias d'URL globaux&#160;?</translation>
     </message>
     <message>
         <source>There are no removable aliases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun alias d'URL ne peut être supprimé.</translation>
     </message>
     <message>
         <source>New URL alias</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouvel alias d'URL</translation>
     </message>
     <message>
         <source>Enter the URL for the new alias. Use forward slashes (/) to create subentries.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saisissez l'URL pour le nouvel alias. Utilisez le caractère slash (/) pour créer des sous-entrées.</translation>
     </message>
     <message>
         <source>Enter the destination URL for the new alias. Use forward slashes (/) to create subentries.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saisissez l'URL de destination pour le nouvel alias. Utilisez le caractère slash (/) pour créer des sous-entrées.</translation>
     </message>
     <message>
         <source>Choose the language for the new URL alias.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez la langue pour le nouvel alias d'URL</translation>
     </message>
     <message>
         <source>Makes the alias available in languages other than the one specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fait en sorte que l'alias d'URL soit disponible dans les langues autres que celle spécifiée.</translation>
     </message>
     <message>
         <source>Destination (path to existing functionality or resource)</source>
-        <translation type="unfinished"></translation>
+        <translation>Destination (chemin vers une fonctionnalité ou une ressource existante)</translation>
     </message>
     <message>
         <source>Globally defined URL aliases (%alias_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias d'URL définis globalement (%alias_count)</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/urlalias_wildcard</name>
     <message>
         <source>The selected aliases were successfully removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les alias sélectionnés ont bien été supprimés.</translation>
     </message>
     <message>
         <source>All wildcard aliases were successfully removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les alias avec caractères joker ont bien été supprimés.</translation>
     </message>
     <message>
         <source>Text is missing for the URL alias</source>
-        <translation type="unfinished"></translation>
+        <translation>Le texte est manquant pour l'alias d'URL</translation>
     </message>
     <message>
         <source>Enter text in the input box to create a new alias.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saisissez le texte dans le champ pour créer un nouveal alias.</translation>
     </message>
     <message>
         <source>Text is missing for the URL alias destination</source>
-        <translation type="unfinished"></translation>
+        <translation>La destination est manquante pour l'alias d'URL</translation>
     </message>
     <message>
         <source>Enter some text in the destination input box to create a new alias.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saisissez la destination dans ce champ pour créer un nouvel alias</translation>
     </message>
     <message>
         <source>The URL alias &lt;%wildcard_src_url&gt; was successfully created</source>
-        <translation type="unfinished"></translation>
+        <translation>L'alias d'URL &lt;%wildcard_src_url&gt; a bien été créé.</translation>
     </message>
     <message>
         <source>The URL alias &lt;%wildcard_src_url&gt; already exists, and it points to &lt;%wildcard_dst_url&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>L'alias d'URL &lt;%wildcard_src_url&gt; existe déjà and pointe vers &lt;%wildcard_dst_url&gt;</translation>
     </message>
     <message>
         <source>Defined URL aliases with wildcard[%wildcard_count]</source>
-        <translation type="unfinished"></translation>
+        <translation>URL alias définis avec caractères joker [%wildcard_count]</translation>
     </message>
     <message>
         <source>Show %number_of items per page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher %number_of éléments par page.</translation>
     </message>
     <message>
         <source>The URL wildcard list does not contain any aliases.</source>
-        <translation type="unfinished"></translation>
+        <translation>La liste des alias d'URL avec caractères joker est vide.</translation>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation type="unfinished">Inverser la sélection.</translation>
+        <translation>Inverser la sélection.</translation>
     </message>
     <message>
         <source>URL alias wildcard</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias d'URL avec caractères joker</translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation type="unfinished"></translation>
+        <translation>Destination</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Type</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Redirection</translation>
     </message>
     <message>
         <source>Direct</source>
-        <translation type="unfinished"></translation>
+        <translation>Direct</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation type="unfinished">Non défini</translation>
+        <translation>Non défini</translation>
     </message>
     <message>
         <source>Remove selected</source>
-        <translation type="unfinished">Supprimer la sélection</translation>
+        <translation>Supprimer la sélection</translation>
     </message>
     <message>
         <source>Remove selected aliases from the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les alias sélectionnés dans la liste ci-dessus.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the selected wildcards?</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir supprimer les alias d'URL avec caractères joker sélectionnés&#160;?</translation>
     </message>
     <message>
         <source>Remove all</source>
-        <translation type="unfinished">Supprimer tout</translation>
+        <translation>Supprimer tout</translation>
     </message>
     <message>
         <source>Remove all wildcard aliases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer tous les alias d'URL avec caractères joker.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove all wildcard aliases?</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir supprimer tous les alias d'URL avec caractères joker&#160;?</translation>
     </message>
     <message>
         <source>There are no removable aliases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun alias ne peut être supprimé.</translation>
     </message>
     <message>
         <source>New URL wildcard</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouvel alias d'URL avec caractères joker</translation>
     </message>
     <message>
         <source>Perform redirecting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faire une redirection</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished">Créer</translation>
+        <translation>Créer</translation>
     </message>
     <message>
         <source>Create a new wildcard URL alias.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouvel alias d'URL avec caractères joker.</translation>
     </message>
     <message>
         <source>Enter the URL for the new wildcard. Example: developer/*</source>
-        <translation type="unfinished"></translation>
+        <translation>Saisissez l'URL pour le nouvel alias avec caractères joker. Exemple&#160;: developper/*</translation>
     </message>
     <message>
         <source>Enter the destination URL for the new wildcard. Example: dev/{1\}</source>
-        <translation type="unfinished"></translation>
+        <translation>Saisissez l'URL de destination pour le nouvel alias avec caractère joker. Exemple&#160;: dev/{1\}</translation>
     </message>
     <message>
         <source>Defined URL aliases with wildcard(%wildcard_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias d'URL avec caractères joker (%wildcard_count)</translation>
     </message>
 </context>
 <context>
@@ -9577,7 +9577,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Problems detected during autoload generation:</source>
-        <translation>Problème détecté durant la génération du tableau de classe&#160;:</translation>
+        <translation>Problèmes détectés durant la génération du tableau de classes&#160;:</translation>
     </message>
     <message>
         <source>Available extensions (%extension_count)</source>
@@ -10174,7 +10174,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Your alternatives are to:</source>
-        <translation>Les choix possibles sont&#160;:</translation>
+        <translation>Vous pouvez&#160;:</translation>
     </message>
     <message>
         <source>Repeat the operation several times to complete it.</source>
@@ -10225,7 +10225,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Country/region</source>
-        <translation type="unfinished"></translation>
+        <translation>Pays/région</translation>
     </message>
 </context>
 <context>
@@ -10419,23 +10419,23 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>You cannot remove any items because there are no items in the basket.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez supprimé aucun élément car votre panier est vide.</translation>
     </message>
     <message>
         <source>You cannot store any changes because the basket is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez enregistrer aucun changement car votre panier est vide.</translation>
     </message>
     <message>
         <source>You cannot check out because the basket is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez commander car votre panier est vide.</translation>
     </message>
     <message>
         <source>Subtotal ex. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Sous-total HT</translation>
     </message>
     <message>
         <source>Shipping total ex. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Total pour l'expédition HT</translation>
     </message>
 </context>
 <context>
@@ -10671,7 +10671,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Use these checkboxes to select items for removal. Click the &quot;Remove selected&quot; button to  remove the selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ces cases à cocher pour sélectionner les éléments à supprimer. Cliquez sur le bouton 'Supprimer la sélection' pour supprimer les éléments sélectionnés.</translation>
     </message>
 </context>
 <context>
@@ -10930,7 +10930,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Customers (users and user groups) (%customer_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Clients (utilisateurs et groupes d'utilisateurs) (%customer_count)</translation>
     </message>
 </context>
 <context>
@@ -11238,15 +11238,15 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Select the year for which you want to view statistics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez l'année pour laquelle vous souhaitez voir les statistiques.</translation>
     </message>
     <message>
         <source>Select the month for which you want to view statistics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le mois pour lequel vous souhaitez voir les statistiques.</translation>
     </message>
     <message>
         <source>Update the list using the values specified by the menus to the left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour la liste en utilisant les valeurs définies dans les menus déroulants</translation>
     </message>
     <message>
         <source>Product statistics (%count)</source>
@@ -11329,15 +11329,15 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Total price ex. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Prix total HT</translation>
     </message>
     <message>
         <source>Total price inc. VAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Prix total TTC</translation>
     </message>
     <message>
         <source>This is the person who modified the status of the order. Click to view the user information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il s'agit de la personne qui a modifié le statut de la commande. Cliquez pour voir les informations de cet utilisateur.</translation>
     </message>
     <message>
         <source>Status history (%status_count)</source>
@@ -11615,7 +11615,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Removing VAT type &lt;%1&gt; will result in resetting VAT type for %2 products to their default value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer le type de TVA &lt;%1&gt; va redéfinir la TVA à sa valeur par défaut pour %2 products</translation>
     </message>
 </context>
 <context>
@@ -11737,15 +11737,15 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Fill in the fields that are marked with a star.</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplissez les champs marqués d'une étoile.</translation>
     </message>
     <message>
         <source>Fill in the necessary information. Required fields are marked with a star.</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplissez les informations requises. Les champs requis sont marqués d'une étoile.</translation>
     </message>
     <message>
         <source>Country/region</source>
-        <translation type="unfinished"></translation>
+        <translation>Pays/région</translation>
     </message>
 </context>
 <context>
@@ -11812,7 +11812,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Country/region</source>
-        <translation type="unfinished"></translation>
+        <translation>Pays/région</translation>
     </message>
     <message>
         <source>VAT charging rules (%rules)</source>
@@ -11957,258 +11957,258 @@ Note: The packages will not be uninstalled.</source>
     <name>design/admin/state/edit</name>
     <message>
         <source>The content object state was successfully stored.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'état d'objets de contenu a bien été enregistré.</translation>
     </message>
     <message>
         <source>The content object state could not be stored.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'état d'objets de contenu n'a pu être enregistré.</translation>
     </message>
     <message>
         <source>Required data is either missing or is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Des données requises sont manquantes ou invalides.</translation>
     </message>
     <message>
         <source>Edit content object state &quot;%state_name&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Modification de l'état d'objet de contenu '%state_name'</translation>
     </message>
     <message>
         <source>New content object state</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouvel état d'objet de contenu</translation>
     </message>
     <message>
         <source>Identifier:</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifiant&#160;:</translation>
     </message>
     <message>
         <source>Default language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Langue par défaut&#160;:</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom&#160;:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Description&#160;:</translation>
     </message>
     <message>
         <source>Save changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer les changements</translation>
     </message>
     <message>
         <source>Save changes to this states.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer les changements de cet état</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Cancel saving any changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler l'enregistrement des changements</translation>
     </message>
 </context>
 <context>
     <name>design/admin/state/group</name>
     <message>
         <source>ID</source>
-        <translation type="unfinished">ID</translation>
+        <translation>ID</translation>
     </message>
     <message>
         <source>Identifier</source>
-        <translation type="unfinished">Identifiant</translation>
+        <translation>Identifiant</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Description</translation>
     </message>
     <message>
         <source>Object states in this group [%state_count]</source>
-        <translation type="unfinished"></translation>
+        <translation>États d'objet de contenu dans ce groupe [%state_count]</translation>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation type="unfinished">Inverser la sélection.</translation>
+        <translation>Inverser la sélection.</translation>
     </message>
     <message>
         <source>Object count</source>
-        <translation type="unfinished">Nombre d&apos;objets</translation>
+        <translation>Nombre d&apos;objets</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished">Commande</translation>
+        <translation>Ordre</translation>
     </message>
     <message>
         <source>Select content object state group for removal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionne les groupes d'états d'objet de contenu pour la suppression.</translation>
     </message>
     <message>
         <source>Remove selected</source>
-        <translation type="unfinished">Supprimer la sélection</translation>
+        <translation>Supprimer la sélection</translation>
     </message>
     <message>
         <source>Remove selected states.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les états d'objet de contenus.</translation>
     </message>
     <message>
         <source>Create new</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouveau groupe</translation>
     </message>
     <message>
         <source>Create a new state.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouvel état.</translation>
     </message>
     <message>
         <source>Update ordering</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour l'ordre</translation>
     </message>
     <message>
         <source>Update the order of the content object states in this group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour l'ordre des états d'objet de contenu dans ce groupe.</translation>
     </message>
     <message>
         <source>Object states in this group (%state_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>États d'objet de contenus dans ce groupe (%state_count)</translation>
     </message>
 </context>
 <context>
     <name>design/admin/state/group_edit</name>
     <message>
         <source>Edit content object state group &quot;%group_name&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le groupe d'états d'objet de contenu '%group_name'</translation>
     </message>
     <message>
         <source>New content object state group</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau groupe d'états d'objet de contenu</translation>
     </message>
     <message>
         <source>Identifier:</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifier&#160;:</translation>
     </message>
     <message>
         <source>Default language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Langue par défaut&#160;:</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom&#160;:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Description&#160;:</translation>
     </message>
     <message>
         <source>Save changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer les changements</translation>
     </message>
     <message>
         <source>Save changes to this state group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer les changements du groupe d'états d'objet de contenu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Cancel saving any changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler les changements</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished">Créer</translation>
+        <translation>Créer</translation>
     </message>
     <message>
         <source>Create this state group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer ce groupe d'états d'objet de contenu.</translation>
     </message>
     <message>
         <source>Cancel creating this state group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler la création de ce groupe d'états d'objet de contenu.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/state/groups</name>
     <message>
         <source>The content object state group was successfully stored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le groupe d'états d'objet de contenu a bien été enregistré.</translation>
     </message>
     <message>
         <source>The content object state group could not be stored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le groupe d'états d'objet de contenu n'a pu être enregistré.</translation>
     </message>
     <message>
         <source>Required data is either missing or is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Les données requises sont manquantes ou invalides</translation>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation type="unfinished">Inverser la sélection.</translation>
+        <translation>Inverser la sélection.</translation>
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished">ID</translation>
+        <translation>ID</translation>
     </message>
     <message>
         <source>Identifier</source>
-        <translation type="unfinished">Identifiant</translation>
+        <translation>Identifiant</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Select content object state group for removal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionne le groupe d'états d'objet de contenu pour suppression.</translation>
     </message>
     <message>
         <source>Remove selected</source>
-        <translation type="unfinished">Supprimer la sélection</translation>
+        <translation>Supprimer la sélection</translation>
     </message>
     <message>
         <source>Remove selected state groups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les groupes sélectionnés d'états d'objet de contenu</translation>
     </message>
     <message>
         <source>Create new</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouveau groupe</translation>
     </message>
     <message>
         <source>Create a new state group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouveau groupe d'états d'objet de contenu.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/state/view</name>
     <message>
         <source>ID</source>
-        <translation type="unfinished">ID</translation>
+        <translation>ID</translation>
     </message>
     <message>
         <source>Identifier</source>
-        <translation type="unfinished">Identifiant</translation>
+        <translation>Identifiant</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Description</translation>
     </message>
 </context>
 <context>
     <name>design/admin/state_groups</name>
     <message>
         <source>Content object state groups [%group_count]</source>
-        <translation type="unfinished"></translation>
+        <translation>Groupes d'états d'objet de contenu [%group_count]</translation>
     </message>
     <message>
         <source>Content object state groups (%group_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Groupes d'états d'objet de contenu (%group_count)</translation>
     </message>
 </context>
 <context>
@@ -12747,7 +12747,7 @@ your account.</source>
     </message>
     <message>
         <source>Account has been locked because the maximum number of failed login attempts was exceeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le compte a été verrouillé car le nombre maximum d'échec d'identification a été dépassé.</translation>
     </message>
 </context>
 <context>
@@ -15251,11 +15251,11 @@ your account.</source>
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation type="unfinished">Siteaccess</translation>
+        <translation>Siteaccess</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Description</translation>
     </message>
 </context>
 <context>
@@ -19751,31 +19751,31 @@ menu on the top.</source>
     </message>
     <message>
         <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your Web server and eZ Publish configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ce champ pour saisir l'URL de base de votre site. Elle sera utilisée pour produire les URLs dans l'export, composées de l'URL du site (par exemple 'http://www.example.com/index.php') et du chemin vers l'objet (par exemple '/article/my_article'). L'URL du site dépend de la configuration du serveur web et d'eZ Publish.</translation>
     </message>
     <message>
         <source>Use this drop-down to select the maximum number of objects included in the RSS feed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Use this drop-down to select the maximum number of objects included in the RSS feed.</translation>
     </message>
     <message>
         <source>Activate this checkbox if objects from the subnodes of the source should also be fed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cochez cet case si les sous-éléments du nœud source doivent aussi être inclus.</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Catégorie</translation>
     </message>
     <message>
         <source>optional</source>
-        <translation type="unfinished"></translation>
+        <translation>optionnel</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Passer</translation>
+        <translation>Passer</translation>
     </message>
     <message>
         <source>Enclosure (media)</source>
-        <translation type="unfinished"></translation>
+        <translation>Media attaché (enclosure)</translation>
     </message>
 </context>
 <context>
@@ -19818,23 +19818,23 @@ menu on the top.</source>
     </message>
     <message>
         <source>RSS feeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Flux RSS</translation>
     </message>
     <message>
         <source>RSS exports</source>
-        <translation type="unfinished"></translation>
+        <translation>Exports RSS</translation>
     </message>
     <message>
         <source>New export</source>
-        <translation type="unfinished">Nouvel export</translation>
+        <translation>Nouvel export</translation>
     </message>
     <message>
         <source>RSS imports</source>
-        <translation type="unfinished"></translation>
+        <translation>Imports RSS</translation>
     </message>
     <message>
         <source>New import</source>
-        <translation type="unfinished">Nouvel import</translation>
+        <translation>Nouvel import</translation>
     </message>
 </context>
 <context>
@@ -20663,82 +20663,82 @@ en utilisant %operatorname vous pouvez...</translation>
     </message>
     <message>
         <source>Ini caches.</source>
-        <translation type="unfinished"></translation>
+        <translation>Caches INI.</translation>
     </message>
     <message>
         <source>Ini caches</source>
-        <translation type="unfinished"></translation>
+        <translation>Caches INI</translation>
     </message>
     <message>
         <source>Ini cache is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Les caches INI sont désactivés</translation>
     </message>
     <message>
         <source>Class constant name</source>
         <comment>Datatype</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nom de la constante de classe</translation>
     </message>
     <message>
         <source>Version</source>
         <comment>eZ Publish version</comment>
-        <translation type="unfinished">Version</translation>
+        <translation>Version d'eZ Publish</translation>
     </message>
     <message>
         <source>SVN revision</source>
         <comment>eZ Publish version</comment>
-        <translation type="unfinished">Révision SVN</translation>
+        <translation>Révision SVN</translation>
     </message>
     <message>
         <source>Extensions</source>
         <comment>eZ Publish extensions</comment>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Extensions</translation>
     </message>
     <message>
         <source>Web server</source>
         <comment>Web server title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Serveur web</translation>
     </message>
     <message>
         <source>Name</source>
         <comment>Web server name</comment>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Version</source>
         <comment>Web server version</comment>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Modules</source>
         <comment>Web server modules</comment>
-        <translation type="unfinished">Modules</translation>
+        <translation>Modules</translation>
     </message>
     <message>
         <source>Web server modules could not be detected</source>
         <comment>Web server modules</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modules du serveur web</translation>
     </message>
     <message>
         <source>No known information on the web server</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune information sur le serveur web</translation>
     </message>
     <message>
         <source>The rapid application development (RAD) tools allow you to easily get started with creating new functionality for eZ Publish.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'outil de développement rapide d'application (RAD) vous permet de démarrer facilement la création de nouvelles fonctionnalités pour eZ Publish.</translation>
     </message>
     <message>
         <source>Warning: it is not safe to upgrade without checking the modifications done to the following files </source>
-        <translation type="unfinished"></translation>
+        <translation>Attention&#160;: il n'est pas recommandé de mettre à jour sans vérifier les modifications faites dans les fichiers suivants</translation>
     </message>
     <message>
         <source>If you want you can add some example code to explain how your operator should work.
 The default code was made from the basic parameters you chose.</source>
         <comment>Template operator</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vous pouvez ajouter un exemple de code pour expliquer comment votre opérateur devrait fonctionner. Le code par défault a été généré à partir des paramètres que vous avez choisi.</translation>
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation type="unfinished">Siteaccess</translation>
+        <translation>Siteaccess</translation>
     </message>
 </context>
 <context>
@@ -20772,7 +20772,7 @@ The default code was made from the basic parameters you chose.</source>
     </message>
     <message>
         <source>MySQL is the world&apos;s most popular Open Source Database, designed for speed, power and precision in mission critical, heavy load use.</source>
-        <translation>MySQL est la base de données en logiciel libre la plus populaire au monde, conçue pour la rapidité, la puissance et la précision d&apos;exécution, même lors d&apos;un usage excessif.</translation>
+        <translation>MySQL est la base de données open source la plus populaire au monde, conçue pour la rapidité, la puissance et la précision d&apos;exécution, même lors d&apos;un usage excessif.</translation>
     </message>
     <message>
         <source>More information can be found on</source>
@@ -20812,7 +20812,7 @@ The default code was made from the basic parameters you chose.</source>
     </message>
     <message>
         <source>PostgreSQL is a good choice for handling most languages, including Unicode, but may require some configuration to get good speed.</source>
-        <translation>PostgreSQL gère très bien la plupart des langages, y compris Unicode, mais peut nécessiter un peu de configuration pour obtenir une bonne rapidité.</translation>
+        <translation>PostgreSQL gère très bien la plupart des langues, y compris Unicode, mais peut nécessiter un peu de configuration pour obtenir de bonnes performances.</translation>
     </message>
     <message>
         <source>In order to enable PostgreSQL support,</source>
@@ -20836,38 +20836,38 @@ The default code was made from the basic parameters you chose.</source>
     </message>
     <message>
         <source>It is one of the most popular databases in the Open Source community and most often on by default in PHP.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il s'agit de l'une des plus populaires bases de données open source qui est la plupart du temps activée par défaut dans PHP.</translation>
     </message>
     <message>
         <source>MySQL Improved</source>
-        <translation type="unfinished"></translation>
+        <translation>MySQL Improved</translation>
     </message>
     <message>
         <source>configuration option you enable PHP to access MySQL databases through the MySQL Improved extension. If you use this option without specifying the path to MySQL, PHP will use the built-in MySQL client libraries.</source>
-        <translation type="unfinished"></translation>
+        <translation>option de configuration, vous permettez à PHP d&apos;accéder aux bases de données MySQL avec l'extension MySQL Improved. Si vous utilisez cette option sans préciser le chemin vers MySQL, PHP utilisera ses propres bibliothèques de programmes client.</translation>
     </message>
     <message>
         <source>More information on the MySQLi extension can be found at</source>
-        <translation type="unfinished"></translation>
+        <translation>Plus d'informations sur l'extension MySQLi peuvent être trouvées sur</translation>
     </message>
     <message>
         <source>It is a very popular database in the Open Source community and provides highly advanced database functionality.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il s'agit d'une base de données très populaire dans la communauté open source, elle fournit des fonctionnalités avancées.</translation>
     </message>
 </context>
 <context>
     <name>design/standard/setup/extensions</name>
     <message>
         <source>Regenerate autoload arrays for extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Regénérer le tableau de chargement des classes des extensions</translation>
     </message>
     <message>
         <source>Click this button to regenerate the autoload arrays used by the system for extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur ce bouton pour regénérer le tableau des classes utilisé par le système d'extensions.</translation>
     </message>
     <message>
         <source>Problems detected during autoload generation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Problèmes détectés durant la génération du tableau de classes&#160;:</translation>
     </message>
 </context>
 <context>
@@ -21214,7 +21214,7 @@ The default code was made from the basic parameters you chose.</source>
     </message>
     <message>
         <source>The database would not accept the connection, please review your settings and try again.</source>
-        <translation type="obsolete">La base de données n&apos;accepte pas la connection, S.V.P. vérifier vos configurations et essayez de nouveau.</translation>
+        <translation type="obsolete">La base de données n&apos;accepte pas la connection, veuillez vérifier vos configurations et essayez de nouveau.</translation>
     </message>
     <message>
         <source>Password entries did not match.</source>
@@ -21222,7 +21222,7 @@ The default code was made from the basic parameters you chose.</source>
     </message>
     <message>
         <source>The selected database was not empty, please choose from the alternatives below.</source>
-        <translation type="obsolete">La base de données sélectionnée n&apos;est pas vide. S.V.P. choisissez-en une parmi les alternatives ci-dessous.</translation>
+        <translation type="obsolete">La base de données sélectionnée n&apos;est pas vide. veuillez choisissez-en une parmi les alternatives ci-dessous.</translation>
     </message>
     <message>
         <source>Database initalization</source>
@@ -21941,35 +21941,35 @@ Il est possible de changer ces paramètres plus tard.</translation>
     </message>
     <message>
         <source>The password is too short.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le mot de passe est trop court.</translation>
     </message>
     <message>
         <source>Select installation language</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la langue d'installation</translation>
     </message>
     <message>
         <source>Please choose what kind of functionality you want on your site.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez choisir le type de fonctionnalité que vous voulez sur votre site</translation>
     </message>
     <message>
         <source>Please choose a site package you would like to test or base your site on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez choisir un paquetage de site que vous voulez tester ou utiliser comme base pour votre site.</translation>
     </message>
     <message>
         <source>Package language options</source>
-        <translation type="unfinished"></translation>
+        <translation>Options de langue</translation>
     </message>
     <message>
         <source>If you think you have fixed the errors you can try then click the &quot;Retry&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si vous pensez avoir corrigé les erreurs, cliquez sur le bouton 'Réessayer'</translation>
     </message>
     <message>
         <source>If possible try to fix these errors then click &quot;Retry&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si possible, essayez de corriger ces erreurs et de cliquez sur 'Réessayer'</translation>
     </message>
     <message>
         <source>If you want you can let the setup add some demo data to your database, this demo data will give a good demonstration of the capabilities of eZ Publish</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Si vous voulez, vous pouvez laisser le programme d'installation ajouter des données de démonstration dans votre base de données, ces données de demonstration donneront un bon aperçu des capacités d'eZ Publish.</translation>
     </message>
     <message>
         <source>The setup will not do an upgrade from older eZ Publish versions (such as 2.2.7) if you leave the data as it is. This is only meant for people who have existing data that they don&apos;t want to lose. If you have existing eZ Publish 4.0 data (such as from an RC release) you should skip DB initialization, however you will then need to do a manual upgrade.</source>
@@ -22224,11 +22224,11 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>\\return an array with the template operator name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\\return un tableau with le nom de l'opérateur de template</translation>
     </message>
     <message>
         <source>Example code. This code must be modified to do what the operator should do. Currently it only trims text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exemple de code. Ce code doit être modifié pour faire ce que l'opérateur doit faire. Il ne supprime que les caractères non imprimables pour le moment.</translation>
     </message>
 </context>
 <context>
@@ -22335,27 +22335,27 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>Not all timed out sessions were successfully removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toutes les sessions expirées n'ont pu être supprimées.</translation>
     </message>
     <message>
         <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'opération a été raccourcie pour éviter de prendre trop de temps.</translation>
     </message>
     <message>
         <source>Your alternatives are to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous pouvez&#160;:</translation>
     </message>
     <message>
         <source>Repeat the operation several times to complete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Répéter l'opération plusieurs fois</translation>
     </message>
     <message>
         <source>Clear the timed out session data from command-line using: &amp;gt;php bin/php/ezsessiongc.php</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les sessions expirées en ligne de commande avec &amp;gt;php bin/php/ezsessiongc.php</translation>
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer le script de nettoyage par cron 'session_gc.php' et faites en sorte qu'il s'exécute toutes les nuits (voir cronjob.ini ou la documentation sur la manière de réaliser cela)</translation>
     </message>
 </context>
 <context>
@@ -22594,7 +22594,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>The PHP functions ImageTTFText and ImageTTFBBox is missing. Without these functions it is not possible to use the texttoimage template operator.</source>
-        <translation>Les fonctions PHP ImageTTFText et ImageTTFBBox sont manquantes. Sans ces fonctions il n&apos;est pas possible d&apos;utiliser le template operator texttoimage.</translation>
+        <translation>Les fonctions PHP ImageTTFText et ImageTTFBBox sont manquantes. Sans ces fonctions il n&apos;est pas possible d&apos;utiliser l'opérateur de template texttoimage.</translation>
     </message>
     <message>
         <source>To enable these functions you need to recompile PHP with support for it, more information on that subject is available at</source>
@@ -22688,7 +22688,7 @@ Ceci représente un problème de sécurité et devrait être changé en un autre
     </message>
     <message>
         <source>Note : Failure here will also cause failure to the accept_path_info test.</source>
-        <translation>Note : un échec à ce stade causera également un échec dans le test du accept_path_info.</translation>
+        <translation>Note&#160;: un échec à ce stade causera également un échec dans le test du accept_path_info.</translation>
     </message>
     <message>
         <source>, but the latest released PHP 4.4.x version is highly recommended.</source>
