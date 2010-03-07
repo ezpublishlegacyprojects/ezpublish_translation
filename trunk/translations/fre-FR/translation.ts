@@ -310,11 +310,11 @@
     </message>
     <message>
         <source>Use this field to set the internal name of the class. The identifier will be used in templates and in PHP code. Allowed characters are letters, numbers and underscores.</source>
-        <translation>Utilisez ce champ pour définir le nom interne de cette classe. Cet identifiant sera utilisé dans les templates and le code PHP. Seuls les lettres, les chiffres and le caractère souligné sont autorisés.</translation>
+        <translation>Utilisez ce champ pour définir le nom interne de cette classe. Cet identifiant sera utilisé dans les templates et le code PHP. Seuls les lettres, les chiffres et le caractère souligné sont autorisés.</translation>
     </message>
     <message>
         <source>Use this field to configure how the name of the objects are generated. Type in the identifiers of the attributes that should be used. The identifiers must be enclosed in angle brackets. Text outside angle brackets will be included as it is shown here.</source>
-        <translation>Utilisez ce champ pour définir la manière dont le nom des objets sont générés. Entrez l'identifiant des attributs qui doivent être utilisés. Les identifiants doivent être encadrés par les symboles inférieur (&lt;) and supérieur (&gt;). Les textes à l'extérieur de ces caractères seront utilisés tels quels.</translation>
+        <translation>Utilisez ce champ pour définir la manière dont le nom des objets sont générés. Entrez l'identifiant des attributs qui doivent être utilisés. Les identifiants doivent être encadrés par les symboles inférieur (&lt;) et supérieur (&gt;). Les textes à l'extérieur de ces caractères seront utilisés tels quels.</translation>
     </message>
     <message>
         <source>URL alias name pattern</source>
@@ -322,7 +322,7 @@
     </message>
     <message>
         <source>Use this field to configure how the url alias of the objects are generated (applies to nice URLs). Type in the identifiers of the attributes that should be used. The identifiers must be enclosed in angle brackets. Text outside angle brackets will be included as is.</source>
-        <translation>Utilisez ce champ pour définir la manière dont les URL des objets sont générées par le système de réécriture d'URL. Entrez l'identifiant des attributs qui doivent être utilisés. Les identifiants doivent être encadrés par les symboles inférieur (&lt;) and supérieur (&gt;). Les textes à l'extérieur de ces caractères seront utilisés tels quels.</translation>
+        <translation>Utilisez ce champ pour définir la manière dont les URL des objets sont générées par le système de réécriture d'URL. Entrez l'identifiant des attributs qui doivent être utilisés. Les identifiants doivent être encadrés par les symboles inférieur (&lt;) et supérieur (&gt;). Les textes à l'extérieur de ces caractères seront utilisés tels quels.</translation>
     </message>
     <message>
         <source>Use this checkbox to allow instances of the class to have sub items. If checked, it will be possible to create new sub items. If not checked, the sub items will not be displayed.</source>
@@ -338,7 +338,7 @@
     </message>
     <message>
         <source>Use this field to set the internal name of the attribute. The identifier will be used in templates and in PHP code. Allowed characters are letters, numbers and underscores.</source>
-        <translation>Utilisez ce champs pour définir le nom interne de l'attribut. L'identifiant sera utilisé dans les template et le code PHP. Seuls les lettres, les chiffres and le caractère souligné sont autorisés.</translation>
+        <translation>Utilisez ce champs pour définir le nom interne de l'attribut. L'identifiant sera utilisé dans les template et le code PHP. Seuls les lettres, les chiffres et le caractère souligné sont autorisés.</translation>
     </message>
     <message>
         <source>Use this checkbox to specify whether the user should be forced to enter information into the attribute.</source>
@@ -3684,7 +3684,7 @@
     </message>
     <message>
         <source>Note that these entries are automatically generated from the name of the object. To change these names you must edit the object in the specific language and publish the changes.</source>
-        <translation>Note&#160;: ces entrées sont générées automatiquement à partir du nom de l'objet. Pour changer ces noms, vous devez modifier l'objet dans la langue voulue and vous devez publier les changements.</translation>
+        <translation>Note&#160;: ces entrées sont générées automatiquement à partir du nom de l'objet. Pour changer ces noms, vous devez modifier l'objet dans la langue voulue et vous devez publier les changements.</translation>
     </message>
     <message>
         <source>Edit the contents for language %language.</source>
@@ -3835,7 +3835,7 @@
     </message>
     <message>
         <source>Note that the new alias points to a node and will not be displayed in the global list. It can be examined on the URL-Alias page of the node, %node_link.</source>
-        <translation>Notez que le nouvel alias d'URL pointe vers un nœud and ne sera donc pas affiché dans la liste global. Il sera disponible dans la liste des alias d'URL du nœud, %node_link.</translation>
+        <translation>Notez que le nouvel alias d'URL pointe vers un nœud et ne sera donc pas affiché dans la liste global. Il sera disponible dans la liste des alias d'URL du nœud, %node_link.</translation>
     </message>
     <message>
         <source>Invalid characters will be removed or transformed to valid characters.</source>
@@ -3986,7 +3986,7 @@
     </message>
     <message>
         <source>The URL alias &lt;%wildcard_src_url&gt; already exists, and it points to &lt;%wildcard_dst_url&gt;</source>
-        <translation>L'alias d'URL &lt;%wildcard_src_url&gt; existe déjà and pointe vers &lt;%wildcard_dst_url&gt;</translation>
+        <translation>L'alias d'URL &lt;%wildcard_src_url&gt; existe déjà et pointe vers &lt;%wildcard_dst_url&gt;</translation>
     </message>
     <message>
         <source>Defined URL aliases with wildcard[%wildcard_count]</source>
@@ -5936,7 +5936,7 @@
     </message>
     <message>
         <source>Published order</source>
-        <translation>Ordre</translation>
+        <translation>Tri</translation>
     </message>
     <message>
         <source>List of sub items of current node, with controlls to edit, remove and move them directly.</source>
@@ -5972,7 +5972,7 @@
     </message>
     <message>
         <source>Policy list and the Role that are assignet to current node.</source>
-        <translation>Liste des politiques de sécurité and rôles assignés au nœud courant.</translation>
+        <translation>Liste des politiques de sécurité et rôles assignés au nœud courant.</translation>
     </message>
     <message>
         <source>Limited to</source>
@@ -6798,6 +6798,10 @@ Note: The packages will not be uninstalled.</source>
     <message>
         <source>User perferences</source>
         <translation>Préférences utilisateur</translation>
+    </message>
+    <message>
+        <source>Dashboard</source>
+        <translation>Tableau de bord</translation>
     </message>
 </context>
 <context>
@@ -9515,7 +9519,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>The &lt;%cache_name&gt; is disabled and thus it cannot be marked for clearing.</source>
-        <translation>&lt;%cache_name&gt; est désactivé and ne peut donc pas être sélectionné pour vidange.</translation>
+        <translation>&lt;%cache_name&gt; est désactivé et ne peut donc pas être sélectionné pour vidange.</translation>
     </message>
     <message>
         <source>This operation will regenerate all the static content caches that are configured. This action can take  some time depending on the specifications of the server and the number of locations that are configured to be statically cached. If you encounter time-out problems, use the &amp;quot;bin/php/makestaticcache.php&amp;quot; shell script.</source>
@@ -14033,7 +14037,7 @@ your account.</source>
     </message>
     <message>
         <source>Powered by %linkStartTag eZ Publish&amp;reg;&amp;trade; open source content management system %linkEndTag and development framework.</source>
-        <translation>Propulsé par %linkStartTag eZ Publish &amp;reg;&amp;trade; système de gestion de contenu open source %linkEndTag and framework de développement.</translation>
+        <translation>Propulsé par %linkStartTag eZ Publish &amp;reg;&amp;trade; système de gestion de contenu open source %linkEndTag et framework de développement.</translation>
     </message>
     <message>
         <source>Powered by %linkStartTag eZ Publish&amp;reg; open source content management system %linkEndTag and development framework.</source>
@@ -26173,6 +26177,10 @@ your account.</source>
     <message>
         <source>Error</source>
         <translation type="obsolete">Erreur</translation>
+    </message>
+    <message>
+        <source>Dashboard</source>
+        <translation>Tableau de bord</translation>
     </message>
 </context>
 <context>
