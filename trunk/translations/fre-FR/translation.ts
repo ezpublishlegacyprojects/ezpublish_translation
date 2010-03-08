@@ -374,7 +374,7 @@
     </message>
     <message>
         <source>Class attribute item</source>
-        <translation type="unfinished"></translation>
+        <translation>Attribut de classe</translation>
     </message>
     <message>
         <source>Use this field to set the informal description of the attribute. This field can contain whitespaces and special characters.</source>
@@ -5131,41 +5131,41 @@
     </message>
     <message>
         <source>Specify the location where you want to restore &lt;%name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez l'emplacement où restaurer &lt;%name&gt;.</translation>
     </message>
     <message>
         <source>The lines marked with red contain more than the maximum possible nodes for subtree removal and will not be deleted. You can remove this subtree using the ezsubtreeremove.php script.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les lignes marquées de rouge contiennent plus de nœuds que le maximum supprimable et ne seront donc pas supprimés. Vous pouvez supprimer cette sous-arborescence en utilisant le script ezsubtreeremove.php.</translation>
     </message>
     <message>
         <source>The lines marked with red contain items that you do not have permission to remove.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les lignes marquée de rouge contiennent des éléments sur lesquels vous n'avez pas le droit de suppression.</translation>
     </message>
     <message>
         <source>You cannot continue because you do not have permission to remove some of the selected locations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez continuer car vous n'avez pas le droit de supprimer certains des emplacements sélectionnés.</translation>
     </message>
     <message>
         <source>The system will let you restore the object &lt;%name&gt;. Specify where you wish to restore it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le système vous permet de restaurer l'objet &lt;%name&gt;. Choisissez où vous souhaitez le restaurer.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/node/view</name>
     <message>
         <source>Two-level index for &lt;%node_name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Index à deux niveaux pour &lt;%node_name&gt;</translation>
     </message>
 </context>
 <context>
     <name>design/admin/node/view/embed</name>
     <message>
         <source> - You do not have permission to view this object</source>
-        <translation type="unfinished"></translation>
+        <translation>- Vous n'avez pas le droit de voir cet objet</translation>
     </message>
     <message>
         <source>You do not have permission to view this object</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez pas le droit de voir cet objet</translation>
     </message>
 </context>
 <context>
@@ -6457,51 +6457,52 @@
     </message>
     <message>
         <source>Provide some basic information for your package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fournissez quelques informations de base sur votre paquetage.</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licence</translation>
     </message>
     <message>
         <source>Provide information about the maintainer of the package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fournissez des informations sur le mainteneur du paquetage.</translation>
     </message>
     <message>
         <source>Include templates related to exported objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclure les templates liés aux objets exportés.</translation>
     </message>
     <message>
         <source>Choose the objects to include in the package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez les objets à inclure dans le paquetage.</translation>
     </message>
     <message>
         <source>There are currently no objects selected for export</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun objet sélectionné pour l'export..</translation>
     </message>
     <message>
         <source>Select an image file to be included in the package then click Next.
 Click &quot;Next&quot; without choosing an image to continue to the next step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner une image à inclure dans le paquetage puis cliquez sur Suivant. Cliquez sur 'Suivant' sans choisir d'image pour passer à l'étape suivante.</translation>
     </message>
     <message>
         <source>The package can be installed on your system. Installing the package will copy files, create content classes etc., depending on the package.
 If you do not want to install the package at this time, you can do so later on the view page for the package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le paquetage peut être installé sur votre système. L'installation d'un paquetage copiera des fichiers, créera des classes de contenu etc., en fonction du paquetage. Si vous ne voulez pas installer le paquetage maintenant, vous pouvez le faire plus tard la page de visualisation du paquetage.</translation>
     </message>
     <message>
         <source>The package can be uninstalled from your system. Uninstalling the package will remove any installed files, content classes etc., depending on the package.
 If you do not want to uninstall the package at this time, you can do so later on the view page for the package.
 You can also remove the package without uninstalling it from the package list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le paquetage peut être désinstallé de votre système. Désinstaller un paquetage supprimera les fichiers, les classes de contenu etc. en fonction du paquetage. Si vous ne voulez pas désinstaller le paquetage maintenant, vous pourrez le faire plus tard sur la page de visualisation du paquetage.
+Vous pouvez aussi supprimer le paquetage sans le désinstaller ) partir de la liste des paquetages.</translation>
     </message>
     <message>
         <source>Select the file containing the package then click the upload button</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le fichier contenant le paquetage puis cliquez sur le bouton Charger le paquetage</translation>
     </message>
     <message>
         <source>Regarding eZ Publish package &apos;%packagename&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Informations sur le paquetage eZ Publish '%packagename'</translation>
     </message>
 </context>
 <context>
@@ -6594,11 +6595,13 @@ You can also remove the package without uninstalling it from the package list.</
         <source>Are you sure you want to remove the following packages?
 The packages will be lost forever.
 Note: The packages will not be uninstalled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous vraiment supprimer les paquetages suivants ?
+Le paquetage sera irrémédiablement supprimé.
+Note&#160;: les paquetages ne seront pas désinstallés.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Supprimer</translation>
+        <translation>Supprimer</translation>
     </message>
 </context>
 <context>
@@ -7738,15 +7741,15 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Welcome to the policy wizard. This three-step wizard will help you create a new policy that will be added to the role that is currently being edited. The wizard can be aborted at any stage by using the &quot;Cancel&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenue dans l'assistant de création des politiques de sécurité. Cet assistant en trois étapes vous aidera à créer de nouvelles politiques de sécurité qui seront ajoutés au rôle en cours de modification. Le processus peut être interrompu à tout moment en utilisant le bouton 'Annuler'.</translation>
     </message>
     <message>
         <source>Use the drop-down menu to select the module that you want to grant access to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez le menu déroulant pour sélectionner le module auquel vous voulez donner accès.</translation>
     </message>
     <message>
         <source>Every function</source>
-        <translation type="unfinished"></translation>
+        <translation>Toutes les fonctions</translation>
     </message>
 </context>
 <context>
@@ -7785,7 +7788,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Grant full access</source>
-        <translation>Accorder l&apos;accès illimité</translation>
+        <translation>Accorder un accès illimité</translation>
     </message>
     <message>
         <source>Grant limited access</source>
@@ -7817,19 +7820,19 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Welcome to the policy wizard. This three-step wizard will help you set up a new policy. The policy will be added to the role that is currently being edited. The wizard can be aborted at any stage by using the &quot;Cancel&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenue dans l'assistant de création des politiques de sécurité. Cet assistant en trois étapes vous aidera à créer de nouvelles politiques de sécurité qui seront ajoutés au rôle en cours de modification. Le processus peut être interrompu à tout moment en utilisant le bouton 'Annuler'.</translation>
     </message>
     <message>
         <source>Use the drop-down menu to select the function that you want to grant access to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez le menu déroulant pour sélectionner le module auquel vous voulez donner accès.</translation>
     </message>
     <message>
         <source>The &quot;Grant full access&quot; button will create a policy that grants unlimited access to the selected function within the module that was specified in step one. If you want to limit the access method, click the &quot;Grant limited access&quot; button. Function limitation is only supported by some functions. If unsupported, eZ Publish will set up a policy with unlimited access to the selected function.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le bouton 'Accorder un accès illimité' créer une politique de sécurité autorisant un accès illimité à la fonction du module sélectionnée dans l'étape une. Si vous voulez limiter l'accès, cliquez sur le bouton 'Accorder un accès limité'. Les limitations sont uniquement supportées par certaines fonctions. Si les limitations ne sont pas disponibles, eZ Publish créera une politique de sécurité sans limitation pour la fonction séléectionnée.</translation>
     </message>
     <message>
         <source>It is not possible to grant limited access to all modules at once. To grant unlimited access to all modules and their functions, go back to step one and select &quot;Grant access to all functions&quot;. To grant limited access to different functions within different modules, you must set up a collection of policies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il n'est pas possible d'accorder un accès limité à tous les modules en une fois. Pour accorder, un accès illimité à tous les modules et leurs fonctions, retournez à l'étape une et cliquez sur 'Autoriser l'accès à toutes les fonctions'. Pour accorder un accès limité à différentes fonctions dans différents modules, vous devez créer un ensemble de politiques de sécurité.</translation>
     </message>
 </context>
 <context>
@@ -7940,11 +7943,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Welcome to the policy wizard. This three-step wizard will help you set up a new policy. The policy will be added to the role that is currently being edited. The wizard can be aborted at any stage by using the &quot;Cancel&quot; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenue dans l'assistant de création des politiques de sécurité. Cet assistant en trois étapes vous aidera à créer de nouvelles politiques de sécurité qui seront ajoutés au rôle en cours de modification. Le processus peut être interrompu à tout moment en utilisant le bouton 'Annuler'.</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriétés</translation>
     </message>
     <message>
         <source>Nodes (%node_count)</source>
@@ -8043,11 +8046,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Sauvegarder</translation>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <source>Save policy changes to this role</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer les changements dans les politiques de sécurité de ce rôle</translation>
     </message>
 </context>
 <context>
@@ -8185,7 +8188,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>The function limitations of this policy cannot be edited. This is either because the function does not support limitations or because the function was assigned without limitations when the policy was created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les limitations de cette fonction ne peuvent être modifiées soit parce que cette fonction ne supporte pas les limitations ou parce que la fonction a été assignée sans limitation quand la politique de sécurité a été créée.</translation>
     </message>
     <message>
         <source>Nodes (%node_count)</source>
@@ -8312,7 +8315,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Path: &apos;/%path_string&apos;, Class identifier: &apos;%class_identifier&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Chemin&#160;: '/%path_string', Identifiant de classe&#160;: '%class_identifier'</translation>
     </message>
     <message>
         <source>Users and groups using the &lt;%role_name&gt; role (%users_count)</source>
@@ -8331,7 +8334,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Use the radio buttons to choose a destination location for RSS import then click &quot;OK&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez les boutons radios pour choisir l'emplacement de l'import RSS puis cliquez sur 'OK'</translation>
     </message>
 </context>
 <context>
@@ -8346,7 +8349,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Use the radio buttons to choose an image to use in the RSS export then click &quot;OK&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez les boutons radios pour choisir l'image à utiliser pour l'export RSS puis cliquez sur 'OK'</translation>
     </message>
 </context>
 <context>
@@ -8361,7 +8364,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Use the radio buttons to choose the item that you want to export using RSS then click &quot;OK&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez les boutons radios pour choisir l'élément à utiliser pour l'export RSS puis cliquez sur 'OK'</translation>
     </message>
 </context>
 <context>
@@ -8376,7 +8379,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Use the radio buttons to choose a user then click &quot;OK&quot;. The user will become the owner of the objects that were imported using RSS.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez les boutons radio pour choisir un utilisateur puis cliquez sur 'OK'. L'utilisateur sera le propriétaire des objets importés depuis le flux RSS.</translation>
     </message>
 </context>
 <context>
@@ -8859,19 +8862,19 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>The section &lt; %1 &gt; was not assigned to the nodes listed below because of insufficient permission:</source>
-        <translation type="unfinished"></translation>
+        <translation>La section &lt; %1 &gt; n'est pas été assignées aux nœuds listés ci-dessous en raison de permission insuffisante&#160;:</translation>
     </message>
     <message>
         <source>There are no objects in the system that you could assign the section &lt; %1 &gt; to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez assigner aucun objet à la section &lt;  %1 &gt;</translation>
     </message>
     <message>
         <source>You do not have permission to assign the section &lt; %1 &gt; to any object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'avez le droit d'assigner la section &lt; %1 &gt; à aucun objet.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -8890,7 +8893,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Note that the section assignment of the sub items will also be changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez noter que la section assignée aux sous-éléments sera aussi changée.</translation>
     </message>
 </context>
 <context>
@@ -8921,19 +8924,19 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>The following sections cannot be removed because they are either assigned to objects or used in role and policy limitations</source>
-        <translation type="unfinished"></translation>
+        <translation>Les sections suivantes ne peuvent être supprimées car elles sont assignées à des objets ou utilisées dans des limitations de rôle ou de politique de sécurité.</translation>
     </message>
     <message>
         <source>None of the selected sections can be removed because they are either assigned to objects or used in role and policy limitations</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune des sections sélectionnées ne peuvent être supprimées car elles sont assignées à des objets ou utilisées dans des limitations de rôle ou de politique de sécurité.</translation>
     </message>
     <message>
         <source>Removing a section may corrupt template output and other things in the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer une section peut corrompre la sortie des templates et d'autres choses dans le système.</translation>
     </message>
     <message>
         <source>Proceed only if you are sure that it is safe.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne continuez que si vous êtes certain que cela est sûr.</translation>
     </message>
 </context>
 <context>
@@ -8960,7 +8963,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Navigation part</source>
-        <translation type="unfinished"></translation>
+        <translation>Partie de navigation</translation>
     </message>
 </context>
 <context>
@@ -9023,7 +9026,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>You are not allowed to assign the &lt;%section_name&gt; section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n'êtes pas autorisé à assigner la section &lt;%section_name&gt;.</translation>
     </message>
     <message>
         <source>Sections (%section_count)</source>
@@ -9031,7 +9034,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Assign a subtree to the &lt;%section_name&gt; section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Assigner la section &lt;%section_name&gt; à la sous-arborescence</translation>
     </message>
 </context>
 <context>
@@ -9110,11 +9113,11 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Assign subtree</source>
-        <translation type="unfinished"></translation>
+        <translation>Assigner une sous-arborescence</translation>
     </message>
     <message>
         <source>Assign subtree of objects to this section</source>
-        <translation type="unfinished"></translation>
+        <translation>Assigner une section à une sous-arborescence d'objets</translation>
     </message>
 </context>
 <context>
@@ -9309,27 +9312,27 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Values for each location setting are shown. The first values are lowest priority; the values toward the end have higher priority than the first ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les valeurs pour chaque emplacement de configuration est affichées. Les premières valeurs ont la priorité la plus faible; les valeurs de fin ont une priorité plus forte que les premières.</translation>
     </message>
     <message>
         <source>Setting name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du paramètre</translation>
     </message>
     <message>
         <source>Choose another name that is not already in use</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un autre nom qui ne soit pas déjà utilisé</translation>
     </message>
     <message>
         <source>Make sure you have permission to %path and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vérifiez les droits sur %path et réessayez</translation>
     </message>
     <message>
         <source>Please select an ini file from the drop-down below</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez sélectionné un fichier INI dans la liste déroulante ci-dessous</translation>
     </message>
     <message>
         <source>Values for each location setting are shown. The first values have lowest priority; the values toward the end have higher priority than the first ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les valeurs pour chaque emplacement sont affichés. Les premières valeurs ont la priorité la plus faible; les valeurs de fin ont une priorité plus forte que les premières.</translation>
     </message>
 </context>
 <context>
@@ -9528,10 +9531,6 @@ Note: The packages will not be uninstalled.</source>
     <message>
         <source>Categories</source>
         <translation>Catégories</translation>
-    </message>
-    <message>
-        <source></source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12586,7 +12585,7 @@ your account.</source>
     </message>
     <message>
         <source>&quot;%user_login&quot; is not allowed to log in because failed login attempts by this user exceeded allowable number of failed login attempts!</source>
-        <translation type="unfinished"></translation>
+        <translation>'%user_login' n'est pas autorisé à s'identifier suite au dépassement du nombre autorisé d'identifications infructueuses.</translation>
     </message>
     <message>
         <source>All letters must be entered in the correct case.</source>
@@ -19053,7 +19052,7 @@ You can also remove the package without uninstalling it from the package list.</
     </message>
     <message>
         <source>Regarding eZ Publish package &apos;%packagename&apos;</source>
-        <translation></translation>
+        <translation>Informations sur le paquetage eZ Publish '%packagename'</translation>
     </message>
     <message>
         <source>Use content object modification and publication dates from the package.</source>
@@ -19290,7 +19289,7 @@ menu on the top.</source>
     </message>
     <message>
         <source>The documentation will give an overview of the API of eZ Publish.</source>
-        <translation type="unfinished"></translation>
+        <translation>La documentation donnera un aperçu de l'API d'eZ Publish</translation>
     </message>
 </context>
 <context>
@@ -19944,23 +19943,23 @@ menu on the top.</source>
     </message>
     <message>
         <source>Removing these sections can corrupt permissions, site designs, and other things in the system. Do not do this unless you know exactly what you are doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimé ces sections peut corrompre les permissions, les designs et d'autres parties du système. Ne faites pas cela à moins que vous sachiez exactement ce que vous faites.</translation>
     </message>
     <message>
         <source>Navigation part</source>
-        <translation type="unfinished"></translation>
+        <translation>Partie de navigation</translation>
     </message>
     <message>
         <source>About navigation parts</source>
-        <translation type="unfinished"></translation>
+        <translation>À propos des parties de navigation</translation>
     </message>
     <message>
         <source>The eZ Publish Administration Interface is divided into navigation parts. This is a way to group different areas of the site administration. Select the navigation part that should be active when this section is browsed.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'interface d'administration d'eZ Publish est divisée en parties de navigation. Il s'agit d'un moyen de regrouper différentes zones. Sélectionnez la partie de navigation qui devrait être active quand cette section est parcourue.</translation>
     </message>
     <message>
         <source>Denied</source>
-        <translation type="unfinished"></translation>
+        <translation>Refusé</translation>
     </message>
 </context>
 <context>
@@ -21973,7 +21972,7 @@ Il est possible de changer ces paramètres plus tard.</translation>
     </message>
     <message>
         <source>If you want you can let the setup add some demo data to your database, this demo data will give a good demonstration of the capabilities of eZ Publish</source>
-        <translation type="unfinished">Si vous voulez, vous pouvez laisser le programme d'installation ajouter des données de démonstration dans votre base de données, ces données de demonstration donneront un bon aperçu des capacités d'eZ Publish.</translation>
+        <translation>Si vous voulez, vous pouvez laisser le programme d'installation ajouter des données de démonstration dans votre base de données, ces données de demonstration donneront un bon aperçu des capacités d'eZ Publish.</translation>
     </message>
     <message>
         <source>The setup will not do an upgrade from older eZ Publish versions (such as 2.2.7) if you leave the data as it is. This is only meant for people who have existing data that they don&apos;t want to lose. If you have existing eZ Publish 4.0 data (such as from an RC release) you should skip DB initialization, however you will then need to do a manual upgrade.</source>
