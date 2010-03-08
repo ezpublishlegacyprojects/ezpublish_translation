@@ -26872,7 +26872,7 @@ your account.</source>
     </message>
     <message>
         <source>File %1 does not exist. You should copy it from the recent eZ Publish distribution.</source>
-        <translation type="obsolete">Le fichier %1 n&apos;existe pas. Vous devriez le copier depuis une distribution eZ publish récente.</translation>
+        <translation type="obsolete">Le fichier %1 n&apos;existe pas. Vous devriez le copier depuis une distribution eZ Publish récente.</translation>
     </message>
     <message>
         <source>Datatype wizard</source>
