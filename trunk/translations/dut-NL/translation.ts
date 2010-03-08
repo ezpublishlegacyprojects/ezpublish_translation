@@ -1943,11 +1943,11 @@
     </message>
     <message>
         <source>Sub items</source>
-        <translation type="unfinished">Subitems</translation>
+        <translation>Subitems</translation>
     </message>
     <message>
         <source>Sorting of sub items</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorteervolgorde van subitems</translation>
     </message>
     <message>
         <source>Current visibility</source>
@@ -1963,31 +1963,31 @@
     </message>
     <message>
         <source>Select location for removal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer te verwijderen locatie.</translation>
     </message>
     <message>
         <source>Desc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflopend</translation>
     </message>
     <message>
         <source>Asc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplopend</translation>
     </message>
     <message>
         <source>Hidden by parent</source>
-        <translation type="unfinished"></translation>
+        <translation>Verborgen door ouder</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="unfinished">Zichtbaar</translation>
+        <translation>Zichtbaar</translation>
     </message>
     <message>
         <source>Unchanged</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongewijzigd</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished">Verborgen</translation>
+        <translation>Verborgen</translation>
     </message>
     <message>
         <source>Use these radio buttons to specify the main location (main node) for the object being edited.</source>
@@ -1995,11 +1995,11 @@
     </message>
     <message>
         <source>Move to another location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaats naar andere locatie.</translation>
     </message>
     <message>
         <source>Remove selected locations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderd geselecteerde locaties.</translation>
     </message>
     <message>
         <source>Add locations</source>
@@ -2007,15 +2007,15 @@
     </message>
     <message>
         <source>Add one or more locations for the object being edited.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg één of meer locaties toe voor het object wat bewerkt wordt.</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk</translation>
     </message>
     <message>
         <source>View the draft that is being edited.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk het concept wat bewerkt wordt.</translation>
     </message>
     <message>
         <source>Translate</source>
@@ -2027,63 +2027,63 @@
     </message>
     <message>
         <source>The draft could not be stored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het concept kon niet opgeslagen worden.</translation>
     </message>
     <message>
         <source>Required data is either missing or is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Vereiste data ontbreekt of is ongeldig</translation>
     </message>
     <message>
         <source>The following locations are invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>De volgende locaties zijn ongeldig</translation>
     </message>
     <message>
         <source>The draft was only partially stored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het concept was slechts gedeeltelijk opgeslagen.</translation>
     </message>
     <message>
         <source>The draft was successfully stored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het concept is met success opgeslagen.</translation>
     </message>
     <message>
         <source>Are you sure you want to discard the draft?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet u zeker dat u het concept wilt verwijderen?</translation>
     </message>
     <message>
         <source>Discard the draft that is being edited. This will also remove the translations that belong to the draft (if any).</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder het concept welke bewerkt wordt. Dit verwijdert ook de vertalingen behorend bij het concept (indien aanwezig).</translation>
     </message>
     <message>
         <source>Translate from</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertaal van</translation>
     </message>
     <message>
         <source>No translation</source>
-        <translation type="unfinished">Geen vertaling</translation>
+        <translation>Geen vertaling</translation>
     </message>
     <message>
         <source>Edit the current object showing the selected language as a reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk het huidige object met geselecteerde taal als referentie tonend.</translation>
     </message>
     <message>
         <source>Publish data</source>
-        <translation type="unfinished"></translation>
+        <translation>Publiceer data</translation>
     </message>
     <message>
         <source>Back to edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Terug naar bewerken</translation>
     </message>
     <message>
         <source>Relation type</source>
-        <translation type="unfinished"></translation>
+        <translation>Relatie type</translation>
     </message>
     <message>
         <source>Common</source>
-        <translation type="unfinished"></translation>
+        <translation>Algemeen</translation>
     </message>
     <message>
         <source>Embedded</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingebed</translation>
     </message>
     <message>
         <source>Linked</source>
@@ -2091,11 +2091,11 @@
     </message>
     <message>
         <source>Attribute</source>
-        <translation type="unfinished">Eigenschap</translation>
+        <translation>Eigenschap</translation>
     </message>
     <message>
         <source>Copy this code and paste it into an XML field to embed the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieer deze code en plak het in een XML veld voor inbedding van het object.</translation>
     </message>
     <message>
         <source>Copy this code and paste it into an XML field to link the object.</source>
@@ -2111,31 +2111,31 @@
     </message>
     <message>
         <source>Class identifier</source>
-        <translation type="unfinished">Klasse-identifier</translation>
+        <translation>Klasse-identifier</translation>
     </message>
     <message>
         <source>Class name</source>
-        <translation type="unfinished">Klassenaam</translation>
+        <translation>Klassenaam</translation>
     </message>
     <message>
         <source>This location will remain unchanged when the object is published.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze locatie blijft ongewijzigd als het object gepubliceerd is.</translation>
     </message>
     <message>
         <source>This location will be created when the object is published.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze locatie wordt aangemaakt als het object gepubliceerd wordt.</translation>
     </message>
     <message>
         <source>This location will be moved when the object is published.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze locatie wordt verplaatst als het object gepubliceerd wordt.</translation>
     </message>
     <message>
         <source>This location will be removed when the object is published.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze locatie wordt verwijderd als het object gepubliceerd wordt.</translation>
     </message>
     <message>
         <source>You do not have permission to remove this location.</source>
-        <translation type="unfinished"></translation>
+        <translation>U heeft geen toestemming om deze locatie te verwijderen.</translation>
     </message>
     <message>
         <source>Use this menu to set the sorting method for the sub items in this location.</source>
