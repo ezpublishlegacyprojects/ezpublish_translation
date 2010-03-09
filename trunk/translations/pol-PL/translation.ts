@@ -4448,7 +4448,7 @@
     <name>design/admin/dashboard/all_latest_content</name>
     <message>
         <source>All latest content</source>
-        <translation>Wszystkie najnowsze treście</translation>
+        <translation>Lista ostatnio dodanych treści</translation>
     </message>
     <message>
         <source>Name</source>
@@ -4480,7 +4480,7 @@
     </message>
     <message>
         <source>Latest content list is empty.</source>
-        <translation>Lista ostatnich najnowszych treści jest pusta.</translation>
+        <translation>Lista ostatnio dodanych treści jest pusta.</translation>
     </message>
 </context>
 <context>
@@ -4550,7 +4550,7 @@
     </message>
     <message>
         <source>Your latest content list is empty.</source>
-        <translation>Lista najnowszych treści jest pusta.</translation>
+        <translation>Twoja lista ostatnio dodanych treści jest pusta.</translation>
     </message>
 </context>
 <context>
@@ -5734,19 +5734,19 @@
     </message>
     <message>
         <source>Use this menu to select the type of item you want to create then click the &quot;Create here&quot; button. The item will be created in the current location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj tej listy rozwijalnej aby wybrać typ elementu, który chcesz utworzyć, a następnie kliknij przycisk &quot;Tutaj&quot;. Nowy element zostanie utworzony w obecnej lokalizacji.</translation>
     </message>
     <message>
         <source>Use this menu to select the language you want to use for the creation then click the &quot;Create here&quot; button. The item will be created in the current location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz język, którego chcesz użyć przy tworzeniu nowego elementu, a następnie kliknij przycisk &quot;Tutaj&quot;. Element zostanie utworzony w obecnej lokalizacji.</translation>
     </message>
     <message>
         <source>Create a new item in the current location. Use the menu on the left to select the type of  item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utwórz nowy element w obecnej lokalizacji. Użyj listy rozwijalne aby wybrać typ elementu.</translation>
     </message>
     <message>
         <source>You do not have permission to create new items in the current location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie masz uprawnień do tworzenia nowych elementów w obecnej lokalizacji.</translation>
     </message>
     <message>
         <source>You cannot set the sorting method for the current location because you do not have permission to edit the current item.</source>
@@ -5850,15 +5850,15 @@
     </message>
     <message>
         <source>Move selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Przenieś zaznaczone</translation>
     </message>
     <message>
         <source>Move the selected items from the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przenieś wybrane elementy z powyższej listy.</translation>
     </message>
     <message>
         <source>You do not have permission to move any of the items from the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie masz uprawnień aby przenieść jakikolwiek element z powyższej listy.</translation>
     </message>
     <message>
         <source>Object states for object</source>
@@ -5942,7 +5942,7 @@
     </message>
     <message>
         <source>Published order</source>
-        <translation type="unfinished"></translation>
+        <translation>Metoda sortowania</translation>
     </message>
     <message>
         <source>List of sub items of current node, with controlls to edit, remove and move them directly.</source>
