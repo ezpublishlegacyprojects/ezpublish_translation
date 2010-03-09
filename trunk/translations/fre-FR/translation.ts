@@ -17339,7 +17339,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Version %1 is not available for editing any more, only drafts can be edited.</source>
-        <translation>La version %1 n&apos;est plus disponible pour l&apos;édition, seuls les brouillons peuvent être édités.</translation>
+        <translation>La version %1 n&apos;est plus disponible pour la modification, seuls les brouillons peuvent être modifiés.</translation>
     </message>
     <message>
         <source>Version</source>
@@ -17665,7 +17665,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     <name>design/standard/design/templateadmin</name>
     <message>
         <source>Template edit</source>
-        <translation>Édition du template</translation>
+        <translation>Modification du template</translation>
     </message>
     <message>
         <source>Save</source>
@@ -19559,7 +19559,7 @@ menu on the top.</source>
     </message>
     <message>
         <source>The RSS export will be available for editing once it is stored by the modifier or when it is automatically unlocked on %datetime.</source>
-        <translation>L&apos;export RSS sera disponible pour l&apos;édition dès qu&apos;il sera sauvegardé par le modificateur ou lorsqu&apos;il sera automatiquement déverouillé le %datetime.</translation>
+        <translation>L&apos;export RSS sera disponible pour la modification dès qu&apos;il sera sauvegardé par le modificateur ou lorsqu&apos;il sera automatiquement déverouillé le %datetime.</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -19575,7 +19575,7 @@ menu on the top.</source>
     </message>
     <message>
         <source>The RSS import will be available for editing once it is stored by the modifier or when it is automatically unlocked on %datetime.</source>
-        <translation>L&apos;import RSS sera disponible pour l&apos;édition dès qu&apos;il sera sauvegardé par le modificateur ou lorsqu&apos;il sera automatiquement déverouillé le %datetime.</translation>
+        <translation>L&apos;import RSS sera disponible pour la modification dès qu&apos;il sera sauvegardé par le modificateur ou lorsqu&apos;il sera automatiquement déverouillé le %datetime.</translation>
     </message>
     <message>
         <source>Please choose where to export from.
@@ -20642,7 +20642,7 @@ en utilisant %operatorname vous pouvez...</translation>
     </message>
     <message>
         <source>Template edit</source>
-        <translation>Édition du modèle</translation>
+        <translation>Modification du modèle</translation>
     </message>
     <message>
         <source>Save</source>
@@ -21763,7 +21763,7 @@ Il est possible de changer ces paramètres plus tard.</translation>
     </message>
     <message>
         <source>Optionally you may disable this manually, edit the &lt;i&gt;settings/site.ini&lt;/i&gt; file and look for a line that says</source>
-        <translation>De manière optionnelle vous pouvez le désactiver, éditez le fichier &lt;i&gt;settings/site.ini&lt;/i&gt; et recherchez une ligne qui dit</translation>
+        <translation>De manière optionnelle vous pouvez le désactiver, modifiez le fichier &lt;i&gt;settings/site.ini&lt;/i&gt; et recherchez une ligne qui dit</translation>
     </message>
     <message>
         <source>Failed to send the registration email using</source>
@@ -21771,7 +21771,7 @@ Il est possible de changer ces paramètres plus tard.</translation>
     </message>
     <message>
         <source>If you ever want to restart this setup, edit the file %filename and look for a line that says</source>
-        <translation>Si vous désirez relancer cette installation, éditez le fichier %filename et recherchez une ligne qui dit</translation>
+        <translation>Si vous désirez relancer cette installation, modifiez le fichier %filename et recherchez une ligne qui dit</translation>
     </message>
     <message>
         <source>Creating sites</source>
@@ -22493,7 +22493,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>It&apos;s recommended that the option is turned off. To turn it off edit your %1 configuration and set %2 to %3.</source>
-        <translation>La désactivation de cette option est recommandée. Pour la désactiver, éditez la configuration de %1 et positionnez %2 à %3.</translation>
+        <translation>La désactivation de cette option est recommandée. Pour la désactiver, modifiez la configuration de %1 et positionnez %2 à %3.</translation>
     </message>
     <message>
         <source>Insufficient PHP version</source>
@@ -22577,7 +22577,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>To turn it off edit your %phpini configuration and set %magic_quotes_runtime to %offtext.</source>
-        <translation>Pour la désactiver éditez votre configuration %phpini et affectez la variables %magic_quotes_runtime à %offtext.</translation>
+        <translation>Pour la désactiver modifiez votre configuration %phpini et affectez la variables %magic_quotes_runtime à %offtext.</translation>
     </message>
     <message>
         <source>Unstable PHP version</source>
@@ -24611,7 +24611,7 @@ your account.</source>
     <name>design/standard/visual/templateedit</name>
     <message>
         <source>Edit template: &lt;%template&gt;</source>
-        <translation>Edition du template&#160;: &lt;%template&gt;</translation>
+        <translation>Modification du template&#160;: &lt;%template&gt;</translation>
     </message>
     <message>
         <source>Apply changes</source>
@@ -26023,7 +26023,7 @@ your account.</source>
     </message>
     <message>
         <source>Remove editing version</source>
-        <translation type="obsolete">Supprimer la version éditée</translation>
+        <translation type="obsolete">Supprimer la version modifiée</translation>
     </message>
     <message>
         <source>Remove object</source>
@@ -26351,7 +26351,7 @@ your account.</source>
     </message>
     <message>
         <source>Template edit</source>
-        <translation type="obsolete">Édition du template</translation>
+        <translation type="obsolete">Modification du template</translation>
     </message>
     <message>
         <source>Toolbar list</source>
@@ -27140,7 +27140,7 @@ your account.</source>
     </message>
     <message>
         <source>Edit VAT charging rule</source>
-        <translation type="obsolete">Editez la règle d&apos;affectation de la TVA</translation>
+        <translation type="obsolete">Modifiez la règle d&apos;affectation de la TVA</translation>
     </message>
     <message>
         <source>Create new VAT charging rule</source>
