@@ -274,15 +274,15 @@
     </message>
     <message>
         <source>Store changes and exit from edit mode.</source>
-        <translation>Enregistrer les changements et quitter le mode d&apos;édition.</translation>
+        <translation>Enregistrer les changements et quitter le mode de modification.</translation>
     </message>
     <message>
         <source>Store changes and continue editing.</source>
-        <translation>Enregisterer les changements et rester en mode édition.</translation>
+        <translation>Enregisterer les changements et rester en mode de modification.</translation>
     </message>
     <message>
         <source>Discard all changes and exit from edit mode.</source>
-        <translation>Annuler tous les changements et quitter le mode d&apos;édition.</translation>
+        <translation>Annuler tous les changements et quitter le mode de modification.</translation>
     </message>
     <message>
         <source>The class definition contains the following errors</source>
@@ -397,7 +397,7 @@
     <name>design/admin/class/edit_denied</name>
     <message>
         <source>Class edit conflict</source>
-        <translation>Conflit lors de l&apos;édition de la classe</translation>
+        <translation>Conflit lors de la modification de la classe</translation>
     </message>
     <message>
         <source>This class is already being edited by someone else.</source>
@@ -409,7 +409,7 @@
     </message>
     <message>
         <source>Contact the person who is editing the class.</source>
-        <translation>Contactez l&apos;utilisateur qui édite actuellement cette classe.</translation>
+        <translation>Contactez l&apos;utilisateur qui modifie actuellement cette classe.</translation>
     </message>
     <message>
         <source>Wait until the lock expires and try again.</source>
@@ -984,7 +984,7 @@
     </message>
     <message>
         <source>The storing of the class has been deferred because existing objects need to be updated. The process has been scheduled to run in the background and will be started automatically. Please do not edit the class again until the process has finished. You can monitor the progress of the background process here:</source>
-        <translation>L'enregistrement de la classe a été programmée car des objets existants doivent être mis à jour. Ce processus a été programmée pour s'exécuter en arrière plan et pour démarrer automatiquement. N'éditez pas la classe à nouveau avant que ce processus soit terminé. Vous pouvez surveiller l'évolution de ces processus ici&#160;:</translation>
+        <translation>L'enregistrement de la classe a été programmée car des objets existants doivent être mis à jour. Ce processus a été programmée pour s'exécuter en arrière plan et pour démarrer automatiquement. Ne modifiez pas la classe à nouveau avant que ce processus ne soit terminé. Vous pouvez surveiller l'évolution de ces processus ici&#160;:</translation>
     </message>
     <message>
         <source>Background process monitor</source>
@@ -1135,7 +1135,7 @@
     <name>design/admin/collaboration/handler/view/line/ezapprove</name>
     <message>
         <source>%1 awaits approval by editor</source>
-        <translation>%1 attend l&apos;approbation de l&apos;éditeur</translation>
+        <translation>%1 attend l&apos;approbation du modificateur</translation>
     </message>
     <message>
         <source>%1 was approved for publishing</source>
@@ -1797,7 +1797,7 @@
     </message>
     <message>
         <source>Store the contents of the draft that is being edited and continue editing. Use this button to periodically save your work while editing.</source>
-        <translation>Sauvegarder le contenu du brouillon qui est actuellement édité et continuer l&apos;édition. Utilisez ce bouton périodiquement pour sauvegarder votre travail tout en éditant.</translation>
+        <translation>Sauvegarder le contenu du brouillon qui est actuellement modifié et continuer la modification. Utilisez ce bouton périodiquement pour sauvegarder votre travail tout en le modifiant.</translation>
     </message>
     <message>
         <source>Discard draft</source>
@@ -1889,7 +1889,7 @@
     </message>
     <message>
         <source>Use these radio buttons to specify the main location (main node) for the object being edited.</source>
-        <translation>Utilisez ces boutons radio pour spécifier l&apos;emplacement principal (nœeud principal) pour l&apos;objet qui est édité.</translation>
+        <translation>Utilisez ces boutons radio pour spécifier l&apos;emplacement principal (nœeud principal) pour l&apos;objet qui est modifié.</translation>
     </message>
     <message>
         <source>Move to another location.</source>
@@ -1909,7 +1909,7 @@
     </message>
     <message>
         <source>Add one or more locations for the object being edited.</source>
-        <translation>Ajouter un ou plusieurs emplacements pour l&apos;objet qui est édité.</translation>
+        <translation>Ajouter un ou plusieurs emplacements pour l&apos;objet qui est modifié.</translation>
     </message>
     <message>
         <source>Object information</source>
@@ -1953,7 +1953,7 @@
     </message>
     <message>
         <source>View the draft that is being edited.</source>
-        <translation>Afficher le brouillon qui est édité.</translation>
+        <translation>Afficher le brouillon qui est modifié.</translation>
     </message>
     <message>
         <source>Store and exit</source>
@@ -1961,7 +1961,7 @@
     </message>
     <message>
         <source>Store the draft that is being edited and exit from edit mode.</source>
-        <translation>Sauver le brouillon qui est édité et quitter le mode d&apos;édition.</translation>
+        <translation>Sauver le brouillon qui est modifié et quitter le mode de modification.</translation>
     </message>
     <message>
         <source>Translate</source>
@@ -2001,7 +2001,7 @@
     </message>
     <message>
         <source>There are no objects related to the one that is currently being edited.</source>
-        <translation>Il n&apos;y a pas d&apos;objets en relation avec celui actuellement édité.</translation>
+        <translation>Il n&apos;y a pas d&apos;objets en relation avec celui actuellement modifié.</translation>
     </message>
     <message>
         <source>Remove the selected items from the list(s) above. It is only the relations that will be removed. The items will not be deleted.</source>
@@ -2049,11 +2049,11 @@
     </message>
     <message>
         <source>Discard the draft that is being edited. This will also remove the translations that belong to the draft (if any).</source>
-        <translation>Supprimer le brouillon actuellement édité. Cette action supprimera aussi les traductions qui appartiennent au brouillon (si elles existent).</translation>
+        <translation>Supprimer le brouillon actuellement modifié. Cette action supprimera aussi les traductions qui appartiennent au brouillon (si elles existent).</translation>
     </message>
     <message>
         <source>Back to edit</source>
-        <translation>Retour à l&apos;édition</translation>
+        <translation>Retour à la modification</translation>
     </message>
     <message>
         <source>Publish data</source>
@@ -2069,7 +2069,7 @@
     </message>
     <message>
         <source>Edit the current object showing the selected language as a reference.</source>
-        <translation>Editez l&apos;objet en cours en affichant la langue sélectionnée comme référence.</translation>
+        <translation>Modifiez l&apos;objet en cours en affichant la langue sélectionnée comme référence.</translation>
     </message>
     <message>
         <source>Relation type</source>
@@ -2165,7 +2165,7 @@
     </message>
     <message>
         <source>Toggle fullscreen editing!</source>
-        <translation>Activer / Désactiver l'édition en plein écran&#160;!</translation>
+        <translation>Activer / Désactiver la modification en plein écran&#160;!</translation>
     </message>
     <message>
         <source>Store draft and exit</source>
@@ -2263,7 +2263,7 @@
     </message>
     <message>
         <source>This object is already being edited by someone else. In addition, it is already being edited by you.</source>
-        <translation>Cet objet est actuellement en cours d&apos;édition par une autre personne. De plus, il est actuellement en cours d&apos;édition par vous.</translation>
+        <translation>Cet objet est actuellement en cours de modification par une autre personne. De plus, il est actuellement en cours de modification par vous.</translation>
     </message>
     <message>
         <source>You should contact the other user(s) to make sure that you are not stepping on anyone&apos;s toes.</source>
@@ -2275,7 +2275,7 @@
     </message>
     <message>
         <source>This object is already being edited by you.</source>
-        <translation>Cet objet est actuallement édité par vous même.</translation>
+        <translation>Cet objet est actuallement modifié par vous même.</translation>
     </message>
     <message>
         <source>Your most recently modified draft is version #%version, last changed: %modified.</source>
@@ -2283,7 +2283,7 @@
     </message>
     <message>
         <source>This object is already being edited by someone else.</source>
-        <translation>Cet objet est actuellement édité par une autre personne.</translation>
+        <translation>Cet objet est actuellement modifié par une autre personne.</translation>
     </message>
     <message>
         <source>Possible actions</source>
@@ -2291,15 +2291,15 @@
     </message>
     <message>
         <source>Continue editing one of your drafts.</source>
-        <translation>Continuer l&apos;édition de l&apos;un de vos brouillons.</translation>
+        <translation>Continuer la modification de l&apos;un de vos brouillons.</translation>
     </message>
     <message>
         <source>Create a new draft and start editing it.</source>
-        <translation>Créez un nouveau brouillon et débutez son édition.</translation>
+        <translation>Créez un nouveau brouillon et débutez sa modification.</translation>
     </message>
     <message>
         <source>Cancel the edit operation.</source>
-        <translation>Annuler l&apos;opération d&apos;édition.</translation>
+        <translation>Annuler l&apos;opération de modification.</translation>
     </message>
     <message>
         <source>Current drafts [%draft_count]</source>
@@ -2351,7 +2351,7 @@
     </message>
     <message>
         <source>Go back to editing and show the published data.</source>
-        <translation>Retourner à l&apos;édition et afficher les données publiées.</translation>
+        <translation>Retourner à la modification et afficher les données publiées.</translation>
     </message>
     <message>
         <source>Status</source>
@@ -3561,7 +3561,7 @@
     </message>
     <message>
         <source>The newly created object will be automatically related to the draft being edited (&lt;%version_name&gt;).</source>
-        <translation>L&apos;objet nouvellement créé sera automatiquement relié au brouillon en cours d&apos;édition (&lt;%version_name&gt;).</translation>
+        <translation>L&apos;objet nouvellement créé sera automatiquement relié au brouillon en cours de modification (&lt;%version_name&gt;).</translation>
     </message>
     <message>
         <source>The newly created object will be placed within the specified location.</source>
@@ -4380,7 +4380,7 @@
     </message>
     <message>
         <source>Back to edit</source>
-        <translation>Retour à l&apos;édition</translation>
+        <translation>Retour à la modification</translation>
     </message>
     <message>
         <source>Back</source>
@@ -6955,7 +6955,7 @@ Note&#160;: les paquetages ne seront pas désinstallés.</translation>
     </message>
     <message>
         <source>Edit mode settings</source>
-        <translation>Paramètres du mode d&apos;édition</translation>
+        <translation>Paramètres du mode de modification</translation>
     </message>
     <message>
         <source>on</source>
@@ -6963,7 +6963,7 @@ Note&#160;: les paquetages ne seront pas désinstallés.</translation>
     </message>
     <message>
         <source>Disable location window when editing content.</source>
-        <translation>Désactiver la fenêtre d&apos;emplacement lors de l&apos;édition du contenu.</translation>
+        <translation>Désactiver la fenêtre d&apos;emplacement lors de la modification du contenu.</translation>
     </message>
     <message>
         <source>off</source>
@@ -6971,7 +6971,7 @@ Note&#160;: les paquetages ne seront pas désinstallés.</translation>
     </message>
     <message>
         <source>Enable location window when editing content.</source>
-        <translation>Activer la fenêtre d&apos;emplacement lors de l&apos;édition de contenu.</translation>
+        <translation>Activer la fenêtre d&apos;emplacement lors de la modification du contenu.</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -6983,11 +6983,11 @@ Note&#160;: les paquetages ne seront pas désinstallés.</translation>
     </message>
     <message>
         <source>Disable &amp;quot;Back to edit&amp;quot; checkbox when editing content.</source>
-        <translation>Désactiver la case à cocher &amp;quot;Retour à l'édition&amp;quot; dans le formulaire de modification d'un contenu.</translation>
+        <translation>Désactiver la case à cocher &amp;quot;Retour à la modification&amp;quot; dans le formulaire de modification d'un contenu.</translation>
     </message>
     <message>
         <source>Enable &amp;quot;Back to edit&amp;quot; checkbox when editing content.</source>
-        <translation>Activer la case à cocher &amp;quot;Retour à l'édition&amp;quot; dans le formulaire de modification d'un contenu.</translation>
+        <translation>Activer la case à cocher &amp;quot;Retour à la modification&amp;quot; dans le formulaire de modification d'un contenu.</translation>
     </message>
     <message>
         <source>Edit profile</source>
@@ -7883,7 +7883,7 @@ Note&#160;: les paquetages ne seront pas désinstallés.</translation>
     </message>
     <message>
         <source>Click the &quot;OK&quot; button to finish the wizard. The policy will be added to the role that is currently being edited.</source>
-        <translation>Cliquez sur le bouton &quot;OK&quot; pour terminer l&apos;assistant. La politique de sécurité sera ajoutée au rôle en cours d&apos;édition.</translation>
+        <translation>Cliquez sur le bouton &quot;OK&quot; pour terminer l&apos;assistant. La politique de sécurité sera ajoutée au rôle en cours de modification.</translation>
     </message>
     <message>
         <source>Any</source>
@@ -11075,7 +11075,7 @@ Note&#160;: les paquetages ne seront pas désinstallés.</translation>
     <name>design/admin/shop/editvatrule</name>
     <message>
         <source>Edit VAT charging rule</source>
-        <translation>Editez la règle d&apos;affectation de la TVA</translation>
+        <translation>Modifiez la règle d&apos;affectation de la TVA</translation>
     </message>
     <message>
         <source>Create new VAT charging rule</source>
@@ -12867,7 +12867,7 @@ your account.</source>
     <name>design/admin/visual/templateedit</name>
     <message>
         <source>Edit template: &lt;%template&gt;</source>
-        <translation>Edition du template&#160;: &lt;%template&gt;</translation>
+        <translation>Modification du template&#160;: &lt;%template&gt;</translation>
     </message>
     <message>
         <source>Apply changes</source>
@@ -14881,7 +14881,7 @@ your account.</source>
     <name>design/standard/class/edit</name>
     <message>
         <source>Editing class - %1</source>
-        <translation>Édition de la classe - %1</translation>
+        <translation>Modification de la classe - %1</translation>
     </message>
     <message>
         <source>Name</source>
@@ -14965,7 +14965,7 @@ your account.</source>
     </message>
     <message>
         <source>Editing class group - %1</source>
-        <translation>Édition du groupe de classe - %1</translation>
+        <translation>Modification du groupe de classe - %1</translation>
     </message>
     <message>
         <source>Discard</source>
@@ -15056,7 +15056,7 @@ your account.</source>
     </message>
     <message>
         <source>This class has pending modifications defered to cronjob and thus it cannot be edited.</source>
-        <translation>Cette classe a des modifications en cours qui seront traitées par un script de cronjob, elle ne peut donc pas être édité.</translation>
+        <translation>Cette classe a des modifications en cours qui seront traitées par un script de cronjob, elle ne peut donc pas être modifiée.</translation>
     </message>
     <message>
         <source>Wait until the script is finished. You might see the status in the %urlstart script monitor%urlend&lt;/a&gt;.</source>
@@ -15417,7 +15417,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>%1 awaits approval by editor</source>
-        <translation>%1 attend l&apos;approbation de l&apos;éditeur</translation>
+        <translation>%1 attend l&apos;approbation du modificateur</translation>
     </message>
     <message>
         <source>%1 awaits your approval</source>
@@ -16519,7 +16519,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>Editing</source>
-        <translation>Édition</translation>
+        <translation>Modification</translation>
     </message>
     <message>
         <source>Current</source>
@@ -16683,7 +16683,7 @@ Si vous voulez laisser un commentaire au responsable de l&apos;approbation ou en
     </message>
     <message>
         <source>However you can select one of the following languages for editing</source>
-        <translation>Vous pouvez cependant choisir l&apos;une des langues suivantes pour l&apos;édition</translation>
+        <translation>Vous pouvez cependant choisir l&apos;une des langues suivantes pour la modification</translation>
     </message>
     <message>
         <source>You do not have permission to edit the object in any available languages.</source>
