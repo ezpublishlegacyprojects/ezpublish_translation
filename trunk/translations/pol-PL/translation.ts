@@ -3580,115 +3580,115 @@
     <name>design/admin/content/urlalias</name>
     <message>
         <source>The selected aliases were successfully removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznaczone aliasy zostały pomyślnie usunięte.</translation>
     </message>
     <message>
         <source>All aliases for this node were successfully removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie aliasy węzła zostały pomyślnie usunięte.</translation>
     </message>
     <message>
         <source>The specified language code &lt;%language&gt; is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podany kod języka &lt;%language&gt; jest nieprawidłowy.</translation>
     </message>
     <message>
         <source>Text is missing for the URL alias</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst jest zagubiony dla aliasu URL</translation>
     </message>
     <message>
         <source>Enter text in the input box to create a new alias.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź tekst w polu tekstowy aby utworzyć nowy alias.</translation>
     </message>
     <message>
         <source>The URL alias was successfully created, but was modified by the system to &lt;%new_alias&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias URL został pomyślnie dodany ale został zmodyfikowany przez system do postaci &lt;%new_alias&gt;</translation>
     </message>
     <message>
         <source>Invalid characters will be removed or transformed to valid characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowe znaki zostaną usunięte lub zamienione na prawidłow.</translation>
     </message>
     <message>
         <source>Existing objects or functionality with the same name take precedence on the name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Istniejące obiekty lub funkcje z taką samą nazwą mają pierwszeństwo na daną nazwę.</translation>
     </message>
     <message>
         <source>The URL alias &lt;%new_alias&gt; was successfully created</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias URL &lt;%new_alias&gt; został utworzony</translation>
     </message>
     <message>
         <source>The URL alias &amp;lt;%new_alias&amp;gt; already exists, and it points to &amp;lt;%action_url&amp;gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias URL &amp;lt;%new_alias&amp;gt; już istnieje i wskazuje na &amp;lt;%action_url&amp;gt;</translation>
     </message>
     <message>
         <source>URL aliases for &lt;%node_name&gt; [%alias_count]</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliasy URL dla węzła &lt;%node_name&gt; [%alias_count]</translation>
     </message>
     <message>
         <source>The current item does not have any aliases associated with it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualny element nie posiada żadnych aliasów URL.</translation>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation type="unfinished">Odwróć zaznaczenie.</translation>
+        <translation>Odwróć zaznaczenie.</translation>
     </message>
     <message>
         <source>URL alias</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias URL</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Język</translation>
+        <translation>Język</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Redirect</source>
-        <translation type="unfinished">Przekierowanie</translation>
+        <translation>Przekierowanie</translation>
     </message>
     <message>
         <source>Direct</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezpośrednio</translation>
     </message>
     <message>
         <source>Remove selected</source>
-        <translation type="unfinished">Usuń zaznaczone</translation>
+        <translation>Usuń zaznaczone</translation>
     </message>
     <message>
         <source>Remove selected alias from the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń zaznaczone aliasy z powyższej listy.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the selected aliases?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy na pewno chcesz usunąć wybrane aliasy?</translation>
     </message>
     <message>
         <source>Remove all</source>
-        <translation type="unfinished">Usuń wszystko</translation>
+        <translation>Usuń wszystko</translation>
     </message>
     <message>
         <source>Remove all aliases for this node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń wszystkie aliasy dla tego węzła.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove all aliases for this node?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy na pewno chcesz usunąć wszystkie aliasy dla tego węzła?</translation>
     </message>
     <message>
         <source>There are no removable aliases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie ma wymiennych aliasów.</translation>
     </message>
     <message>
         <source>You cannot remove any aliases because you do not have permission to edit the current item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie możesz usunąć aliasu poniewać nie masz uprawnień do edycji aktualnego elementu.</translation>
     </message>
     <message>
         <source>Generated aliases [%count]</source>
-        <translation type="unfinished"></translation>
+        <translation>Wygenerowane aliasy [%count]</translation>
     </message>
     <message>
         <source>Note that these entries are automatically generated from the name of the object. To change these names you must edit the object in the specific language and publish the changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwaga nazwy aliasów generowane są automatycznie aby zmienić nazwę aliasów w danym języku, musisz edytować dany obiekt.</translation>
     </message>
     <message>
         <source>Edit the contents for language %language.</source>
@@ -3700,43 +3700,43 @@
     </message>
     <message>
         <source>Create new alias</source>
-        <translation type="unfinished"></translation>
+        <translation>Utwórz nowy alias</translation>
     </message>
     <message>
         <source>URL alias name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa aliasu URL:</translation>
     </message>
     <message>
         <source>Enter the URL for the new alias. Use forward slashes (/) to create subentries.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpisz URL dla nowego aliasu. Użyj ukośników (/) aby utworzyć pozycje podrzędne.</translation>
     </message>
     <message>
         <source>Destination:</source>
-        <translation type="unfinished"></translation>
+        <translation>Przeznaczenie:</translation>
     </message>
     <message>
         <source>Destination.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przeznaczenie.</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Język:</translation>
     </message>
     <message>
         <source>Choose the language for the new URL alias.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz język nowego aliasu URL.</translation>
     </message>
     <message>
         <source>Not available</source>
-        <translation type="unfinished">Niedostępny</translation>
+        <translation>Niedostępny</translation>
     </message>
     <message>
         <source>Alias should redirect to its destination</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias powinień przekierować do miejsca przeznaczenia</translation>
     </message>
     <message>
         <source>With &lt;em&gt;Alias should redirect to its destination&lt;/em&gt; checked eZ Publish will redirect to the destination using a HTTP 301 response. Un-check it and the URL will stay the same &amp;#8212; no redirection will be performed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres zostanie przekierowany do miejsca przeznaczenia przy pomocy protokołu odpowiedzi HTTP 301. Usuń zaznaczenie jeśli nie chcesz aby tak się stało.</translation>
     </message>
     <message>
         <source>If checked the alias will start from the parent of the current node. If un-checked the aliases will start from the root of the site.</source>
@@ -3772,7 +3772,7 @@
     </message>
     <message>
         <source>Generated aliases (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wygenerowane aliasy (%count)</translation>
     </message>
 </context>
 <context>
