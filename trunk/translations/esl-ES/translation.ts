@@ -13298,7 +13298,7 @@ tu cuenta.</translation>
     </message>
     <message>
         <source>Please install a payment extension first.</source>
-        <translation>Por favor, primeor instala una extensión de pasarela de pago.</translation>
+        <translation>Por favor, primero instala una extensión de pasarela de pago.</translation>
     </message>
     <message>
         <source>User</source>
