@@ -1171,7 +1171,7 @@
     </message>
     <message>
         <source>Unread</source>
-        <translation>Cofnij czytaj</translation>
+        <translation>Nieprzeczytane</translation>
     </message>
     <message>
         <source>Inactive</source>
@@ -1279,7 +1279,7 @@
     </message>
     <message>
         <source>Back</source>
-        <translation>Cofnij</translation>
+        <translation>Wstecz</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1523,7 +1523,7 @@
     </message>
     <message>
         <source>Back</source>
-        <translation>Cofnij</translation>
+        <translation>Wstecz</translation>
     </message>
     <message>
         <source>You have already submitted this form. The previously submitted data was:</source>
@@ -2071,7 +2071,7 @@
     </message>
     <message>
         <source>Back to edit</source>
-        <translation>Cofnij do edycji</translation>
+        <translation>Powrót do edycji</translation>
     </message>
     <message>
         <source>Common</source>
@@ -2605,7 +2605,7 @@
     </message>
     <message>
         <source>Back</source>
-        <translation>Cofnij</translation>
+        <translation>Wstecz</translation>
     </message>
     <message>
         <source>Translations</source>
@@ -2936,7 +2936,7 @@
     </message>
     <message>
         <source>Do not restore &lt;%name&gt; and return to trash.</source>
-        <translation>Nie przywracaj &lt;%name&gt; i cofnij do kosza. </translation>
+        <translation>Nie przywracaj &lt;%name&gt; i wróć do kosza. </translation>
     </message>
     <message>
         <source>Restoring object &lt;%name&gt; [%className]</source>
@@ -4386,7 +4386,7 @@
     </message>
     <message>
         <source>Back to edit</source>
-        <translation type="unfinished">Cofnij do edycji</translation>
+        <translation type="unfinished">Powrót do edycji</translation>
     </message>
     <message>
         <source>Back</source>
@@ -11071,11 +11071,11 @@ Uwaga: Pakiety nie będą mogły być odinstalowane.
     </message>
     <message>
         <source>Back</source>
-        <translation>Cofnij</translation>
+        <translation>Wstecz</translation>
     </message>
     <message>
         <source>Back to the currency list</source>
-        <translation>Cofnij do listy walut</translation>
+        <translation>Powrót do listy walut</translation>
     </message>
     <message>
         <source>Finish creating currency.</source>
@@ -11625,7 +11625,7 @@ Uwaga: Pakiety nie będą mogły być odinstalowane.
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished">Cofnij</translation>
+        <translation type="unfinished">Wstecz</translation>
     </message>
     <message>
         <source>Removing VAT type &lt;%1&gt; will result in resetting VAT type for %2 products to their default value.</source>
@@ -12715,7 +12715,7 @@ your account.</source>
     </message>
     <message>
         <source>Back</source>
-        <translation>Cofnij</translation>
+        <translation>Wstecz</translation>
     </message>
 </context>
 <context>
@@ -15311,7 +15311,7 @@ your account.</source>
     </message>
     <message>
         <source>Unread</source>
-        <translation>Cofnij czytaj</translation>
+        <translation>Nieprzeczytane</translation>
     </message>
     <message>
         <source>Inactive</source>
@@ -21648,7 +21648,7 @@ Aby naprawić ten problem musisz wybrać jedno z poniższych rozwiązań:</trans
     <message>
         <source>Back</source>
         <comment>back button in installation</comment>
-        <translation>Cofnij</translation>
+        <translation>Wstecz</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -23537,7 +23537,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished">Cofnij</translation>
+        <translation>Wstecz</translation>
     </message>
     <message>
         <source>Archive</source>
@@ -24383,7 +24383,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>Back</source>
-        <translation>Cofnij</translation>
+        <translation>Wstecz</translation>
     </message>
     <message>
         <source>The node (%1) specified in [UserSettings].DefaultUserPlacement setting in site.ini does not exist!</source>
