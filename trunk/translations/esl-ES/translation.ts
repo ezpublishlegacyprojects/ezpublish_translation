@@ -4470,7 +4470,7 @@
     <name>design/admin/dashboard/all_latest_content</name>
     <message>
         <source>All latest content</source>
-        <translation>Todo el contenifo nuevo</translation>
+        <translation>Todo el contenido nuevo</translation>
     </message>
     <message>
         <source>Name</source>
