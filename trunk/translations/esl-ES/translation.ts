@@ -3883,11 +3883,11 @@
     </message>
     <message>
         <source>Enter the URL for the new alias. Use forward slashes (/) to create subentries.</source>
-        <translation>Esbribir la URL para el nuevo alias. Usar barras (/) para crear subentradas.</translation>
+        <translation>Escribir la URL para el nuevo alias. Usar barras (/) para crear subentradas.</translation>
     </message>
     <message>
         <source>Enter the destination URL for the new alias. Use forward slashes (/) to create subentries.</source>
-        <translation>Esbribir la URL de destino para el nuevo alias. Usar barras (/) para crear subentradas.</translation>
+        <translation>Escribir la URL de destino para el nuevo alias. Usar barras (/) para crear subentradas.</translation>
     </message>
     <message>
         <source>Choose the language for the new URL alias.</source>
