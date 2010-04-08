@@ -6703,7 +6703,7 @@ Nota: los paquetes no serán desinstalados.</translation>
     </message>
     <message>
         <source>All content</source>
-        <translation>Todo el cotenido</translation>
+        <translation>Todo el contenido</translation>
     </message>
     <message>
         <source>Search only from the current location.</source>
