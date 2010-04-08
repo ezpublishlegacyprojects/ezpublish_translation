@@ -7728,7 +7728,7 @@ Nota: los paquetes no serán desinstalados.</translation>
     </message>
     <message>
         <source>Step one: select module</source>
-        <translation>Paso uno: elegir modulo</translation>
+        <translation>Paso uno: elegir módulo</translation>
     </message>
     <message>
         <source>Instructions</source>
