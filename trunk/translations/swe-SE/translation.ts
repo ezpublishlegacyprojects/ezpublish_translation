@@ -7536,7 +7536,7 @@ Obs: Paketen avinstalleras inte.</translation>
     </message>
     <message>
         <source>Edit in</source>
-        <translation>Redigera i</translation>
+        <translation>Redigera på</translation>
     </message>
     <message>
         <source>Another language</source>
@@ -7576,7 +7576,7 @@ Obs: Paketen avinstalleras inte.</translation>
     </message>
     <message>
         <source>New translation</source>
-        <translation>Nu översättning</translation>
+        <translation>Ny översättning</translation>
     </message>
 </context>
 <context>
