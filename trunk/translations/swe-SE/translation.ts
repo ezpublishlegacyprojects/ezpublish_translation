@@ -5,14 +5,14 @@
     <name>contentstructuremenu/show_content_structure</name>
     <message>
         <source>Node ID: %node_id Visibility: %visibility</source>
-        <translation>Nod ID: %node_id Synlighet: %visibility</translation>
+        <translation>Nod-id: %node_id Synlighet: %visibility</translation>
     </message>
 </context>
 <context>
     <name>design</name>
     <message>
         <source>%group_name [Content object state group]</source>
-        <translation>%group_nam&apos;[Content object state group]</translation>
+        <translation>%group_name [Content object state group]</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -27,7 +27,7 @@
     <name>design/admin/class/classlist</name>
     <message>
         <source>%group_name [Class group]</source>
-        <translation>%group_name (Klass grupp)</translation>
+        <translation>%group_name (Klassgrupp)</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -103,19 +103,19 @@
     </message>
     <message>
         <source>Create a copy of the &lt;%class_name&gt; class.</source>
-        <translation>Skapa en kopia av &lt;%class_name&gt; klass.</translation>
+        <translation>Skapa en kopia av klassen &lt;%class_name&gt;.</translation>
     </message>
     <message>
         <source>Edit the &lt;%class_name&gt; class.</source>
-        <translation>Ändra &lt;%class_name&gt; klass.</translation>
+        <translation>Ändra klassen &lt;%class_name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected classes from the &lt;%class_group_name&gt; class group.</source>
-        <translation>Radera valda klasser från &lt;%class_group_name&gt;-klass grupp.</translation>
+        <translation>Radera valda klasser från klassgruppen &lt;%class_group_name&gt;.</translation>
     </message>
     <message>
         <source>Create a new class within the &lt;%class_group_name&gt; class group.</source>
-        <translation>Skapa ny klass inom &lt;%class_group_name&gt;-klassgrupp.</translation>
+        <translation>Skapa ny klass inom klassgruppen &lt;%class_group_name&gt;.</translation>
     </message>
     <message>
         <source>Use this menu to select the language you to want use then click the &quot;New class&quot; button. The item will be created within the current location.</source>
@@ -127,14 +127,14 @@
     </message>
     <message>
         <source>List of classes inside %group_name class group (%class_count)</source>
-        <translation>Lista på klasser inuti %group_name class group (%class_count)</translation>
+        <translation>Lista klasser i klassgruppen %group_name (%class_count)</translation>
     </message>
 </context>
 <context>
     <name>design/admin/class/datatype/browse_objectrelation_placement</name>
     <message>
         <source>Choose node for default selection</source>
-        <translation>Välj nod för standard val</translation>
+        <translation>Välj nod för standardval</translation>
     </message>
     <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
@@ -264,7 +264,7 @@
     </message>
     <message>
         <source>Use this checkbox for attributes that contain non-translatable content.</source>
-        <translation>Använd denna kryssruta för attribut som innehåller icke-överättbart innehåll.</translation>
+        <translation>Använd denna kryssruta för attribut som innehåller icke-översättbart innehåll.</translation>
     </message>
     <message>
         <source>Remove the selected attributes.</source>
@@ -272,7 +272,7 @@
     </message>
     <message>
         <source>Add a new attribute to the class. Use the menu on the left to select the attribute type.</source>
-        <translation>Välj ett nytt attribut för klassen. Använd menyn på vänster sida för att välja attributstyp.</translation>
+        <translation>Välj ett nytt attribut för klassen. Använd menyn till vänster sida för att välja attributstyp.</translation>
     </message>
     <message>
         <source>Store changes and exit from edit mode.</source>
@@ -284,7 +284,7 @@
     </message>
     <message>
         <source>Discard all changes and exit from edit mode.</source>
-        <translation>Ångra ändringar och stäng ner ändrings-läget.</translation>
+        <translation>Ångra ändringar och stäng ner ändringsläget.</translation>
     </message>
     <message>
         <source>The class definition contains the following errors</source>
@@ -292,7 +292,7 @@
     </message>
     <message>
         <source>Use these controls to set the default sorting method for the sub items of instances of the content class.</source>
-        <translation>Använd dessa kontroller för att ange standard sorteringsmetod för underobjekten av instanser av innehållsklassen.</translation>
+        <translation>Använd dessa kontroller för att ange skönssorteringsmetod för underobjekten av instanser av innehållsklassen.</translation>
     </message>
     <message>
         <source>Descending</source>
@@ -308,7 +308,7 @@
     </message>
     <message>
         <source>Default sorting of children</source>
-        <translation>Standardsortering av underobjekt</translation>
+        <translation>Skönssortering av underobjekt</translation>
     </message>
     <message>
         <source>Use this field to set the internal name of the class. The identifier will be used in templates and in PHP code. Allowed characters are letters, numbers and underscores.</source>
@@ -320,11 +320,11 @@
     </message>
     <message>
         <source>URL alias name pattern</source>
-        <translation>URL-alias namnmönster</translation>
+        <translation>Namnmönster för URL-alias</translation>
     </message>
     <message>
         <source>Use this field to configure how the url alias of the objects are generated (applies to nice URLs). Type in the identifiers of the attributes that should be used. The identifiers must be enclosed in angle brackets. Text outside angle brackets will be included as is.</source>
-        <translation>Använd detta fält för att konfigurera hur objektens url-alias ska genereras (gäller för nice URL:er). Skriv identifierarna för de attribut som ska användas. Identifierarna måste bifogas i hakparenteser. Text utanför hakparenteser kommer att inkluderas som den är.</translation>
+        <translation>Använd detta fält för att konfigurera hur objektens url-alias ska genereras (gäller för vänliga URL:er). Skriv identifierarna för de attribut som ska användas. Identifierarna måste bifogas i hakparenteser. Text utanför hakparenteser kommer att inkluderas som den är.</translation>
     </message>
     <message>
         <source>Use this checkbox to allow instances of the class to have sub items. If checked, it will be possible to create new sub items. If not checked, the sub items will not be displayed.</source>
@@ -385,7 +385,7 @@
     <message>
         <source>Use this category to group attributes together in edit interface, some categories might also be hidden in full view if they are for instance only meta attributes.</source>
         <translatorcomment>Hm, ser att det är en konstig översättning. Men för tillfället den bästa jag kan komma på.</translatorcomment>
-        <translation>Använd denna kategor för att gruppera ihop attribut i redigeringsgränssnittet, vissa kategorier kan också vara dolda i full vy om de bara är meta attribut.</translation>
+        <translation>Använd denna kategor för att gruppera attribut i redigeringsgränssnittet, vissa kategorier kan också vara dolda i full vy om de bara är metaattribut.</translation>
     </message>
     <message>
         <source>Default</source>
@@ -509,7 +509,7 @@
     </message>
     <message>
         <source>Edit the &lt;%class_group_name&gt; class group.</source>
-        <translation>Ändra &lt;%class_group_name&gt; klassgrupp.</translation>
+        <translation>Ändra klassgruppen &lt;%class_group_name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -541,7 +541,7 @@
     </message>
     <message>
         <source>Edit the &lt;%class_name&gt; class.</source>
-        <translation>Ändra &lt;%class_name&gt; klass.</translation>
+        <translation>Ändra klassen &lt;%class_name&gt;.</translation>
     </message>
     <message>
         <source>Class groups (%group_count)</source>
@@ -549,7 +549,7 @@
     </message>
     <message>
         <source>List of class groups</source>
-        <translation>Lista över klass-grupper</translation>
+        <translation>Lista över klassgrupper</translation>
     </message>
     <message>
         <source>List of recently modified classes</source>
@@ -576,7 +576,7 @@
     </message>
     <message>
         <source>Confirm class removal</source>
-        <translation>Konfirmera borttagning av klass</translation>
+        <translation>Bekräfta borttagning av klass</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the classes?</source>
@@ -600,7 +600,7 @@
     </message>
     <message>
         <source>Removing class &lt;%1&gt; will result in the removal of %2 objects and all their sub items.</source>
-        <translation>Radering av klassen &lt;%1&gt; kommer resultera i att också %2 objekt raderas inlkusive deras underariklar.</translation>
+        <translation>Radering av klassen &lt;%1&gt; kommer resultera i att också %2 objekt raderas inklusive deras underartiklar.</translation>
     </message>
 </context>
 <context>
@@ -615,7 +615,7 @@
     </message>
     <message>
         <source>Confirm class group removal</source>
-        <translation>Konfirmera radering av klassgrupp</translation>
+        <translation>Bekräfta radering av klassgrupp</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the class group?</source>
@@ -642,7 +642,7 @@
     </message>
     <message>
         <source>Are you sure you want to remove the following translations from class &lt;%1&gt;?</source>
-        <translation>Är du säker att du vill radera följande översättningar från class &lt;%1&gt;?</translation>
+        <translation>Är du säker att du vill radera följande översättningar från klass &lt;%1&gt;?</translation>
     </message>
     <message>
         <source>Language</source>
@@ -711,7 +711,7 @@
     </message>
     <message>
         <source>Container</source>
-        <translation>Innehållare</translation>
+        <translation>Behållare</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -767,11 +767,11 @@
     </message>
     <message>
         <source>Override templates [%1]</source>
-        <translation>Särskillt stilmall [%1]</translation>
+        <translation>Anpassade stilmallar [%1]</translation>
     </message>
     <message>
         <source>Override</source>
-        <translation>Särskilld</translation>
+        <translation>Anpassa</translation>
     </message>
     <message>
         <source>Source template</source>
@@ -779,7 +779,7 @@
     </message>
     <message>
         <source>Override template</source>
-        <translation>Särskilld stilmall</translation>
+        <translation>Anpassad stilmall</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -787,11 +787,11 @@
     </message>
     <message>
         <source>Input did not validate</source>
-        <translation>Inmatning validerades inte</translation>
+        <translation>Inmatningen validerades inte</translation>
     </message>
     <message>
         <source>%class_name [Class]</source>
-        <translation>%class_name (Klass]</translation>
+        <translation>%class_name [Klass]</translation>
     </message>
     <message>
         <source>Edit this class.</source>
@@ -939,11 +939,11 @@
     </message>
     <message>
         <source>Override templates</source>
-        <translation>Särskilld stilmall</translation>
+        <translation>Anpassade stilmallar</translation>
     </message>
     <message>
         <source>Show override templates.</source>
-        <translation>Visa särskillda mallar.</translation>
+        <translation>Visa anpassade mallar.</translation>
     </message>
     <message>
         <source>Hide available translations.</source>
@@ -1004,11 +1004,11 @@
     </message>
     <message>
         <source>Override templates (%1)</source>
-        <translation>Särskillt stilmall (%1)</translation>
+        <translation>Anpassade stilmallar (%1)</translation>
     </message>
     <message>
         <source>Translations (%translations)</source>
-        <translation>Översättningar (%translations</translation>
+        <translation>Översättningar (%translations)</translation>
     </message>
     <message>
         <source>Description</source>
@@ -1560,7 +1560,7 @@
     <name>design/admin/content/confirmtranslationremove</name>
     <message>
         <source>Confirm language removal</source>
-        <translation>Konfirmera borttagning av språk</translation>
+        <translation>Bekräfta borttagning av språk</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the language?</source>
@@ -2773,7 +2773,7 @@ Filtyp</translation>
     </message>
     <message>
         <source>Confirm location removal</source>
-        <translation>Konfirmera borttagning av plats</translation>
+        <translation>Bekräfta borttagning av plats</translation>
     </message>
     <message>
         <source>Insufficient permissions</source>
@@ -4408,7 +4408,7 @@ Parametrarna är länk start och sluttaggar.</translation>
     </message>
     <message>
         <source>Node ID</source>
-        <translation>Nod ID</translation>
+        <translation>Nod-id</translation>
     </message>
     <message>
         <source>Visibility</source>
@@ -4900,7 +4900,7 @@ Knapp</translation>
     <name>design/admin/infocollector/confirmremoval</name>
     <message>
         <source>Confirm information collection removal</source>
-        <translation>Konfirmera borttagning av informationsinsamling</translation>
+        <translation>Bekräfta borttagning av informationsinsamling</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the collected information?</source>
@@ -5020,7 +5020,7 @@ Knapp</translation>
     </message>
     <message>
         <source>Override templates</source>
-        <translation>Särskilld stilmall</translation>
+        <translation>Anpassade stilmallar</translation>
     </message>
 </context>
 <context>
@@ -5062,7 +5062,7 @@ Knapp</translation>
     <name>design/admin/node/removeobject</name>
     <message>
         <source>Confirm location removal</source>
-        <translation>Konfirmera borttagning av plats</translation>
+        <translation>Bekräfta borttagning av plats</translation>
     </message>
     <message>
         <source>Insufficient permissions</source>
@@ -5118,7 +5118,7 @@ Knapp</translation>
     </message>
     <message>
         <source>Confirm translation removal</source>
-        <translation>Konfirmera borttagning av översättning</translation>
+        <translation>Bekräfta borttagning av översättning</translation>
     </message>
     <message>
         <source>Cancel the removal of translations.</source>
@@ -5351,7 +5351,7 @@ Knapp</translation>
     </message>
     <message>
         <source>Node ID</source>
-        <translation>Nod ID</translation>
+        <translation>Nod-id</translation>
     </message>
     <message>
         <source>Object ID</source>
@@ -5955,7 +5955,7 @@ Knapp</translation>
     </message>
     <message>
         <source>Node and object details like creator, when it was created, section it belongs to, number of versions and translations, Node ID and Object ID.</source>
-        <translation>Nod och objektsdetaljer som skapare, när den var skapad, sektions som den tillhör, antal versioner och överättningar, Nod ID och Objekts ID.</translation>
+        <translation>Nod och objektsdetaljer som skapare, när den var skapad, sektions som den tillhör, antal versioner och överättningar, Nod-id och Objekts ID.</translation>
     </message>
     <message>
         <source>Content state</source>
@@ -6030,7 +6030,7 @@ Knapp</translation>
     <name>design/admin/node/view/line</name>
     <message>
         <source>Node ID: %node_id Visibility: %node_visibility</source>
-        <translation>Nod ID: %node_id Synlighet: %node_visibility</translation>
+        <translation>Nod-id: %node_id Synlighet: %node_visibility</translation>
     </message>
     <message>
         <source>Click on the icon to display a context-sensitive menu.</source>
@@ -7516,15 +7516,15 @@ Obs: Paketen avinstalleras inte.</translation>
     </message>
     <message>
         <source>Template overrides</source>
-        <translation>Särskilld stilmall</translation>
+        <translation>Anpassade stilmallar</translation>
     </message>
     <message>
         <source>New class override</source>
-        <translation>Ny särskilld klass </translation>
+        <translation>Ny anpassad klass </translation>
     </message>
     <message>
         <source>New node override</source>
-        <translation>Ny nod override</translation>
+        <translation>Ny anpassad nod</translation>
     </message>
     <message>
         <source>Remove bookmark</source>
@@ -8918,7 +8918,7 @@ Obs: Paketen avinstalleras inte.</translation>
     </message>
     <message>
         <source>Confirm section removal</source>
-        <translation>Konfirmera sektionsradering</translation>
+        <translation>Bekräfta sektionsradering</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the sections?</source>
@@ -9432,11 +9432,11 @@ Obs: Paketen avinstalleras inte.</translation>
     </message>
     <message>
         <source>Template overrides and compiled templates</source>
-        <translation>Särskillda stilmallar och färdigställda stilmallar</translation>
+        <translation>Anpassade stilmallar och färdigställda stilmallar</translation>
     </message>
     <message>
         <source>Clear template caches</source>
-        <translation>Töm stilmalls cache</translation>
+        <translation>Töm cachen för stilmallar</translation>
     </message>
     <message>
         <source>Content views and template blocks</source>
@@ -9496,15 +9496,15 @@ Obs: Paketen avinstalleras inte.</translation>
     </message>
     <message>
         <source>Static content cache was regenerated</source>
-        <translation>Statiskt innehållscache återgenererades</translation>
+        <translation>Cachen för statiskt innehåll återgenererades</translation>
     </message>
     <message>
         <source>Static content cache</source>
-        <translation>Statiskt innehåll cache</translation>
+        <translation>Cache för statiskt innehåll</translation>
     </message>
     <message>
         <source>Regenerate static content cache</source>
-        <translation>Återgenerera statiskt innehålls cache</translation>
+        <translation>Återgenerera cachen för statiskt innehåll</translation>
     </message>
     <message>
         <source>Create new</source>
@@ -9512,15 +9512,15 @@ Obs: Paketen avinstalleras inte.</translation>
     </message>
     <message>
         <source>This operation will clear all the template override caches and the compiled templates. It may lead to slower site performance until the caches are recreated.</source>
-        <translation>Denna funktion kommer att rensa bort alla specialmalls cachar och redan kompilerade mallar. Det kan leda till långsammare webbplats tills cacheminnen återskapas.</translation>
+        <translation>Rensa cachen för specialmallar och redan kompilerade mallar. Webbplatsen blir långsammare tills cachen fyllts på igen.</translation>
     </message>
     <message>
         <source>This operation will clear all caches that are related to either template views or cache blocks inside the pagelayout template. Use it if you have modified templates or if you have made changes inside a cache block.</source>
-        <translation>Denna funktion kommer att rensa bort alla cachar som är relaterade till antingen mall cache eller blockr cache inuti pagelayout mallen. Använd den om du har ändrat mallar eller om du har gjort ändringar i ett cache block.</translation>
+        <translation>Rensa bort alla cachar som är relaterade till antingen mallar eller cache-block inuti pagelayout-mallen. Använd den om du har ändrat mallar eller om du har gjort ändringar i ett cache-block.</translation>
     </message>
     <message>
         <source>Clear Ini caches</source>
-        <translation>Radera ini cachar</translation>
+        <translation>Radera ini-cachar</translation>
     </message>
     <message>
         <source>This operation will clear all the configuration caches. Use it to force the system to re-read the configuration files if you have changed settings.</source>
@@ -10489,11 +10489,11 @@ Obs: Paketen avinstalleras inte.</translation>
     <name>design/admin/shop/confirmorder</name>
     <message>
         <source>Order confirmation</source>
-        <translation>Konfirmera order</translation>
+        <translation>Bekräfta order</translation>
     </message>
     <message>
         <source>Please confirm that the information below is correct. Click &quot;Confirm order&quot; to confirm the order.</source>
-        <translation>Vänligen konfimera att informationen nedan är korrekt. Klicka på &quot;Konfirmera order&quot; för att konfirmera ordern.</translation>
+        <translation>Vänligen konfimera att informationen nedan är korrekt. Klicka på &quot;Bekräfta order&quot; för att konfirmera ordern.</translation>
     </message>
     <message>
         <source>Customer</source>
@@ -11509,7 +11509,7 @@ Obs: Paketen avinstalleras inte.</translation>
     </message>
     <message>
         <source>Confirm order removal</source>
-        <translation>Konfirmera borttagning av beställning</translation>
+        <translation>Bekräfta borttagning av beställning</translation>
     </message>
     <message>
         <source>Are you sure you want to remove order #%order_number?</source>
@@ -12839,7 +12839,7 @@ ditt konto.</translation>
     </message>
     <message>
         <source>Node ID</source>
-        <translation>Nod ID</translation>
+        <translation>Nod-id</translation>
     </message>
     <message>
         <source>Base template on</source>
@@ -15249,11 +15249,11 @@ ditt konto.</translation>
     </message>
     <message>
         <source>Override templates</source>
-        <translation>Särskilld stilmall</translation>
+        <translation>Anpassade stilmallar</translation>
     </message>
     <message>
         <source>Override</source>
-        <translation>Override</translation>
+        <translation>Anpassa</translation>
     </message>
     <message>
         <source>Source template</source>
@@ -15261,15 +15261,15 @@ ditt konto.</translation>
     </message>
     <message>
         <source>Override template</source>
-        <translation>Särskilld stilmall</translation>
+        <translation>Anpassa stilmall</translation>
     </message>
     <message>
         <source>Objects always available (default value)</source>
-        <translation>Objekt alltid tillgängliga (standardvärde)</translation>
+        <translation>Objekt alltid tillgängliga (skönsvärde)</translation>
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation>SiteAccess</translation>
+        <translation>sajtingång</translation>
     </message>
     <message>
         <source>Description</source>
@@ -17781,7 +17781,7 @@ Om du vill skicka kommentarer till personen som godkänner eller visa statusen, 
     </message>
     <message>
         <source>Node ID</source>
-        <translation>Nod ID</translation>
+        <translation>Nod-id</translation>
     </message>
     <message>
         <source>Base template on</source>
@@ -18097,15 +18097,15 @@ Om du vill skicka kommentarer till personen som godkänner eller visa statusen, 
     </message>
     <message>
         <source>The module name was misspelled, try changing the URL.</source>
-        <translation>Modulnamnet är felstavadt Försök ändra URL.</translation>
+        <translation>Modulnamnet är felstavat. Försök ändra URL:en.</translation>
     </message>
     <message>
         <source>The view name was misspelled, try changing the URL.</source>
-        <translation>Vynamnet är felstavadt Försök ändra URL.</translation>
+        <translation>Vynamnet är felstavat. Försök ändra URL:en.</translation>
     </message>
     <message>
         <source>Possible reasons for this are</source>
-        <translation>Möjliga orsaker för detta är</translation>
+        <translation>Möjliga orsaker till detta är</translation>
     </message>
     <message>
         <source>You do not have permission to access this area.</source>
@@ -18501,7 +18501,7 @@ Om du gör det kommer också underobjekt att raderas.</translation>
     </message>
     <message>
         <source>Node ID</source>
-        <translation>Nod ID</translation>
+        <translation>Nod-id</translation>
     </message>
     <message>
         <source>Object ID</source>
@@ -18817,7 +18817,7 @@ Objektet kan öppnas via URL:en nedan.</translation>
     </message>
     <message>
         <source>Confirm removal</source>
-        <translation>Konfirmera borttagning</translation>
+        <translation>Bekräfta borttagning</translation>
     </message>
     <message>
         <source>Keep packages</source>
@@ -20588,15 +20588,15 @@ Genom att använda %operatorname kan du ...</translation>
     </message>
     <message>
         <source>Template overrides and template compiling.</source>
-        <translation>Särskillda stilmallar och färdigställda stilmallar.</translation>
+        <translation>Anpassade stilmallar och färdigställda stilmallar.</translation>
     </message>
     <message>
         <source>Template caches</source>
-        <translation>Sidmalls cachar</translation>
+        <translation>Cachar för sidmallar</translation>
     </message>
     <message>
         <source>Template caches are disabled</source>
-        <translation>Template-cachar är avstända</translation>
+        <translation>sidmalls-cachar är avstända</translation>
     </message>
     <message>
         <source>Name</source>
@@ -20628,11 +20628,11 @@ Genom att använda %operatorname kan du ...</translation>
     </message>
     <message>
         <source>File consistency check OK</source>
-        <translation>Filinnehålls koll OK</translation>
+        <translation>Filinnehållskoll OK</translation>
     </message>
     <message>
         <source>Click a button to check file consistency.</source>
-        <translation>Klicka på en knapp för att kontrollera fil sammanhang.</translation>
+        <translation>Klicka på en knapp för att kontrollera filintegritet.</translation>
     </message>
     <message>
         <source>Check files</source>
@@ -20648,11 +20648,11 @@ Genom att använda %operatorname kan du ...</translation>
     </message>
     <message>
         <source>Current siteaccess</source>
-        <translation>SiteAccess inställning</translation>
+        <translation>Sajtingångsinställning</translation>
     </message>
     <message>
         <source>Select siteaccess</source>
-        <translation>Välj SiteAccess</translation>
+        <translation>Välj sajtingång</translation>
     </message>
     <message>
         <source>Database check OK</source>
@@ -20660,15 +20660,15 @@ Genom att använda %operatorname kan du ...</translation>
     </message>
     <message>
         <source>Warning, your database is not consistent with the distribution database.</source>
-        <translation>Varning, databasen överensstämmer inte med ursprungliga databasstrukturen.</translation>
+        <translation>Varning, databasens struktur överensstämmer inte med den ursprungliga databasstrukturen.</translation>
     </message>
     <message>
         <source>Click a button to check database consistency.</source>
-        <translation>Klicka för att kontrollera databasöverensstämmelse.</translation>
+        <translation>Klicka för att jämföra databasens struktur med den ursprungliga strukturen.</translation>
     </message>
     <message>
         <source>Check database</source>
-        <translation>Kontrollera databas</translation>
+        <translation>Kontrollera databasen</translation>
     </message>
     <message>
         <source>Any</source>
@@ -20680,7 +20680,7 @@ Genom att använda %operatorname kan du ...</translation>
     </message>
     <message>
         <source>Here you can activate/deactivate you extensions. Only system wide extensions can be activated, for site access specific extensions, modify these configuration files.</source>
-        <translation>Här kan du aktivera/deaktivera dina tillägg. Endast systemvida tillägg kan bli aktiverade, för SiteAccess specifika extnsioner så använder du konfigurationsfilerna för dessa.</translation>
+        <translation>Här kan du aktivera/deaktivera dina tillägg. Endast systemtillägg kan aktiveras, för sajtingångsspecifika tillägg använder du konfigurationsfilerna för respektive sajtingång.</translation>
     </message>
     <message>
         <source>Operating System</source>
@@ -20710,7 +20710,7 @@ Genom att använda %operatorname kan du ...</translation>
     </message>
     <message>
         <source>Mail</source>
-        <translation>Mail</translation>
+        <translation>E-post</translation>
     </message>
     <message>
         <source>Language</source>
@@ -20718,11 +20718,11 @@ Genom att använda %operatorname kan du ...</translation>
     </message>
     <message>
         <source>Site</source>
-        <translation>Site</translation>
+        <translation>Sajt</translation>
     </message>
     <message>
         <source>To revert your database to distribution setup, run the following SQL queries</source>
-        <translation>För att gå tillbaka till orginaldatabasen som kom med installationen kör följande SQL-kommandon</translation>
+        <translation>För att återgå till orginalstrukturen för databasen som kom med installationen kör följande SQL-kommandon</translation>
     </message>
     <message>
         <source>Activate extensions</source>
@@ -20815,7 +20815,7 @@ Genom att använda %operatorname kan du ...</translation>
     </message>
     <message>
         <source>The rapid application development (RAD) tools allow you to easily get started with creating new functionality for eZ Publish.</source>
-        <translation>RAD (rapid application development) -verktygen hjälper dig att skapa ny funktionalitet för eZ Publish.</translation>
+        <translation>Verktygen för rapid application development, RAD, hjälper dig att skapa ny funktionalitet för eZ Publish.</translation>
     </message>
     <message>
         <source>Warning: it is not safe to upgrade without checking the modifications done to the following files </source>
@@ -24711,7 +24711,7 @@ ditt konto.</translation>
     </message>
     <message>
         <source>Node ID</source>
-        <translation>Nod ID</translation>
+        <translation>Nod-id</translation>
     </message>
     <message>
         <source>Base template on</source>
@@ -25368,27 +25368,27 @@ ditt konto.</translation>
     </message>
     <message>
         <source>Codepage cache</source>
-        <translation type="obsolete">Sidkods cache</translation>
+        <translation type="obsolete">Cache för sidkod</translation>
     </message>
     <message>
         <source>Class identifier cache</source>
-        <translation type="obsolete">Klassidentifierings cache</translation>
+        <translation type="obsolete">Cache för klassidentifierare</translation>
     </message>
     <message>
         <source>Sort key cache</source>
-        <translation type="obsolete">Sortera nyckel cache</translation>
+        <translation type="obsolete">Cache för sorteringsnycklar</translation>
     </message>
     <message>
         <source>URL alias cache</source>
-        <translation type="obsolete">URL Alias cache</translation>
+        <translation type="obsolete">Cache för URL-alias</translation>
     </message>
     <message>
         <source>Image alias</source>
-        <translation type="obsolete">Bild alias</translation>
+        <translation type="obsolete">Bildalias</translation>
     </message>
     <message>
         <source>Template cache</source>
-        <translation type="obsolete">Template-cache</translation>
+        <translation type="obsolete">Mall-cache</translation>
     </message>
     <message>
         <source>Template block cache</source>
@@ -25396,19 +25396,19 @@ ditt konto.</translation>
     </message>
     <message>
         <source>Template override cache</source>
-        <translation type="obsolete">Särskilld stillmalls cache</translation>
+        <translation type="obsolete">Cache för anpassade stillmallar</translation>
     </message>
     <message>
         <source>RSS cache</source>
-        <translation type="obsolete">RSS cache</translation>
+        <translation type="obsolete">RSS-cache</translation>
     </message>
     <message>
         <source>Character transformation cache</source>
-        <translation type="obsolete">Tecken transformations cache</translation>
+        <translation type="obsolete">Cache för teckentransformation</translation>
     </message>
     <message>
         <source>User info cache</source>
-        <translation type="obsolete">Användar info cache</translation>
+        <translation type="obsolete">Cache för användarinfo</translation>
     </message>
     <message>
         <source>Content tree menu (browser cache)</source>
@@ -25419,7 +25419,7 @@ ditt konto.</translation>
     <name>kernel/class</name>
     <message>
         <source>Class list of group</source>
-        <translation type="obsolete">Klasslista av grupp</translation>
+        <translation type="obsolete">Klasslista för grupp</translation>
     </message>
     <message>
         <source>Class group list</source>
@@ -27766,7 +27766,7 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     <name>simplified_treemenu/show_simplified_menu</name>
     <message>
         <source>Node ID: %node_id Visibility: %visibility</source>
-        <translation>Nod ID: %node_id Synlighet: %visibility</translation>
+        <translation>Nod-id: %node_id Synlighet: %visibility</translation>
     </message>
 </context>
 </TS>
