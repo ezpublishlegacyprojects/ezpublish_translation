@@ -18040,7 +18040,7 @@ Om du vill skicka kommentarer till personen som godkänner eller visa statusen, 
     </message>
     <message>
         <source>The module %module is disabled and cannot be accessed.</source>
-        <translation>Modulen %module är inaktiveras och kan inte kommas åt.</translation>
+        <translation>Modulen %module är inaktiverad och kan inte kommas åt.</translation>
     </message>
     <message>
         <source>Object is unavailable</source>
@@ -18056,7 +18056,7 @@ Om du vill skicka kommentarer till personen som godkänner eller visa statusen, 
     </message>
     <message>
         <source>The object is no longer available on the site.</source>
-        <translation>Objektet är inte längre tillgängligt på den här siten.</translation>
+        <translation>Objektet är inte längre tillgängligt på den här sajten.</translation>
     </message>
     <message>
         <source>Object moved</source>
@@ -18228,7 +18228,7 @@ Om du vill skicka kommentarer till personen som godkänner eller visa statusen, 
     </message>
     <message>
         <source>Sitemap</source>
-        <translation>Sitekarta</translation>
+        <translation>Sajtkarta</translation>
     </message>
     <message>
         <source>Personal</source>
@@ -18320,11 +18320,11 @@ Om du gör det kommer också underobjekt att raderas.</translation>
     </message>
     <message>
         <source>Current siteaccess</source>
-        <translation>Nuvarande SiteAccess</translation>
+        <translation>Nuvarande sajtingång</translation>
     </message>
     <message>
         <source>Select siteaccess</source>
-        <translation>Välj SiteAccess</translation>
+        <translation>Välj sajtingång</translation>
     </message>
     <message>
         <source>Set</source>
@@ -18332,7 +18332,7 @@ Om du gör det kommer också underobjekt att raderas.</translation>
     </message>
     <message>
         <source>Menu positioning</source>
-        <translation>Meny positioering</translation>
+        <translation>Menyplacering</translation>
     </message>
     <message>
         <source>Apply changes</source>
@@ -18469,7 +18469,7 @@ Om du gör det kommer också underobjekt att raderas.</translation>
     </message>
     <message>
         <source>Site map</source>
-        <translation>Sitekarta</translation>
+        <translation>Sajtkarta</translation>
     </message>
     <message>
         <source>Add to Bookmarks</source>
@@ -18927,13 +18927,13 @@ Objektet kan öppnas via URL:en nedan.</translation>
         <source>You must now choose which siteaccess the package contents should be installed to.
 The chosen siteaccess determines where design files and settings are written to.
 If unsure choose the siteaccess which reflects the user part of your site, i.e. not admin.</source>
-        <translation>Du måste välja vilken siteacess paketesinnehållet ska bli installerad till.
-Den valda siteaccessen bestämmer var designfilerna och inställningarna skriv in.
-Om du är osäker, använd sitaccessen som behandlar användare d.v.s. inte administrationen.</translation>
+        <translation>Du måste välja vilken sajtingång paketinnehållet ska bli installerat till.
+Den valda sajtingången bestämmer var designfilerna och inställningarna skriv in.
+Om du är osäker, använd sajtingången som behandlar användare d.v.s. inte administrationen.</translation>
     </message>
     <message>
         <source>Select siteaccess</source>
-        <translation>Välj SiteAccess</translation>
+        <translation>Välj sajtingång</translation>
     </message>
     <message>
         <source>Please select where you want to place the imported items.</source>
@@ -19730,7 +19730,7 @@ den övre menyn.</translation>
     </message>
     <message>
         <source>Site Access</source>
-        <translation>SiteAccess</translation>
+        <translation>Sajtingång</translation>
     </message>
     <message>
         <source>RSS version</source>
@@ -21126,7 +21126,7 @@ Standardkoden skapades från de grundläggande som du valde.</translation>
     </message>
     <message>
         <source>to get back to the site.</source>
-        <translation>för att komma tillbaka till siten.</translation>
+        <translation>för att komma tillbaka till sajten.</translation>
     </message>
     <message>
         <source>You can choose from either</source>
@@ -21190,7 +21190,7 @@ Standardkoden skapades från de grundläggande som du valde.</translation>
     </message>
     <message>
         <source>What kind of language support should this site have. The type of support determines the language selection and charset.</source>
-        <translation>Vilken sorts språkstöd ska den här siten ha? Typen av support bestämmer möjliga språkval och teckenuppsättningar. </translation>
+        <translation>Vilken sorts språkstöd ska den här sajten ha? Typen av stöd bestämmer möjliga språkval och teckenuppsättningar. </translation>
     </message>
     <message>
         <source>Monolingual (one language)</source>
@@ -21210,7 +21210,7 @@ Standardkoden skapades från de grundläggande som du valde.</translation>
     </message>
     <message>
         <source>Here you will see a summary of the basic settings for your site. If you are satisfied with the settings you can click the</source>
-        <translation>Här kommer du att se en sammanfattning av de grundläggande inställningarna för din site. Om du är nöjd med inställningarna kan du klicka på</translation>
+        <translation>Här kommer du att se en sammanfattning av de grundläggande inställningarna för din sajt. Om du är nöjd med inställningarna kan du klicka på</translation>
     </message>
     <message>
         <source>Setup Database</source>
@@ -21346,11 +21346,11 @@ Standardkoden skapades från de grundläggande som du valde.</translation>
     </message>
     <message>
         <source>Site access</source>
-        <translation type="obsolete">SiteAccess</translation>
+        <translation type="obsolete">Sajtingång</translation>
     </message>
     <message>
         <source>Site details</source>
-        <translation>Sid detaljer</translation>
+        <translation>Siddetaljer</translation>
     </message>
     <message>
         <source>Site template selection</source>
@@ -21394,11 +21394,11 @@ Standardkoden skapades från de grundläggande som du valde.</translation>
     </message>
     <message>
         <source>Admin site</source>
-        <translation>Admin sida</translation>
+        <translation>Admin-sida</translation>
     </message>
     <message>
         <source>Make sure to visit the %1 and the %2 web site.</source>
-        <translation>Se till att besöka %1 och %2 website.</translation>
+        <translation>Se till att besöka webbsidorna %1 och %2.</translation>
     </message>
     <message>
         <source>No Unicode support</source>
@@ -21424,7 +21424,7 @@ För att fixa dett måste du göra något av följande:</translation>
     </message>
     <message>
         <source>Site access configuration</source>
-        <translation>SiteAccess configuration</translation>
+        <translation>Sajtingångskonfiguration</translation>
     </message>
     <message>
         <source>URL (recommended)</source>
@@ -21625,7 +21625,7 @@ För att fixa dett måste du göra något av följande:</translation>
     </message>
     <message>
         <source>The url of the site</source>
-        <translation>Standard adressen för sidan</translation>
+        <translation>Standardadressen för sidan</translation>
     </message>
     <message>
         <source>Languages chosen</source>
@@ -21738,15 +21738,15 @@ För att fixa dett måste du göra något av följande:</translation>
     </message>
     <message>
         <source>Site packages</source>
-        <translation>Sid paket</translation>
+        <translation>Sidpaket</translation>
     </message>
     <message>
         <source>Each package will create a unique web site.</source>
-        <translation>Varje paket kommer skapa en unik websida.</translation>
+        <translation>Varje paket kommer skapa en unik webbsajt.</translation>
     </message>
     <message>
         <source>Since each web site is unique, each package requires a unique database.</source>
-        <translation>Eftersom varje websida är unik, kräver paketet en unik databas.</translation>
+        <translation>Eftersom varje webbsajt är unik, kräver paketet en unik databas.</translation>
     </message>
     <message>
         <source>It is also possible to do some finetuning of your system, click &lt;i&gt;Finetune&lt;/i&gt; instead &lt;i&gt;Next&lt;/i&gt; if you want to see the finetuning hints.</source>
@@ -21774,11 +21774,11 @@ För att fixa dett måste du göra något av följande:</translation>
     </message>
     <message>
         <source>Site functionality</source>
-        <translation>Sidans funktoner</translation>
+        <translation>Sidans funktioner</translation>
     </message>
     <message>
         <source>Site selection</source>
-        <translation type="obsolete">Sid val</translation>
+        <translation type="obsolete">Sajtval</translation>
     </message>
     <message>
         <source>You need to fill in the first name.</source>
@@ -21826,7 +21826,7 @@ Installationen kan fortsätta med initializeringen men kan skada nuvarande data.
     </message>
     <message>
         <source>Current site functionality</source>
-        <translation>Nuvarande sidsfunktionalitet</translation>
+        <translation>Nuvarande sidfunktionalitet</translation>
     </message>
     <message>
         <source>Please select additional functionality</source>
@@ -22177,11 +22177,11 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>eZ Publish bug reports</source>
-        <translation>eZ Publish felrapporter</translation>
+        <translation>Felrapporter för eZ Publish</translation>
     </message>
     <message>
         <source>eZ Publish website</source>
-        <translation>eZ Publish webbplats</translation>
+        <translation>Webbplatsen för eZ Publish</translation>
     </message>
     <message>
         <source>Choose only languages that use similar characters, for instance: English and Norwegian will work together while English and Russian will not work.</source>
@@ -22261,7 +22261,7 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>Your site is not running in a virtual host mode, this is insecure. It is recommended to run eZ Publish in virtual host mode. If you do not have the possibility to use virtual host mode, you should follow the instructions below about how to install an .htaccess file. The .htaccess file tells the web server to restrict the access to certain files.</source>
-        <translation>Din webbplats körs inte i virtual host-läge, detta är osäkert. Du rekommenderas att köra eZ Publish i virtual host-läge. Om du inte kan använda virtual host-läget bör du följa instruktionerna nedan för att installera en .htaccess-fil. .Htaccess-filen informerar webbservern att begränsa tillgång till vissa filer.</translation>
+        <translation>Din webbplats körs inte i virtual host-läge, detta är osäkert. Du rekommenderas att köra eZ Publish i virtual host-läge. Om du inte kan använda virtual host-läget bör du följa instruktionerna nedan för att installera en .htaccess-fil. som informerar webbservern om att begränsa tillgång till vissa filer.</translation>
     </message>
     <message>
         <source>If you have shell access, you can run the following commands.</source>
@@ -24798,7 +24798,7 @@ ditt konto.</translation>
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation>Siteåtkomst</translation>
+        <translation>Sajtingång</translation>
     </message>
     <message>
         <source>Open as read only</source>
@@ -24856,7 +24856,7 @@ ditt konto.</translation>
     </message>
     <message>
         <source>Overrides for &lt;%template_name&gt; template in &lt;%current_siteaccess&gt; siteaccess [%override_count]</source>
-        <translation>Overrides for &lt;%template_name&gt; template in &lt;%current_siteaccess&gt; siteaccess [%override_count]</translation>
+        <translation>Anpassade mallar för &lt;%template_name&gt; i sajtingången &lt;%current_siteaccess&gt; [%override_count]</translation>
     </message>
     <message>
         <source>Default template resource</source>
@@ -24864,7 +24864,7 @@ ditt konto.</translation>
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation>SiteAccess</translation>
+        <translation>Sajtingång</translation>
     </message>
     <message>
         <source>Set</source>
@@ -24892,11 +24892,11 @@ ditt konto.</translation>
     </message>
     <message>
         <source>No file matched</source>
-        <translation>Inge matchande fil</translation>
+        <translation>Ingen matchande fil</translation>
     </message>
     <message>
         <source>Edit override template.</source>
-        <translation>Redigera särskild stilmall.</translation>
+        <translation>Redigera anpassad stilmall.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -24904,15 +24904,15 @@ ditt konto.</translation>
     </message>
     <message>
         <source>Remove selected template overrides.</source>
-        <translation>Radera valda särskilda stilmallar.</translation>
+        <translation>Radera valda anpassade stilmallar.</translation>
     </message>
     <message>
         <source>New override</source>
-        <translation>Ny särskilld</translation>
+        <translation>Ny anpassning</translation>
     </message>
     <message>
         <source>Create a new template override.</source>
-        <translation>Skapa ny mall för särskilld stilmall.</translation>
+        <translation>Skapa ny mall för anpassad stilmall.</translation>
     </message>
     <message>
         <source>Update priorities</source>
@@ -24920,7 +24920,7 @@ ditt konto.</translation>
     </message>
     <message>
         <source>There are no overrides for the &lt;%template_name&gt; template.</source>
-        <translation>Det finns inga overrides för &lt;%template_name&gt;-mallen.</translation>
+        <translation>Det finns inga anpassningar för mallen &lt;%template_name&gt;.</translation>
     </message>
     <message>
         <source>The override.ini file could not be modified because of insufficient permission.</source>
@@ -24987,11 +24987,11 @@ ditt konto.</translation>
     </message>
     <message>
         <source>Current siteaccess</source>
-        <translation>Nuvarande SiteAccess</translation>
+        <translation>Nuvarande sajtingång</translation>
     </message>
     <message>
         <source>Select siteaccess</source>
-        <translation>Välj SiteAccess</translation>
+        <translation>Välj sajtingång</translation>
     </message>
     <message>
         <source>Set</source>
@@ -25198,7 +25198,7 @@ ditt konto.</translation>
     </message>
     <message>
         <source>Editing workflow group - %1</source>
-        <translation>Redigrerar workflowgrupp - %1</translation>
+        <translation>Redigerar workflowgrupp - %1</translation>
     </message>
     <message>
         <source>Modified by %username on %time</source>
@@ -25239,14 +25239,14 @@ ditt konto.</translation>
     </message>
     <message>
         <source>Input did not validate</source>
-        <translation>Inmatning validerades inte</translation>
+        <translation>Inmatningen validerades inte</translation>
     </message>
 </context>
 <context>
     <name>design/standard/workflow/eventtype/edit</name>
     <message>
         <source>Sections</source>
-        <translation>Sektioner</translation>
+        <translation>Avdelningar</translation>
     </message>
     <message>
         <source>Any</source>
@@ -25254,7 +25254,7 @@ ditt konto.</translation>
     </message>
     <message>
         <source>Users without workflow IDs</source>
-        <translation>Användare utan workflow-ID:s</translation>
+        <translation>Användare utan workflow-ID:n</translation>
     </message>
     <message>
         <source>Class</source>
@@ -25321,7 +25321,7 @@ ditt konto.</translation>
     </message>
     <message>
         <source>Users without workflow IDs</source>
-        <translation>Användare utan workflow-ID:s</translation>
+        <translation>Användare utan workflow-ID:n</translation>
     </message>
     <message>
         <source>Workflow to run</source>
@@ -25337,7 +25337,7 @@ ditt konto.</translation>
     </message>
     <message>
         <source>Publish date will not be modified.</source>
-        <translation>Publiceringsdatum kommer inte modifieras.</translation>
+        <translation>Publiceringsdatum kommer inte att ändras.</translation>
     </message>
     <message>
         <source>Approver users</source>
@@ -25356,11 +25356,11 @@ ditt konto.</translation>
     <name>kernel/cache</name>
     <message>
         <source>Content view cache</source>
-        <translation type="obsolete">Innehålls se-cache</translation>
+        <translation type="obsolete">Innehållsvy-cache</translation>
     </message>
     <message>
         <source>Global INI cache</source>
-        <translation type="obsolete">Global INI cache</translation>
+        <translation type="obsolete">Övergripande ini-cache</translation>
     </message>
     <message>
         <source>INI cache</source>
@@ -25785,7 +25785,7 @@ ditt konto.</translation>
     </message>
     <message>
         <source>File uploading is not enabled. Please contact the site administrator to enable it.</source>
-        <translation type="obsolete">Filuppladning är inte igång. Kontakta sidadministratör för att starta det.</translation>
+        <translation type="obsolete">Filuppladning är inte igång. Kontakta sajtadministratör för att starta det.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set by the upload_max_filesize directive in php.ini.</source>
@@ -25821,7 +25821,7 @@ ditt konto.</translation>
     </message>
     <message>
         <source>The size of the uploaded image exceeds limit set by upload_max_filesize directive in php.ini. Please contact the site administrator.</source>
-        <translation type="obsolete">Filstorleken för den uppladdade bilden bestäms av upload_max_filesize i php.ini. Vänligen kontakta sidadministratören.</translation>
+        <translation type="obsolete">Filstorleken för den uppladdade bilden bestäms av upload_max_filesize i php.ini. Vänligen kontakta sajtadministratören.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
@@ -26799,11 +26799,11 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>Site style</source>
-        <translation type="obsolete">Site style</translation>
+        <translation type="obsolete">Sajtstil</translation>
     </message>
     <message>
         <source>File did not have a .css suffix, this is most likely not a CSS file</source>
-        <translation type="obsolete">Filen hade inte ändelsen .css, det är antagligen inte en CSS fil</translation>
+        <translation type="obsolete">Filen hade inte ändelsen .css, det är antagligen inte en CSS-fil</translation>
     </message>
     <message>
         <source>Create package</source>
@@ -26819,7 +26819,7 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>Package %packagename already exists, cannot import the package</source>
-        <translation type="obsolete">Ett paket med namnet %packagename finns redan, kan inte importera paket</translation>
+        <translation type="obsolete">Ett paket med namnet %packagename finns redan, kan därför inte importera paket</translation>
     </message>
     <message>
         <source>Local</source>
@@ -26827,7 +26827,7 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>The version must only contain numbers (optionally followed by text) and must be delimited by dots (.), e.g. 1.0, 3.4.0beta1</source>
-        <translation type="obsolete">Versionen måste hinnehålla nummer (och om så önskas av text) och måste säras av punkter (.) ex. 1.0, 3.4.0beta1</translation>
+        <translation type="obsolete">Versionen måste innehålla nummer (och om så önskas av text) och måste separeras av punkter (.) ex. 1.0, 3.4.0beta1</translation>
     </message>
     <message>
         <source>Content objects to include</source>
@@ -26835,11 +26835,11 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>Content object limits</source>
-        <translation type="obsolete">Innehållobjekts begränsningar</translation>
+        <translation type="obsolete">Innehållobjektsbegränsningar</translation>
     </message>
     <message>
         <source>Content object export</source>
-        <translation type="obsolete">Innehållobjekts exportering</translation>
+        <translation type="obsolete">Innehållobjektsexportering</translation>
     </message>
     <message>
         <source>Selected nodes</source>
@@ -26855,7 +26855,7 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>You must choose one or more site access.</source>
-        <translation type="obsolete">Du måste välja en eller fler SiteAccess.</translation>
+        <translation type="obsolete">Du måste välja en eller fler sajtingångar.</translation>
     </message>
     <message>
         <source>CSS files</source>
@@ -26863,7 +26863,7 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>You must upload both CSS files</source>
-        <translation type="obsolete">Du måste ladda upp båda CSS filerna</translation>
+        <translation type="obsolete">Du måste ladda upp båda CSS-filerna</translation>
     </message>
     <message>
         <source>Content object %objectname</source>
@@ -26871,11 +26871,11 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>Site access mapping</source>
-        <translation type="obsolete">SiteAccess kartläggning</translation>
+        <translation type="obsolete">Sajtingångskartläggning</translation>
     </message>
     <message>
         <source>Top node placements</source>
-        <translation type="obsolete">Placering för topnoder</translation>
+        <translation type="obsolete">Placering av toppnoder</translation>
     </message>
     <message>
         <source>Content object import</source>
@@ -26911,7 +26911,7 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>The package name %packagename is not valid, it can only contain characters in the range a-z, 0-9 and underscore.</source>
-        <translation type="obsolete">Paketnamnet %packagename är inte validerad, namnet kan bara innehålla tecken mellan a-z, 0-9 och understreck.</translation>
+        <translation type="obsolete">Paketnamnet %packagename är inte giltigt, namnet kan bara innehålla tecken mellan a-z, 0-9 och understreck.</translation>
     </message>
     <message>
         <source>Extension export</source>
@@ -26995,7 +26995,7 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>You must enter an email address of the maintainer</source>
-        <translation type="obsolete">Du måste fylla i ett namn på underhållaren</translation>
+        <translation type="obsolete">Du måste fylla i en e-postadress till administratören</translation>
     </message>
     <message>
         <source>Extensions to include</source>
@@ -27029,7 +27029,7 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     <name>kernel/pdfexport</name>
     <message>
         <source>New PDF Export</source>
-        <translation type="obsolete">Ny PDF exportering</translation>
+        <translation type="obsolete">Ny PDF-exportering</translation>
     </message>
 </context>
 <context>
@@ -27085,11 +27085,11 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>New RSS Export</source>
-        <translation type="obsolete">Ny RSS Exportering</translation>
+        <translation type="obsolete">Ny RSS-exportering</translation>
     </message>
     <message>
         <source>New RSS Import</source>
-        <translation type="obsolete">Ny RSS Importering</translation>
+        <translation type="obsolete">Ny RSS-importering</translation>
     </message>
 </context>
 <context>
@@ -27122,23 +27122,23 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     <name>kernel/section</name>
     <message>
         <source>Edit Section</source>
-        <translation type="obsolete">Redigera sektion</translation>
+        <translation type="obsolete">Redigera avdelning</translation>
     </message>
     <message>
         <source>Sections</source>
-        <translation type="obsolete">Sektioner</translation>
+        <translation type="obsolete">Avdelningar</translation>
     </message>
     <message>
         <source>View section</source>
-        <translation type="obsolete">Se sektioner</translation>
+        <translation type="obsolete">Se avdelningen</translation>
     </message>
     <message>
         <source>New section</source>
-        <translation type="obsolete">Ny sektion</translation>
+        <translation type="obsolete">Ny avdelning</translation>
     </message>
     <message>
         <source>Assign section</source>
-        <translation type="obsolete">Tilldela sektion</translation>
+        <translation type="obsolete">Tilldela avdelning</translation>
     </message>
 </context>
 <context>
@@ -27157,7 +27157,7 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>Template operator wizard</source>
-        <translation type="obsolete">Mall-operator-wizard</translation>
+        <translation type="obsolete">Mall-operatörs-guide</translation>
     </message>
     <message>
         <source>Extension configuration</source>
@@ -27173,15 +27173,15 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>Session admin</source>
-        <translation type="obsolete">Session admin</translation>
+        <translation type="obsolete">Sessionsadmin</translation>
     </message>
     <message>
         <source>File %1 does not exist. You should copy it from the recent eZ Publish distribution.</source>
-        <translation type="obsolete">Filen %1 existerar inte. Du bör kopiera in den från filerna i den nyaste eZ Publish distributionen.</translation>
+        <translation type="obsolete">Filen %1 existerar inte. Du bör kopiera in den från filerna i den nyaste eZ Publish-distributionen.</translation>
     </message>
     <message>
         <source>Datatype wizard</source>
-        <translation type="obsolete">Datatyp-wizard</translation>
+        <translation type="obsolete">Datatypsguide</translation>
     </message>
 </context>
 <context>
@@ -27232,11 +27232,11 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="obsolete">Statisk</translation>
+        <translation type="obsolete">Statistik</translation>
     </message>
     <message>
         <source>VAT type</source>
-        <translation type="obsolete">Moms-typ</translation>
+        <translation type="obsolete">Momstyp</translation>
     </message>
     <message>
         <source>Classes</source>
@@ -27248,11 +27248,11 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>in sections</source>
-        <translation type="obsolete">i sektioner</translation>
+        <translation type="obsolete">i avdelningar</translation>
     </message>
     <message>
         <source>in any section</source>
-        <translation type="obsolete">i vilken sektion som helst</translation>
+        <translation type="obsolete">i vilken avdelning som helst</translation>
     </message>
     <message>
         <source>Products</source>
@@ -27272,7 +27272,7 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>The confirm order operation was canceled. Try to checkout again.</source>
-        <translation type="obsolete">Konfirmeringen av beställningen ångrades. Försök checka ut igen.</translation>
+        <translation type="obsolete">Bekräftelsen av beställningen ångrades. Försök checka ut igen.</translation>
     </message>
     <message>
         <source>Order #%order_id</source>
@@ -27280,11 +27280,11 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>New order status was successfully added.</source>
-        <translation type="obsolete">Ny beställningsstatus tillaggd.</translation>
+        <translation type="obsolete">Ny beställningsstatus tillagd.</translation>
     </message>
     <message>
         <source>Changes to order status were successfully stored.</source>
-        <translation type="obsolete">Ändringar i beställningsstatusen sparad.</translation>
+        <translation type="obsolete">Ändringar i beställningsstatusen sparade.</translation>
     </message>
     <message>
         <source>Selected order statuses were successfully removed.</source>
@@ -27300,7 +27300,7 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>Customer order view</source>
-        <translation type="obsolete">Kundens beställnins vy</translation>
+        <translation type="obsolete">Kundens beställningsvy</translation>
     </message>
     <message>
         <source>Any</source>
@@ -27308,7 +27308,7 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>Available currency list</source>
-        <translation type="obsolete">Tillgänglig valutalista</translation>
+        <translation type="obsolete">Tillgängliga valutor</translation>
     </message>
     <message>
         <source>Edit currency</source>
@@ -27336,7 +27336,7 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>Unable to calculate VAT percentage because your country is unknown. You can either fill country manually in your account information (if you are a registered user) or contact site administrator.</source>
-        <translation type="obsolete">Kunde inte kalkylera momssats eftersom ditt land är okänt. Du kan antingen ange land manuellt i din kontoinformation (om du är en registrerad användare) eller kontakta sidadministratören.</translation>
+        <translation type="obsolete">Kunde inte kalkylera momssats eftersom ditt land är okänt. Du kan antingen ange land manuellt i din kontoinformation (om du är en registrerad användare) eller kontakta administratören.</translation>
     </message>
     <message>
         <source>Wishlist</source>
@@ -27348,11 +27348,11 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     </message>
     <message>
         <source>Unknown body format in HTTP response. Expected &apos;text/xml&apos;</source>
-        <translation type="obsolete">Okänt body-format i HTTP-respons. Förväntat &apos;text/xml&apos;</translation>
+        <translation type="obsolete">Okänt body-format i http-svaret. Förväntat &apos;text/xml&apos;</translation>
     </message>
     <message>
         <source>Invalid HTTP response</source>
-        <translation type="obsolete">Ogiltig HTTP-respons</translation>
+        <translation type="obsolete">Ogiltigt http-svar</translation>
     </message>
     <message>
         <source>Unable to send http request: %1:%2/%3</source>
@@ -27655,7 +27655,7 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     <name>kernel/workflow/edit</name>
     <message>
         <source>New Workflow</source>
-        <translation type="obsolete">Nytt arbteschema</translation>
+        <translation type="obsolete">Nytt arbetsschema</translation>
     </message>
 </context>
 <context>
@@ -27696,7 +27696,7 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     <name>kernel/workflow/groupedit</name>
     <message>
         <source>New WorkflowGroup</source>
-        <translation type="obsolete">Ny Argbetschema grupp</translation>
+        <translation type="obsolete">Ny Arbetsschemagrupp</translation>
     </message>
 </context>
 <context>
@@ -27730,7 +27730,7 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     <name>pdf/edit</name>
     <message>
         <source>PDF Export</source>
-        <translation type="obsolete">PDF exportering</translation>
+        <translation type="obsolete">PDF-exportering</translation>
     </message>
 </context>
 <context>
