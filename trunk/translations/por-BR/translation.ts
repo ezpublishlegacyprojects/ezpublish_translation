@@ -117,7 +117,7 @@
     </message>
     <message>
         <source>Use this menu to select the language you to want use then click the &quot;New class&quot; button. The item will be created within the current location.</source>
-        <translation>Use esse menu para selecionar o idioma que você deseja utilizar, em seguida, clique no botão &quot;Novotipo de conteúdo&quot;. O item será criado dentro da localização atual.</translation>
+        <translation>Use esse menu para selecionar o idioma que você deseja utilizar, em seguida, clique no botão &quot;Novo tipo de conteúdo&quot;. O item será criado dentro da localização atual.</translation>
     </message>
     <message>
         <source>List of classes inside %group_name class group [%class_count]</source>
@@ -214,7 +214,7 @@
     </message>
     <message>
         <source>Searchable</source>
-        <translation>Procurável</translation>
+        <translation>Pesquisável</translation>
     </message>
     <message>
         <source>Information collector</source>
@@ -314,11 +314,11 @@
     </message>
     <message>
         <source>URL alias name pattern</source>
-        <translation>Padrão de nome para a URL</translation>
+        <translation>Padrão para a URL</translation>
     </message>
     <message>
         <source>Use this field to configure how the url alias of the objects are generated (applies to nice URLs). Type in the identifiers of the attributes that should be used. The identifiers must be enclosed in angle brackets. Text outside angle brackets will be included as is.</source>
-        <translation>Use este campo para configurar a forma como a url dos objetos é gerada (URLs amigáveis). Deve ser utilizado os identificadores dos atributos do tipo de conteúdo. Os identificadores devem ser incluídos dentro de tags. Texto fora das tags serão incluídos como são mostrados aqui.</translation>
+        <translation>Use este campo para configurar a forma como a url dos objetos é gerada (URLs amigáveis). Deve ser utilizado os identificadores dos atributos do tipo de conteúdo. Os identificadores devem ser incluídos dentro de tags. Texto fora das tags serão incluídos literalmente.</translation>
     </message>
     <message>
         <source>Use this field to set the internal name of the class. The identifier will be used in templates and in PHP code. Allowed characters are letters, numbers and underscores.</source>
@@ -486,7 +486,7 @@
     <name>design/admin/class/grouplist</name>
     <message>
         <source>Class groups [%group_count]</source>
-        <translation>Grupos de tipo de conteúdo [%group_count]</translation>
+        <translation>Grupos de tipos de conteúdo [%group_count]</translation>
     </message>
     <message>
         <source>Invert selection.</source>
@@ -522,7 +522,7 @@
     </message>
     <message>
         <source>Remove the selected class groups. This will also remove all classes that only exist within the selected groups.</source>
-        <translation>Remover os grupos de tipo de conteúdo selecionados. Também serão removidas todas os tipos de conteúdo que existem somente dentro dos grupos selecionados.</translation>
+        <translation>Remover os grupos de tipos de conteúdo selecionados. Também serão removidas todas os tipos de conteúdo que existem somente dentro dos grupos selecionados.</translation>
     </message>
     <message>
         <source>New class group</source>
@@ -550,7 +550,7 @@
     </message>
     <message>
         <source>List of class groups</source>
-        <translation>Grupos de tipo de conteúdo</translation>
+        <translation>Grupos de tipos de conteúdo</translation>
     </message>
     <message>
         <source>List of recently modified classes</source>
@@ -562,7 +562,7 @@
     </message>
     <message>
         <source>Class groups (%group_count)</source>
-        <translation>Grupos de tipo de conteúdo (%group_count)</translation>
+        <translation>Grupos de tipos de conteúdo (%group_count)</translation>
     </message>
 </context>
 <context>
@@ -628,7 +628,7 @@
     </message>
     <message>
         <source>Are you sure you want to remove the class groups?</source>
-        <translation>Tem certeza de que deseja remover os grupos de tipo de conteúdo?</translation>
+        <translation>Tem certeza de que deseja remover os grupos de tipos de conteúdo?</translation>
     </message>
     <message>
         <source>The following classes will be removed from the &lt;%group_name&gt; class group</source>
@@ -748,11 +748,11 @@
     </message>
     <message>
         <source>Is searchable</source>
-        <translation>É procurável</translation>
+        <translation>É pesquisável</translation>
     </message>
     <message>
         <source>Is not searchable</source>
-        <translation>Não é procurável</translation>
+        <translation>Não é pesquisável</translation>
     </message>
     <message>
         <source>Collects information</source>
@@ -808,7 +808,7 @@
     </message>
     <message>
         <source>Member of class groups [%group_count]</source>
-        <translation>Membro dos grupos de tipo de conteúdo [%group_count]</translation>
+        <translation>Membro dos grupos de tipos de conteúdo [%group_count]</translation>
     </message>
     <message>
         <source>Class group</source>
@@ -888,7 +888,7 @@
     </message>
     <message>
         <source>Locale</source>
-        <translation>Localização</translation>
+        <translation>Localidade</translation>
     </message>
     <message>
         <source>Main</source>
@@ -932,7 +932,7 @@
     </message>
     <message>
         <source>Class groups</source>
-        <translation>Grupos de tipo de conteúdo</translation>
+        <translation>Grupos de tipos de conteúdo</translation>
     </message>
     <message>
         <source>Show class groups.</source>
@@ -2912,7 +2912,7 @@
     </message>
     <message>
         <source>The object will be restored at its original location.</source>
-        <translation>O objeto será restaurado em sua localização original.</translation>
+        <translation>O objeto será restaurado para sua localização original.</translation>
     </message>
     <message>
         <source>Restore at original location (below &lt;%nodeName&gt;).</source>
@@ -3051,7 +3051,7 @@
     </message>
     <message>
         <source>Search for an exact phrase</source>
-        <translation>Procurar pela frase exata</translation>
+        <translation>Procurar pela expressão exata</translation>
     </message>
     <message>
         <source>Class</source>
@@ -3166,7 +3166,7 @@
     </message>
     <message>
         <source>Locale for custom translation</source>
-        <translation>Localização para a tradução personalizada</translation>
+        <translation>Localidade da tradução personalizada</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3185,7 +3185,7 @@
     </message>
     <message>
         <source>Locale</source>
-        <translation>Localização</translation>
+        <translation>Localidade</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -3225,7 +3225,7 @@
     </message>
     <message>
         <source>Classes translations</source>
-        <translation>Traduções do tipo de conteúdo</translation>
+        <translation>Traduções de tipos</translation>
     </message>
     <message>
         <source>The language cannot be removed because it is in use.</source>
@@ -3252,7 +3252,7 @@
     </message>
     <message>
         <source>Locale</source>
-        <translation>Localização</translation>
+        <translation>Localidade</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -3260,7 +3260,7 @@
     </message>
     <message>
         <source>%locale [Locale]</source>
-        <translation>%locale [Localização]</translation>
+        <translation>%locale [Localidade]</translation>
     </message>
     <message>
         <source>Charset</source>
@@ -3292,15 +3292,15 @@
     </message>
     <message>
         <source>Locale code</source>
-        <translation>Código de localização</translation>
+        <translation>Código da localidade</translation>
     </message>
     <message>
         <source>Full locale code</source>
-        <translation>Código de localização completo</translation>
+        <translation>Código completo da localidade</translation>
     </message>
     <message>
         <source>HTTP locale code</source>
-        <translation>Código de localização HTTP</translation>
+        <translation>Código HTTP da localidade</translation>
     </message>
     <message>
         <source>Decimal symbol</source>
@@ -3696,7 +3696,7 @@
     </message>
     <message>
         <source>The URL alias &amp;lt;%new_alias&amp;gt; already exists, and it points to &amp;lt;%action_url&amp;gt;</source>
-        <translation>O apelido de URL &amp;lt;%new_alias&amp;gt; já existe, e que aponta para &amp;lt;%action_url&amp;gt;</translation>
+        <translation>O apelido de URL &amp;lt;%new_alias&amp;gt; já existe e aponta para &amp;lt;%action_url&amp;gt;</translation>
     </message>
     <message>
         <source>You cannot remove any aliases because you do not have permission to edit the current item.</source>
@@ -3995,7 +3995,7 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
     </message>
     <message>
         <source>The URL alias &lt;%wildcard_src_url&gt; already exists, and it points to &lt;%wildcard_dst_url&gt;</source>
-        <translation>O apelido de URL &lt;%wildcard_src_url&gt; já existe, e que aponta para &lt;%wildcard_dst_url&gt;</translation>
+        <translation>O apelido de URL &lt;%wildcard_src_url&gt; já existe e aponta para &lt;%wildcard_dst_url&gt;</translation>
     </message>
     <message>
         <source>Defined URL aliases with wildcard[%wildcard_count]</source>
@@ -4337,7 +4337,7 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
     </message>
     <message>
         <source>%1 (No locale information available)</source>
-        <translation>%1 (Nenhuma informação de localização disponível)</translation>
+        <translation>%1 (Nenhuma informação disponível sobre a localidade)</translation>
     </message>
     <message>
         <source>Location</source>
@@ -5035,7 +5035,7 @@ Tem certeza de que deseja remover a informação coletada?</translation>
     <name>design/admin/node/class/view</name>
     <message>
         <source>Class groups</source>
-        <translation>Grupos de tipo de conteúdo</translation>
+        <translation>Grupos de tipos de conteúdo</translation>
     </message>
     <message>
         <source>Override templates</source>
@@ -5382,7 +5382,7 @@ Tem certeza de que deseja remover a informação coletada?</translation>
     </message>
     <message>
         <source>Locale</source>
-        <translation>Localização</translation>
+        <translation>Localidade</translation>
     </message>
     <message>
         <source>Location</source>
@@ -5726,7 +5726,7 @@ Tem certeza de que deseja remover a informação coletada?</translation>
     </message>
     <message>
         <source>Use the main language if there is no prioritized translation.</source>
-        <translation>Use o idioma principal se não houver tradução.</translation>
+        <translation>Use o idioma principal se não houver tradução priorizada.</translation>
     </message>
     <message>
         <source>Update</source>
@@ -5738,7 +5738,7 @@ Tem certeza de que deseja remover a informação coletada?</translation>
     </message>
     <message>
         <source>(locked)</source>
-        <translation>(travado)</translation>
+        <translation>(bloqueado)</translation>
     </message>
     <message>
         <source>Choose section</source>
@@ -8870,15 +8870,15 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Phrase</source>
-        <translation>Frase</translation>
+        <translation>Expressão</translation>
     </message>
     <message>
         <source>Number of phrases</source>
-        <translation>Número de frases</translation>
+        <translation>Número de expressões</translation>
     </message>
     <message>
         <source>Average result returned</source>
-        <translation>Resultados obtidos em média</translation>
+        <translation>Média de resultados obtidos</translation>
     </message>
     <message>
         <source>Reset statistics</source>
@@ -9240,7 +9240,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Variable %valfield already exists in section %block</source>
-        <translation>A variável %valfield  já existe na seção %block</translation>
+        <translation>A variável %valfield já existe na seção %block</translation>
     </message>
     <message>
         <source>%valfield is not allowed to contain spaces</source>
@@ -9248,7 +9248,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Writing setting: %setting_name to file: %filename failed.</source>
-        <translation>A escrita da configuração: %setting_name para o arquivo: %filename falhou. </translation>
+        <translation>Gravar configuração: %setting_name para o arquivo: %filename falhou. </translation>
     </message>
     <message>
         <source>Name contains illegal character(s).</source>
@@ -9292,11 +9292,11 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Select ini file to view</source>
-        <translation>Selecione um arquivo para visualizar</translation>
+        <translation>Selecione um arquivo de configuração</translation>
     </message>
     <message>
         <source>Select siteaccess</source>
-        <translation>Selecione o acesso de site</translation>
+        <translation>Selecione o site</translation>
     </message>
     <message>
         <source>Select</source>
@@ -9304,7 +9304,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Settings for %inifile in siteaccess %siteaccess</source>
-        <translation>Configurações de %inifile no acesso ao site %siteaccess</translation>
+        <translation>Configurações d %inifile no acesso ao site %siteaccess</translation>
     </message>
     <message>
         <source>[add setting]</source>
@@ -9332,7 +9332,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Location (prioritized list shown)</source>
-        <translation>Localização (lista de prioridades mostrada)</translation>
+        <translation>Localidade (lista priorizada exibida)</translation>
     </message>
     <message>
         <source>Default (cannot change)</source>
@@ -9908,15 +9908,15 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Template operator wizard</source>
-        <translation>Assistente do operador de templates</translation>
+        <translation>Assistente do operador de template</translation>
     </message>
     <message>
         <source>Datatype wizard</source>
-        <translation>Assistente de tipo de dados</translation>
+        <translation>Assistente de tipo de dado</translation>
     </message>
     <message>
         <source>Template operator wizard (step 1 of 3)</source>
-        <translation>Assistente do operador de templates (etapa 1 de 3)</translation>
+        <translation>Assistente do operador de template (etapa 1 de 3)</translation>
     </message>
     <message>
         <source>Restart</source>
@@ -9928,18 +9928,18 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>The rapid application development (RAD) tools make the creation of new/extended functionality for eZ Publish easier. Currently there are two RAD tools available: the template operator wizard and the datatype wizard. The template operator wizard basically generates a valid framework (PHP code) for a new template operator. The datatype wizard generates a valid framework (PHP code) for a new datatype.</source>
-        <translation>As ferramentas de desenvolvimento rápido de aplicação (RAD) tornam a criação de novas/extendidas funcionalidades para o eZ Publish mais fácil. Atualmente existem duas ferramentas RAD disponíveis: O assistente de operador de templates e o assistente de tipo de dado. O assistente de operador de templates basicamente gera um framework válido (código PHP), para um novo operador de template. Os assistente de tipo de dado gera um framework válido (código PHP), para um novo tipo de dado.</translation>
+        <translation>As ferramentas de desenvolvimento rápido de aplicação (RAD) tornam a criação de novas/extendidas funcionalidades para o eZ Publish mais fácil. Atualmente existem duas ferramentas RAD disponíveis: O assistente de operador de template e o assistente de tipo de dado. O assistente de operador de template basicamente gera código PHP válido para um novo operador de template. Os assistente de tipo de dado gera código PHP válido para um novo tipo de dado.</translation>
     </message>
     <message>
         <source>Welcome to the template operator wizard. Template operators are usually used for manipulating template variables. However, they can also be used to generate or fetch data. This wizard will take you through a couple of steps with some basic choices. When finished, eZ Publish will generate a PHP framework for a new operator (which will be available for download).</source>
-        <translation>Bem-vindo ao assistente de operador de templates. Operadores de template são normalmente utilizados para manipular variáveis no template. No entanto, eles também podem ser usados para gerar ou buscar dados. Este assistente irá levá-lo através de alguns passos com algumas opções basicas. Ao terminar, eZ Publish irá gerar um framework em PHP de um novo operador (que estará disponível para download).</translation>
+        <translation>Bem-vindo ao assistente de operador de template. Operadores de template são normalmente utilizados para manipular variáveis no template. No entanto, eles também podem ser usados para gerar ou extrair dados. Este assistente irá levá-lo através de alguns passos com algumas opções basicas. Ao terminar, eZ Publish irá gerar código PHP do novo operador (que estará disponível para download).</translation>
     </message>
 </context>
 <context>
     <name>design/admin/setup/rad/datatype</name>
     <message>
         <source>Datatype wizard (step 1 of 3)</source>
-        <translation>Assistente de tipo de dados (etapa 1 de 3)</translation>
+        <translation>Assistente de tipo de dado (etapa 1 de 3)</translation>
     </message>
     <message>
         <source>Restart</source>
@@ -9951,7 +9951,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Datatype wizard (step 2 of 3)</source>
-        <translation>Assistente de tipo de dados (etapa 2 de 3)</translation>
+        <translation>Assistente de tipo de dado (etapa 2 de 3)</translation>
     </message>
     <message>
         <source>Name</source>
@@ -9967,7 +9967,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Datatype wizard (step 3 of 3)</source>
-        <translation>Assistente de tipo de dados (etapa 3 de 3)</translation>
+        <translation>Assistente de tipo de dado (etapa 3 de 3)</translation>
     </message>
     <message>
         <source>Name of class</source>
@@ -9975,7 +9975,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>The creator of the datatype</source>
-        <translation>O criador do tipo de dados</translation>
+        <translation>O criador do tipo de dado</translation>
     </message>
     <message>
         <source>Description</source>
@@ -9987,15 +9987,15 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Hint: The first line will be used as the brief description. The rest will become operator documentation.</source>
-        <translation>Dica: A primeira linha será usada como breve descrição. O restante transformar-se-á em documentação do operador.</translation>
+        <translation>Dica: A primeira linha será usada como descrição breve. O restante será documentação do operador.</translation>
     </message>
     <message>
         <source>Finish and generate</source>
-        <translation>Finalizar e gerar</translation>
+        <translation>Concluir e gerar</translation>
     </message>
     <message>
         <source>Welcome to the wizard for creating a new datatype. Everything stored in a content object are called attributes. Attributes are defined as data types. To customize storing and validation of attributes, you can create your own data types.</source>
-        <translation>Bem-vindo ao assistente para criar novos tipos de dados. Tudo que você armazena em seu objetos de conteúdo é chamado atributos. Os atributos são definidos como tipos de dados. Para customizar o armazenamento e validar estes atributos, você pode criar seus próprios tipos de dados.</translation>
+        <translation>Bem-vindo ao assistente para criar novos tipos de dados. Tudo que você armazena em seu objetos de conteúdo é chamado atributos. Os atributos são compostos por tipos de dados. Para customizar o armazenamento e validação destes atributos, você pode criar seus próprios tipos de dados.</translation>
     </message>
     <message>
         <source>Class constant name</source>
@@ -10006,7 +10006,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     <name>design/admin/setup/rad/templateoperator</name>
     <message>
         <source>Template operator wizard (step 2 of 3)</source>
-        <translation>Assistente do operador de templates (etapa 2 de 3)</translation>
+        <translation>Assistente do operador de template (etapa 2 de 3)</translation>
     </message>
     <message>
         <source>Name</source>
@@ -10050,7 +10050,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Template operator wizard (step 3 of 3)</source>
-        <translation>Assistente do operador de templates (etapa 3 de 3)</translation>
+        <translation>Assistente do operador de template (etapa 3 de 3)</translation>
     </message>
     <message>
         <source>Class name</source>
@@ -10066,11 +10066,11 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Handles template operator %operator_name. By using %operator_name you can...</source>
-        <translation>Controlar o operador de templates %operator_name. Usando o %operatorname você pode ...</translation>
+        <translation>Controlar o operador de template %operator_name. Usando o %operatorname você pode ...</translation>
     </message>
     <message>
         <source>Hint: The first line will be used for the brief description. The rest will become the documentation.</source>
-        <translation>Dica: A primeira linha será usada como breve descrição. O restante transformar-se-á em documentação.</translation>
+        <translation>Dica: A primeira linha será usada como breve descrição. O restante será a documentação.</translation>
     </message>
     <message>
         <source>Example code</source>
@@ -10078,11 +10078,11 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Hint: Feel free to add example code that demonstrates how the operator works.</source>
-        <translation>Dica: sinta-se à vontade para adicionar o código do exemplo que demonstra como o operador trabalha.</translation>
+        <translation>Dica: sinta-se à vontade para adicionar o código do exemplo que demonstra como o operador funciona.</translation>
     </message>
     <message>
         <source>Finish and generate</source>
-        <translation>Finalizar e gerar</translation>
+        <translation>Concluir e gerar</translation>
     </message>
 </context>
 <context>
@@ -10618,7 +10618,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Locale</source>
-        <translation>Localização</translation>
+        <translation>Localidade</translation>
     </message>
     <message>
         <source>Status</source>
@@ -12347,11 +12347,11 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Valid</source>
-        <translation>Válidas</translation>
+        <translation>Válida</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation>Inválidas</translation>
+        <translation>Inválida</translation>
     </message>
     <message>
         <source>Address</source>
@@ -12363,11 +12363,11 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Checked</source>
-        <translation>Verificado</translation>
+        <translation>Verificada</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation>Modificado</translation>
+        <translation>Modificada</translation>
     </message>
     <message>
         <source>open</source>
@@ -12383,15 +12383,15 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Show all URLs.</source>
-        <translation>Mostrar todas as URLs.</translation>
+        <translation>Exibir todas as URLs.</translation>
     </message>
     <message>
         <source>Show only invalid URLs.</source>
-        <translation>Mostrar somente URLs inválidas.</translation>
+        <translation>Exibir somente as URLs inválidas.</translation>
     </message>
     <message>
         <source>Show only valid URLs.</source>
-        <translation>Mostrar somente URLs válidas.</translation>
+        <translation>Exibir somente as URLs válidas.</translation>
     </message>
     <message>
         <source>View information about URL.</source>
@@ -12462,7 +12462,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>This URL has not been checked.</source>
-        <translation>Este URL não foi verificado.</translation>
+        <translation>Esta URL não foi verificada.</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -12808,7 +12808,7 @@ your account.</source>
     </message>
     <message>
         <source>Menu positioning</source>
-        <translation>Posicionamento do menu</translation>
+        <translation>Posição do menu</translation>
     </message>
     <message>
         <source>Apply changes</source>
@@ -12820,7 +12820,7 @@ your account.</source>
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation>Acesso de site</translation>
+        <translation>Site</translation>
     </message>
 </context>
 <context>
@@ -13147,7 +13147,7 @@ your account.</source>
     </message>
     <message>
         <source>Select siteaccess</source>
-        <translation>Selecione o acesso de site</translation>
+        <translation>Selecione o site</translation>
     </message>
     <message>
         <source>Set</source>
@@ -14976,7 +14976,7 @@ your account.</source>
     </message>
     <message>
         <source>Searchable</source>
-        <translation>Procurável</translation>
+        <translation>Pesquisável</translation>
     </message>
     <message>
         <source>Information collector</source>
@@ -15032,7 +15032,7 @@ your account.</source>
     </message>
     <message>
         <source>Are you sure you want to remove these class groups?</source>
-        <translation>Tem certeza de que deseja remover estes grupos de tipo de conteúdo?</translation>
+        <translation>Tem certeza de que deseja remover estes grupos de tipos de conteúdo?</translation>
     </message>
     <message>
         <source>Removing class group %1 will remove the classes %2!</source>
@@ -15142,7 +15142,7 @@ your account.</source>
     <name>design/standard/class/list</name>
     <message>
         <source>Class groups</source>
-        <translation>Grupos de tipo de conteúdo</translation>
+        <translation>Grupos de tipos de conteúdo</translation>
     </message>
     <message>
         <source>Name</source>
@@ -15253,11 +15253,11 @@ your account.</source>
     </message>
     <message>
         <source>Is searchable</source>
-        <translation>É procurável</translation>
+        <translation>É pesquisável</translation>
     </message>
     <message>
         <source>Is not searchable</source>
-        <translation>Não é procurável</translation>
+        <translation>Não é pesquisável</translation>
     </message>
     <message>
         <source>Collects information</source>
@@ -15511,7 +15511,7 @@ Se quiser enviar comentários ao aprovador ou ver o status do processo, use a UR
     </message>
     <message>
         <source>Locale</source>
-        <translation>Localização</translation>
+        <translation>Localidade</translation>
     </message>
     <message>
         <source>Change</source>
@@ -17074,7 +17074,7 @@ Você pode continuar editando um de seus rascunhos ou pode criar um novo rascunh
     </message>
     <message>
         <source>Search the exact phrase</source>
-        <translation>Pesquisar pela frase exata</translation>
+        <translation>Pesquisar pela expressão exata</translation>
     </message>
     <message>
         <source>Search with at least one of the words</source>
@@ -17975,7 +17975,7 @@ Escolha o local inicial padrão para a seleção de objetos relacionados.
     </message>
     <message>
         <source>Select siteaccess</source>
-        <translation>Selecione o acesso de site</translation>
+        <translation>Selecione o site</translation>
     </message>
     <message>
         <source>Set</source>
@@ -18354,7 +18354,7 @@ Se você removê-los, todas as crianças serão removidas também.
     </message>
     <message>
         <source>Select siteaccess</source>
-        <translation>Selecione o acesso de site</translation>
+        <translation>Selecione o site</translation>
     </message>
     <message>
         <source>Set</source>
@@ -18963,7 +18963,7 @@ Se você não está certo, escolha o acesso de site que reflete a parte do usuá
     </message>
     <message>
         <source>Select siteaccess</source>
-        <translation>Selecione o acesso de site</translation>
+        <translation>Selecione o site</translation>
     </message>
     <message>
         <source>Please select where you want to place the imported items.</source>
@@ -19962,15 +19962,15 @@ menu do topo.</translation>
     </message>
     <message>
         <source>Most frequent search phrases</source>
-        <translation>Frases de pesquisa mais frequentes</translation>
+        <translation>Expressões pesquisa frequentemente</translation>
     </message>
     <message>
         <source>Phrase</source>
-        <translation>Frase</translation>
+        <translation>Expressão</translation>
     </message>
     <message>
         <source>Number of phrases</source>
-        <translation>Número de frases</translation>
+        <translation>Número de expressões</translation>
     </message>
     <message>
         <source>Average result returned</source>
@@ -20683,7 +20683,7 @@ Usando o %operatorname você pode ...</translation>
     </message>
     <message>
         <source>Select siteaccess</source>
-        <translation>Selecione o acesso de site</translation>
+        <translation>Selecione o site</translation>
     </message>
     <message>
         <source>Database check OK</source>
@@ -25022,7 +25022,7 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
     </message>
     <message>
         <source>Select siteaccess</source>
-        <translation>Selecione o acesso de site</translation>
+        <translation>Selecione o site</translation>
     </message>
     <message>
         <source>Set</source>
@@ -25466,7 +25466,7 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
     </message>
     <message>
         <source>Class group list</source>
-        <translation>Lista de grupos de tipo de conteúdo</translation>
+        <translation>Lista de grupos de tipos de conteúdo</translation>
     </message>
     <message>
         <source>Remove class</source>
@@ -25490,7 +25490,7 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
     </message>
     <message>
         <source>Remove class groups</source>
-        <translation>Remover grupos de tipo de conteúdo</translation>
+        <translation>Remover grupos de tipos de conteúdo</translation>
     </message>
     <message>
         <source>You have to have at least one group that the class belongs to!</source>
@@ -25546,7 +25546,7 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
     </message>
     <message>
         <source>Class groups</source>
-        <translation>Grupos de tipo de conteúdo</translation>
+        <translation>Grupos de tipos de conteúdo</translation>
     </message>
     <message>
         <source>Remove classes</source>
@@ -25710,7 +25710,7 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
     <message>
         <source>Float</source>
         <comment>Datatype name</comment>
-        <translation>Float</translation>
+        <translation>Número flutuante</translation>
     </message>
     <message>
         <source>Image</source>
@@ -25720,7 +25720,7 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
     <message>
         <source>Integer</source>
         <comment>Datatype name</comment>
-        <translation>Inteiro</translation>
+        <translation>Número inteiro</translation>
     </message>
     <message>
         <source>ISBN</source>
@@ -25735,7 +25735,7 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
     <message>
         <source>Media</source>
         <comment>Datatype name</comment>
-        <translation>Mídia</translation>
+        <translation>Multimídia</translation>
     </message>
     <message>
         <source>Object relation</source>
@@ -25749,7 +25749,7 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
     </message>
     <message>
         <source>At least one option is required.</source>
-        <translation>É necessária pelo menos uma opção.</translation>
+        <translation>É necessário pelo menos uma opção.</translation>
     </message>
     <message>
         <source>Price</source>
@@ -25796,7 +25796,7 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
     </message>
     <message>
         <source>A user with this email already exists.</source>
-        <translation>Já existe um usuário com este endereço de correio eletrônico.</translation>
+        <translation>Já existe um usuário com este email.</translation>
     </message>
     <message>
         <source>Identifier</source>
@@ -25857,11 +25857,11 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
     </message>
     <message>
         <source>The given input is not a floating point number.</source>
-        <translation>A entrada dada não é um número de ponto flutuante.</translation>
+        <translation>O valor inserido não é um número de ponto flutuante.</translation>
     </message>
     <message>
         <source>The input must be greater than %1</source>
-        <translation>A entrada deve ser maior que %1</translation>
+        <translation>O valor deve ser maior que %1</translation>
     </message>
     <message>
         <source>The input must be less than %1</source>
@@ -27650,7 +27650,7 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     </message>
     <message>
         <source>Translations: you need to add at least one localization</source>
-        <translation>Traduções: você precisa adicionar pelo menos uma localização</translation>
+        <translation>Traduções: você precisa adicionar pelo menos uma localidade</translation>
     </message>
     <message>
         <source>Translations: there are multiple localizations but you did not specify which is the default one</source>
