@@ -1,4 +1,6 @@
-<!DOCTYPE TS><TS>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0">
 <context>
     <name> design/admin/role/view </name>
     <message>
@@ -398,10 +400,6 @@
         <translation>&lt;%datatype_name&gt;数据类型不能用作信息搜集器。</translation>
     </message>
     <message>
-        <source>Edit &lt;%class_name&gt; (%object_count)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Description</source>
         <translation type="unfinished">描述</translation>
     </message>
@@ -431,6 +429,14 @@
     </message>
     <message>
         <source>Category</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit &lt;%class_name&gt; (%object_count objects)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The draft of the class definition was successfully stored.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1714,6 +1720,26 @@
     <message>
         <source>No media file is available.</source>
         <translation>没有可用的媒体文件。</translation>
+    </message>
+    <message>
+        <source>Year</source>
+        <translation type="unfinished">年</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation type="unfinished">月</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation type="unfinished">日</translation>
+    </message>
+    <message>
+        <source>Hour</source>
+        <translation type="unfinished">时</translation>
+    </message>
+    <message>
+        <source>Minute</source>
+        <translation type="unfinished">分</translation>
     </message>
 </context>
 <context>
@@ -4857,7 +4883,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <source>Type</source>
@@ -4896,7 +4922,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <source>Type</source>
@@ -4931,7 +4957,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <source>Type</source>
@@ -4981,7 +5007,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <source>Type</source>
@@ -5004,7 +5030,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <source>Type</source>
@@ -5807,6 +5833,14 @@
     <message>
         <source>The lines marked with red contain more than the maximum possible nodes for subtree removal and will not be deleted. You can remove this subtree using the ezsubtreeremove.php script.</source>
         <translation>标记为红色的记录表示超出子树删除的最大节点数，因而不能被删除。您可以使用子树删除脚本来删除这个子树。</translation>
+    </message>
+    <message>
+        <source>Pending sub-object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removal failed because there is pending sub object under the node. Please finish the relevant process then redo the removal.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6638,10 +6672,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tab is disabled, enable on dashboard.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Translations (%count)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6667,22 +6697,14 @@
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished">创建</translation>
+        <translation type="obsolete">创建</translation>
     </message>
     <message>
         <source>in</source>
-        <translation type="unfinished">在</translation>
-    </message>
-    <message>
-        <source>Here</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">在</translation>
     </message>
     <message>
         <source>Published order</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>List of sub items of current node, with controlls to edit, remove and move them directly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6755,6 +6777,90 @@
     </message>
     <message>
         <source>Language list of translations for current object.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tab is disabled, enable with toggler to the left of these tabs.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show simplified view of content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ordering</source>
+        <translation type="unfinished">顺序</translation>
+    </message>
+    <message>
+        <source>Show published ordering overview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Node remote ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object remote ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of items per page:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visible table columns:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished">选择</translation>
+    </message>
+    <message>
+        <source>Select all visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select none</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use the checkboxes to select one or more items.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>prev</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>last</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7397,27 +7503,27 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Content structure</source>
-        <translation type="obsolete">内容结构</translation>
+        <translation type="unfinished">内容结构</translation>
     </message>
     <message>
         <source>Media library</source>
-        <translation type="obsolete">媒体库</translation>
+        <translation type="unfinished">媒体库</translation>
     </message>
     <message>
         <source>User accounts</source>
-        <translation type="obsolete">用户帐户</translation>
+        <translation type="unfinished">用户帐户</translation>
     </message>
     <message>
         <source>Webshop</source>
-        <translation type="obsolete">网上商店</translation>
+        <translation type="unfinished">网上商店</translation>
     </message>
     <message>
         <source>Setup</source>
-        <translation type="obsolete">设置</translation>
+        <translation type="unfinished">设置</translation>
     </message>
     <message>
         <source>Design</source>
-        <translation type="obsolete">设计</translation>
+        <translation type="unfinished">设计</translation>
     </message>
     <message>
         <source>My account</source>
@@ -7461,31 +7567,31 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Manage the main content structure of the site.</source>
-        <translation type="obsolete">管理站点的主体内容结构。</translation>
+        <translation type="unfinished">管理站点的主体内容结构。</translation>
     </message>
     <message>
         <source>Manage images, files, documents, etc.</source>
-        <translation type="obsolete">管理图像，文件，文档等。</translation>
+        <translation type="unfinished">管理图像，文件，文档等。</translation>
     </message>
     <message>
         <source>Manage users, user groups and permission settings.</source>
-        <translation type="obsolete">管理用户，用户组及权限设置。</translation>
+        <translation type="unfinished">管理用户，用户组及权限设置。</translation>
     </message>
     <message>
         <source>Manage customers, orders, discounts and VAT types; view sales statistics.</source>
-        <translation type="obsolete">管理模板，菜单，工具栏及其他与外观关联的设置。</translation>
+        <translation type="unfinished">管理模板，菜单，工具栏及其他与外观关联的设置。</translation>
     </message>
     <message>
         <source>Manage templates, menus, toolbars and other things related to appearence.</source>
-        <translation type="obsolete">管理模板，菜单，工具栏及其他与外观关联的设置。</translation>
+        <translation type="unfinished">管理模板，菜单，工具栏及其他与外观关联的设置。</translation>
     </message>
     <message>
         <source>Configure settings and manage advanced functionality.</source>
-        <translation type="obsolete">配置设置及管理高级功能。</translation>
+        <translation type="unfinished">配置设置及管理高级功能。</translation>
     </message>
     <message>
         <source>Manage items and settings that belong to your account.</source>
-        <translation type="obsolete">管理属于您的帐户的项目及设置。</translation>
+        <translation type="unfinished">管理属于您的帐户的项目及设置。</translation>
     </message>
     <message>
         <source>Change password for &lt;%username&gt;.</source>
@@ -7580,7 +7686,11 @@ Note: The packages will not be uninstalled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>User perferences</source>
+        <source>Dashboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User preferences</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7786,15 +7896,19 @@ Note: The packages will not be uninstalled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preview tab</source>
+        <source>Enable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Disable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
+        <source>Disable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
+        <source>Enable &amp;quot;Tabs&amp;quot; by default while browsing content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable &amp;quot;Tabs&amp;quot; by default while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8368,6 +8482,14 @@ Note: The packages will not be uninstalled.</source>
         <source>New translation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Sitemap for subtree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">预览</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/preview/article</name>
@@ -8420,6 +8542,10 @@ Note: The packages will not be uninstalled.</source>
     <message>
         <source>Your email address</source>
         <translation>您的电子邮件地址</translation>
+    </message>
+    <message>
+        <source>Your name</source>
+        <translation type="unfinished">您的姓名</translation>
     </message>
 </context>
 <context>
@@ -9837,6 +9963,26 @@ Note: The packages will not be uninstalled.</source>
         <source>Navigation part</source>
         <translation>导航部分</translation>
     </message>
+    <message>
+        <source>Identifier can not be empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier should consist of letters, numbers or &apos;_&apos; with letter prefix.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The identifier has been used in another section.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section edit error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/section/list</name>
@@ -9906,6 +10052,10 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Assign a subtree to the &lt;%section_name&gt; section.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9989,6 +10139,10 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Assign subtree of objects to this section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10406,7 +10560,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source></source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -10468,7 +10622,15 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished">激活</translation>
+        <translation type="obsolete">激活</translation>
+    </message>
+    <message>
+        <source>Activate or deactivate extension. Use the &quot;Update&quot; button to apply the changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10674,7 +10836,7 @@ Note: The packages will not be uninstalled.</source>
     <message>
         <source>SVN revision</source>
         <comment>eZ Publish version</comment>
-        <translation>SVN 版本</translation>
+        <translation type="obsolete">SVN 版本</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -11083,10 +11245,6 @@ Note: The packages will not be uninstalled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your alternatives are to:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11100,6 +11258,10 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The operation was cut short in order to avoid execution timeout.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11900,7 +12062,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>New discount rule</source>
-        <translation type="obsolete">新建折扣规则</translation>
+        <translation type="unfinished">新建折扣规则</translation>
     </message>
     <message>
         <source>Product types</source>
@@ -12965,10 +13127,6 @@ Note: The packages will not be uninstalled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save changes to this states.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation type="unfinished">取消</translation>
     </message>
@@ -12992,6 +13150,10 @@ Note: The packages will not be uninstalled.</source>
         <source>Description:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Save changes to this state.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/state/group</name>
@@ -13013,7 +13175,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <source>Object count</source>
@@ -13143,7 +13305,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <source>Select content object state group for removal.</source>
@@ -13178,7 +13340,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <source>Description</source>
@@ -15247,6 +15409,29 @@ your account.</source>
     </message>
 </context>
 <context>
+    <name>design/ezwebin/content/datatype</name>
+    <message>
+        <source>Year</source>
+        <translation type="obsolete">年</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation type="obsolete">月</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation type="obsolete">日</translation>
+    </message>
+    <message>
+        <source>Hour</source>
+        <translation type="obsolete">时</translation>
+    </message>
+    <message>
+        <source>Minute</source>
+        <translation type="obsolete">分</translation>
+    </message>
+</context>
+<context>
     <name>design/forum/layout</name>
     <message>
         <source>Subject</source>
@@ -16106,7 +16291,15 @@ your account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>seconds(s)</source>
+        <source>Html5 Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Html5 Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>second(s)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17896,6 +18089,30 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>Find objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The related objects will be edited in the same language as this object. If such translations do not exist they will be created, based on the source language of your choice.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation base</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This object is already translated, the existing translation will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This object is not translated, please select the language the new translation will be based on.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your browser does not support html5 video.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your browser does not support html5 audio.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -23171,7 +23388,7 @@ The default code was made from the basic parameters you chose.</source>
     <message>
         <source>SVN revision</source>
         <comment>eZ Publish version</comment>
-        <translation>SVN 修订版</translation>
+        <translation type="obsolete">SVN 修订版</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -24049,15 +24266,15 @@ The default code was made from the basic parameters you chose.</source>
     </message>
     <message>
         <source>The database would not accept the connection, please review your settings and try again.</source>
-        <translation type="obsolete">连接不上数据库，请检查您的设置并重试。</translation>
+        <translation type="unfinished">连接不上数据库，请检查您的设置并重试。</translation>
     </message>
     <message>
         <source>Password entries did not match.</source>
-        <translation type="obsolete">密码不匹配。</translation>
+        <translation type="unfinished">密码不匹配。</translation>
     </message>
     <message>
         <source>The selected database was not empty, please choose from the alternatives below.</source>
-        <translation type="obsolete">选中的数据库非空，请从以下选项中选择。</translation>
+        <translation type="unfinished">选中的数据库非空，请从以下选项中选择。</translation>
     </message>
     <message>
         <source>The selected selected user has not got access to any databases. Change user or create a database for the user.</source>
@@ -24065,11 +24282,11 @@ The default code was made from the basic parameters you chose.</source>
     </message>
     <message>
         <source>Database initalization</source>
-        <translation type="obsolete">数据库初始化</translation>
+        <translation type="unfinished">数据库初始化</translation>
     </message>
     <message>
         <source>Email settings</source>
-        <translation type="obsolete">电子邮件设置</translation>
+        <translation type="unfinished">电子邮件设置</translation>
     </message>
     <message>
         <source>Finished</source>
@@ -24077,19 +24294,19 @@ The default code was made from the basic parameters you chose.</source>
     </message>
     <message>
         <source>Language options</source>
-        <translation type="obsolete">语言选项</translation>
+        <translation type="unfinished">语言选项</translation>
     </message>
     <message>
         <source>Registration</source>
-        <translation type="obsolete">注册</translation>
+        <translation type="unfinished">注册</translation>
     </message>
     <message>
         <source>Securing site</source>
-        <translation type="obsolete">安全站点</translation>
+        <translation type="unfinished">安全站点</translation>
     </message>
     <message>
         <source>Site access</source>
-        <translation type="obsolete">站点访问</translation>
+        <translation type="unfinished">站点访问</translation>
     </message>
     <message>
         <source>Site details</source>
@@ -24101,7 +24318,7 @@ The default code was made from the basic parameters you chose.</source>
     </message>
     <message>
         <source>Site template selection</source>
-        <translation type="obsolete">网站模板选择</translation>
+        <translation type="unfinished">网站模板选择</translation>
     </message>
     <message>
         <source>System check</source>
@@ -24833,7 +25050,7 @@ If you do not have the possibility to use virtualhost mode you should follow the
     </message>
     <message>
         <source>Site selection</source>
-        <translation type="obsolete">站点选择</translation>
+        <translation type="unfinished">站点选择</translation>
     </message>
     <message>
         <source>You need to fill in the first name.</source>
@@ -24923,11 +25140,11 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>Please make sure that the username and the password is correct. Verify that your PostgreSQL database is configured correctly.&lt;br&gt;See the PHP documentation for more information about this.&lt;br&gt;Remember to start postmaster with the -i option.&lt;br&gt;Note that PostgreSQL 7.2 is not supported.</source>
-        <translation type="obsolete">请确定用户名及密码是否正确。检验您的PostgreSQL数据库是否正确配置。&lt;br&gt;查看PHP文档了解更多信息。&lt;br&gt;记得使用-i选项执行postmaster。注意不支持PostgreSQL 7.2。</translation>
+        <translation type="unfinished">请确定用户名及密码是否正确。检验您的PostgreSQL数据库是否正确配置。&lt;br&gt;查看PHP文档了解更多信息。&lt;br&gt;记得使用-i选项执行postmaster。注意不支持PostgreSQL 7.2。</translation>
     </message>
     <message>
         <source>Your database version %version does not fit the minimum requirement which is %req_version.</source>
-        <translation type="obsolete">您的数据库版本%version不符合%req_version的最小需求。</translation>
+        <translation type="unfinished">您的数据库版本%version不符合%req_version的最小需求。</translation>
     </message>
     <message>
         <source>The setup wizard was not able to complete the creation of your selected sites.</source>
@@ -24960,23 +25177,23 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>Cannot write to file</source>
-        <translation type="obsolete">不能写入文件</translation>
+        <translation type="unfinished">不能写入文件</translation>
     </message>
     <message>
         <source>Download of package &apos;%pkg&apos; failed. You may upload the package manually.</source>
-        <translation type="obsolete">下载软件包&apos;%pkg&apos;失败。您可以手工上传该软件包。</translation>
+        <translation type="unfinished">下载软件包&apos;%pkg&apos;失败。您可以手工上传该软件包。</translation>
     </message>
     <message>
         <source>Invalid package</source>
-        <translation type="obsolete">无效软件包</translation>
+        <translation type="unfinished">无效软件包</translation>
     </message>
     <message>
         <source>No package selected for upload</source>
-        <translation type="obsolete">没有选取上传软件包</translation>
+        <translation type="unfinished">没有选取上传软件包</translation>
     </message>
     <message>
         <source>Failed fetching upload package file</source>
-        <translation type="obsolete">获取上传软件包文件失败</translation>
+        <translation type="unfinished">获取上传软件包文件失败</translation>
     </message>
     <message>
         <source>Site package</source>
@@ -25000,11 +25217,11 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>The database [%database_name] cannot be used, the setup wizard wants to create the site in [%req_charset] but the database has been created using character set [%charset]. You will have to choose a database having support for [%req_charset] or modify [%database_name] .</source>
-        <translation type="obsolete">不能使用数据库［%database_name］，安装向导要使用［%req_charset］创建一个站点。但是已使用字符集［%charset］创建了数据库。您必须选择一个数据库支持［%req_charset］或修改［%database_name］。</translation>
+        <translation type="unfinished">不能使用数据库［%database_name］，安装向导要使用［%req_charset］创建一个站点。但是已使用字符集［%charset］创建了数据库。您必须选择一个数据库支持［%req_charset］或修改［%database_name］。</translation>
     </message>
     <message>
         <source>Failed to copy %url to local file %filename</source>
-        <translation type="obsolete">复制%url到本地文件%filename失败</translation>
+        <translation type="unfinished">复制%url到本地文件%filename失败</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -25044,7 +25261,7 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>Package &apos;%packageName&apos; and it&apos;s dependencies have been downloaded successfully. Press &apos;Next&apos; to continue.</source>
-        <translation type="obsolete">已成功下载软件包&apos;%packageName&apos;及其相关套件。点击&apos;下一步&apos;继续。</translation>
+        <translation type="unfinished">已成功下载软件包&apos;%packageName&apos;及其相关套件。点击&apos;下一步&apos;继续。</translation>
     </message>
     <message>
         <source>Use the radio buttons to choose the default language, and the checkboxes to choose additional languages. You will be able to use any of the selected languages for translating your content. The default language will determine the locale settings and will be used as the most prioritized language for your site.</source>
@@ -25323,7 +25540,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>The selected user has not got access to any databases. Change user or create a database for the user.</source>
-        <translation type="obsolete">选中的用户没有访问任何数据库的权限。修改用户或为用户创建一个数据库。</translation>
+        <translation type="unfinished">选中的用户没有访问任何数据库的权限。修改用户或为用户创建一个数据库。</translation>
     </message>
     <message>
         <source>The &apos;digest&apos; procedure is not available in your database, you cannot run eZ Publish without this. Visit the FAQ for more information.</source>
@@ -25331,27 +25548,27 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>No packages chosen.</source>
-        <translation type="obsolete">没有选中的软件包。</translation>
+        <translation type="unfinished">没有选中的软件包。</translation>
     </message>
     <message>
         <source>No templates chosen.</source>
-        <translation type="obsolete">没有选中的模板。</translation>
+        <translation type="unfinished">没有选中的模板。</translation>
     </message>
     <message>
         <source>Uploaded file is not an eZ Publish package</source>
-        <translation type="obsolete">上传的文件不是eZ Publish软件包</translation>
+        <translation type="unfinished">上传的文件不是eZ Publish软件包</translation>
     </message>
     <message>
         <source>No site package chosen.</source>
-        <translation type="obsolete">没有选中的站点软件包。</translation>
+        <translation type="unfinished">没有选中的站点软件包。</translation>
     </message>
     <message>
         <source>Retrieving remote site packages list failed. You may upload packages manually.</source>
-        <translation type="obsolete">获得远程站点软件包列表失败。您可以手工上传软件包。</translation>
+        <translation type="unfinished">获得远程站点软件包列表失败。您可以手工上传软件包。</translation>
     </message>
     <message>
         <source>Welcome to eZ Publish</source>
-        <translation type="obsolete">欢迎使用eZ Publish</translation>
+        <translation type="unfinished">欢迎使用eZ Publish</translation>
     </message>
     <message>
         <source>If you think you have fixed the errors you can try then click the &quot;Retry&quot; button.</source>
@@ -25408,6 +25625,10 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>PostgreSQL support was detected on your system. Please choose the database driver you would like to use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The &apos;digest&apos; function is not available in your database, you cannot run eZ Publish without this. See the documentation for more information.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -25553,10 +25774,6 @@ This functionality is also available at a later time from the Administration Int
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your alternatives are to:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -25570,6 +25787,14 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The operation was cut short in order to avoid execution timeout.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your current session handler does not support session administration.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -27316,7 +27541,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <source>Description</source>
@@ -27357,7 +27582,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     <name>design/standard/toolbar</name>
     <message>
         <source>Toolbar management</source>
-        <translation type="obsolete">工具栏管理</translation>
+        <translation type="unfinished">工具栏管理</translation>
     </message>
     <message>
         <source>There are %logged_in_count registered and %anonymous_count anonymous users online.</source>
@@ -27926,7 +28151,7 @@ your account.</source>
     </message>
     <message>
         <source>The node (%1) specified in [UserSettings].DefaultUserPlacement setting in site.ini does not exist!</source>
-        <translation type="obsolete">site.ini中［UserSettings］DefaultUserPlacement设置所指定的节点（%1）不存在!</translation>
+        <translation type="unfinished">site.ini中［UserSettings］DefaultUserPlacement设置所指定的节点（%1）不存在!</translation>
     </message>
     <message>
         <source>Email</source>
@@ -28994,78 +29219,98 @@ your account.</source>
     <name>kernel/cache</name>
     <message>
         <source>Content view cache</source>
-        <translation type="obsolete">内容视图缓存</translation>
+        <translation type="unfinished">内容视图缓存</translation>
     </message>
     <message>
         <source>Global INI cache</source>
-        <translation type="obsolete">全局INI缓存</translation>
+        <translation type="unfinished">全局INI缓存</translation>
     </message>
     <message>
         <source>INI cache</source>
-        <translation type="obsolete">INI 缓存</translation>
+        <translation type="unfinished">INI 缓存</translation>
     </message>
     <message>
         <source>Codepage cache</source>
-        <translation type="obsolete">代码页缓存</translation>
+        <translation type="unfinished">代码页缓存</translation>
     </message>
     <message>
         <source>Class identifier cache</source>
-        <translation type="obsolete">类标识符缓存</translation>
+        <translation type="unfinished">类标识符缓存</translation>
     </message>
     <message>
         <source>Sort key cache</source>
-        <translation type="obsolete">排序键缓存</translation>
+        <translation type="unfinished">排序键缓存</translation>
     </message>
     <message>
         <source>URL alias cache</source>
-        <translation type="obsolete">URL别名缓存</translation>
+        <translation type="unfinished">URL别名缓存</translation>
     </message>
     <message>
         <source>Image alias</source>
-        <translation type="obsolete">图像别名</translation>
+        <translation type="unfinished">图像别名</translation>
     </message>
     <message>
         <source>Template cache</source>
-        <translation type="obsolete">模板缓存</translation>
+        <translation type="unfinished">模板缓存</translation>
     </message>
     <message>
         <source>Template block cache</source>
-        <translation type="obsolete">模板块缓存</translation>
+        <translation type="unfinished">模板块缓存</translation>
     </message>
     <message>
         <source>Template override cache</source>
-        <translation type="obsolete">模板覆盖缓存</translation>
+        <translation type="unfinished">模板覆盖缓存</translation>
     </message>
     <message>
         <source>RSS cache</source>
-        <translation type="obsolete">RSS缓存</translation>
+        <translation type="unfinished">RSS缓存</translation>
     </message>
     <message>
         <source>Character transformation cache</source>
-        <translation type="obsolete">字符转换缓存</translation>
+        <translation type="unfinished">字符转换缓存</translation>
     </message>
     <message>
         <source>User info cache</source>
-        <translation type="obsolete">用户信息缓存</translation>
+        <translation type="unfinished">用户信息缓存</translation>
     </message>
     <message>
         <source>Content tree menu (browser cache)</source>
-        <translation type="obsolete">内容树菜单（浏览缓存）</translation>
+        <translation type="unfinished">内容树菜单（浏览缓存）</translation>
+    </message>
+    <message>
+        <source>Text to image cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>State limitations cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Design base cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Active extensions cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TS Translation cache</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/class</name>
     <message>
         <source>Class list of group</source>
-        <translation type="obsolete">组内类列表</translation>
+        <translation type="unfinished">组内类列表</translation>
     </message>
     <message>
         <source>Class group list</source>
-        <translation type="obsolete">类组列表</translation>
+        <translation type="unfinished">类组列表</translation>
     </message>
     <message>
         <source>Class list</source>
-        <translation type="obsolete">类列表</translation>
+        <translation type="unfinished">类列表</translation>
     </message>
     <message>
         <source> object</source>
@@ -29077,15 +29322,15 @@ your account.</source>
     </message>
     <message>
         <source>Remove classes</source>
-        <translation type="obsolete">删除对象</translation>
+        <translation type="unfinished">删除对象</translation>
     </message>
     <message>
         <source>(no classes)</source>
-        <translation type="obsolete">(无任何类)</translation>
+        <translation type="unfinished">(无任何类)</translation>
     </message>
     <message>
         <source>Remove class groups</source>
-        <translation type="obsolete">删除类组</translation>
+        <translation type="unfinished">删除类组</translation>
     </message>
     <message>
         <source>Classes</source>
@@ -29097,128 +29342,132 @@ your account.</source>
     </message>
     <message>
         <source>Remove class</source>
-        <translation type="obsolete">删除类</translation>
+        <translation type="unfinished">删除类</translation>
     </message>
     <message>
         <source>You have to have at least one group that the class belongs to!</source>
-        <translation type="obsolete">该类至少应属于一个组!</translation>
+        <translation type="unfinished">该类至少应属于一个组!</translation>
     </message>
     <message>
         <source>Remove classes %class_id</source>
-        <translation type="obsolete">删除类%class_id</translation>
+        <translation type="unfinished">删除类%class_id</translation>
     </message>
     <message>
         <source>Copy of %class_name</source>
-        <translation type="obsolete">%class_name的副本</translation>
+        <translation type="unfinished">%class_name的副本</translation>
     </message>
     <message>
         <source>The class should have nonempty &apos;Name&apos; attribute.</source>
-        <translation type="obsolete">该类应该包含非空属性&apos;名称&apos;。</translation>
+        <translation type="unfinished">该类应该包含非空属性&apos;名称&apos;。</translation>
     </message>
     <message>
         <source>The class should have at least one attribute.</source>
-        <translation type="obsolete">类至少应该包含一个属性。</translation>
+        <translation type="unfinished">类至少应该包含一个属性。</translation>
     </message>
     <message>
         <source>There is a class already having the same identifier.</source>
-        <translation type="obsolete">已有类使用了同样的标识符。</translation>
+        <translation type="unfinished">已有类使用了同样的标识符。</translation>
     </message>
     <message>
         <source>Remove translation</source>
-        <translation type="obsolete">删除翻译</translation>
+        <translation type="unfinished">删除翻译</translation>
     </message>
     <message>
         <source>Could not load datatype: </source>
-        <translation type="obsolete">无法加载数据类型:</translation>
+        <translation type="unfinished">无法加载数据类型:</translation>
     </message>
     <message>
         <source>Editing this content class may cause data corruption in your system.</source>
-        <translation type="obsolete">编辑此内容类将导致您系统中的数据冲突。</translation>
+        <translation type="unfinished">编辑此内容类将导致您系统中的数据冲突。</translation>
     </message>
     <message>
         <source>duplicate attribute placement</source>
-        <translation type="obsolete">属性位置重复</translation>
+        <translation type="unfinished">属性位置重复</translation>
     </message>
     <message>
         <source>duplicate attribute identifier</source>
-        <translation type="obsolete">属性标识符重复</translation>
+        <translation type="unfinished">属性标识符重复</translation>
     </message>
     <message>
         <source>Press &quot;Cancel&quot; to safely exit this operation.</source>
-        <translation type="obsolete">点击&quot;取消&quot;安全退出这次操作。</translation>
+        <translation type="unfinished">点击&quot;取消&quot;安全退出这次操作。</translation>
     </message>
     <message>
         <source>Please contact your eZ Publish administrator to solve this problem.</source>
-        <translation type="obsolete">请您联系站点的eZ Publish管理员来解决这个问题。</translation>
+        <translation type="unfinished">请您联系站点的eZ Publish管理员来解决这个问题。</translation>
+    </message>
+    <message>
+        <source>Class groups</source>
+        <translation type="unfinished">类组</translation>
     </message>
 </context>
 <context>
     <name>kernel/class/edit</name>
     <message>
         <source>New Class</source>
-        <translation type="obsolete">新建类</translation>
+        <translation type="unfinished">新建类</translation>
     </message>
     <message>
         <source>new attribute</source>
-        <translation type="obsolete">新建属性</translation>
+        <translation type="unfinished">新建属性</translation>
     </message>
 </context>
 <context>
     <name>kernel/class/groupedit</name>
     <message>
         <source>New Group</source>
-        <translation type="obsolete">新建组</translation>
+        <translation type="unfinished">新建组</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes</name>
     <message>
         <source>Approval</source>
-        <translation type="obsolete">批准</translation>
+        <translation type="unfinished">批准</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="obsolete">标准</translation>
+        <translation type="unfinished">标准</translation>
     </message>
     <message>
         <source>Observer</source>
-        <translation type="obsolete">观察者</translation>
+        <translation type="unfinished">观察者</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="obsolete">所有者</translation>
+        <translation type="unfinished">所有者</translation>
     </message>
     <message>
         <source>Approver</source>
-        <translation type="obsolete">批准者</translation>
+        <translation type="unfinished">批准者</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation type="obsolete">作者</translation>
+        <translation type="unfinished">作者</translation>
     </message>
     <message>
         <source>Inbox</source>
-        <translation type="obsolete">收件箱</translation>
+        <translation type="unfinished">收件箱</translation>
     </message>
     <message>
         <source>No state yet</source>
-        <translation type="obsolete">仍没有状态</translation>
+        <translation type="unfinished">仍没有状态</translation>
     </message>
     <message>
         <source>Workflow running</source>
-        <translation type="obsolete">运行中的工作流</translation>
+        <translation type="unfinished">运行中的工作流</translation>
     </message>
     <message>
         <source>Workflow done</source>
-        <translation type="obsolete">工作流结束</translation>
+        <translation type="unfinished">工作流结束</translation>
     </message>
     <message>
         <source>Workflow failed an event</source>
-        <translation type="obsolete">工作流事件失败</translation>
+        <translation type="unfinished">工作流事件失败</translation>
     </message>
     <message>
         <source>Workflow event deferred to cron job</source>
-        <translation type="obsolete">工作流事件延缓了cron 任务</translation>
+        <translation type="unfinished">工作流事件延缓了cron 任务</translation>
     </message>
     <message>
         <source>Workflow was cancelled</source>
@@ -29226,27 +29475,27 @@ your account.</source>
     </message>
     <message>
         <source>Workflow was reset for reuse</source>
-        <translation type="obsolete">重置工作流以便于重用</translation>
+        <translation type="unfinished">重置工作流以便于重用</translation>
     </message>
     <message>
         <source>Accepted event</source>
-        <translation type="obsolete">已批准的事件</translation>
+        <translation type="unfinished">已批准的事件</translation>
     </message>
     <message>
         <source>Rejected event</source>
-        <translation type="obsolete">已否决的事件</translation>
+        <translation type="unfinished">已否决的事件</translation>
     </message>
     <message>
         <source>Event deferred to cron job</source>
-        <translation type="obsolete">事件延缓了cron 任务</translation>
+        <translation type="unfinished">事件延缓了cron 任务</translation>
     </message>
     <message>
         <source>Event deferred to cron job, event will be rerun</source>
-        <translation type="obsolete">事件延缓了cron 任务,将重新运行事件</translation>
+        <translation type="unfinished">事件延缓了cron 任务,将重新运行事件</translation>
     </message>
     <message>
         <source>Event runs a sub event</source>
-        <translation type="obsolete">事件运行一个子事件</translation>
+        <translation type="unfinished">事件运行一个子事件</translation>
     </message>
     <message>
         <source>Cancelled whole workflow</source>
@@ -29254,27 +29503,39 @@ your account.</source>
     </message>
     <message>
         <source>Workflow fetches template</source>
-        <translation type="obsolete">工作流调用模板</translation>
+        <translation type="unfinished">工作流调用模板</translation>
     </message>
     <message>
         <source>Workflow redirects user view</source>
-        <translation type="obsolete">工作流重定向用户视图</translation>
+        <translation type="unfinished">工作流重定向用户视图</translation>
     </message>
     <message>
         <source>New RSS Export</source>
-        <translation type="obsolete">新建RSS导出</translation>
+        <translation type="unfinished">新建RSS导出</translation>
     </message>
     <message>
         <source>Workflow was canceled</source>
-        <translation type="obsolete">工作流已取消</translation>
+        <translation type="unfinished">工作流已取消</translation>
     </message>
     <message>
         <source>Canceled whole workflow</source>
-        <translation type="obsolete">已取消整个工作流</translation>
+        <translation type="unfinished">已取消整个工作流</translation>
     </message>
     <message>
         <source>Keep existing and create a new one</source>
-        <translation type="obsolete">保留现有并创建一个新的</translation>
+        <translation type="unfinished">保留现有并创建一个新的</translation>
+    </message>
+    <message>
+        <source>Replace existing object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update existing object</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -29428,11 +29689,11 @@ your account.</source>
     </message>
     <message>
         <source>Missing date input.</source>
-        <translation type="obsolete">缺少数据输入。</translation>
+        <translation type="unfinished">缺少数据输入。</translation>
     </message>
     <message>
         <source>Missing datetime input.</source>
-        <translation type="obsolete">缺少时间输入。</translation>
+        <translation type="unfinished">缺少时间输入。</translation>
     </message>
     <message>
         <source>Missing time input.</source>
@@ -29468,7 +29729,7 @@ your account.</source>
     </message>
     <message>
         <source>At least one author is required.</source>
-        <translation type="obsolete">至少需要一个作者。</translation>
+        <translation type="unfinished">至少需要一个作者。</translation>
     </message>
     <message>
         <source>Author name should be provided.</source>
@@ -29489,12 +29750,12 @@ your account.</source>
     </message>
     <message>
         <source>A valid file is required.</source>
-        <translation type="obsolete">要求有效文件。</translation>
+        <translation type="unfinished">要求有效文件。</translation>
     </message>
     <message>
         <source>Checkbox</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">复选框</translation>
+        <translation type="unfinished">复选框</translation>
     </message>
     <message>
         <source>Date field</source>
@@ -29509,7 +29770,7 @@ your account.</source>
     <message>
         <source>Email</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">电子邮件</translation>
+        <translation type="unfinished">电子邮件</translation>
     </message>
     <message>
         <source>A valid email account is required.</source>
@@ -29518,16 +29779,16 @@ your account.</source>
     <message>
         <source>Enum</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">枚举</translation>
+        <translation type="unfinished">枚举</translation>
     </message>
     <message>
         <source>At least one field should be chosen.</source>
-        <translation type="obsolete">至少应选择一个字段。</translation>
+        <translation type="unfinished">至少应选择一个字段。</translation>
     </message>
     <message>
         <source>Float</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">浮点数</translation>
+        <translation type="unfinished">浮点数</translation>
     </message>
     <message>
         <source>Input is not float.</source>
@@ -29548,7 +29809,7 @@ your account.</source>
     <message>
         <source>Image</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">图像</translation>
+        <translation type="unfinished">图像</translation>
     </message>
     <message>
         <source>A valid image is required.</source>
@@ -29557,7 +29818,7 @@ your account.</source>
     <message>
         <source>Integer</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">整数</translation>
+        <translation type="unfinished">整数</translation>
     </message>
     <message>
         <source>Input is not integer.</source>
@@ -29566,7 +29827,7 @@ your account.</source>
     <message>
         <source>ISBN</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">ISBN</translation>
+        <translation type="unfinished">ISBN</translation>
     </message>
     <message>
         <source>The ISBN number is not correct. Please recheck the input</source>
@@ -29584,17 +29845,17 @@ your account.</source>
     <message>
         <source>Matrix</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">矩阵</translation>
+        <translation type="unfinished">矩阵</translation>
     </message>
     <message>
         <source>Media</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">媒体</translation>
+        <translation type="unfinished">媒体</translation>
     </message>
     <message>
         <source>Object relation</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">对象关联</translation>
+        <translation type="unfinished">对象关联</translation>
     </message>
     <message>
         <source>Object relation list</source>
@@ -29604,11 +29865,11 @@ your account.</source>
     <message>
         <source>Option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">选项</translation>
+        <translation type="unfinished">选项</translation>
     </message>
     <message>
         <source>At least one option is required.</source>
-        <translation type="obsolete">至少需要一个选项.</translation>
+        <translation type="unfinished">至少需要一个选项.</translation>
     </message>
     <message>
         <source>Option value should be provided.</source>
@@ -29621,30 +29882,30 @@ your account.</source>
     <message>
         <source>Price</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">价格</translation>
+        <translation type="unfinished">价格</translation>
     </message>
     <message>
         <source>Add to basket</source>
-        <translation type="obsolete">添加到购物篮</translation>
+        <translation type="unfinished">添加到购物篮</translation>
     </message>
     <message>
         <source>Add to wish list</source>
-        <translation type="obsolete">添加到希望列表</translation>
+        <translation type="unfinished">添加到希望列表</translation>
     </message>
     <message>
         <source>Range option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">范围选项</translation>
+        <translation type="unfinished">范围选项</translation>
     </message>
     <message>
         <source>Selection</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">选择</translation>
+        <translation type="unfinished">选择</translation>
     </message>
     <message>
         <source>Text line</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">文本行</translation>
+        <translation type="unfinished">文本行</translation>
     </message>
     <message>
         <source>Text line is empty, content required.</source>
@@ -29657,7 +29918,7 @@ your account.</source>
     <message>
         <source>Subtree subscription</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">子树订阅</translation>
+        <translation type="unfinished">子树订阅</translation>
     </message>
     <message>
         <source>Text field</source>
@@ -29680,12 +29941,12 @@ your account.</source>
     <message>
         <source>URL</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">URL</translation>
+        <translation type="unfinished">URL</translation>
     </message>
     <message>
         <source>User account</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">用户账号</translation>
+        <translation type="unfinished">用户账号</translation>
     </message>
     <message>
         <source>The login must be specified</source>
@@ -29701,7 +29962,7 @@ your account.</source>
     </message>
     <message>
         <source>A user with this email already exists.</source>
-        <translation type="obsolete">使用此信箱的用户已存在。</translation>
+        <translation type="unfinished">使用此信箱的用户已存在。</translation>
     </message>
     <message>
         <source>The password must be at least 3 characters.</source>
@@ -29723,201 +29984,201 @@ your account.</source>
     <message>
         <source>Identifier</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">标识符</translation>
+        <translation type="unfinished">标识符</translation>
     </message>
     <message>
         <source>image</source>
         <comment>Default image name</comment>
-        <translation type="obsolete">图像</translation>
+        <translation type="unfinished">图像</translation>
     </message>
     <message>
         <source>Ini Setting</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Ini设置</translation>
+        <translation type="unfinished">Ini设置</translation>
     </message>
     <message>
         <source>Package</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">软件包</translation>
+        <translation type="unfinished">软件包</translation>
     </message>
     <message>
         <source>Send</source>
         <comment>Datatype information collector action</comment>
-        <translation type="obsolete">发送</translation>
+        <translation type="unfinished">发送</translation>
     </message>
     <message>
         <source>Content required</source>
-        <translation type="obsolete">必填内容</translation>
+        <translation type="unfinished">必填内容</translation>
     </message>
     <message>
         <source>Missing objectrelation input.</source>
-        <translation type="obsolete">缺少对象关联输入。</translation>
+        <translation type="unfinished">缺少对象关联输入。</translation>
     </message>
     <message>
         <source>Invalid time.</source>
-        <translation type="obsolete">无效的时间。</translation>
+        <translation type="unfinished">无效的时间。</translation>
     </message>
     <message>
         <source>The author name must be provided.</source>
-        <translation type="obsolete">必须提供作者的名字。</translation>
+        <translation type="unfinished">必须提供作者的名字。</translation>
     </message>
     <message>
         <source>The email address is not valid.</source>
-        <translation type="obsolete">电子信箱地址无效。</translation>
+        <translation type="unfinished">电子信箱地址无效。</translation>
     </message>
     <message>
         <source>File uploading is not enabled. Please contact the site administrator to enable it.</source>
-        <translation type="obsolete">文件上传不可用，请联系站点管理员。</translation>
+        <translation type="unfinished">文件上传不可用，请联系站点管理员。</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set by the upload_max_filesize directive in php.ini.</source>
-        <translation type="obsolete">上传文件的大小超出了php.ini中由upload_max_filesize设置的限制。</translation>
+        <translation type="unfinished">上传文件的大小超出了php.ini中由upload_max_filesize设置的限制。</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the maximum upload size: %1 bytes.</source>
-        <translation type="obsolete">上传文件的大小超出最大上传容量：%1字节。</translation>
+        <translation type="unfinished">上传文件的大小超出最大上传容量：%1字节。</translation>
     </message>
     <message>
         <source>The email address is empty.</source>
-        <translation type="obsolete">电子邮件为空。</translation>
+        <translation type="unfinished">电子邮件为空。</translation>
     </message>
     <message>
         <source>The given input is not a floating point number.</source>
-        <translation type="obsolete">给定的输入不是浮点数。</translation>
+        <translation type="unfinished">给定的输入不是浮点数。</translation>
     </message>
     <message>
         <source>The input must be greater than %1</source>
-        <translation type="obsolete">输入必须大于%1</translation>
+        <translation type="unfinished">输入必须大于%1</translation>
     </message>
     <message>
         <source>The input must be less than %1</source>
-        <translation type="obsolete">输入必须小于%1</translation>
+        <translation type="unfinished">输入必须小于%1</translation>
     </message>
     <message>
         <source>The input is not in defined range %1 - %2</source>
-        <translation type="obsolete">输入不在定义范围%1 - %2中</translation>
+        <translation type="unfinished">输入不在定义范围%1 - %2中</translation>
     </message>
     <message>
         <source>A valid image file is required.</source>
-        <translation type="obsolete">需要有效的图像文件。</translation>
+        <translation type="unfinished">需要有效的图像文件。</translation>
     </message>
     <message>
         <source>The size of the uploaded image exceeds limit set by upload_max_filesize directive in php.ini. Please contact the site administrator.</source>
-        <translation type="obsolete">上传的图像文件的大小超出了php.ini中由upload_max_filesize设置的限制。请联系站点管理员。</translation>
+        <translation type="unfinished">上传的图像文件的大小超出了php.ini中由upload_max_filesize设置的限制。请联系站点管理员。</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
-        <translation type="obsolete">上传文件的大小超出站点的限制：%1字节。</translation>
+        <translation type="unfinished">上传文件的大小超出站点的限制：%1字节。</translation>
     </message>
     <message>
         <source>Could not locate the ini file.</source>
-        <translation type="obsolete">无法定位到ini文件。</translation>
+        <translation type="unfinished">无法定位到ini文件。</translation>
     </message>
     <message>
         <source>The input is not a valid integer.</source>
-        <translation type="obsolete">输入不是一个有效整数。</translation>
+        <translation type="unfinished">输入不是一个有效整数。</translation>
     </message>
     <message>
         <source>The number must be greater than %1</source>
-        <translation type="obsolete">数值必须大于%1</translation>
+        <translation type="unfinished">数值必须大于%1</translation>
     </message>
     <message>
         <source>The number must be less than %1</source>
-        <translation type="obsolete">数值必须小于%1</translation>
+        <translation type="unfinished">数值必须小于%1</translation>
     </message>
     <message>
         <source>The number is not within the required range %1 - %2</source>
-        <translation type="obsolete">数值不在要求的范围 %1 - %2内</translation>
+        <translation type="unfinished">数值不在要求的范围 %1 - %2内</translation>
     </message>
     <message>
         <source>The ISBN number is not correct. Please check the input for mistakes.</source>
-        <translation type="obsolete">ISBN编号不正确。请检查是否有输入错误。</translation>
+        <translation type="unfinished">ISBN编号不正确。请检查是否有输入错误。</translation>
     </message>
     <message>
         <source>A valid media file is required.</source>
-        <translation type="obsolete">需要有效的媒体文件。</translation>
+        <translation type="unfinished">需要有效的媒体文件。</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set by upload_max_filesize directive in php.ini. Please contact the site administrator.</source>
-        <translation type="obsolete">上传文件的大小超出了php.ini中由upload_max_filesize设置的限制。请联系站点管理员。</translation>
+        <translation type="unfinished">上传文件的大小超出了php.ini中由upload_max_filesize设置的限制。请联系站点管理员。</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds site maximum: %1 bytes.</source>
-        <translation type="obsolete">上传文件的大小超出站点最大值：%1字节。</translation>
+        <translation type="unfinished">上传文件的大小超出站点最大值：%1字节。</translation>
     </message>
     <message>
         <source>The option value must be provided.</source>
-        <translation type="obsolete">必须提供选项值。</translation>
+        <translation type="unfinished">必须提供选项值。</translation>
     </message>
     <message>
         <source>The additional price for the multioption value is not valid.</source>
-        <translation type="obsolete">多选值的附加价格无效。</translation>
+        <translation type="unfinished">多选值的附加价格无效。</translation>
     </message>
     <message>
         <source>The Additional price value is not valid.</source>
-        <translation type="obsolete">附加价格无效。</translation>
+        <translation type="unfinished">附加价格无效。</translation>
     </message>
     <message>
         <source>Input required.</source>
-        <translation type="obsolete">必须输入。</translation>
+        <translation type="unfinished">必须输入。</translation>
     </message>
     <message>
         <source>The input text is too long. The maximum number of characters allowed is %1.</source>
-        <translation type="obsolete">输入的文本太长，允许的最大字符数是%1。</translation>
+        <translation type="unfinished">输入的文本太长，允许的最大字符数是%1。</translation>
     </message>
     <message>
         <source>Time input required.</source>
-        <translation type="obsolete">必须输入时间。</translation>
+        <translation type="unfinished">必须输入时间。</translation>
     </message>
     <message>
         <source>The username must be specified.</source>
-        <translation type="obsolete">必须指定用户名。</translation>
+        <translation type="unfinished">必须指定用户名。</translation>
     </message>
     <message>
         <source>The username already exists, please choose another one.</source>
-        <translation type="obsolete">该用户名已存在，请选择其他用户名。</translation>
+        <translation type="unfinished">该用户名已存在，请选择其他用户名。</translation>
     </message>
     <message>
         <source>The passwords do not match.</source>
         <comment>eZUserType</comment>
-        <translation type="obsolete">密码不一致。</translation>
+        <translation type="unfinished">密码不一致。</translation>
     </message>
     <message>
         <source>Cannot remove the account:</source>
-        <translation type="obsolete">无法删除帐户:</translation>
+        <translation type="unfinished">无法删除帐户:</translation>
     </message>
     <message>
         <source>The account owner is currently logged in.</source>
-        <translation type="obsolete">帐户所有者目前已登录。</translation>
+        <translation type="unfinished">帐户所有者目前已登录。</translation>
     </message>
     <message>
         <source>The account is currently used by the anonymous user.</source>
-        <translation type="obsolete">该帐户当前正被匿名用户使用。</translation>
+        <translation type="unfinished">该帐户当前正被匿名用户使用。</translation>
     </message>
     <message>
         <source>Multi-option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">多选</translation>
+        <translation type="unfinished">多选</translation>
     </message>
     <message>
         <source>Authors</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">作者</translation>
+        <translation type="unfinished">作者</translation>
     </message>
     <message>
         <source>File</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">文件</translation>
+        <translation type="unfinished">文件</translation>
     </message>
     <message>
         <source>Date</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">日期</translation>
+        <translation type="unfinished">日期</translation>
     </message>
     <message>
         <source>Date and time</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">日期和时间</translation>
+        <translation type="unfinished">日期和时间</translation>
     </message>
     <message>
         <source>E-mail</source>
@@ -29927,252 +30188,281 @@ your account.</source>
     <message>
         <source>Keywords</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">关键字</translation>
+        <translation type="unfinished">关键字</translation>
     </message>
     <message>
         <source>Object relations</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">对象关联</translation>
+        <translation type="unfinished">对象关联</translation>
     </message>
     <message>
         <source>Text block</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">文本块</translation>
+        <translation type="unfinished">文本块</translation>
     </message>
     <message>
         <source>Time</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">时间</translation>
+        <translation type="unfinished">时间</translation>
     </message>
     <message>
         <source>XML block</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">XML块</translation>
+        <translation type="unfinished">XML块</translation>
     </message>
     <message>
         <source>Object %1 can not be embeded to itself.</source>
-        <translation type="obsolete">对象%1无法嵌入到自身。</translation>
+        <translation type="unfinished">对象%1无法嵌入到自身。</translation>
     </message>
     <message>
         <source>Country</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">国家</translation>
+        <translation type="unfinished">国家</translation>
     </message>
     <message>
         <source>Date is not valid.</source>
-        <translation type="obsolete">日期无效。</translation>
+        <translation type="unfinished">日期无效。</translation>
     </message>
     <message>
         <source>Time is not valid.</source>
-        <translation type="obsolete">时间无效。</translation>
+        <translation type="unfinished">时间无效。</translation>
     </message>
     <message>
         <source>The image file must have non-zero size.</source>
-        <translation type="obsolete">图像文件的大小不能为零。</translation>
+        <translation type="unfinished">图像文件的大小不能为零。</translation>
     </message>
     <message>
         <source>Wrong text field value.</source>
-        <translation type="obsolete">错误文本字段值。</translation>
+        <translation type="unfinished">错误文本字段值。</translation>
     </message>
     <message>
         <source>Missing matrix input.</source>
-        <translation type="obsolete">缺少矩阵输入。</translation>
+        <translation type="unfinished">缺少矩阵输入。</translation>
     </message>
     <message>
         <source>Multi-price</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">多重价格</translation>
+        <translation type="unfinished">多重价格</translation>
     </message>
     <message>
         <source>Invalid price for &apos;%currencyCode&apos; currency </source>
-        <translation type="obsolete">&apos;%currencyCode&apos;货币价格无效</translation>
+        <translation type="unfinished">&apos;%currencyCode&apos;货币价格无效</translation>
     </message>
     <message>
         <source>Missing objectrelation list input.</source>
-        <translation type="obsolete">缺少对象关联列表输入。</translation>
+        <translation type="unfinished">缺少对象关联列表输入。</translation>
     </message>
     <message>
         <source>NAME is required.</source>
-        <translation type="obsolete">名称是必填项。</translation>
+        <translation type="unfinished">名称是必填项。</translation>
     </message>
     <message>
         <source>Invalid price.</source>
-        <translation type="obsolete">无效的价格。</translation>
+        <translation type="unfinished">无效的价格。</translation>
     </message>
     <message>
         <source>Product category</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">产品类别</translation>
+        <translation type="unfinished">产品类别</translation>
     </message>
     <message>
         <source>Dynamic VAT cannot be included.</source>
-        <translation type="obsolete">不能包含动态的增值税。</translation>
+        <translation type="unfinished">不能包含动态的增值税。</translation>
     </message>
     <message>
         <source>Missing range option input.</source>
-        <translation type="obsolete">缺少范围选项输入。</translation>
+        <translation type="unfinished">缺少范围选项输入。</translation>
     </message>
     <message>
         <source>Option set name is required.</source>
-        <translation type="obsolete">选项集的名称为必填项。</translation>
+        <translation type="unfinished">选项集的名称为必填项。</translation>
     </message>
     <message>
         <source>The password must be at least %1 characters long.</source>
-        <translation type="obsolete">密码至少要包含%1个字符。</translation>
+        <translation type="unfinished">密码至少要包含%1个字符。</translation>
     </message>
     <message>
         <source>Invalid reference in &amp;lt;embed&amp;gt; tag. Note that &lt;embed&gt; tag supports only &apos;eznode&apos; and &apos;ezobject&apos; protocols.</source>
-        <translation type="obsolete">标签&lt;embed&gt;中的引用无效。注意&lt;embed&gt;标签只支持 &apos;eznode&apos;及&apos;ezobject&apos; 协议。</translation>
+        <translation type="unfinished">标签&lt;embed&gt;中的引用无效。注意&lt;embed&gt;标签只支持 &apos;eznode&apos;及&apos;ezobject&apos; 协议。</translation>
     </message>
     <message>
         <source>The ISBN number is not correct. </source>
-        <translation type="obsolete">ISBN数字不正确。</translation>
+        <translation type="unfinished">ISBN数字不正确。</translation>
     </message>
     <message>
         <source>13 digit ISBN must start with 978 or 979</source>
-        <translation type="obsolete">13位ISBN码必须以978或979开头</translation>
+        <translation type="unfinished">13位ISBN码必须以978或979开头</translation>
     </message>
     <message>
         <source>ISBN length is invalid</source>
-        <translation type="obsolete">ISBN长度无效</translation>
+        <translation type="unfinished">ISBN长度无效</translation>
     </message>
     <message>
         <source>The registrant element of the ISBN number does not exist.</source>
-        <translation type="obsolete">ISBN编号的注册元素不存在。</translation>
+        <translation type="unfinished">ISBN编号的注册元素不存在。</translation>
     </message>
     <message>
         <source>The ISBN number has a incorrect registration group number.</source>
-        <translation type="obsolete">ISBN编号含有错误的的注册组数字。</translation>
+        <translation type="unfinished">ISBN编号含有错误的的注册组数字。</translation>
     </message>
     <message>
         <source>The group element of the ISBN number does not exist.</source>
-        <translation type="obsolete">此ISBN编号组元素不存在。</translation>
+        <translation type="unfinished">此ISBN编号组元素不存在。</translation>
     </message>
     <message>
         <source>%1 is not a valid prefix of the ISBN number.</source>
-        <translation type="obsolete">%1 是一个无效的ISBN编号前缀。</translation>
+        <translation type="unfinished">%1 是一个无效的ISBN编号前缀。</translation>
     </message>
     <message>
         <source>All ISBN 13 characters need to be numeric</source>
-        <translation type="obsolete">ISBN码的13个字符都应该是数字</translation>
+        <translation type="unfinished">ISBN码的13个字符都应该是数字</translation>
     </message>
     <message>
         <source>Bad checksum, last digit should be %1</source>
-        <translation type="obsolete">checksum错误，最后的数字应该是%1</translation>
+        <translation type="unfinished">checksum错误，最后的数字应该是%1</translation>
     </message>
     <message>
         <source>The ISBN number should be ISBN13, but seems to be ISBN10.</source>
-        <translation type="obsolete">ISBN编号应该是ISBN13，但是好像是ISBN10。</translation>
+        <translation type="unfinished">ISBN编号应该是ISBN13，但是好像是ISBN10。</translation>
     </message>
     <message>
         <source>Multi-option2</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">多选2</translation>
+        <translation type="unfinished">多选2</translation>
     </message>
     <message>
         <source>You cannot choose option value &quot;%1&quot; from &quot;%2&quot; because it is unselectable </source>
-        <translation type="obsolete">您不能从&quot;%2&quot; 中选择&quot;%1&quot;选项值，因为它是不可选的</translation>
+        <translation type="unfinished">您不能从&quot;%2&quot; 中选择&quot;%1&quot;选项值，因为它是不可选的</translation>
     </message>
     <message>
         <source>You cannot choose option value &quot;%1&quot; from &quot;%2&quot;  
  if you selected option &quot;%3&quot; from &quot;%4&quot; </source>
-        <translation type="obsolete">如果您从&quot;%4&quot;中选择了 &quot;%3&quot;选项，
+        <translation type="unfinished">如果您从&quot;%4&quot;中选择了 &quot;%3&quot;选项，
 就不能从&quot;%2&quot;中选择&quot;%1&quot;</translation>
     </message>
     <message>
         <source>The password must not be &quot;password&quot;.</source>
-        <translation type="obsolete">密码不能为&quot;password&quot;。</translation>
+        <translation type="unfinished">密码不能为&quot;password&quot;。</translation>
     </message>
     <message>
         <source>The account is currently used the administrator user.</source>
-        <translation type="obsolete">该帐户当前正使用管理员用户。</translation>
+        <translation type="unfinished">该帐户当前正使用管理员用户。</translation>
     </message>
     <message>
         <source>You cannot remove the last class holding user accounts.</source>
-        <translation type="obsolete">您不能删除最后处理类的用户帐号。</translation>
+        <translation type="unfinished">您不能删除最后处理类的用户帐号。</translation>
+    </message>
+    <message>
+        <source>Missing email input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The password cannot be empty.</source>
+        <comment>eZUserType</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezbinaryfile</name>
     <message>
         <source>Failed to store file %filename. Please contact the site administrator.</source>
-        <translation type="obsolete">无法保存文件 %filename。请联系站点管理员。</translation>
+        <translation type="unfinished">无法保存文件 %filename。请联系站点管理员。</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezimage</name>
     <message>
         <source>Failed to fetch Image Handler. Please contact the site administrator.</source>
-        <translation type="obsolete">无法获取图像处理程序。请联系站点管理员。</translation>
+        <translation type="unfinished">无法获取图像处理程序。请联系站点管理员。</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezmedia</name>
     <message>
         <source>Failed to store media file %filename. Please contact the site administrator.</source>
-        <translation type="obsolete">无法保存媒体文件 %filename。请联系站点管理员。</translation>
+        <translation type="unfinished">无法保存媒体文件 %filename。请联系站点管理员。</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezxmltext</name>
     <message>
         <source>Wrong closing tag : &amp;lt;/%1&amp;gt;.</source>
-        <translation type="obsolete">结束标签错误：&amp;lt;/%1&amp;gt;。</translation>
+        <translation type="unfinished">结束标签错误：&amp;lt;/%1&amp;gt;。</translation>
     </message>
     <message>
         <source>Unknown tag: &amp;lt;%1&amp;gt;.</source>
-        <translation type="obsolete">未知标签: &amp;lt;%1&amp;gt;。</translation>
+        <translation type="unfinished">未知标签: &amp;lt;%1&amp;gt;。</translation>
     </message>
     <message>
         <source>Can&apos;t convert tag&apos;s name: &amp;lt;%1&amp;gt;.</source>
-        <translation type="obsolete">无法转换标签名称：&amp;lt;%1&amp;gt;。</translation>
+        <translation type="unfinished">无法转换标签名称：&amp;lt;%1&amp;gt;。</translation>
     </message>
     <message>
         <source>Required attribute &apos;%1&apos; is not presented in tag &amp;lt;%2&amp;gt;.</source>
-        <translation type="obsolete">必要的属性&apos;%1&apos;未出现在标签&amp;lt;%2&amp;gt;中。</translation>
+        <translation type="unfinished">必要的属性&apos;%1&apos;未出现在标签&amp;lt;%2&amp;gt;中。</translation>
     </message>
     <message>
         <source>%1 is not allowed to be a child of &amp;lt;%2&amp;gt;.</source>
-        <translation type="obsolete">不允许%1作为&amp;lt;%2&amp;gt;的子项。</translation>
+        <translation type="unfinished">不允许%1作为&amp;lt;%2&amp;gt;的子项。</translation>
     </message>
     <message>
         <source>Attribute &apos;%1&apos; is not allowed in &amp;lt;%2&amp;gt; element.</source>
-        <translation type="obsolete">元素&amp;lt;%2&amp;gt;中不允许包含属性&apos;%1&apos;。</translation>
+        <translation type="unfinished">元素&amp;lt;%2&amp;gt;中不允许包含属性&apos;%1&apos;。</translation>
     </message>
     <message>
         <source>Class &apos;%1&apos; is not allowed for element &amp;lt;%2&amp;gt; (check content.ini).</source>
-        <translation type="obsolete">元素&amp;lt;%2&amp;gt;中不允许包含类&apos;%1&apos;（检查content.ini）。</translation>
+        <translation type="unfinished">元素&amp;lt;%2&amp;gt;中不允许包含类&apos;%1&apos;（检查content.ini）。</translation>
     </message>
     <message>
         <source>Wrong closing tag</source>
-        <translation type="obsolete">结束标签错误</translation>
+        <translation type="unfinished">结束标签错误</translation>
     </message>
     <message>
         <source>Wrong opening tag</source>
-        <translation type="obsolete">起始标签错误</translation>
+        <translation type="unfinished">起始标签错误</translation>
     </message>
     <message>
         <source>Custom tag &apos;%1&apos; is not allowed.</source>
-        <translation type="obsolete">不允许使用自定义标签&apos;%1&apos;。</translation>
+        <translation type="unfinished">不允许使用自定义标签&apos;%1&apos;。</translation>
     </message>
     <message>
         <source>&amp;lt;%1&amp;gt; tag can&apos;t be empty.</source>
-        <translation type="obsolete">&amp;lt;%1&amp;gt;标签不能为空。</translation>
+        <translation type="unfinished">&amp;lt;%1&amp;gt;标签不能为空。</translation>
     </message>
     <message>
         <source>Object %1 can not be embeded to itself.</source>
-        <translation type="obsolete">对象%1无法嵌入到自身。</translation>
+        <translation type="unfinished">对象%1无法嵌入到自身。</translation>
+    </message>
+    <message>
+        <source>Incorrect headers nesting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Node &apos;%1&apos; does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Using scripts in links is not allowed, link &apos;%1&apos; has been removed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid e-mail address: &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/collaboration</name>
     <message>
         <source>Collaboration custom action</source>
-        <translation type="obsolete">协作定制操作</translation>
+        <translation type="unfinished">协作定制操作</translation>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation type="obsolete">协作</translation>
+        <translation type="unfinished">协作</translation>
     </message>
 </context>
 <context>
@@ -30183,47 +30473,47 @@ your account.</source>
     </message>
     <message>
         <source>Remove object</source>
-        <translation type="obsolete">删除对象</translation>
+        <translation type="unfinished">删除对象</translation>
     </message>
     <message>
         <source>My drafts</source>
-        <translation type="obsolete">我的草稿</translation>
+        <translation type="unfinished">我的草稿</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="obsolete">翻译</translation>
+        <translation type="unfinished">翻译</translation>
     </message>
     <message>
         <source>Content translations</source>
-        <translation type="obsolete">内容翻译</translation>
+        <translation type="unfinished">内容翻译</translation>
     </message>
     <message>
         <source>Trash</source>
-        <translation type="obsolete">回收站</translation>
+        <translation type="unfinished">回收站</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="obsolete">搜索</translation>
+        <translation type="unfinished">搜索</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="obsolete">高级</translation>
+        <translation type="unfinished">高级</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation type="obsolete">内容</translation>
+        <translation type="unfinished">内容</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">编辑</translation>
+        <translation type="unfinished">编辑</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="obsolete">复制</translation>
+        <translation type="unfinished">复制</translation>
     </message>
     <message>
         <source>Remove editing version</source>
-        <translation type="obsolete">删除当前编辑的版本</translation>
+        <translation type="unfinished">删除当前编辑的版本</translation>
     </message>
     <message>
         <source>Translate</source>
@@ -30231,35 +30521,35 @@ your account.</source>
     </message>
     <message>
         <source>Versions</source>
-        <translation type="obsolete">版本</translation>
+        <translation type="unfinished">版本</translation>
     </message>
     <message>
         <source>No main node selected, please select one.</source>
-        <translation type="obsolete">没有选中的主体节点，请选一个主体节点。</translation>
+        <translation type="unfinished">没有选中的主体节点，请选一个主体节点。</translation>
     </message>
     <message>
         <source>Tip from %1: %2</source>
-        <translation type="obsolete">%1的提示：%2</translation>
+        <translation type="unfinished">%1的提示：%2</translation>
     </message>
     <message>
         <source>The email address of the sender is not valid</source>
-        <translation type="obsolete">发件人的电子邮件无效</translation>
+        <translation type="unfinished">发件人的电子邮件无效</translation>
     </message>
     <message>
         <source>The email address of the receiver is not valid</source>
-        <translation type="obsolete">收件人的电子邮件无效</translation>
+        <translation type="unfinished">收件人的电子邮件无效</translation>
     </message>
     <message>
         <source>Tip a friend</source>
-        <translation type="obsolete">发送给朋友</translation>
+        <translation type="unfinished">发送给朋友</translation>
     </message>
     <message>
         <source>My bookmarks</source>
-        <translation type="obsolete">我的书签</translation>
+        <translation type="unfinished">我的书签</translation>
     </message>
     <message>
         <source>My pending list</source>
-        <translation type="obsolete">我的待处理列表</translation>
+        <translation type="unfinished">我的待处理列表</translation>
     </message>
     <message>
         <source>URL translator</source>
@@ -30267,119 +30557,131 @@ your account.</source>
     </message>
     <message>
         <source>Keywords</source>
-        <translation type="obsolete">关键字</translation>
+        <translation type="unfinished">关键字</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation type="obsolete">媒体</translation>
+        <translation type="unfinished">媒体</translation>
     </message>
     <message>
         <source>New content</source>
-        <translation type="obsolete">新建内容</translation>
+        <translation type="unfinished">新建内容</translation>
     </message>
     <message>
         <source>Remove location</source>
-        <translation type="obsolete">删除位置</translation>
+        <translation type="unfinished">删除位置</translation>
     </message>
     <message>
         <source>You are not allowed to place this object under: %1</source>
-        <translation type="obsolete">您不能将对象放置到%1下</translation>
+        <translation type="unfinished">您不能将对象放置到%1下</translation>
     </message>
     <message>
         <source>Top Level Nodes</source>
-        <translation type="obsolete">顶级节点</translation>
+        <translation type="unfinished">顶级节点</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="obsolete">隐藏</translation>
+        <translation type="unfinished">隐藏</translation>
     </message>
     <message>
         <source>Hidden by superior</source>
-        <translation type="obsolete">由上级隐藏</translation>
+        <translation type="unfinished">由上级隐藏</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="obsolete">可见</translation>
+        <translation type="unfinished">可见</translation>
     </message>
     <message>
         <source>A node in the node assignment list has been deleted.</source>
-        <translation type="obsolete">已删除节点分配列表中的节点。</translation>
+        <translation type="unfinished">已删除节点分配列表中的节点。</translation>
     </message>
     <message>
         <source>&quot;$contentObjectName&quot;: Sub items that are used by other objects</source>
-        <translation type="obsolete">&quot;$contentObjectName&quot;：由其他对象使用的子项</translation>
+        <translation type="unfinished">&quot;$contentObjectName&quot;：由其他对象使用的子项</translation>
     </message>
     <message>
         <source>Differences</source>
-        <translation type="obsolete">差异</translation>
+        <translation type="unfinished">差异</translation>
     </message>
     <message>
         <source>Remove translation</source>
-        <translation type="obsolete">删除翻译</translation>
+        <translation type="unfinished">删除翻译</translation>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="obsolete">语言</translation>
+        <translation type="unfinished">语言</translation>
     </message>
     <message>
         <source>Class identifier</source>
-        <translation type="obsolete">类标识符</translation>
+        <translation type="unfinished">类标识符</translation>
     </message>
     <message>
         <source>Class name</source>
-        <translation type="obsolete">类名</translation>
+        <translation type="unfinished">类名</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="obsolete">深度</translation>
+        <translation type="unfinished">深度</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="obsolete">已修改</translation>
+        <translation type="unfinished">已修改</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">名称</translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <source>Path String</source>
-        <translation type="obsolete">路径字符串</translation>
+        <translation type="unfinished">路径字符串</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation type="obsolete">优先级优先权</translation>
+        <translation type="unfinished">优先级优先权</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation type="obsolete">已发布</translation>
+        <translation type="unfinished">已发布</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="obsolete">分区</translation>
+        <translation type="unfinished">分区</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="obsolete">历史记录</translation>
+        <translation type="unfinished">历史记录</translation>
     </message>
     <message>
         <source>Version preview</source>
-        <translation type="obsolete">版本预览</translation>
+        <translation type="unfinished">版本预览</translation>
     </message>
     <message>
         <source>You do not have enough rights to access the requested node</source>
-        <translation type="obsolete">您没有足够的权限访问请求的节点</translation>
+        <translation type="unfinished">您没有足够的权限访问请求的节点</translation>
     </message>
     <message>
         <source>Copy subtree</source>
-        <translation type="obsolete">复制子树</translation>
+        <translation type="unfinished">复制子树</translation>
     </message>
     <message>
         <source>The receiver has already received the maximum number of tipafriend mails the last hours</source>
-        <translation type="obsolete">收件人上个小时收到的发送给朋友的邮件已达到系统上限</translation>
+        <translation type="unfinished">收件人上个小时收到的发送给朋友的邮件已达到系统上限</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">错误</translation>
+        <translation type="unfinished">错误</translation>
+    </message>
+    <message>
+        <source>The request sent to the server was too big to be accepted. This probably means that you uploaded a file which was too big. The maximum allowed request size is %max_size_string.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dashboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have already sent a tipafriend mail to this receiver regarding &apos;%1&apos; content</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -30390,59 +30692,63 @@ your account.</source>
     </message>
     <message>
         <source>Fatal error: cannot get subtree main node (ID = %1).</source>
-        <translation type="obsolete">严重错误：无法获得子树主体节点(ID = %1)。</translation>
+        <translation type="unfinished">严重错误：无法获得子树主体节点(ID = %1)。</translation>
     </message>
     <message>
         <source>Fatal error: cannot get destination node (ID = %1).</source>
-        <translation type="obsolete">严重错误：无法获得目标节点 (ID = %1)。</translation>
+        <translation type="unfinished">严重错误：无法获得目标节点 (ID = %1)。</translation>
     </message>
     <message>
         <source>Number of nodes of source subtree - %1</source>
-        <translation type="obsolete">资源子树的节点数 - %1</translation>
+        <translation type="unfinished">资源子树的节点数 - %1</translation>
     </message>
     <message>
         <source>Subtree was not copied.</source>
-        <translation type="obsolete">无法复制子树。</translation>
+        <translation type="unfinished">无法复制子树。</translation>
     </message>
     <message>
         <source>Number of copied nodes - %1</source>
-        <translation type="obsolete">已复制的节点数 - %1</translation>
+        <translation type="unfinished">已复制的节点数 - %1</translation>
     </message>
     <message>
         <source>Number of copied contentobjects - %1</source>
-        <translation type="obsolete">已复制的内容对象数 - %1</translation>
+        <translation type="unfinished">已复制的内容对象数 - %1</translation>
     </message>
     <message>
         <source>Cannot create instance of eZDB to fix local links (related objects).</source>
-        <translation type="obsolete">无法创建eZDB的示例来修复本地链接（关联的对象）。</translation>
+        <translation type="unfinished">无法创建eZDB的示例来修复本地链接（关联的对象）。</translation>
     </message>
     <message>
         <source>You are trying to copy a subtree that contains more than the maximum possible nodes for subtree copying. You can copy this subtree using Subtree Copy script.</source>
-        <translation type="obsolete">您在尝试复制的子树的子节点数量已经超出子树复制的限制。您可以用子树复制脚本来完成操作。</translation>
+        <translation type="unfinished">您在尝试复制的子树的子节点数量已经超出子树复制的限制。您可以用子树复制脚本来完成操作。</translation>
     </message>
     <message>
         <source>Object (ID = %1) was not copied: you do not have permission to read the object.</source>
-        <translation type="obsolete">对象 (ID = %1)没有被复制：您没有权限读取对象。</translation>
+        <translation type="unfinished">对象 (ID = %1)没有被复制：您没有权限读取对象。</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: you do not have permission to read object (ID = %2).</source>
-        <translation type="obsolete">节点(ID = %1)没有被复制：您没有权限读取对象 (ID = %2)。</translation>
+        <translation type="unfinished">节点(ID = %1)没有被复制：您没有权限读取对象 (ID = %2)。</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: parent node (ID = %2) was not copied.</source>
-        <translation type="obsolete">节点 (ID = %1)没有被复制：无法复制父节点 (ID = %2)。</translation>
+        <translation type="unfinished">节点 (ID = %1)没有被复制：无法复制父节点 (ID = %2)。</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: you do not have permission to create.</source>
-        <translation type="obsolete">节点(ID = %1)没有被复制：您没有创建的权限。</translation>
+        <translation type="unfinished">节点(ID = %1)没有被复制：您没有创建的权限。</translation>
     </message>
     <message>
         <source>Object (ID = %1) was not copied: no one nodes of object was not copied.</source>
-        <translation type="obsolete">对象(ID = %1)没有被复制：无法复制对象的任一节点。</translation>
+        <translation type="unfinished">对象(ID = %1)没有被复制：无法复制对象的任一节点。</translation>
     </message>
     <message>
         <source>Successfully DONE.</source>
-        <translation type="obsolete">操作成功。</translation>
+        <translation type="unfinished">操作成功。</translation>
+    </message>
+    <message>
+        <source>Cannot publish object (Name: %1, ID: %2).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -30450,12 +30756,12 @@ your account.</source>
     <message>
         <source>child</source>
         <comment>1 child</comment>
-        <translation type="obsolete">子项</translation>
+        <translation type="unfinished">子项</translation>
     </message>
     <message>
         <source>children</source>
         <comment>several children</comment>
-        <translation type="obsolete">子项</translation>
+        <translation type="unfinished">子项</translation>
     </message>
 </context>
 <context>
@@ -30479,160 +30785,160 @@ your account.</source>
     <name>kernel/content/restore</name>
     <message>
         <source>Restore object</source>
-        <translation type="obsolete">还原对象</translation>
+        <translation type="unfinished">还原对象</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/upload</name>
     <message>
         <source>The file %filename does not exist, cannot insert file.</source>
-        <translation type="obsolete">文件%filename不存在，无法插入文件。</translation>
+        <translation type="unfinished">文件%filename不存在，无法插入文件。</translation>
     </message>
     <message>
         <source>No matching class identifier found.</source>
-        <translation type="obsolete">找不到匹配的类标识符。</translation>
+        <translation type="unfinished">找不到匹配的类标识符。</translation>
     </message>
     <message>
         <source>The class %class_identifier does not exist.</source>
-        <translation type="obsolete">类%class_identifier不存在。</translation>
+        <translation type="unfinished">类%class_identifier不存在。</translation>
     </message>
     <message>
         <source>Was not able to figure out placement of object.</source>
-        <translation type="obsolete">无法指定对象放置的位置。</translation>
+        <translation type="unfinished">无法指定对象放置的位置。</translation>
     </message>
     <message>
         <source>No configuration group in upload.ini for class identifier %class_identifier.</source>
-        <translation type="obsolete">upload.ini中没有配置类标识符%class_identifier的组。</translation>
+        <translation type="unfinished">upload.ini中没有配置类标识符%class_identifier的组。</translation>
     </message>
     <message>
         <source>No matching file attribute found, cannot create content object without this.</source>
-        <translation type="obsolete">找不到匹配的文件属性，没有它无法创建内容对象。</translation>
+        <translation type="unfinished">找不到匹配的文件属性，没有它无法创建内容对象。</translation>
     </message>
     <message>
         <source>No matching name attribute found, cannot create content object without this.</source>
-        <translation type="obsolete">找不到匹配的属性名，没有它无法创建内容对象。</translation>
+        <translation type="unfinished">找不到匹配的属性名，没有它无法创建内容对象。</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support regular file storage.</source>
-        <translation type="obsolete">属性%class_identifier不支持标准的文件存储。</translation>
+        <translation type="unfinished">属性%class_identifier不支持标准的文件存储。</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support simple string storage.</source>
-        <translation type="obsolete">属性%class_identifier不支持简单字符串存储。</translation>
+        <translation type="unfinished">属性%class_identifier不支持简单字符串存储。</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support HTTP file storage.</source>
-        <translation type="obsolete">属性%class_identifier不支持HTTP文件存储。</translation>
+        <translation type="unfinished">属性%class_identifier不支持HTTP文件存储。</translation>
     </message>
     <message>
         <source>Publishing of content object was halted.</source>
-        <translation type="obsolete">已中止内容对象的发布。</translation>
+        <translation type="unfinished">已中止内容对象的发布。</translation>
     </message>
     <message>
         <source>Publish process was cancelled.</source>
-        <translation type="obsolete">已取消发布程序。</translation>
+        <translation type="unfinished">已取消发布程序。</translation>
     </message>
     <message>
         <source>A file is required for upload, no file were found.</source>
-        <translation type="obsolete">需要上传一个文件，但找不到任何文件。</translation>
+        <translation type="unfinished">需要上传一个文件，但找不到任何文件。</translation>
     </message>
     <message>
         <source>Expected a eZHTTPFile object but got nothing.</source>
-        <translation type="obsolete">预期要有一个eZHTTP文件对象，但是没有获得任何对象。</translation>
+        <translation type="unfinished">预期要有一个eZHTTP文件对象，但是没有获得任何对象。</translation>
     </message>
     <message>
         <source>No HTTP file found, cannot fetch uploaded file.</source>
-        <translation type="obsolete">找不到HTTP文件，无法获取上传的文件。</translation>
+        <translation type="unfinished">找不到HTTP文件，无法获取上传的文件。</translation>
     </message>
     <message>
         <source>Permission denied</source>
-        <translation type="obsolete">权限拒绝</translation>
+        <translation type="unfinished">权限拒绝</translation>
     </message>
     <message>
         <source>There was an error trying to instantiate content upload handler.</source>
-        <translation type="obsolete">创建内容上传处理器时发生一个错误。</translation>
+        <translation type="unfinished">创建内容上传处理器时发生一个错误。</translation>
     </message>
     <message>
         <source>Could not find content upload handler &apos;%handler_name&apos;</source>
-        <translation type="obsolete">找不到内容上传处理器&apos;%handler_name&apos;</translation>
+        <translation type="unfinished">找不到内容上传处理器&apos;%handler_name&apos;</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
-        <translation type="obsolete">上传的文件大小超出该站点的限制：%1字节。</translation>
+        <translation type="unfinished">上传的文件大小超出该站点的限制：%1字节。</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/urlalias_global</name>
     <message>
         <source>Global URL aliases</source>
-        <translation type="obsolete">全局的URL别名</translation>
+        <translation type="unfinished">全局的URL别名</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/urlalias_wildcard</name>
     <message>
         <source>URL wildcard aliases</source>
-        <translation type="obsolete">URL通配符别名</translation>
+        <translation type="unfinished">URL通配符别名</translation>
     </message>
 </context>
 <context>
     <name>kernel/contentclass</name>
     <message>
         <source>New %1</source>
-        <translation type="obsolete">新建 %1</translation>
+        <translation type="unfinished">新建 %1</translation>
     </message>
     <message>
         <source>Cannot remove class &apos;%class_name&apos;:</source>
-        <translation type="obsolete">无法删除类 &apos;%class_name&apos;:</translation>
+        <translation type="unfinished">无法删除类 &apos;%class_name&apos;:</translation>
     </message>
     <message>
         <source>The class is used by a top-level node and cannot be removed.</source>
-        <translation type="obsolete">类被用于顶级节点因此不能被删除。</translation>
+        <translation type="unfinished">类被用于顶级节点因此不能被删除。</translation>
     </message>
 </context>
 <context>
     <name>kernel/design</name>
     <message>
         <source>Template list</source>
-        <translation type="obsolete">模板列表</translation>
+        <translation type="unfinished">模板列表</translation>
     </message>
     <message>
         <source>Template view</source>
-        <translation type="obsolete">模板名称</translation>
+        <translation type="unfinished">模板名称</translation>
     </message>
     <message>
         <source>Create new template</source>
-        <translation type="obsolete">创建新的模板</translation>
+        <translation type="unfinished">创建新的模板</translation>
     </message>
     <message>
         <source>Template edit</source>
-        <translation type="obsolete">编辑模板</translation>
+        <translation type="unfinished">编辑模板</translation>
     </message>
     <message>
         <source>Toolbar list</source>
-        <translation type="obsolete">工具栏列表</translation>
+        <translation type="unfinished">工具栏列表</translation>
     </message>
 </context>
 <context>
     <name>kernel/error</name>
     <message>
         <source>Error</source>
-        <translation type="obsolete">错误</translation>
+        <translation type="unfinished">错误</translation>
     </message>
 </context>
 <context>
     <name>kernel/ezinfo</name>
     <message>
         <source>Info</source>
-        <translation type="obsolete">信息</translation>
+        <translation type="unfinished">信息</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="obsolete">关于</translation>
+        <translation type="unfinished">关于</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="obsolete">版权</translation>
+        <translation type="unfinished">版权</translation>
     </message>
 </context>
 <context>
@@ -30646,7 +30952,7 @@ your account.</source>
     <name>kernel/infocollector</name>
     <message>
         <source>Collected information</source>
-        <translation type="obsolete">已收集的信息</translation>
+        <translation type="unfinished">已收集的信息</translation>
     </message>
 </context>
 <context>
@@ -30654,255 +30960,255 @@ your account.</source>
     <message>
         <source>Content structure</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">内容结构</translation>
+        <translation type="unfinished">内容结构</translation>
     </message>
     <message>
         <source>Media library</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">媒体库</translation>
+        <translation type="unfinished">媒体库</translation>
     </message>
     <message>
         <source>User accounts</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">用户帐户</translation>
+        <translation type="unfinished">用户帐户</translation>
     </message>
     <message>
         <source>Webshop</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">网上商店</translation>
+        <translation type="unfinished">网上商店</translation>
     </message>
     <message>
         <source>Design</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">设计</translation>
+        <translation type="unfinished">设计</translation>
     </message>
     <message>
         <source>Setup</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">设置</translation>
+        <translation type="unfinished">设置</translation>
     </message>
     <message>
         <source>My account</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">我的帐户</translation>
+        <translation type="unfinished">我的帐户</translation>
     </message>
 </context>
 <context>
     <name>kernel/notification</name>
     <message>
         <source>Notification settings</source>
-        <translation type="obsolete">通知设置</translation>
+        <translation type="unfinished">通知设置</translation>
     </message>
 </context>
 <context>
     <name>kernel/package</name>
     <message>
         <source>Packages</source>
-        <translation type="obsolete">软件包</translation>
+        <translation type="unfinished">软件包</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="obsolete">上传</translation>
+        <translation type="unfinished">上传</translation>
     </message>
     <message>
         <source>Package information</source>
-        <translation type="obsolete">软件包信息</translation>
+        <translation type="unfinished">软件包信息</translation>
     </message>
     <message>
         <source>Package maintainer</source>
-        <translation type="obsolete">软件包维护者</translation>
+        <translation type="unfinished">软件包维护者</translation>
     </message>
     <message>
         <source>Package changelog</source>
-        <translation type="obsolete">软件包修改日志</translation>
+        <translation type="unfinished">软件包修改日志</translation>
     </message>
     <message>
         <source>Package thumbnail</source>
-        <translation type="obsolete">软件包图标</translation>
+        <translation type="unfinished">软件包图标</translation>
     </message>
     <message>
         <source>Package name</source>
-        <translation type="obsolete">软件包名称</translation>
+        <translation type="unfinished">软件包名称</translation>
     </message>
     <message>
         <source>Package name is missing</source>
-        <translation type="obsolete">缺少软件包名称</translation>
+        <translation type="unfinished">缺少软件包名称</translation>
     </message>
     <message>
         <source>A package named %packagename already exists, please give another name</source>
-        <translation type="obsolete">软件包名称%packagename已存在。请选择其他的名称</translation>
+        <translation type="unfinished">软件包名称%packagename已存在。请选择其他的名称</translation>
     </message>
     <message>
         <source>Summary</source>
-        <translation type="obsolete">概要</translation>
+        <translation type="unfinished">概要</translation>
     </message>
     <message>
         <source>Summary is missing</source>
-        <translation type="obsolete">缺少概要</translation>
+        <translation type="unfinished">缺少概要</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="obsolete">版本</translation>
+        <translation type="unfinished">版本</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">名称</translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <source>You must enter a name for the changelog</source>
-        <translation type="obsolete">您必须输入修改日志的名称</translation>
+        <translation type="unfinished">您必须输入修改日志的名称</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="obsolete">修改日志</translation>
+        <translation type="unfinished">修改日志</translation>
     </message>
     <message>
         <source>You must supply some text for the changelog entry</source>
-        <translation type="obsolete">您必须为修改日志提供一些文本</translation>
+        <translation type="unfinished">您必须为修改日志提供一些文本</translation>
     </message>
     <message>
         <source>You must enter a name of the maintainer</source>
-        <translation type="obsolete">您必须输入维护者的名字</translation>
+        <translation type="unfinished">您必须输入维护者的名字</translation>
     </message>
     <message>
         <source>Content classes to include</source>
-        <translation type="obsolete">要包含的内容类</translation>
+        <translation type="unfinished">要包含的内容类</translation>
     </message>
     <message>
         <source>Content class export</source>
-        <translation type="obsolete">内容类导出</translation>
+        <translation type="unfinished">内容类导出</translation>
     </message>
     <message>
         <source>Class list</source>
-        <translation type="obsolete">类列表</translation>
+        <translation type="unfinished">类列表</translation>
     </message>
     <message>
         <source>You must select at least one class for inclusion</source>
-        <translation type="obsolete">至少要包含一个类</translation>
+        <translation type="unfinished">至少要包含一个类</translation>
     </message>
     <message>
         <source>CSS file</source>
-        <translation type="obsolete">CSS文件</translation>
+        <translation type="unfinished">CSS文件</translation>
     </message>
     <message>
         <source>Image files</source>
-        <translation type="obsolete">图像文件</translation>
+        <translation type="unfinished">图像文件</translation>
     </message>
     <message>
         <source>Site style</source>
-        <translation type="obsolete">站点风格</translation>
+        <translation type="unfinished">站点风格</translation>
     </message>
     <message>
         <source>File did not have a .css suffix, this is most likely not a CSS file</source>
-        <translation type="obsolete">文件没有.css后缀，该文件可能不是一个CSS文件</translation>
+        <translation type="unfinished">文件没有.css后缀，该文件可能不是一个CSS文件</translation>
     </message>
     <message>
         <source>Create package</source>
-        <translation type="obsolete">创建软件包</translation>
+        <translation type="unfinished">创建软件包</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="obsolete">安装</translation>
+        <translation type="unfinished">安装</translation>
     </message>
     <message>
         <source>Uninstall</source>
-        <translation type="obsolete">卸载</translation>
+        <translation type="unfinished">卸载</translation>
     </message>
     <message>
         <source>Package %packagename already exists, cannot import the package</source>
-        <translation type="obsolete">软件包%packagename已存在，不能导入该软件包</translation>
+        <translation type="unfinished">软件包%packagename已存在，不能导入该软件包</translation>
     </message>
     <message>
         <source>Local</source>
-        <translation type="obsolete">本地</translation>
+        <translation type="unfinished">本地</translation>
     </message>
     <message>
         <source>The version must only contain numbers (optionally followed by text) and must be delimited by dots (.), e.g. 1.0, 3.4.0beta1</source>
-        <translation type="obsolete">该版本只能包含数字（之后可接文本）并且必须用点（.）来分割。例如1.0，3.4.0beta1</translation>
+        <translation type="unfinished">该版本只能包含数字（之后可接文本）并且必须用点（.）来分割。例如1.0，3.4.0beta1</translation>
     </message>
     <message>
         <source>Content objects to include</source>
-        <translation type="obsolete">要包含的内容类</translation>
+        <translation type="unfinished">要包含的内容类</translation>
     </message>
     <message>
         <source>Content object limits</source>
-        <translation type="obsolete">内容对象限制</translation>
+        <translation type="unfinished">内容对象限制</translation>
     </message>
     <message>
         <source>Content object export</source>
-        <translation type="obsolete">内容对象导出</translation>
+        <translation type="unfinished">内容对象导出</translation>
     </message>
     <message>
         <source>Selected nodes</source>
-        <translation type="obsolete">选中的节点</translation>
+        <translation type="unfinished">选中的节点</translation>
     </message>
     <message>
         <source>You must select one or more node(s)/subtree(s) for export.</source>
-        <translation type="obsolete">您必须选项一个或多个节点/子树导出。</translation>
+        <translation type="unfinished">您必须选项一个或多个节点/子树导出。</translation>
     </message>
     <message>
         <source>You must choose one or more languages.</source>
-        <translation type="obsolete">您必须选择一种或多种语言。</translation>
+        <translation type="unfinished">您必须选择一种或多种语言。</translation>
     </message>
     <message>
         <source>You must choose one or more site access.</source>
-        <translation type="obsolete">您必须选择一个或多个站点访问。</translation>
+        <translation type="unfinished">您必须选择一个或多个站点访问。</translation>
     </message>
     <message>
         <source>CSS files</source>
-        <translation type="obsolete">CSS文件</translation>
+        <translation type="unfinished">CSS文件</translation>
     </message>
     <message>
         <source>You must upload both CSS files</source>
-        <translation type="obsolete">您必须上传CSS文件</translation>
+        <translation type="unfinished">您必须上传CSS文件</translation>
     </message>
     <message>
         <source>Content object %objectname</source>
-        <translation type="obsolete">内容对象 %objectname</translation>
+        <translation type="unfinished">内容对象 %objectname</translation>
     </message>
     <message>
         <source>Site access mapping</source>
-        <translation type="obsolete">站点访问映射</translation>
+        <translation type="unfinished">站点访问映射</translation>
     </message>
     <message>
         <source>Top node placements</source>
-        <translation type="obsolete">顶级节点位置</translation>
+        <translation type="unfinished">顶级节点位置</translation>
     </message>
     <message>
         <source>Content object import</source>
-        <translation type="obsolete">内容对象导入</translation>
+        <translation type="unfinished">内容对象导入</translation>
     </message>
     <message>
         <source>Select parent nodes</source>
-        <translation type="obsolete">选择父节点</translation>
+        <translation type="unfinished">选择父节点</translation>
     </message>
     <message>
         <source>You must assign all nodes to new parent nodes.</source>
-        <translation type="obsolete">您必须为所有节点指定一个新的父节点。</translation>
+        <translation type="unfinished">您必须为所有节点指定一个新的父节点。</translation>
     </message>
     <message>
         <source>Lead</source>
-        <translation type="obsolete">主导</translation>
+        <translation type="unfinished">主导</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="obsolete">开发者</translation>
+        <translation type="unfinished">开发者</translation>
     </message>
     <message>
         <source>Designer</source>
-        <translation type="obsolete">设计者</translation>
+        <translation type="unfinished">设计者</translation>
     </message>
     <message>
         <source>Contributor</source>
-        <translation type="obsolete">贡献者</translation>
+        <translation type="unfinished">贡献者</translation>
     </message>
     <message>
         <source>Tester</source>
-        <translation type="obsolete">测试者</translation>
+        <translation type="unfinished">测试者</translation>
     </message>
     <message>
         <source>The package name %packagename is not valid, it can only contain characters in the range a-z, 0-9 and underscore.</source>
-        <translation type="obsolete">软件包名%packagename无效，只允许使用字符a-z，0-9及下划线。</translation>
+        <translation type="unfinished">软件包名%packagename无效，只允许使用字符a-z，0-9及下划线。</translation>
     </message>
     <message>
         <source>Select an extension to be exported</source>
@@ -30910,7 +31216,7 @@ your account.</source>
     </message>
     <message>
         <source>Extension export</source>
-        <translation type="obsolete">导出扩展</translation>
+        <translation type="unfinished">导出扩展</translation>
     </message>
     <message>
         <source>Extension:</source>
@@ -30922,105 +31228,129 @@ your account.</source>
     </message>
     <message>
         <source>%number content objects</source>
-        <translation type="obsolete">%number个内容对象</translation>
+        <translation type="unfinished">%number个内容对象</translation>
     </message>
     <message>
         <source>Extension &apos;%extensionname&apos;</source>
-        <translation type="obsolete">扩展&apos;%extensionname&apos;</translation>
+        <translation type="unfinished">扩展&apos;%extensionname&apos;</translation>
     </message>
     <message>
         <source>Removing class &apos;%classname&apos; will result in the removal of %objectscount object(s) of this class and all their sub-items. Are you sure you want to uninstall it?</source>
-        <translation type="obsolete">删除类&apos;%classname&apos;将导致删除该类的%objectscount个对象及它们所有的子项目。您确定要卸载它吗?</translation>
+        <translation type="unfinished">删除类&apos;%classname&apos;将导致删除该类的%objectscount个对象及它们所有的子项目。您确定要卸载它吗?</translation>
     </message>
     <message>
         <source>Class &apos;%classname&apos; already exists.</source>
-        <translation type="obsolete">类&apos;%classname&apos;已存在。</translation>
+        <translation type="unfinished">类&apos;%classname&apos;已存在。</translation>
     </message>
     <message>
         <source>Replace existing class</source>
-        <translation type="obsolete">替代现有类</translation>
+        <translation type="unfinished">替代现有类</translation>
     </message>
     <message>
         <source>(Warning! $objectsCount content object(s) and their sub-items will be removed)</source>
-        <translation type="obsolete">（警告！$objectsCount内容对象及它们的子项目将被删除）</translation>
+        <translation type="unfinished">（警告！$objectsCount内容对象及它们的子项目将被删除）</translation>
     </message>
     <message>
         <source>Skip installing this class</source>
-        <translation type="obsolete">跳过该类的安装</translation>
+        <translation type="unfinished">跳过该类的安装</translation>
     </message>
     <message>
         <source>Keep existing and create a new one</source>
-        <translation type="obsolete">保留现有并创建一个新的</translation>
+        <translation type="unfinished">保留现有并创建一个新的</translation>
     </message>
     <message>
         <source>Object &apos;%objectname&apos; has been modified since installation. Are you sure you want to remove it?</source>
-        <translation type="obsolete">对象&apos;%objectname&apos;自上次安装后已被修改。您确定要删除它吗?</translation>
+        <translation type="unfinished">对象&apos;%objectname&apos;自上次安装后已被修改。您确定要删除它吗?</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="obsolete">删除</translation>
+        <translation type="unfinished">删除</translation>
     </message>
     <message>
         <source>Keep object</source>
-        <translation type="obsolete">保留对象</translation>
+        <translation type="unfinished">保留对象</translation>
     </message>
     <message>
         <source>Object &apos;%objectname&apos; has %childrencount sub-item(s) that will be removed.</source>
-        <translation type="obsolete">对象&apos;%objectname&apos;有%childrencount个子项目将被删除。</translation>
+        <translation type="unfinished">对象&apos;%objectname&apos;有%childrencount个子项目将被删除。</translation>
     </message>
     <message>
         <source>Extension &apos;%extensionname&apos; already exists.</source>
-        <translation type="obsolete">扩展&apos;%extensionname&apos;已存在。</translation>
+        <translation type="unfinished">扩展&apos;%extensionname&apos;已存在。</translation>
     </message>
     <message>
         <source>Replace extension</source>
-        <translation type="obsolete">替代扩展</translation>
+        <translation type="unfinished">替代扩展</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="obsolete">跳过</translation>
+        <translation type="unfinished">跳过</translation>
     </message>
     <message>
         <source>Install script: %description</source>
-        <translation type="obsolete">安装脚本：%description</translation>
+        <translation type="unfinished">安装脚本：%description</translation>
     </message>
     <message>
         <source>Content class &apos;%classname&apos; (%classidentifier)</source>
-        <translation type="obsolete">内容类&apos;%classname&apos; (%classidentifier)</translation>
+        <translation type="unfinished">内容类&apos;%classname&apos; (%classidentifier)</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="obsolete">电子邮件</translation>
+        <translation type="unfinished">电子邮件</translation>
     </message>
     <message>
         <source>You must enter an email for the changelog</source>
-        <translation type="obsolete">您必须为修改日志输入一个电子邮件</translation>
+        <translation type="unfinished">您必须为修改日志输入一个电子邮件</translation>
     </message>
     <message>
         <source>You must enter an email address of the maintainer</source>
-        <translation type="obsolete">您必须输入维护者的电子邮件</translation>
+        <translation type="unfinished">您必须输入维护者的电子邮件</translation>
     </message>
     <message>
         <source>Remove object and its sub-item(s)</source>
-        <translation type="obsolete">删除对象及它的子项</translation>
+        <translation type="unfinished">删除对象及它的子项</translation>
+    </message>
+    <message>
+        <source>Extensions to include</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extension list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must select at least one extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package contains an invalid extension name: %extensionname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The package name %packagename is invalid, cannot import the package</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/pdf</name>
     <message>
         <source>PDF Export</source>
-        <translation type="obsolete">PDF导出</translation>
+        <translation type="unfinished">PDF导出</translation>
     </message>
     <message>
         <source>An export with such filename already exists.</source>
-        <translation type="obsolete">已经存在此文件名的导出。</translation>
+        <translation type="unfinished">已经存在此文件名的导出。</translation>
     </message>
 </context>
 <context>
     <name>kernel/pdfexport</name>
     <message>
         <source>New PDF Export</source>
-        <translation type="obsolete">新建PDF导出</translation>
+        <translation type="unfinished">新建PDF导出</translation>
     </message>
 </context>
 <context>
@@ -31046,79 +31376,83 @@ your account.</source>
     </message>
     <message>
         <source>Role list</source>
-        <translation type="obsolete">角色列表</translation>
+        <translation type="unfinished">角色列表</translation>
     </message>
     <message>
         <source>Editing policy</source>
-        <translation type="obsolete">编辑策略</translation>
+        <translation type="unfinished">编辑策略</translation>
     </message>
     <message>
         <source>Limit on section</source>
-        <translation type="obsolete">分区的限制</translation>
+        <translation type="unfinished">分区的限制</translation>
     </message>
     <message>
         <source>Create new policy, step 2: select function</source>
-        <translation type="obsolete">创建新策略，第2步：选择函数</translation>
+        <translation type="unfinished">创建新策略，第2步：选择函数</translation>
     </message>
     <message>
         <source>Create new policy, step three: set function limitations</source>
-        <translation type="obsolete">创建新策略，第3步：设置函数限制</translation>
+        <translation type="unfinished">创建新策略，第3步：设置函数限制</translation>
     </message>
     <message>
         <source>Create new policy, step two: select function</source>
-        <translation type="obsolete">创建新策略，第2步：选择函数</translation>
+        <translation type="unfinished">创建新策略，第2步：选择函数</translation>
     </message>
     <message>
         <source>Create new policy, step one: select module</source>
-        <translation type="obsolete">创建新策略，第1步：选择模块</translation>
+        <translation type="unfinished">创建新策略，第1步：选择模块</translation>
     </message>
 </context>
 <context>
     <name>kernel/role/edit</name>
     <message>
         <source>New role</source>
-        <translation type="obsolete">新建角色</translation>
+        <translation type="unfinished">新建角色</translation>
     </message>
     <message>
         <source>Copy of %rolename</source>
-        <translation type="obsolete">%rolename的副本</translation>
+        <translation type="unfinished">%rolename的副本</translation>
     </message>
 </context>
 <context>
     <name>kernel/rss</name>
     <message>
         <source>Really Simple Syndication</source>
-        <translation type="obsolete">简单内容聚合（RSS）</translation>
+        <translation type="unfinished">简单内容聚合（RSS）</translation>
     </message>
     <message>
         <source>New RSS Export</source>
-        <translation type="obsolete">新建RSS导出</translation>
+        <translation type="unfinished">新建RSS导出</translation>
     </message>
     <message>
         <source>New RSS Import</source>
-        <translation type="obsolete">新建RSS导入</translation>
+        <translation type="unfinished">新建RSS导入</translation>
     </message>
 </context>
 <context>
     <name>kernel/rss/edit_export</name>
     <message>
         <source>Invalid selection for title class %1 does not have attribute &quot;%2&quot;</source>
-        <translation type="obsolete">无&quot;%2&quot;属性的标题类 %1 选项无效</translation>
+        <translation type="unfinished">无&quot;%2&quot;属性的标题类 %1 选项无效</translation>
     </message>
     <message>
         <source>Invalid selection for description class %1 does not have attribute &quot;%2&quot;</source>
-        <translation type="obsolete">无 &quot;%2&quot;属性的描述类 %1 选项无效</translation>
+        <translation type="unfinished">无 &quot;%2&quot;属性的描述类 %1 选项无效</translation>
     </message>
     <message>
         <source>Selected class does not exist</source>
-        <translation type="obsolete">选中的类不存在</translation>
+        <translation type="unfinished">选中的类不存在</translation>
+    </message>
+    <message>
+        <source>Invalid selection for category class %1 does not have attribute &quot;%2&quot;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/search</name>
     <message>
         <source>Search stats</source>
-        <translation type="obsolete">搜索统计</translation>
+        <translation type="unfinished">搜索统计</translation>
     </message>
 </context>
 <context>
@@ -31129,7 +31463,7 @@ your account.</source>
     </message>
     <message>
         <source>Sections</source>
-        <translation type="obsolete">分区</translation>
+        <translation type="unfinished">分区</translation>
     </message>
     <message>
         <source>View section</source>
@@ -31137,34 +31471,34 @@ your account.</source>
     </message>
     <message>
         <source>New section</source>
-        <translation type="obsolete">新建分区</translation>
+        <translation type="unfinished">新建分区</translation>
     </message>
     <message>
         <source>Assign section</source>
-        <translation type="obsolete">分配分区</translation>
+        <translation type="unfinished">分配分区</translation>
     </message>
 </context>
 <context>
     <name>kernel/setup</name>
     <message>
         <source>Cache admin</source>
-        <translation type="obsolete">缓存管理</translation>
+        <translation type="unfinished">缓存管理</translation>
     </message>
     <message>
         <source>Template operator wizard</source>
-        <translation type="obsolete">模板操作符向导</translation>
+        <translation type="unfinished">模板操作符向导</translation>
     </message>
     <message>
         <source>Extension configuration</source>
-        <translation type="obsolete">扩展配置</translation>
+        <translation type="unfinished">扩展配置</translation>
     </message>
     <message>
         <source>System information</source>
-        <translation type="obsolete">系统信息</translation>
+        <translation type="unfinished">系统信息</translation>
     </message>
     <message>
         <source>Rapid Application Development</source>
-        <translation type="obsolete">快速应用程序开发</translation>
+        <translation type="unfinished">快速应用程序开发</translation>
     </message>
     <message>
         <source>Template list</source>
@@ -31188,50 +31522,50 @@ your account.</source>
     </message>
     <message>
         <source>Setup menu</source>
-        <translation type="obsolete">设置菜单</translation>
+        <translation type="unfinished">设置菜单</translation>
     </message>
     <message>
         <source>System Upgrade</source>
-        <translation type="obsolete">系统升级</translation>
+        <translation type="unfinished">系统升级</translation>
     </message>
     <message>
         <source>Session admin</source>
-        <translation type="obsolete">会话管理</translation>
+        <translation type="unfinished">会话管理</translation>
     </message>
     <message>
         <source>File %1 does not exist. You should copy it from the recent eZ Publish distribution.</source>
-        <translation type="obsolete">文件%1不存在。您应该从最近的eZ Publish发布版本中复制。</translation>
+        <translation type="unfinished">文件%1不存在。您应该从最近的eZ Publish发布版本中复制。</translation>
     </message>
     <message>
         <source>Datatype wizard</source>
-        <translation type="obsolete">数据类型向导</translation>
+        <translation type="unfinished">数据类型向导</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop</name>
     <message>
         <source>Basket</source>
-        <translation type="obsolete">购物篮</translation>
+        <translation type="unfinished">购物篮</translation>
     </message>
     <message>
         <source>Confirm order</source>
-        <translation type="obsolete">确认订单</translation>
+        <translation type="unfinished">确认订单</translation>
     </message>
     <message>
         <source>Discount group</source>
-        <translation type="obsolete">折扣组</translation>
+        <translation type="unfinished">折扣组</translation>
     </message>
     <message>
         <source>Group view of discount rule</source>
-        <translation type="obsolete">折扣规则的组视图</translation>
+        <translation type="unfinished">折扣规则的组视图</translation>
     </message>
     <message>
         <source>Editing rule</source>
-        <translation type="obsolete">编辑规则</translation>
+        <translation type="unfinished">编辑规则</translation>
     </message>
     <message>
         <source>Order list</source>
-        <translation type="obsolete">订单列表</translation>
+        <translation type="unfinished">订单列表</translation>
     </message>
     <message>
         <source>Order view</source>
@@ -31239,460 +31573,516 @@ your account.</source>
     </message>
     <message>
         <source>Enter account information</source>
-        <translation type="obsolete">输入帐户信息</translation>
+        <translation type="unfinished">输入帐户信息</translation>
     </message>
     <message>
         <source>VAT types</source>
-        <translation type="obsolete">增值税类型</translation>
+        <translation type="unfinished">增值税类型</translation>
     </message>
     <message>
         <source>Checkout</source>
-        <translation type="obsolete">结算</translation>
+        <translation type="unfinished">结算</translation>
     </message>
     <message>
         <source>Customer list</source>
-        <translation type="obsolete">顾客列表</translation>
+        <translation type="unfinished">顾客列表</translation>
     </message>
     <message>
         <source>Remove order</source>
-        <translation type="obsolete">删除订单</translation>
+        <translation type="unfinished">删除订单</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="obsolete">统计</translation>
+        <translation type="unfinished">统计</translation>
     </message>
     <message>
         <source>VAT type</source>
-        <translation type="obsolete">增值税类型</translation>
+        <translation type="unfinished">增值税类型</translation>
     </message>
     <message>
         <source>Classes</source>
-        <translation type="obsolete">类</translation>
+        <translation type="unfinished">类</translation>
     </message>
     <message>
         <source>Any class</source>
-        <translation type="obsolete">任何类</translation>
+        <translation type="unfinished">任何类</translation>
     </message>
     <message>
         <source>in sections</source>
-        <translation type="obsolete">在分区中</translation>
+        <translation type="unfinished">在分区中</translation>
     </message>
     <message>
         <source>in any section</source>
-        <translation type="obsolete">在任何分区中</translation>
+        <translation type="unfinished">在任何分区中</translation>
     </message>
     <message>
         <source>Products</source>
-        <translation type="obsolete">产品</translation>
+        <translation type="unfinished">产品</translation>
     </message>
     <message>
         <source>Any product</source>
-        <translation type="obsolete">任何产品</translation>
+        <translation type="unfinished">任何产品</translation>
     </message>
     <message>
         <source>Order status</source>
-        <translation type="obsolete">订单状态</translation>
+        <translation type="unfinished">订单状态</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation type="obsolete">未定义</translation>
+        <translation type="unfinished">未定义</translation>
     </message>
     <message>
         <source>The confirm order operation was canceled. Try to checkout again.</source>
-        <translation type="obsolete">确认订单操作已取消，请重新结算。</translation>
+        <translation type="unfinished">确认订单操作已取消，请重新结算。</translation>
     </message>
     <message>
         <source>Order #%order_id</source>
-        <translation type="obsolete">订单#%order_id</translation>
+        <translation type="unfinished">订单#%order_id</translation>
     </message>
     <message>
         <source>New order status was successfully added.</source>
-        <translation type="obsolete">成功添加新的订单状态。</translation>
+        <translation type="unfinished">成功添加新的订单状态。</translation>
     </message>
     <message>
         <source>Changes to order status were successfully stored.</source>
-        <translation type="obsolete">成功保存订单状态的修改。</translation>
+        <translation type="unfinished">成功保存订单状态的修改。</translation>
     </message>
     <message>
         <source>Selected order statuses were successfully removed.</source>
-        <translation type="obsolete">成功删除选中的订单状态。</translation>
+        <translation type="unfinished">成功删除选中的订单状态。</translation>
     </message>
     <message>
         <source>Internal orders cannot be removed.</source>
-        <translation type="obsolete">无法删除内部订单。</translation>
+        <translation type="unfinished">无法删除内部订单。</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">状态</translation>
+        <translation type="unfinished">状态</translation>
     </message>
     <message>
         <source>Customer order view</source>
-        <translation type="obsolete">顾客订单视图</translation>
+        <translation type="unfinished">顾客订单视图</translation>
     </message>
     <message>
         <source>Any</source>
-        <translation type="obsolete">任意</translation>
+        <translation type="unfinished">任意</translation>
     </message>
     <message>
         <source>Available currency list</source>
-        <translation type="obsolete">可用货币列表</translation>
+        <translation type="unfinished">可用货币列表</translation>
     </message>
     <message>
         <source>Edit currency</source>
-        <translation type="obsolete">编辑货币</translation>
+        <translation type="unfinished">编辑货币</translation>
     </message>
     <message>
         <source>Create new currency</source>
-        <translation type="obsolete">创建新货币</translation>
+        <translation type="unfinished">创建新货币</translation>
     </message>
     <message>
         <source>Preferred currency</source>
-        <translation type="obsolete">首选货币</translation>
+        <translation type="unfinished">首选货币</translation>
     </message>
     <message>
         <source>Products overview</source>
-        <translation type="obsolete">产品一览</translation>
+        <translation type="unfinished">产品一览</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="obsolete">无</translation>
+        <translation type="unfinished">无</translation>
     </message>
     <message>
         <source>Error checking out</source>
-        <translation type="obsolete">结算错误</translation>
+        <translation type="unfinished">结算错误</translation>
     </message>
     <message>
         <source>Unable to calculate VAT percentage because your country is unknown. You can either fill country manually in your account information (if you are a registered user) or contact site administrator.</source>
-        <translation type="obsolete">无法计算增值税率，因为您的国家/地区未知，您可以在您的帐户信息中填入国家/地区（如果您是注册用户）或者联系站点管理员。</translation>
+        <translation type="unfinished">无法计算增值税率，因为您的国家/地区未知，您可以在您的帐户信息中填入国家/地区（如果您是注册用户）或者联系站点管理员。</translation>
     </message>
     <message>
         <source>Wishlist</source>
-        <translation type="obsolete">希望列表</translation>
+        <translation type="unfinished">希望列表</translation>
     </message>
     <message>
         <source>&apos;Autorates&apos; were retrieved successfully</source>
-        <translation type="obsolete">成功取回&apos;自动汇率&apos;</translation>
+        <translation type="unfinished">成功取回&apos;自动汇率&apos;</translation>
     </message>
     <message>
         <source>Unknown body format in HTTP response. Expected &apos;text/xml&apos;</source>
-        <translation type="obsolete">HTTP响应中出现未知报文格式。应该为&apos;text/xml&apos;格式</translation>
+        <translation type="unfinished">HTTP响应中出现未知报文格式。应该为&apos;text/xml&apos;格式</translation>
     </message>
     <message>
         <source>Invalid HTTP response</source>
-        <translation type="obsolete">无效HTTP响应</translation>
+        <translation type="unfinished">无效HTTP响应</translation>
     </message>
     <message>
         <source>Unable to send http request: %1:%2/%3</source>
-        <translation type="obsolete">不能发送http请求：%1：%2/%3</translation>
+        <translation type="unfinished">不能发送http请求：%1：%2/%3</translation>
     </message>
     <message>
         <source>eZExchangeRatesUpdateHandler: you should reimplement &apos;requestRates&apos; method</source>
-        <translation type="obsolete">eZExchangeRatesUpdateHandler：您应该重新实现&apos;requestRates&apos;方法</translation>
+        <translation type="unfinished">eZExchangeRatesUpdateHandler：您应该重新实现&apos;requestRates&apos;方法</translation>
     </message>
     <message>
         <source>&apos;Auto&apos; prices were updated successfully.</source>
-        <translation type="obsolete">&apos;自动&apos;价格更新成功。</translation>
+        <translation type="unfinished">&apos;自动&apos;价格更新成功。</translation>
     </message>
     <message>
         <source>&apos;Auto&apos; rates were updated successfully.</source>
-        <translation type="obsolete">&apos;自动&apos;汇率更新成功。</translation>
+        <translation type="unfinished">&apos;自动&apos;汇率更新成功。</translation>
     </message>
     <message>
         <source>Unable to calculate cross-rate for currency-pair &apos;%1&apos;/&apos;%2&apos;</source>
-        <translation type="obsolete">无法计算货币组合的交叉汇率&apos;%1&apos;/&apos;%2&apos;</translation>
+        <translation type="unfinished">无法计算货币组合的交叉汇率&apos;%1&apos;/&apos;%2&apos;</translation>
     </message>
     <message>
         <source>Unable to determine currency for retrieved rates.</source>
-        <translation type="obsolete">无法确定取得汇率的货币。</translation>
+        <translation type="unfinished">无法确定取得汇率的货币。</translation>
     </message>
     <message>
         <source>Retrieved empty list of rates.</source>
-        <translation type="obsolete">得空的汇率列表。</translation>
+        <translation type="unfinished">得空的汇率列表。</translation>
     </message>
     <message>
         <source>Unable to create handler to update auto rates.</source>
-        <translation type="obsolete">无法创建处理器更新自动汇率。</translation>
+        <translation type="unfinished">无法创建处理器更新自动汇率。</translation>
     </message>
     <message>
         <source>Changes were stored successfully.</source>
-        <translation type="obsolete">成功保存修改。</translation>
+        <translation type="unfinished">成功保存修改。</translation>
+    </message>
+    <message>
+        <source>&apos;%value&apos; is not a valid custom rate value (positive number expected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;%value&apos; is not a valid rate_factor value (positive number expected)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/classes/ezcurrencydata</name>
     <message>
         <source>Invalid characters in currency code.</source>
-        <translation type="obsolete">货币代码中的无效字符。</translation>
+        <translation type="unfinished">货币代码中的无效字符。</translation>
     </message>
     <message>
         <source>Currency already exists.</source>
-        <translation type="obsolete">货币已存在。</translation>
+        <translation type="unfinished">货币已存在。</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="obsolete">未知错误。</translation>
+        <translation type="unfinished">未知错误。</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/discountgroup</name>
     <message>
         <source>New discount group</source>
-        <translation type="obsolete">新建折扣组</translation>
+        <translation type="unfinished">新建折扣组</translation>
     </message>
     <message>
         <source>New Discount Rule</source>
-        <translation type="obsolete">新建折扣规则</translation>
+        <translation type="unfinished">新建折扣规则</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/editvatrule</name>
     <message>
         <source>Choose a country.</source>
-        <translation type="obsolete">选择一个国家。</translation>
+        <translation type="unfinished">选择一个国家。</translation>
     </message>
     <message>
         <source>Choose a VAT type.</source>
-        <translation type="obsolete">选择一个增值税类型。</translation>
+        <translation type="unfinished">选择一个增值税类型。</translation>
     </message>
     <message>
         <source>Rule not found</source>
-        <translation type="obsolete">没有找到规则</translation>
+        <translation type="unfinished">没有找到规则</translation>
     </message>
     <message>
         <source>Edit VAT charging rule</source>
-        <translation type="obsolete">编辑增值税收取规则</translation>
+        <translation type="unfinished">编辑增值税收取规则</translation>
     </message>
     <message>
         <source>Create new VAT charging rule</source>
-        <translation type="obsolete">创建新的增值税收取规则</translation>
+        <translation type="unfinished">创建新的增值税收取规则</translation>
     </message>
     <message>
         <source>Invalid data entered</source>
-        <translation type="obsolete">输入数据无效</translation>
+        <translation type="unfinished">输入数据无效</translation>
     </message>
     <message>
         <source>Conflicting rule</source>
-        <translation type="obsolete">冲突的规则</translation>
+        <translation type="unfinished">冲突的规则</translation>
     </message>
     <message>
         <source>Default rule for any country already exists.</source>
-        <translation type="obsolete">已存在缺省规则用于所有国家和地区。</translation>
+        <translation type="unfinished">已存在缺省规则用于所有国家和地区。</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/productcategories</name>
     <message>
         <source>Product categories</source>
-        <translation type="obsolete">产品类别</translation>
+        <translation type="unfinished">产品类别</translation>
     </message>
     <message>
         <source>Product category</source>
-        <translation type="obsolete">产品类别</translation>
+        <translation type="unfinished">产品类别</translation>
     </message>
     <message>
         <source>Empty category names are not allowed (corrected).</source>
-        <translation type="obsolete">商品类别名不能为空（已修正）。</translation>
+        <translation type="unfinished">商品类别名不能为空（已修正）。</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/vatrules</name>
     <message>
         <source>No default rule found. Please add rule having &quot;Any&quot; country and &quot;Any&quot; category.</source>
-        <translation type="obsolete">找不到缺省规则。请添加一条规则适用于“任何”国家和“任何”类别。</translation>
+        <translation type="unfinished">找不到缺省规则。请添加一条规则适用于“任何”国家和“任何”类别。</translation>
     </message>
     <message>
         <source>VAT rules</source>
-        <translation type="obsolete">增值税规则</translation>
+        <translation type="unfinished">增值税规则</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/vattype</name>
     <message>
         <source>Empty VAT type names are not allowed (corrected).</source>
-        <translation type="obsolete">增值税类型名不能为空（已修正）。</translation>
+        <translation type="unfinished">增值税类型名不能为空（已修正）。</translation>
     </message>
     <message>
         <source>Wrong VAT percentage (corrected).</source>
-        <translation type="obsolete">增值税率错误（已修正）。</translation>
+        <translation type="unfinished">增值税率错误（已修正）。</translation>
     </message>
 </context>
 <context>
     <name>kernel/state</name>
     <message>
         <source>Assign</source>
-        <translation type="obsolete">分配</translation>
+        <translation type="unfinished">分配</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">编辑</translation>
+        <translation type="unfinished">编辑</translation>
     </message>
     <message>
         <source>Groups</source>
-        <translation type="obsolete">组</translation>
+        <translation type="unfinished">组</translation>
     </message>
     <message>
         <source>New group</source>
-        <translation type="obsolete">新建组</translation>
+        <translation type="unfinished">新建组</translation>
     </message>
     <message>
         <source>Group edit</source>
-        <translation type="obsolete">编辑组</translation>
+        <translation type="unfinished">编辑组</translation>
+    </message>
+    <message>
+        <source>State</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/state/edit</name>
+    <message>
+        <source>Identifier: input required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: invalid, it can only consist of characters in the range a-z, 0-9 and underscore.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: invalid, maximum %max characters allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: a content object state group with this identifier already exists, please give another identifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%language_name: this language is the default but neither name or description were provided for this language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations: you need to add at least one localization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations: there are multiple localizations but you did not specify which is the default one</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: identifiers starting with &quot;ez&quot; are reserved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name in %language_name is too long. Maximum 45 characters allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name in %language_name: input required</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/trigger</name>
     <message>
         <source>Trigger</source>
-        <translation type="obsolete">触发器</translation>
+        <translation type="unfinished">触发器</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">列表</translation>
+        <translation type="unfinished">列表</translation>
     </message>
 </context>
 <context>
     <name>kernel/url</name>
     <message>
         <source>URL</source>
-        <translation type="obsolete">URL</translation>
+        <translation type="unfinished">URL</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">列表</translation>
+        <translation type="unfinished">列表</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">视图</translation>
+        <translation type="unfinished">视图</translation>
     </message>
     <message>
         <source>URL edit</source>
-        <translation type="obsolete">编辑URL</translation>
+        <translation type="unfinished">编辑URL</translation>
     </message>
 </context>
 <context>
     <name>kernel/user</name>
     <message>
         <source>User</source>
-        <translation type="obsolete">用户</translation>
+        <translation type="unfinished">用户</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="obsolete">注册</translation>
+        <translation type="unfinished">注册</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="obsolete">登录</translation>
+        <translation type="unfinished">登录</translation>
     </message>
     <message>
         <source>Change password</source>
-        <translation type="obsolete">修改密码</translation>
+        <translation type="unfinished">修改密码</translation>
     </message>
     <message>
         <source>Forgot password</source>
-        <translation type="obsolete">忘记密码</translation>
+        <translation type="unfinished">忘记密码</translation>
     </message>
     <message>
         <source>User profile</source>
-        <translation type="obsolete">用户档案</translation>
+        <translation type="unfinished">用户档案</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="obsolete">设置</translation>
+        <translation type="unfinished">设置</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="obsolete">激活</translation>
+        <translation type="unfinished">激活</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="obsolete">成功</translation>
+        <translation type="unfinished">成功</translation>
     </message>
 </context>
 <context>
     <name>kernel/user/register</name>
     <message>
         <source>Registration info</source>
-        <translation type="obsolete">注册信息</translation>
+        <translation type="unfinished">注册信息</translation>
     </message>
     <message>
         <source>New user registered</source>
-        <translation type="obsolete">新用户已注册</translation>
+        <translation type="unfinished">新用户已注册</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow</name>
     <message>
         <source>Edit workflow</source>
-        <translation type="obsolete">编辑工作流</translation>
+        <translation type="unfinished">编辑工作流</translation>
     </message>
     <message>
         <source>Workflow</source>
-        <translation type="obsolete">工作流</translation>
+        <translation type="unfinished">工作流</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">编辑</translation>
+        <translation type="unfinished">编辑</translation>
     </message>
     <message>
         <source>Edit workflow group</source>
-        <translation type="obsolete">编辑工作流组</translation>
+        <translation type="unfinished">编辑工作流组</translation>
     </message>
     <message>
         <source>Group edit</source>
-        <translation type="obsolete">编辑组</translation>
+        <translation type="unfinished">编辑组</translation>
     </message>
     <message>
         <source>Workflow group list</source>
-        <translation type="obsolete">工作流组列表</translation>
+        <translation type="unfinished">工作流组列表</translation>
     </message>
     <message>
         <source>Group list</source>
-        <translation type="obsolete">组列表</translation>
+        <translation type="unfinished">组列表</translation>
     </message>
     <message>
         <source>Workflow list of group</source>
-        <translation type="obsolete">组中工作流列表</translation>
+        <translation type="unfinished">组中工作流列表</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">列表</translation>
+        <translation type="unfinished">列表</translation>
     </message>
     <message>
         <source>Workflow list</source>
-        <translation type="obsolete">工作流组列表</translation>
+        <translation type="unfinished">工作流组列表</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">视图</translation>
+        <translation type="unfinished">视图</translation>
     </message>
     <message>
         <source>You have to have at least one group that the workflow belongs to!</source>
-        <translation type="obsolete">工作流至少应属于一个组!</translation>
+        <translation type="unfinished">工作流至少应属于一个组!</translation>
     </message>
     <message>
         <source>Process list</source>
-        <translation type="obsolete">进程列表</translation>
+        <translation type="unfinished">进程列表</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/edit</name>
     <message>
         <source>New Workflow</source>
-        <translation type="obsolete">新建工作流</translation>
+        <translation type="unfinished">新建工作流</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/event</name>
     <message>
         <source>Event</source>
-        <translation type="obsolete">事件</translation>
+        <translation type="unfinished">事件</translation>
     </message>
     <message>
         <source>Approve</source>
-        <translation type="obsolete">批准</translation>
+        <translation type="unfinished">批准</translation>
     </message>
     <message>
         <source>Checkout</source>
@@ -31700,7 +32090,7 @@ your account.</source>
     </message>
     <message>
         <source>Multiplexer</source>
-        <translation type="obsolete">多路控制器</translation>
+        <translation type="unfinished">多路控制器</translation>
     </message>
     <message>
         <source>Publish</source>
@@ -31712,7 +32102,7 @@ your account.</source>
     </message>
     <message>
         <source>Simple shipping</source>
-        <translation type="obsolete">普通运送</translation>
+        <translation type="unfinished">普通运送</translation>
     </message>
     <message>
         <source>Timing</source>
@@ -31724,7 +32114,7 @@ your account.</source>
     </message>
     <message>
         <source>Wait until date</source>
-        <translation type="obsolete">等待到日期</translation>
+        <translation type="unfinished">等待到日期</translation>
     </message>
     <message>
         <source>Wrapping</source>
@@ -31736,14 +32126,14 @@ your account.</source>
     </message>
     <message>
         <source>Payment Gateway</source>
-        <translation type="obsolete">支付网关</translation>
+        <translation type="unfinished">支付网关</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/group</name>
     <message>
         <source>Group</source>
-        <translation type="obsolete">组</translation>
+        <translation type="unfinished">组</translation>
     </message>
     <message>
         <source>Serial</source>
@@ -31754,7 +32144,7 @@ your account.</source>
     <name>kernel/workflow/groupedit</name>
     <message>
         <source>New WorkflowGroup</source>
-        <translation type="obsolete">新建工作流组</translation>
+        <translation type="unfinished">新建工作流组</translation>
     </message>
 </context>
 <context>
@@ -31762,12 +32152,12 @@ your account.</source>
     <message>
         <source>Contents</source>
         <comment>Table of contents</comment>
-        <translation type="obsolete">内容</translation>
+        <translation type="unfinished">内容</translation>
     </message>
     <message>
         <source>Index</source>
         <comment>Keyword index name</comment>
-        <translation type="obsolete">索引</translation>
+        <translation type="unfinished">索引</translation>
     </message>
 </context>
 <context>
@@ -31778,7 +32168,7 @@ your account.</source>
     </message>
     <message>
         <source>Some template errors occurred, see debug for more information.</source>
-        <translation type="obsolete">发生模板错误，请参考调试信息。</translation>
+        <translation type="unfinished">发生模板错误，请参考调试信息。</translation>
     </message>
 </context>
 <context>
@@ -31787,34 +32177,38 @@ your account.</source>
         <source>The maximum nesting level of 40 has been reached. The execution is stopped to avoid infinite recursion.</source>
         <translation type="obsolete">运行程序已经超出40层嵌套。为了防止死循环已中断程序。</translation>
     </message>
+    <message>
+        <source>The maximum nesting level of %max has been reached. The execution is stopped to avoid infinite recursion.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>pdf/edit</name>
     <message>
         <source>PDF Export</source>
-        <translation type="obsolete">PDF导出</translation>
+        <translation type="unfinished">PDF导出</translation>
     </message>
 </context>
 <context>
     <name>settings/edit</name>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">设置</translation>
+        <translation type="unfinished">设置</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">编辑</translation>
+        <translation type="unfinished">编辑</translation>
     </message>
 </context>
 <context>
     <name>settings/view</name>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">设置</translation>
+        <translation type="unfinished">设置</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">视图</translation>
+        <translation type="unfinished">视图</translation>
     </message>
 </context>
 <context>
@@ -31836,7 +32230,7 @@ your account.</source>
     <name>shop</name>
     <message>
         <source>Remove orders</source>
-        <translation type="obsolete">删除订单</translation>
+        <translation type="unfinished">删除订单</translation>
     </message>
 </context>
 <context>

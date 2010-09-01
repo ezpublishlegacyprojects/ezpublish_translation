@@ -1,4 +1,6 @@
-<!DOCTYPE TS><TS>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0">
 <context>
     <name>contentstructuremenu/show_content_structure</name>
     <message>
@@ -357,10 +359,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Edit &lt;%class_name&gt; (%object_count)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Description</source>
         <translation type="unfinished"></translation>
     </message>
@@ -390,6 +388,14 @@
     </message>
     <message>
         <source>Category</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The draft of the class definition was successfully stored.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit &lt;%class_name&gt; (%object_count objects)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1613,6 +1619,26 @@
     <name>design/admin/content/datatype</name>
     <message>
         <source>No media file is available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Year</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hour</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minute</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5149,6 +5175,14 @@
         <source>The lines marked with red contain more than the maximum possible nodes for subtree removal and will not be deleted. You can remove this subtree using the ezsubtreeremove.php script.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Pending sub-object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removal failed because there is pending sub object under the node. Please finish the relevant process then redo the removal.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/node/view</name>
@@ -5895,10 +5929,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tab is disabled, enable on dashboard.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Translations (%count)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5923,23 +5953,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Create</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>in</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Here</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Published order</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>List of sub items of current node, with controlls to edit, remove and move them directly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6012,6 +6026,90 @@
     </message>
     <message>
         <source>Language list of translations for current object.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tab is disabled, enable with toggler to the left of these tabs.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show simplified view of content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ordering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show published ordering overview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Node remote ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object remote ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of items per page:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visible table columns:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select none</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use the checkboxes to select one or more items.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>prev</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>last</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6740,7 +6838,63 @@ Note: The packages will not be uninstalled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>User perferences</source>
+        <source>Content structure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage the main content structure of the site.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Media library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage images, files, documents, etc.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage users, user groups and permission settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Webshop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage customers, orders, discounts and VAT types; view sales statistics.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Design</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage templates, menus, toolbars and other things related to appearence.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configure settings and manage advanced functionality.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dashboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage items and settings that belong to your account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User preferences</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6935,15 +7089,19 @@ Note: The packages will not be uninstalled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preview tab</source>
+        <source>Enable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Disable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
+        <source>Disable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
+        <source>Enable &amp;quot;Tabs&amp;quot; by default while browsing content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable &amp;quot;Tabs&amp;quot; by default while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7501,6 +7659,14 @@ Note: The packages will not be uninstalled.</source>
         <source>New translation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Sitemap for subtree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/preview/article</name>
@@ -7552,6 +7718,10 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Your email address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your name</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8898,6 +9068,26 @@ Note: The packages will not be uninstalled.</source>
         <source>Navigation part</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Identifier can not be empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier should consist of letters, numbers or &apos;_&apos; with letter prefix.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The identifier has been used in another section.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section edit error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/section/list</name>
@@ -8967,6 +9157,10 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Assign a subtree to the &lt;%section_name&gt; section.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9050,6 +9244,10 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Assign subtree of objects to this section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9467,7 +9665,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source></source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -9528,7 +9726,11 @@ Note: The packages will not be uninstalled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Activate</source>
+        <source>Activate or deactivate extension. Use the &quot;Update&quot; button to apply the changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9706,11 +9908,6 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Version</source>
-        <comment>eZ Publish version</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>SVN revision</source>
         <comment>eZ Publish version</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -10109,10 +10306,6 @@ Note: The packages will not be uninstalled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your alternatives are to:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10126,6 +10319,10 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The operation was cut short in order to avoid execution timeout.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10925,6 +11122,10 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Add products</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New discount rule</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11911,10 +12112,6 @@ Note: The packages will not be uninstalled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save changes to this states.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11940,6 +12137,10 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Description:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save changes to this state.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14794,11 +14995,19 @@ your account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>seconds(s)</source>
+        <source>Tag preset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tag preset</source>
+        <source>Html5 Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Html5 Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>second(s)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16270,6 +16479,30 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>Find objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The related objects will be edited in the same language as this object. If such translations do not exist they will be created, based on the source language of your choice.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation base</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This object is already translated, the existing translation will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This object is not translated, please select the language the new translation will be based on.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your browser does not support html5 video.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your browser does not support html5 audio.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -20570,11 +20803,6 @@ By using %operatorname you can ...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SVN revision</source>
-        <comment>eZ Publish version</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Extensions</source>
         <comment>eZ Publish extensions</comment>
         <translation type="unfinished"></translation>
@@ -22022,6 +22250,122 @@ This functionality is also available at a later time from the Administration Int
         <source>PostgreSQL support was detected on your system. Please choose the database driver you would like to use.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Database initalization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please make sure that the username and the password is correct. Verify that your PostgreSQL database is configured correctly.&lt;br&gt;See the PHP documentation for more information about this.&lt;br&gt;Remember to start postmaster with the -i option.&lt;br&gt;Note that PostgreSQL 7.2 is not supported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The database would not accept the connection, please review your settings and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password entries did not match.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected database was not empty, please choose from the alternatives below.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected user has not got access to any databases. Change user or create a database for the user.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The &apos;digest&apos; function is not available in your database, you cannot run eZ Publish without this. See the documentation for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your database version %version does not fit the minimum requirement which is %req_version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The database [%database_name] cannot be used, the setup wizard wants to create the site in [%req_charset] but the database has been created using character set [%charset]. You will have to choose a database having support for [%req_charset] or modify [%database_name] .</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Registration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Securing site</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Site access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No packages chosen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No templates chosen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Site template selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot write to file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy %url to local file %filename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download of package &apos;%pkg&apos; failed. You may upload the package manually.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No package selected for upload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed fetching upload package file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uploaded file is not an eZ Publish package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No site package chosen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package &apos;%packageName&apos; and it&apos;s dependencies have been downloaded successfully. Press &apos;Next&apos; to continue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Site selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retrieving remote site packages list failed. You may upload packages manually.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Welcome to eZ Publish</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/standard/setup/operatorcode</name>
@@ -22153,10 +22497,6 @@ This functionality is also available at a later time from the Administration Int
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your alternatives are to:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22170,6 +22510,14 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The operation was cut short in order to avoid execution timeout.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your current session handler does not support session administration.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -23797,6 +24145,10 @@ To do this you need to change the %chown commands under Alternative shell comman
         <source>My notifications</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Toolbar management</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/standard/toolbar/search</name>
@@ -24182,6 +24534,10 @@ your account.</source>
     </message>
     <message>
         <source>The new password must be at least %1 characters long. Please retype your new password.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The node (%1) specified in [UserSettings].DefaultUserPlacement setting in site.ini does not exist!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -25002,183 +25358,2518 @@ your account.</source>
 </context>
 <context>
     <name>kernel/cache</name>
+    <message>
+        <source>Content view cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Global INI cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>INI cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Codepage cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Class identifier cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort key cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>URL alias cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Character transformation cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image alias</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template block cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template override cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text to image cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RSS cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User info cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content tree menu (browser cache)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>State limitations cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Design base cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Active extensions cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TS Translation cache</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/class</name>
+    <message>
+        <source>Class list of group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Class groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove class</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Class list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have to have at least one group that the class belongs to!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not load datatype: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Editing this content class may cause data corruption in your system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press &quot;Cancel&quot; to safely exit this operation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please contact your eZ Publish administrator to solve this problem.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>duplicate attribute placement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>duplicate attribute identifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The class should have nonempty &apos;Name&apos; attribute.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The class should have at least one attribute.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is a class already having the same identifier.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Class group list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove classes %class_id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove classes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(no classes)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove class groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy of %class_name</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/class/edit</name>
+    <message>
+        <source>New Class</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>new attribute</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/class/groupedit</name>
+    <message>
+        <source>New Group</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/classes</name>
+    <message>
+        <source>Approval</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Observer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace existing object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep existing and create a new one</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update existing object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New RSS Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No state yet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workflow running</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workflow done</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workflow failed an event</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workflow event deferred to cron job</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workflow was canceled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workflow fetches template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workflow redirects user view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workflow was reset for reuse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accepted event</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rejected event</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Event deferred to cron job</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Event deferred to cron job, event will be rerun</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Event runs a sub event</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canceled whole workflow</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/classes/datatypes</name>
+    <message>
+        <source>Authors</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>At least one author is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The author name must be provided.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The email address is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File uploading is not enabled. Please contact the site administrator to enable it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A valid file is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The size of the uploaded file exceeds the limit set by the upload_max_filesize directive in php.ini.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The size of the uploaded file exceeds the maximum upload size: %1 bytes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checkbox</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Country</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing date input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date and time</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing datetime input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The email address is empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing email input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enum</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>At least one field should be chosen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Float</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The given input is not a floating point number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The input must be greater than %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The input must be less than %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The input is not in defined range %1 - %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>image</source>
+        <comment>Default image name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The image file must have non-zero size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A valid image file is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The size of the uploaded image exceeds limit set by upload_max_filesize directive in php.ini. Please contact the site administrator.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ini Setting</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not locate the ini file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrong text field value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The input is not a valid integer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number must be greater than %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number must be less than %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number is not within the required range %1 - %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The registrant element of the ISBN number does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The ISBN number has a incorrect registration group number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The group element of the ISBN number does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is not a valid prefix of the ISBN number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All ISBN 13 characters need to be numeric</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>13 digit ISBN must start with 978 or 979</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ISBN length is invalid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bad checksum, last digit should be %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ISBN</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The ISBN number should be ISBN13, but seems to be ISBN10.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The ISBN number is not correct. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The ISBN number is not correct. Please check the input for mistakes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keywords</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Matrix</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing matrix input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Media</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A valid media file is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The size of the uploaded file exceeds the limit set by upload_max_filesize directive in php.ini. Please contact the site administrator.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The size of the uploaded file exceeds site maximum: %1 bytes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multi-option</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The option value must be provided.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The additional price for the multioption value is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>At least one option is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Option set name is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multi-option2</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot choose option value &quot;%1&quot; from &quot;%2&quot; because it is unselectable </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot choose option value &quot;%1&quot; from &quot;%2&quot;  
+ if you selected option &quot;%3&quot; from &quot;%4&quot; </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multi-price</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dynamic VAT cannot be included.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid price for &apos;%currencyCode&apos; currency </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to basket</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to wish list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object relation</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing objectrelation input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object relations</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing objectrelation list input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Option</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NAME is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Additional price value is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Price</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid price.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product category</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Range option</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing range option input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text line</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The input text is too long. The maximum number of characters allowed is %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtree subscription</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text block</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time input required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User account</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The username must be specified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The username already exists, please choose another one.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A user with this email already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The password cannot be empty.</source>
+        <comment>eZUserType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The passwords do not match.</source>
+        <comment>eZUserType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The password must be at least %1 characters long.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The password must not be &quot;password&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot remove the account:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The account owner is currently logged in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The account is currently used by the anonymous user.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The account is currently used the administrator user.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot remove the last class holding user accounts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML block</source>
+        <comment>Datatype name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid reference in &amp;lt;embed&amp;gt; tag. Note that &lt;embed&gt; tag supports only &apos;eznode&apos; and &apos;ezobject&apos; protocols.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object %1 can not be embeded to itself.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send</source>
+        <comment>Datatype information collector action</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezbinaryfile</name>
+    <message>
+        <source>Failed to store file %filename. Please contact the site administrator.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezimage</name>
+    <message>
+        <source>Failed to fetch Image Handler. Please contact the site administrator.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezmedia</name>
+    <message>
+        <source>Failed to store media file %filename. Please contact the site administrator.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezxmltext</name>
+    <message>
+        <source>Wrong closing tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrong closing tag : &amp;lt;/%1&amp;gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrong opening tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown tag: &amp;lt;%1&amp;gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t convert tag&apos;s name: &amp;lt;%1&amp;gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Class &apos;%1&apos; is not allowed for element &amp;lt;%2&amp;gt; (check content.ini).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Required attribute &apos;%1&apos; is not presented in tag &amp;lt;%2&amp;gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom tag &apos;%1&apos; is not allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;lt;%1&amp;gt; tag can&apos;t be empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is not allowed to be a child of &amp;lt;%2&amp;gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attribute &apos;%1&apos; is not allowed in &amp;lt;%2&amp;gt; element.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incorrect headers nesting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Node &apos;%1&apos; does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Using scripts in links is not allowed, link &apos;%1&apos; has been removed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid e-mail address: &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object %1 can not be embeded to itself.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/collaboration</name>
+    <message>
+        <source>Collaboration custom action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collaboration</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/content</name>
+    <message>
+        <source>Top Level Nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hidden</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hidden by superior</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Media</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The request sent to the server was too big to be accepted. This probably means that you uploaded a file which was too big. The maximum allowed request size is %max_size_string.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A node in the node assignment list has been deleted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No main node selected, please select one.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy subtree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dashboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Differences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My drafts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Class identifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Class name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Depth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path String</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Published</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are not allowed to place this object under: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My pending list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove editing version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;$contentObjectName&quot;: Sub items that are used by other objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tip from %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The email address of the sender is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The email address of the receiver is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The receiver has already received the maximum number of tipafriend mails the last hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tip a friend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You do not have enough rights to access the requested node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Version preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have already sent a tipafriend mail to this receiver regarding &apos;%1&apos; content</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/content/copysubtree</name>
+    <message>
+        <source>Object (ID = %1) was not copied: you do not have permission to read the object.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Node (ID = %1) was not copied: you do not have permission to read object (ID = %2).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Node (ID = %1) was not copied: parent node (ID = %2) was not copied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Node (ID = %1) was not copied: you do not have permission to create.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object (ID = %1) was not copied: no one nodes of object was not copied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fatal error: cannot get subtree main node (ID = %1).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fatal error: cannot get destination node (ID = %1).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of nodes of source subtree - %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtree was not copied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of copied nodes - %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of copied contentobjects - %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create instance of eZDB to fix local links (related objects).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Successfully DONE.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are trying to copy a subtree that contains more than the maximum possible nodes for subtree copying. You can copy this subtree using Subtree Copy script.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot publish object (Name: %1, ID: %2).</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/content/removenode</name>
+    <message>
+        <source>child</source>
+        <comment>1 child</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>children</source>
+        <comment>several children</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/content/restore</name>
+    <message>
+        <source>Restore object</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/content/upload</name>
+    <message>
+        <source>The file %filename does not exist, cannot insert file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There was an error trying to instantiate content upload handler.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matching class identifier found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The class %class_identifier does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Was not able to figure out placement of object.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission denied</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No configuration group in upload.ini for class identifier %class_identifier.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matching file attribute found, cannot create content object without this.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matching name attribute found, cannot create content object without this.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The attribute %class_identifier does not support regular file storage.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The attribute %class_identifier does not support simple string storage.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No HTTP file found, cannot fetch uploaded file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The attribute %class_identifier does not support HTTP file storage.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Publishing of content object was halted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Publish process was cancelled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A file is required for upload, no file were found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expected a eZHTTPFile object but got nothing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not find content upload handler &apos;%handler_name&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/content/urlalias_global</name>
+    <message>
+        <source>Global URL aliases</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/content/urlalias_wildcard</name>
+    <message>
+        <source>URL wildcard aliases</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/contentclass</name>
+    <message>
+        <source>New %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot remove class &apos;%class_name&apos;:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The class is used by a top-level node and cannot be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/design</name>
+    <message>
+        <source>Template list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toolbar list</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/error</name>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/ezinfo</name>
+    <message>
+        <source>Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copyright</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/infocollector</name>
+    <message>
+        <source>Collected information</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/navigationpart</name>
+    <message>
+        <source>Content structure</source>
+        <comment>Navigation part</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Media library</source>
+        <comment>Navigation part</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User accounts</source>
+        <comment>Navigation part</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Webshop</source>
+        <comment>Navigation part</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Design</source>
+        <comment>Navigation part</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setup</source>
+        <comment>Navigation part</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My account</source>
+        <comment>Navigation part</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/notification</name>
+    <message>
+        <source>Notification settings</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/package</name>
+    <message>
+        <source>Lead</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Developer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contributor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tester</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package maintainer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package changelog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package name is missing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A package named %packagename already exists, please give another name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The package name %packagename is not valid, it can only contain characters in the range a-z, 0-9 and underscore.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Summary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Summary is missing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The version must only contain numbers (optionally followed by text) and must be delimited by dots (.), e.g. 1.0, 3.4.0beta1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter a name for the changelog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter an email for the changelog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changelog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must supply some text for the changelog entry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter a name of the maintainer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter an email address of the maintainer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content classes to include</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content class export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Class list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must select at least one class for inclusion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content objects to include</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content object limits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content object export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selected nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must select one or more node(s)/subtree(s) for export.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must choose one or more languages.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must choose one or more site access.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extensions to include</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extension export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extension list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must select at least one extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CSS files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Site style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CSS file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must upload both CSS files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File did not have a .css suffix, this is most likely not a CSS file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content class &apos;%classname&apos; (%classidentifier)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removing class &apos;%classname&apos; will result in the removal of %objectscount object(s) of this class and all their sub-items. Are you sure you want to uninstall it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Class &apos;%classname&apos; already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace existing class</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Warning! $objectsCount content object(s) and their sub-items will be removed)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip installing this class</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep existing and create a new one</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%number content objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content object %objectname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object &apos;%objectname&apos; has been modified since installation. Are you sure you want to remove it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object &apos;%objectname&apos; has %childrencount sub-item(s) that will be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove object and its sub-item(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extension &apos;%extensionname&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package contains an invalid extension name: %extensionname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extension &apos;%extensionname&apos; already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Install script: %description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Site access mapping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top node placements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content object import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select parent nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must assign all nodes to new parent nodes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Packages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Install</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uninstall</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package %packagename already exists, cannot import the package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The package name %packagename is invalid, cannot import the package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/pdf</name>
+    <message>
+        <source>An export with such filename already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Export</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/pdfexport</name>
+    <message>
+        <source>New PDF Export</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/role</name>
+    <message>
+        <source>Limit on section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new policy, step 2: select function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new policy, step three: set function limitations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new policy, step two: select function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new policy, step one: select module</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Role list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Editing policy</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/role/edit</name>
+    <message>
+        <source>Copy of %rolename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New role</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/rss</name>
+    <message>
+        <source>New RSS Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New RSS Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Really Simple Syndication</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/rss/edit_export</name>
+    <message>
+        <source>Selected class does not exist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid selection for title class %1 does not have attribute &quot;%2&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid selection for description class %1 does not have attribute &quot;%2&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid selection for category class %1 does not have attribute &quot;%2&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/search</name>
+    <message>
+        <source>Search stats</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/section</name>
+    <message>
+        <source>Sections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New section</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/setup</name>
+    <message>
+        <source>Cache admin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Datatype wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extension configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rapid Application Development</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Session admin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setup menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File %1 does not exist. You should copy it from the recent eZ Publish distribution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System Upgrade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template operator wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/shop</name>
+    <message>
+        <source>Order status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undefined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VAT type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Order list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basket</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checkout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;Autorates&apos; were retrieved successfully</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown body format in HTTP response. Expected &apos;text/xml&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid HTTP response</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to send http request: %1:%2/%3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>eZExchangeRatesUpdateHandler: you should reimplement &apos;requestRates&apos; method</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;Auto&apos; prices were updated successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;Auto&apos; rates were updated successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to calculate cross-rate for currency-pair &apos;%1&apos;/&apos;%2&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to determine currency for retrieved rates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retrieved empty list of rates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to create handler to update auto rates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The confirm order operation was canceled. Try to checkout again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changes were stored successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available currency list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Customer list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Customer order view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discount group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any class</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>in sections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>in any section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Products</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any product</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group view of discount rule</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Editing rule</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit currency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new currency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;%value&apos; is not a valid custom rate value (positive number expected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;%value&apos; is not a valid rate_factor value (positive number expected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error checking out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to calculate VAT percentage because your country is unknown. You can either fill country manually in your account information (if you are a registered user) or contact site administrator.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Statistics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Order #%order_id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preferred currency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Products overview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter account information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New order status was successfully added.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changes to order status were successfully stored.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selected order statuses were successfully removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Internal orders cannot be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VAT types</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wishlist</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/shop/classes/ezcurrencydata</name>
+    <message>
+        <source>Invalid characters in currency code.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currency already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown error.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/shop/discountgroup</name>
+    <message>
+        <source>New discount group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Discount Rule</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/shop/editvatrule</name>
+    <message>
+        <source>Invalid data entered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose a country.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose a VAT type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Conflicting rule</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default rule for any country already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rule not found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit VAT charging rule</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new VAT charging rule</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/shop/productcategories</name>
+    <message>
+        <source>Product category</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Empty category names are not allowed (corrected).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product categories</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/shop/vatrules</name>
+    <message>
+        <source>No default rule found. Please add rule having &quot;Any&quot; country and &quot;Any&quot; category.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VAT rules</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/shop/vattype</name>
+    <message>
+        <source>Empty VAT type names are not allowed (corrected).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrong VAT percentage (corrected).</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/state</name>
+    <message>
+        <source>State</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group edit</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/state/edit</name>
+    <message>
+        <source>Identifier: input required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: invalid, it can only consist of characters in the range a-z, 0-9 and underscore.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: invalid, maximum %max characters allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: a content object state group with this identifier already exists, please give another identifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%language_name: this language is the default but neither name or description were provided for this language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations: you need to add at least one localization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations: there are multiple localizations but you did not specify which is the default one</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: identifiers starting with &quot;ez&quot; are reserved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name in %language_name is too long. Maximum 45 characters allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name in %language_name: input required</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/trigger</name>
+    <message>
+        <source>Trigger</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/url</name>
+    <message>
+        <source>URL edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/user</name>
+    <message>
+        <source>User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forgot password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/user/register</name>
+    <message>
+        <source>Registration info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New user registered</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/workflow</name>
+    <message>
+        <source>You have to have at least one group that the workflow belongs to!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit workflow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workflow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit workflow group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workflow group list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workflow list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Process list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workflow list of group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/workflow/edit</name>
+    <message>
+        <source>New Workflow</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/workflow/event</name>
+    <message>
+        <source>Event</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multiplexer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Payment Gateway</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Simple shipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wait until date</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/workflow/group</name>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/workflow/groupedit</name>
+    <message>
+        <source>New WorkflowGroup</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>lib/ezpdf/classes</name>
+    <message>
+        <source>Contents</source>
+        <comment>Table of contents</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Index</source>
+        <comment>Keyword index name</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>lib/eztemplate</name>
+    <message>
+        <source>Some template errors occurred, see debug for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>lib/template</name>
+    <message>
+        <source>The maximum nesting level of %max has been reached. The execution is stopped to avoid infinite recursion.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>pdf/edit</name>
+    <message>
+        <source>PDF Export</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>settings/edit</name>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>settings/view</name>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>shop</name>
+    <message>
+        <source>Remove orders</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>simplified_treemenu/show_simplified_menu</name>

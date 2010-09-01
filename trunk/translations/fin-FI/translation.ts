@@ -1,4 +1,6 @@
-<!DOCTYPE TS><TS>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0">
 <context>
     <name>contentstructuremenu/show_content_structure</name>
     <message>
@@ -357,10 +359,6 @@
         <translation>&lt;%datatype_name&gt; tietotyyppiä ei voida käyttää tiedonkeräämiseen.</translation>
     </message>
     <message>
-        <source>Edit &lt;%class_name&gt; (%object_count)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Description</source>
         <translation type="unfinished">Kuvaus</translation>
     </message>
@@ -390,6 +388,14 @@
     </message>
     <message>
         <source>Category</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit &lt;%class_name&gt; (%object_count objects)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The draft of the class definition was successfully stored.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1614,6 +1620,26 @@
     <message>
         <source>No media file is available.</source>
         <translation>Mediatiedosto ei ole saatavilla.</translation>
+    </message>
+    <message>
+        <source>Year</source>
+        <translation type="unfinished">Vuosi</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation type="unfinished">Kuukausi</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation type="unfinished">Päivä</translation>
+    </message>
+    <message>
+        <source>Hour</source>
+        <translation type="unfinished">Tunti</translation>
+    </message>
+    <message>
+        <source>Minute</source>
+        <translation type="unfinished">Minuutti</translation>
     </message>
 </context>
 <context>
@@ -5165,6 +5191,14 @@ Näppäin</translation>
         <source>The lines marked with red contain more than the maximum possible nodes for subtree removal and will not be deleted. You can remove this subtree using the ezsubtreeremove.php script.</source>
         <translation>Punaisella merkityt rivit sisältävät enemmän kuin maksimimäärän mahdollisia solmuja alipuun poistoon eikä niitä poisteta. Voit poistaa tämän alipuun käyttäen ezsubtreeremove.php-skriptillä.</translation>
     </message>
+    <message>
+        <source>Pending sub-object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removal failed because there is pending sub object under the node. Please finish the relevant process then redo the removal.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/node/view</name>
@@ -5911,10 +5945,6 @@ Näppäin</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tab is disabled, enable on dashboard.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Translations (%count)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5940,22 +5970,14 @@ Näppäin</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished">Luo</translation>
+        <translation type="obsolete">Luo</translation>
     </message>
     <message>
         <source>in</source>
-        <translation type="unfinished">sisään</translation>
-    </message>
-    <message>
-        <source>Here</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">sisään</translation>
     </message>
     <message>
         <source>Published order</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>List of sub items of current node, with controlls to edit, remove and move them directly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6028,6 +6050,90 @@ Näppäin</translation>
     </message>
     <message>
         <source>Language list of translations for current object.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tab is disabled, enable with toggler to the left of these tabs.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show simplified view of content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ordering</source>
+        <translation type="unfinished">Tilaaminen</translation>
+    </message>
+    <message>
+        <source>Show published ordering overview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Node remote ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object remote ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of items per page:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visible table columns:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished">Valitse</translation>
+    </message>
+    <message>
+        <source>Select all visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select none</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new</source>
+        <translation type="unfinished">Luo uusi</translation>
+    </message>
+    <message>
+        <source>More actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use the checkboxes to select one or more items.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>prev</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>last</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6651,27 +6757,27 @@ Huomio: Pakettien asetuksia ei poisteta.</translation>
     </message>
     <message>
         <source>Content structure</source>
-        <translation type="obsolete">Sisältörakenne</translation>
+        <translation type="unfinished">Sisältörakenne</translation>
     </message>
     <message>
         <source>Media library</source>
-        <translation type="obsolete">Mediakirjasto</translation>
+        <translation type="unfinished">Mediakirjasto</translation>
     </message>
     <message>
         <source>User accounts</source>
-        <translation type="obsolete">Käyttäjätilit</translation>
+        <translation type="unfinished">Käyttäjätilit</translation>
     </message>
     <message>
         <source>Webshop</source>
-        <translation type="obsolete">Verkkokauppa</translation>
+        <translation type="unfinished">Verkkokauppa</translation>
     </message>
     <message>
         <source>Setup</source>
-        <translation type="obsolete">Asetukset</translation>
+        <translation type="unfinished">Asetukset</translation>
     </message>
     <message>
         <source>Design</source>
-        <translation type="obsolete">Ulkoasu</translation>
+        <translation type="unfinished">Ulkoasu</translation>
     </message>
     <message>
         <source>My account</source>
@@ -6715,31 +6821,31 @@ Huomio: Pakettien asetuksia ei poisteta.</translation>
     </message>
     <message>
         <source>Manage the main content structure of the site.</source>
-        <translation type="obsolete">Hallitse sivun pääsisältörakennetta.</translation>
+        <translation type="unfinished">Hallitse sivun pääsisältörakennetta.</translation>
     </message>
     <message>
         <source>Manage images, files, documents, etc.</source>
-        <translation type="obsolete">Hallitse kuvia, tiedostoja, asiakirjoja jne.</translation>
+        <translation type="unfinished">Hallitse kuvia, tiedostoja, asiakirjoja jne.</translation>
     </message>
     <message>
         <source>Manage users, user groups and permission settings.</source>
-        <translation type="obsolete">Hallitse käyttäjiä, käyttäjäryhmiä ja sallimisasetuksia.</translation>
+        <translation type="unfinished">Hallitse käyttäjiä, käyttäjäryhmiä ja sallimisasetuksia.</translation>
     </message>
     <message>
         <source>Manage customers, orders, discounts and VAT types; view sales statistics.</source>
-        <translation type="obsolete">Hallitse asiakkaita, tilauksia, alennuksia ja ALV-tyyppejä; selaa myyntistatistiikkaa.</translation>
+        <translation type="unfinished">Hallitse asiakkaita, tilauksia, alennuksia ja ALV-tyyppejä; selaa myyntistatistiikkaa.</translation>
     </message>
     <message>
         <source>Manage templates, menus, toolbars and other things related to appearence.</source>
-        <translation type="obsolete">Hallitse malleja, valikoita, työkalupalkkeja ja muita ulkoasuun liittyviä seikkoja.</translation>
+        <translation type="unfinished">Hallitse malleja, valikoita, työkalupalkkeja ja muita ulkoasuun liittyviä seikkoja.</translation>
     </message>
     <message>
         <source>Configure settings and manage advanced functionality.</source>
-        <translation type="obsolete">Määritä asetukset ja hallitse edistyneitä toimintoja.</translation>
+        <translation type="unfinished">Määritä asetukset ja hallitse edistyneitä toimintoja.</translation>
     </message>
     <message>
         <source>Manage items and settings that belong to your account.</source>
-        <translation type="obsolete">Hallitse kohteita ja käyttäjätiliisi kuuluvia kohteita.</translation>
+        <translation type="unfinished">Hallitse kohteita ja käyttäjätiliisi kuuluvia kohteita.</translation>
     </message>
     <message>
         <source>Change password for &lt;%username&gt;.</source>
@@ -6822,7 +6928,11 @@ Huomio: Pakettien asetuksia ei poisteta.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>User perferences</source>
+        <source>Dashboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User preferences</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7017,15 +7127,19 @@ Huomio: Pakettien asetuksia ei poisteta.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preview tab</source>
+        <source>Enable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Disable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
+        <source>Disable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
+        <source>Enable &amp;quot;Tabs&amp;quot; by default while browsing content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable &amp;quot;Tabs&amp;quot; by default while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7591,6 +7705,14 @@ Rapid Application Development (sovelluksen nopea tuottaminen)</translation>
         <source>New translation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Sitemap for subtree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/preview/article</name>
@@ -7643,6 +7765,10 @@ Rapid Application Development (sovelluksen nopea tuottaminen)</translation>
     <message>
         <source>Your email address</source>
         <translation>Sähköpostiosoitteesi</translation>
+    </message>
+    <message>
+        <source>Your name</source>
+        <translation type="unfinished">Nimesi</translation>
     </message>
 </context>
 <context>
@@ -8988,6 +9114,26 @@ Rapid Application Development (sovelluksen nopea tuottaminen)</translation>
         <source>Navigation part</source>
         <translation>Navigointiosa</translation>
     </message>
+    <message>
+        <source>Identifier can not be empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier should consist of letters, numbers or &apos;_&apos; with letter prefix.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The identifier has been used in another section.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section edit error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation type="unfinished">Tunniste</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/section/list</name>
@@ -9058,6 +9204,10 @@ Rapid Application Development (sovelluksen nopea tuottaminen)</translation>
     <message>
         <source>Assign a subtree to the &lt;%section_name&gt; section.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation type="unfinished">Tunniste</translation>
     </message>
 </context>
 <context>
@@ -9141,6 +9291,10 @@ Rapid Application Development (sovelluksen nopea tuottaminen)</translation>
     <message>
         <source>Assign subtree of objects to this section</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation type="unfinished">Tunniste</translation>
     </message>
 </context>
 <context>
@@ -9557,7 +9711,7 @@ Rapid Application Development (sovelluksen nopea tuottaminen)</translation>
     </message>
     <message>
         <source></source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -9619,7 +9773,15 @@ Rapid Application Development (sovelluksen nopea tuottaminen)</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished">Aktiivinen</translation>
+        <translation type="obsolete">Aktiivinen</translation>
+    </message>
+    <message>
+        <source>Activate or deactivate extension. Use the &quot;Update&quot; button to apply the changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished">Päivitä</translation>
     </message>
 </context>
 <context>
@@ -9810,7 +9972,7 @@ Tietokannan uudelleenyrityksien määrä</translation>
     <message>
         <source>SVN revision</source>
         <comment>eZ Publish version</comment>
-        <translation>SVN-tarkistus</translation>
+        <translation type="obsolete">SVN-tarkistus</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -10207,10 +10369,6 @@ Tietokannan uudelleenyrityksien määrä</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your alternatives are to:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10224,6 +10382,10 @@ Tietokannan uudelleenyrityksien määrä</translation>
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The operation was cut short in order to avoid execution timeout.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10999,7 +11161,7 @@ Tietokannan uudelleenyrityksien määrä</translation>
     </message>
     <message>
         <source>New discount rule</source>
-        <translation type="obsolete">Uusi alennussääntö</translation>
+        <translation type="unfinished">Uusi alennussääntö</translation>
     </message>
     <message>
         <source>Product types</source>
@@ -12033,15 +12195,15 @@ Tietokannan uudelleenyrityksien määrä</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save changes to this states.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation type="unfinished">Peruuta</translation>
     </message>
     <message>
         <source>Cancel saving any changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save changes to this state.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14219,6 +14381,29 @@ käyttäjätilisi.</translation>
     </message>
 </context>
 <context>
+    <name>design/ezwebin/content/datatype</name>
+    <message>
+        <source>Year</source>
+        <translation type="obsolete">Vuosi</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation type="obsolete">Kuukausi</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation type="obsolete">Päivä</translation>
+    </message>
+    <message>
+        <source>Hour</source>
+        <translation type="obsolete">Tunti</translation>
+    </message>
+    <message>
+        <source>Minute</source>
+        <translation type="obsolete">Minuutti</translation>
+    </message>
+</context>
+<context>
     <name>design/plain/layout</name>
     <message>
         <source>Advanced search</source>
@@ -14899,10 +15084,22 @@ käyttäjätilisi.</translation>
     </message>
     <message>
         <source>seconds(s)</source>
-        <translation>sekunti/sekunnit</translation>
+        <translation type="obsolete">sekunti/sekunnit</translation>
     </message>
     <message>
         <source>Tag preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Html5 Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Html5 Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>second(s)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16377,6 +16574,30 @@ Jos haluat lähettää kommentteja hyväksyjälle tai tarkistaa statuksen, voit 
     </message>
     <message>
         <source>Find objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The related objects will be edited in the same language as this object. If such translations do not exist they will be created, based on the source language of your choice.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation base</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This object is already translated, the existing translation will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This object is not translated, please select the language the new translation will be based on.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your browser does not support html5 video.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your browser does not support html5 audio.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -20785,7 +21006,7 @@ Käyttämällä %operatorname voit...</translation>
     <message>
         <source>SVN revision</source>
         <comment>eZ Publish version</comment>
-        <translation>SVN-palautus</translation>
+        <translation type="obsolete">SVN-palautus</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -21347,23 +21568,23 @@ Oletuskoodi tehtiin valitsemistasi perusparametreistä.</translation>
     </message>
     <message>
         <source>The database would not accept the connection, please review your settings and try again.</source>
-        <translation type="obsolete">Tietokanta ei hyväksynyt yhteyttä. Tarkista asetukset ja kokeile uudelleen.</translation>
+        <translation type="unfinished">Tietokanta ei hyväksynyt yhteyttä. Tarkista asetukset ja kokeile uudelleen.</translation>
     </message>
     <message>
         <source>Password entries did not match.</source>
-        <translation type="obsolete">Annetut salasanat eivät täsmänneet.</translation>
+        <translation type="unfinished">Annetut salasanat eivät täsmänneet.</translation>
     </message>
     <message>
         <source>The selected database was not empty, please choose from the alternatives below.</source>
-        <translation type="obsolete">Valittu tietokanta ei ole tyhjä. Valitse alapuolella olevista vaihtoehdoista.</translation>
+        <translation type="unfinished">Valittu tietokanta ei ole tyhjä. Valitse alapuolella olevista vaihtoehdoista.</translation>
     </message>
     <message>
         <source>Database initalization</source>
-        <translation type="obsolete">Tietokannan alustus</translation>
+        <translation type="unfinished">Tietokannan alustus</translation>
     </message>
     <message>
         <source>Email settings</source>
-        <translation type="obsolete">Sähköpostiasetukset</translation>
+        <translation type="unfinished">Sähköpostiasetukset</translation>
     </message>
     <message>
         <source>Finished</source>
@@ -21371,19 +21592,19 @@ Oletuskoodi tehtiin valitsemistasi perusparametreistä.</translation>
     </message>
     <message>
         <source>Language options</source>
-        <translation type="obsolete">Kieliasetukset</translation>
+        <translation type="unfinished">Kieliasetukset</translation>
     </message>
     <message>
         <source>Registration</source>
-        <translation type="obsolete">Rekisteröinti</translation>
+        <translation type="unfinished">Rekisteröinti</translation>
     </message>
     <message>
         <source>Securing site</source>
-        <translation type="obsolete">Turvaa sivua</translation>
+        <translation type="unfinished">Turvaa sivua</translation>
     </message>
     <message>
         <source>Site access</source>
-        <translation type="obsolete">Sivuyhteys</translation>
+        <translation type="unfinished">Sivuyhteys</translation>
     </message>
     <message>
         <source>Site details</source>
@@ -21391,7 +21612,7 @@ Oletuskoodi tehtiin valitsemistasi perusparametreistä.</translation>
     </message>
     <message>
         <source>Site template selection</source>
-        <translation type="obsolete">Sivun mallivalinta</translation>
+        <translation type="unfinished">Sivun mallivalinta</translation>
     </message>
     <message>
         <source>System check</source>
@@ -21807,7 +22028,7 @@ Korjataksesi ongelman tulee sinun tehdä yksi seuraavista:</translation>
     </message>
     <message>
         <source>Site selection</source>
-        <translation type="obsolete">Sivun valinnat</translation>
+        <translation type="unfinished">Sivun valinnat</translation>
     </message>
     <message>
         <source>You need to fill in the first name.</source>
@@ -21897,11 +22118,11 @@ Nämä asetukset on mahdollista vaihtaa myöhemmin.</translation>
     </message>
     <message>
         <source>Please make sure that the username and the password is correct. Verify that your PostgreSQL database is configured correctly.&lt;br&gt;See the PHP documentation for more information about this.&lt;br&gt;Remember to start postmaster with the -i option.&lt;br&gt;Note that PostgreSQL 7.2 is not supported.</source>
-        <translation type="obsolete">Tarkista, että käyttäjänimi ja salasana ovat oikein. Varmista, että PostgreSQL-tietokantasi on määritetty oikein &lt;br&gt;Katso PHP-dokumentaatiosta lisätietoja tästä aiheesta.&lt;br&gt; Muista aloittaa postmaster-osoite -i-valinnalla. &lt;br&gt; Huomioi, että PostgreSQL 7.2 ei tueta.</translation>
+        <translation type="unfinished">Tarkista, että käyttäjänimi ja salasana ovat oikein. Varmista, että PostgreSQL-tietokantasi on määritetty oikein &lt;br&gt;Katso PHP-dokumentaatiosta lisätietoja tästä aiheesta.&lt;br&gt; Muista aloittaa postmaster-osoite -i-valinnalla. &lt;br&gt; Huomioi, että PostgreSQL 7.2 ei tueta.</translation>
     </message>
     <message>
         <source>Your database version %version does not fit the minimum requirement which is %req_version.</source>
-        <translation type="obsolete">Tietokantasi versio %version ei vastaa minimivaatimuksia, jotka ovat %req_version.</translation>
+        <translation type="unfinished">Tietokantasi versio %version ei vastaa minimivaatimuksia, jotka ovat %req_version.</translation>
     </message>
     <message>
         <source>The setup wizard was not able to complete the creation of your selected sites.</source>
@@ -21934,23 +22155,23 @@ Nämä asetukset on mahdollista vaihtaa myöhemmin.</translation>
     </message>
     <message>
         <source>Cannot write to file</source>
-        <translation type="obsolete">Tiedostoon ei voi kirjoittaa</translation>
+        <translation type="unfinished">Tiedostoon ei voi kirjoittaa</translation>
     </message>
     <message>
         <source>Download of package &apos;%pkg&apos; failed. You may upload the package manually.</source>
-        <translation type="obsolete">Paketin &apos;%pkg&apos; lataus ei onnistunut. Voit ladata paketin manuaalisesti.</translation>
+        <translation type="unfinished">Paketin &apos;%pkg&apos; lataus ei onnistunut. Voit ladata paketin manuaalisesti.</translation>
     </message>
     <message>
         <source>Invalid package</source>
-        <translation type="obsolete">Epäkelpo paketti</translation>
+        <translation type="unfinished">Epäkelpo paketti</translation>
     </message>
     <message>
         <source>No package selected for upload</source>
-        <translation type="obsolete">Ei valittuja paketteja ladattavaksi</translation>
+        <translation type="unfinished">Ei valittuja paketteja ladattavaksi</translation>
     </message>
     <message>
         <source>Failed fetching upload package file</source>
-        <translation type="obsolete">Latauspakettitiedoston hakeminen epäonnistui</translation>
+        <translation type="unfinished">Latauspakettitiedoston hakeminen epäonnistui</translation>
     </message>
     <message>
         <source>Site package</source>
@@ -21974,11 +22195,11 @@ Nämä asetukset on mahdollista vaihtaa myöhemmin.</translation>
     </message>
     <message>
         <source>The database [%database_name] cannot be used, the setup wizard wants to create the site in [%req_charset] but the database has been created using character set [%charset]. You will have to choose a database having support for [%req_charset] or modify [%database_name] .</source>
-        <translation type="obsolete">Tietokantaa [%database_name] ei voi käyttää, asennusapuohjelma haluaa luoda sivun muotoon [%req_charset], mutta tietokanta on luotu käyttäen merkkijärjestelmää [%charset]. Sinun tulee valita tietokanta joka tukee muotoa [%req_charset] tai mukauttaa [%database_name] .</translation>
+        <translation type="unfinished">Tietokantaa [%database_name] ei voi käyttää, asennusapuohjelma haluaa luoda sivun muotoon [%req_charset], mutta tietokanta on luotu käyttäen merkkijärjestelmää [%charset]. Sinun tulee valita tietokanta joka tukee muotoa [%req_charset] tai mukauttaa [%database_name] .</translation>
     </message>
     <message>
         <source>Failed to copy %url to local file %filename</source>
-        <translation type="obsolete">Kopiointi epäonnistui %url paikalliseen tiedostoon %filename</translation>
+        <translation type="unfinished">Kopiointi epäonnistui %url paikalliseen tiedostoon %filename</translation>
     </message>
     <message>
         <source>Access method</source>
@@ -22002,7 +22223,7 @@ Nämä asetukset on mahdollista vaihtaa myöhemmin.</translation>
     </message>
     <message>
         <source>Package &apos;%packageName&apos; and it&apos;s dependencies have been downloaded successfully. Press &apos;Next&apos; to continue.</source>
-        <translation type="obsolete">Paketti &apos;%packageName&apos; ja sen riippuvuudet on ladattu onnistuneesti. Paina &quot;Seuraava&quot; jatkaaksesi.</translation>
+        <translation type="unfinished">Paketti &apos;%packageName&apos; ja sen riippuvuudet on ladattu onnistuneesti. Paina &quot;Seuraava&quot; jatkaaksesi.</translation>
     </message>
     <message>
         <source>Use the radio buttons to choose the default language, and the checkboxes to choose additional languages. You will be able to use any of the selected languages for translating your content. The default language will determine the locale settings and will be used as the most prioritized language for your site.</source>
@@ -22272,31 +22493,31 @@ Tämä toiminto on myös käytettävissä myöhemmin Järjestelmänvalvojan käy
     </message>
     <message>
         <source>The selected user has not got access to any databases. Change user or create a database for the user.</source>
-        <translation type="obsolete">Valitulla käyttäjällä ei ole yhteyksiä mihinkään tietokantaan. Vaihda käyttäjää tai luo tietokanta tälle käyttäjälle.</translation>
+        <translation type="unfinished">Valitulla käyttäjällä ei ole yhteyksiä mihinkään tietokantaan. Vaihda käyttäjää tai luo tietokanta tälle käyttäjälle.</translation>
     </message>
     <message>
         <source>No packages chosen.</source>
-        <translation type="obsolete">Ei valittuja paketteja.</translation>
+        <translation type="unfinished">Ei valittuja paketteja.</translation>
     </message>
     <message>
         <source>No templates chosen.</source>
-        <translation type="obsolete">Ei valittuja malleja.</translation>
+        <translation type="unfinished">Ei valittuja malleja.</translation>
     </message>
     <message>
         <source>Uploaded file is not an eZ Publish package</source>
-        <translation type="obsolete">Ladattu tiedosto ei ole eZ Publish -paketti</translation>
+        <translation type="unfinished">Ladattu tiedosto ei ole eZ Publish -paketti</translation>
     </message>
     <message>
         <source>No site package chosen.</source>
-        <translation type="obsolete">Ei valittua sivupakettia.</translation>
+        <translation type="unfinished">Ei valittua sivupakettia.</translation>
     </message>
     <message>
         <source>Retrieving remote site packages list failed. You may upload packages manually.</source>
-        <translation type="obsolete">Etäsivun pakettejen haku epäonnistui. Voita ladata paketit manuaalisesti.</translation>
+        <translation type="unfinished">Etäsivun pakettejen haku epäonnistui. Voita ladata paketit manuaalisesti.</translation>
     </message>
     <message>
         <source>Welcome to eZ Publish</source>
-        <translation type="obsolete">Tervetuloa eZ Publish:iin</translation>
+        <translation type="unfinished">Tervetuloa eZ Publish:iin</translation>
     </message>
     <message>
         <source>If you think you have fixed the errors you can try then click the &quot;Retry&quot; button.</source>
@@ -22349,7 +22570,7 @@ Tämä toiminto on myös käytettävissä myöhemmin Järjestelmänvalvojan käy
     </message>
     <message>
         <source>The &apos;digest&apos; function is not available in your database, you cannot run eZ Publish without this. See the documentation for more information.</source>
-        <translation type="obsolete">&apos;Kokoelma&apos;-toiminto ei ole käytettävissä tietokannassasi eikä voi suorittaa eZ Publishia ilman tätä. Lisätietoja saat dokumentaatiosta.</translation>
+        <translation type="unfinished">&apos;Kokoelma&apos;-toiminto ei ole käytettävissä tietokannassasi eikä voi suorittaa eZ Publishia ilman tätä. Lisätietoja saat dokumentaatiosta.</translation>
     </message>
     <message>
         <source>MySQL support was detected on your system. Please choose the database driver you would like to use.</source>
@@ -22490,10 +22711,6 @@ Tämä toiminto on myös käytettävissä myöhemmin Järjestelmänvalvojan käy
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your alternatives are to:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22507,6 +22724,14 @@ Tämä toiminto on myös käytettävissä myöhemmin Järjestelmänvalvojan käy
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The operation was cut short in order to avoid execution timeout.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your current session handler does not support session administration.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -24046,7 +24271,7 @@ Tehdäksesi tämän, tulee sinun vaihtaa %chown -komennot Alternative shell -kom
     <name>design/standard/toolbar</name>
     <message>
         <source>Toolbar management</source>
-        <translation type="obsolete">Työkalupalkin hallinta</translation>
+        <translation type="unfinished">Työkalupalkin hallinta</translation>
     </message>
     <message>
         <source>There are %logged_in_count registered and %anonymous_count anonymous users online.</source>
@@ -24516,7 +24741,7 @@ Tehdäksesi tämän, tulee sinun vaihtaa %chown -komennot Alternative shell -kom
     </message>
     <message>
         <source>The node (%1) specified in [UserSettings].DefaultUserPlacement setting in site.ini does not exist!</source>
-        <translation type="obsolete">Solmu (%1), joka on määriteltynä [UserSettings].DefaultUserPlacement asetuksessa site.ini-tiedostossa ei ole olemassa!</translation>
+        <translation type="unfinished">Solmu (%1), joka on määriteltynä [UserSettings].DefaultUserPlacement asetuksessa site.ini-tiedostossa ei ole olemassa!</translation>
     </message>
     <message>
         <source>Email</source>
@@ -25381,78 +25606,98 @@ tilisi.</translation>
     <name>kernel/cache</name>
     <message>
         <source>Content view cache</source>
-        <translation type="obsolete">Sisältönäkymän välimuisti</translation>
+        <translation type="unfinished">Sisältönäkymän välimuisti</translation>
     </message>
     <message>
         <source>Global INI cache</source>
-        <translation type="obsolete">Yleinen INI-välimuisti</translation>
+        <translation type="unfinished">Yleinen INI-välimuisti</translation>
     </message>
     <message>
         <source>INI cache</source>
-        <translation type="obsolete">INI-välimuisti</translation>
+        <translation type="unfinished">INI-välimuisti</translation>
     </message>
     <message>
         <source>Codepage cache</source>
-        <translation type="obsolete">Koodisivun välimuisti</translation>
+        <translation type="unfinished">Koodisivun välimuisti</translation>
     </message>
     <message>
         <source>Class identifier cache</source>
-        <translation type="obsolete">Luokanmäärittimen välimuisti</translation>
+        <translation type="unfinished">Luokanmäärittimen välimuisti</translation>
     </message>
     <message>
         <source>Sort key cache</source>
-        <translation type="obsolete">Lajitteluavaimen välimuisti</translation>
+        <translation type="unfinished">Lajitteluavaimen välimuisti</translation>
     </message>
     <message>
         <source>URL alias cache</source>
-        <translation type="obsolete">URL-aliaksen välimuisti</translation>
+        <translation type="unfinished">URL-aliaksen välimuisti</translation>
     </message>
     <message>
         <source>Image alias</source>
-        <translation type="obsolete">Kuva-alias</translation>
+        <translation type="unfinished">Kuva-alias</translation>
     </message>
     <message>
         <source>Template cache</source>
-        <translation type="obsolete">Mallivälimuisti</translation>
+        <translation type="unfinished">Mallivälimuisti</translation>
     </message>
     <message>
         <source>Template block cache</source>
-        <translation type="obsolete">Mallineston välimuisti</translation>
+        <translation type="unfinished">Mallineston välimuisti</translation>
     </message>
     <message>
         <source>Template override cache</source>
-        <translation type="obsolete">Mallikorvaajan välimuisti</translation>
+        <translation type="unfinished">Mallikorvaajan välimuisti</translation>
     </message>
     <message>
         <source>RSS cache</source>
-        <translation type="obsolete">RSS-välimuisti</translation>
+        <translation type="unfinished">RSS-välimuisti</translation>
     </message>
     <message>
         <source>Character transformation cache</source>
-        <translation type="obsolete">Merkkimuuttuja-välimuisti</translation>
+        <translation type="unfinished">Merkkimuuttuja-välimuisti</translation>
     </message>
     <message>
         <source>User info cache</source>
-        <translation type="obsolete">Käyttäjätiedon välimuisti</translation>
+        <translation type="unfinished">Käyttäjätiedon välimuisti</translation>
     </message>
     <message>
         <source>Content tree menu (browser cache)</source>
-        <translation type="obsolete">Sisältöpuuvalikko (selain välimuisti)</translation>
+        <translation type="unfinished">Sisältöpuuvalikko (selain välimuisti)</translation>
+    </message>
+    <message>
+        <source>Text to image cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>State limitations cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Design base cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Active extensions cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TS Translation cache</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/class</name>
     <message>
         <source>Class list of group</source>
-        <translation type="obsolete">Ryhmän luokkaryhmä</translation>
+        <translation type="unfinished">Ryhmän luokkaryhmä</translation>
     </message>
     <message>
         <source>Class group list</source>
-        <translation type="obsolete">Luokkaryhmälista</translation>
+        <translation type="unfinished">Luokkaryhmälista</translation>
     </message>
     <message>
         <source>Remove class</source>
-        <translation type="obsolete">Poista luokka</translation>
+        <translation type="unfinished">Poista luokka</translation>
     </message>
     <message>
         <source>Class edit</source>
@@ -25464,973 +25709,1018 @@ tilisi.</translation>
     </message>
     <message>
         <source>Class list</source>
-        <translation type="obsolete">Luokkalista</translation>
+        <translation type="unfinished">Luokkalista</translation>
     </message>
     <message>
         <source>(no classes)</source>
-        <translation type="obsolete">(ei luokkia)</translation>
+        <translation type="unfinished">(ei luokkia)</translation>
     </message>
     <message>
         <source>Remove class groups</source>
-        <translation type="obsolete">Poista luokkaryhmät</translation>
+        <translation type="unfinished">Poista luokkaryhmät</translation>
     </message>
     <message>
         <source>You have to have at least one group that the class belongs to!</source>
-        <translation type="obsolete">Sinulla tulee olla vähintään yksi ryhmä, johon luokka kuuluu!</translation>
+        <translation type="unfinished">Sinulla tulee olla vähintään yksi ryhmä, johon luokka kuuluu!</translation>
     </message>
     <message>
         <source>Remove classes %class_id</source>
-        <translation type="obsolete">Poista luokat %class_id</translation>
+        <translation type="unfinished">Poista luokat %class_id</translation>
     </message>
     <message>
         <source>Copy of %class_name</source>
-        <translation type="obsolete">Kopio %class_name</translation>
+        <translation type="unfinished">Kopio %class_name</translation>
     </message>
     <message>
         <source>The class should have nonempty &apos;Name&apos; attribute.</source>
-        <translation type="obsolete">Luokan tulee sisältää ei-tyhjän &quot;Nimi&quot;-määritteen.</translation>
+        <translation type="unfinished">Luokan tulee sisältää ei-tyhjän &quot;Nimi&quot;-määritteen.</translation>
     </message>
     <message>
         <source>The class should have at least one attribute.</source>
-        <translation type="obsolete">Luokan tulee sisältää vähintään yksi määrite.</translation>
+        <translation type="unfinished">Luokan tulee sisältää vähintään yksi määrite.</translation>
     </message>
     <message>
         <source>There is a class already having the same identifier.</source>
-        <translation type="obsolete">Tällä luokalla on jo sama tunniste.</translation>
+        <translation type="unfinished">Tällä luokalla on jo sama tunniste.</translation>
     </message>
     <message>
         <source>Remove translation</source>
-        <translation type="obsolete">Poista käännös</translation>
+        <translation type="unfinished">Poista käännös</translation>
     </message>
     <message>
         <source>Could not load datatype: </source>
-        <translation type="obsolete">Tietotyyppiä ei voitu ladata:</translation>
+        <translation type="unfinished">Tietotyyppiä ei voitu ladata:</translation>
     </message>
     <message>
         <source>Editing this content class may cause data corruption in your system.</source>
-        <translation type="obsolete">Tämän sisältöluokan muokkaaminen voi johtaa tietojen korruptoitumiseen järjestelmässä.</translation>
+        <translation type="unfinished">Tämän sisältöluokan muokkaaminen voi johtaa tietojen korruptoitumiseen järjestelmässä.</translation>
     </message>
     <message>
         <source>duplicate attribute placement</source>
-        <translation type="obsolete">kaksoismääritteen sijoitus</translation>
+        <translation type="unfinished">kaksoismääritteen sijoitus</translation>
     </message>
     <message>
         <source>duplicate attribute identifier</source>
-        <translation type="obsolete">kaksoismääritteen tunniste</translation>
+        <translation type="unfinished">kaksoismääritteen tunniste</translation>
     </message>
     <message>
         <source>Press &quot;Cancel&quot; to safely exit this operation.</source>
-        <translation type="obsolete">Napsauta &quot;Peruuta&quot; poistuaksesi turvallisesti tästä toimenpiteestä.</translation>
+        <translation type="unfinished">Napsauta &quot;Peruuta&quot; poistuaksesi turvallisesti tästä toimenpiteestä.</translation>
     </message>
     <message>
         <source>Please contact your eZ Publish administrator to solve this problem.</source>
-        <translation type="obsolete">Ota yhteyttä eZ Publish-järjestelmänhallitsijaasi korjataksesi tämän ongelman.</translation>
+        <translation type="unfinished">Ota yhteyttä eZ Publish-järjestelmänhallitsijaasi korjataksesi tämän ongelman.</translation>
+    </message>
+    <message>
+        <source>Class groups</source>
+        <translation type="unfinished">Luokkaryhmät</translation>
+    </message>
+    <message>
+        <source>Remove classes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/class/edit</name>
     <message>
         <source>New Class</source>
-        <translation type="obsolete">Uusi luokka</translation>
+        <translation type="unfinished">Uusi luokka</translation>
     </message>
     <message>
         <source>new attribute</source>
-        <translation type="obsolete">uusi määrite</translation>
+        <translation type="unfinished">uusi määrite</translation>
     </message>
 </context>
 <context>
     <name>kernel/class/groupedit</name>
     <message>
         <source>New Group</source>
-        <translation type="obsolete">Uusi ryhmä</translation>
+        <translation type="unfinished">Uusi ryhmä</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes</name>
     <message>
         <source>Approval</source>
-        <translation type="obsolete">Hyväksyntä</translation>
+        <translation type="unfinished">Hyväksyntä</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="obsolete">Standardi</translation>
+        <translation type="unfinished">Standardi</translation>
     </message>
     <message>
         <source>Observer</source>
-        <translation type="obsolete">Tarkkailija</translation>
+        <translation type="unfinished">Tarkkailija</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="obsolete">Omistaja</translation>
+        <translation type="unfinished">Omistaja</translation>
     </message>
     <message>
         <source>Approver</source>
-        <translation type="obsolete">Hyväksyjä</translation>
+        <translation type="unfinished">Hyväksyjä</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation type="obsolete">Tekijä</translation>
+        <translation type="unfinished">Tekijä</translation>
     </message>
     <message>
         <source>Inbox</source>
-        <translation type="obsolete">Saapuneet</translation>
+        <translation type="unfinished">Saapuneet</translation>
     </message>
     <message>
         <source>No state yet</source>
-        <translation type="obsolete">Ei tilaa vielä</translation>
+        <translation type="unfinished">Ei tilaa vielä</translation>
     </message>
     <message>
         <source>Workflow running</source>
-        <translation type="obsolete">Työprosessi käynnissä</translation>
+        <translation type="unfinished">Työprosessi käynnissä</translation>
     </message>
     <message>
         <source>Workflow done</source>
-        <translation type="obsolete">Työprosessi on valmis</translation>
+        <translation type="unfinished">Työprosessi on valmis</translation>
     </message>
     <message>
         <source>Workflow failed an event</source>
-        <translation type="obsolete">Työprosessi epäonnistui tapahtumassa</translation>
+        <translation type="unfinished">Työprosessi epäonnistui tapahtumassa</translation>
     </message>
     <message>
         <source>Workflow event deferred to cron job</source>
-        <translation type="obsolete">Työprosessitapahtumaa lykättiin cron-prosessia varten</translation>
+        <translation type="unfinished">Työprosessitapahtumaa lykättiin cron-prosessia varten</translation>
     </message>
     <message>
         <source>Workflow was reset for reuse</source>
-        <translation type="obsolete">Työprosessi nollattiin uudelleenkäyttöä varten</translation>
+        <translation type="unfinished">Työprosessi nollattiin uudelleenkäyttöä varten</translation>
     </message>
     <message>
         <source>Accepted event</source>
-        <translation type="obsolete">Hyväksytty tapahtuma</translation>
+        <translation type="unfinished">Hyväksytty tapahtuma</translation>
     </message>
     <message>
         <source>Rejected event</source>
-        <translation type="obsolete">Hylätty tapahtuma</translation>
+        <translation type="unfinished">Hylätty tapahtuma</translation>
     </message>
     <message>
         <source>Event deferred to cron job</source>
-        <translation type="obsolete">Tapahtuma lykättiin cron-prosessia varten</translation>
+        <translation type="unfinished">Tapahtuma lykättiin cron-prosessia varten</translation>
     </message>
     <message>
         <source>Event deferred to cron job, event will be rerun</source>
-        <translation type="obsolete">Tapahtuma lykättiin cron-prosessia varten, tapahtuma ajetaan uudelleen</translation>
+        <translation type="unfinished">Tapahtuma lykättiin cron-prosessia varten, tapahtuma ajetaan uudelleen</translation>
     </message>
     <message>
         <source>Event runs a sub event</source>
-        <translation type="obsolete">Tapahtuma ajetaan alitapahtumana</translation>
+        <translation type="unfinished">Tapahtuma ajetaan alitapahtumana</translation>
     </message>
     <message>
         <source>Workflow fetches template</source>
-        <translation type="obsolete">Työprosessi hakee mallin</translation>
+        <translation type="unfinished">Työprosessi hakee mallin</translation>
     </message>
     <message>
         <source>Workflow redirects user view</source>
-        <translation type="obsolete">Työprosessi uudelleennohjaa käyttäjänäkymän</translation>
+        <translation type="unfinished">Työprosessi uudelleennohjaa käyttäjänäkymän</translation>
     </message>
     <message>
         <source>New RSS Export</source>
-        <translation type="obsolete">Uusi RSS-vienti</translation>
+        <translation type="unfinished">Uusi RSS-vienti</translation>
     </message>
     <message>
         <source>Workflow was canceled</source>
-        <translation type="obsolete">Työprosessi peruttiin</translation>
+        <translation type="unfinished">Työprosessi peruttiin</translation>
     </message>
     <message>
         <source>Canceled whole workflow</source>
-        <translation type="obsolete">Koko työprosessi peruutettiin</translation>
+        <translation type="unfinished">Koko työprosessi peruutettiin</translation>
     </message>
     <message>
         <source>Keep existing and create a new one</source>
-        <translation type="obsolete">Pidä olemassaoleva ja luo uusi</translation>
+        <translation type="unfinished">Pidä olemassaoleva ja luo uusi</translation>
+    </message>
+    <message>
+        <source>Replace existing object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update existing object</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes</name>
     <message>
         <source>Missing date input.</source>
-        <translation type="obsolete">Päivämäärän syöte puuttuu.</translation>
+        <translation type="unfinished">Päivämäärän syöte puuttuu.</translation>
     </message>
     <message>
         <source>Missing datetime input.</source>
-        <translation type="obsolete">Päiväyksen syöte puuttuu.</translation>
+        <translation type="unfinished">Päiväyksen syöte puuttuu.</translation>
     </message>
     <message>
         <source>At least one author is required.</source>
-        <translation type="obsolete">Vaaditaan ainakin yksi tekijä.</translation>
+        <translation type="unfinished">Vaaditaan ainakin yksi tekijä.</translation>
     </message>
     <message>
         <source>A valid file is required.</source>
-        <translation type="obsolete">Vaaditaan kelvollinen tiedosto.</translation>
+        <translation type="unfinished">Vaaditaan kelvollinen tiedosto.</translation>
     </message>
     <message>
         <source>Checkbox</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Valintalaatikko</translation>
+        <translation type="unfinished">Valintalaatikko</translation>
     </message>
     <message>
         <source>Email</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Sähköposti</translation>
+        <translation type="unfinished">Sähköposti</translation>
     </message>
     <message>
         <source>Enum</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Enum</translation>
+        <translation type="unfinished">Enum</translation>
     </message>
     <message>
         <source>At least one field should be chosen.</source>
-        <translation type="obsolete">Ainakin yksi kenttä tulee valita.</translation>
+        <translation type="unfinished">Ainakin yksi kenttä tulee valita.</translation>
     </message>
     <message>
         <source>Float</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Liukuluku</translation>
+        <translation type="unfinished">Liukuluku</translation>
     </message>
     <message>
         <source>Image</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Kuva</translation>
+        <translation type="unfinished">Kuva</translation>
     </message>
     <message>
         <source>Integer</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Kokonaisluku</translation>
+        <translation type="unfinished">Kokonaisluku</translation>
     </message>
     <message>
         <source>ISBN</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">ISBN</translation>
+        <translation type="unfinished">ISBN</translation>
     </message>
     <message>
         <source>Matrix</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Matriisi</translation>
+        <translation type="unfinished">Matriisi</translation>
     </message>
     <message>
         <source>Media</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Media</translation>
+        <translation type="unfinished">Media</translation>
     </message>
     <message>
         <source>Object relation</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Objektien suhteet</translation>
+        <translation type="unfinished">Objektien suhteet</translation>
     </message>
     <message>
         <source>Option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Asetus</translation>
+        <translation type="unfinished">Asetus</translation>
     </message>
     <message>
         <source>At least one option is required.</source>
-        <translation type="obsolete">Ainakin yksi asetus vaaditaan.</translation>
+        <translation type="unfinished">Ainakin yksi asetus vaaditaan.</translation>
     </message>
     <message>
         <source>Price</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Hinta</translation>
+        <translation type="unfinished">Hinta</translation>
     </message>
     <message>
         <source>Add to basket</source>
-        <translation type="obsolete">Lisää koriin</translation>
+        <translation type="unfinished">Lisää koriin</translation>
     </message>
     <message>
         <source>Add to wish list</source>
-        <translation type="obsolete">Lisää toivomuslistaan</translation>
+        <translation type="unfinished">Lisää toivomuslistaan</translation>
     </message>
     <message>
         <source>Range option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Väliasetus</translation>
+        <translation type="unfinished">Väliasetus</translation>
     </message>
     <message>
         <source>Selection</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Valinta</translation>
+        <translation type="unfinished">Valinta</translation>
     </message>
     <message>
         <source>Text line</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Teksti</translation>
+        <translation type="unfinished">Teksti</translation>
     </message>
     <message>
         <source>Subtree subscription</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Alipuun tilaus</translation>
+        <translation type="unfinished">Alipuun tilaus</translation>
     </message>
     <message>
         <source>URL</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">URL</translation>
+        <translation type="unfinished">URL</translation>
     </message>
     <message>
         <source>User account</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Käyttäjätili</translation>
+        <translation type="unfinished">Käyttäjätili</translation>
     </message>
     <message>
         <source>A user with this email already exists.</source>
-        <translation type="obsolete">Tälle sähköpostille on jo olemassa käyttäjä.</translation>
+        <translation type="unfinished">Tälle sähköpostille on jo olemassa käyttäjä.</translation>
     </message>
     <message>
         <source>Identifier</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Tunniste</translation>
+        <translation type="unfinished">Tunniste</translation>
     </message>
     <message>
         <source>image</source>
         <comment>Default image name</comment>
-        <translation type="obsolete">kuva</translation>
+        <translation type="unfinished">kuva</translation>
     </message>
     <message>
         <source>Ini Setting</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Ini-asetus</translation>
+        <translation type="unfinished">Ini-asetus</translation>
     </message>
     <message>
         <source>Package</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Paketti</translation>
+        <translation type="unfinished">Paketti</translation>
     </message>
     <message>
         <source>Send</source>
         <comment>Datatype information collector action</comment>
-        <translation type="obsolete">Lähetä</translation>
+        <translation type="unfinished">Lähetä</translation>
     </message>
     <message>
         <source>Content required</source>
-        <translation type="obsolete">Sisältö vaadittu</translation>
+        <translation type="unfinished">Sisältö vaadittu</translation>
     </message>
     <message>
         <source>Missing objectrelation input.</source>
-        <translation type="obsolete">Puuttuva objektisuhdesyöte.</translation>
+        <translation type="unfinished">Puuttuva objektisuhdesyöte.</translation>
     </message>
     <message>
         <source>Invalid time.</source>
-        <translation type="obsolete">Epäkelpo aika.</translation>
+        <translation type="unfinished">Epäkelpo aika.</translation>
     </message>
     <message>
         <source>The author name must be provided.</source>
-        <translation type="obsolete">Tekijän nimi vaaditaan.</translation>
+        <translation type="unfinished">Tekijän nimi vaaditaan.</translation>
     </message>
     <message>
         <source>The email address is not valid.</source>
-        <translation type="obsolete">Sähköpostiosoite ei ole kelvollinen.</translation>
+        <translation type="unfinished">Sähköpostiosoite ei ole kelvollinen.</translation>
     </message>
     <message>
         <source>File uploading is not enabled. Please contact the site administrator to enable it.</source>
-        <translation type="obsolete">Tiedoston lataus ei ole käytössä. Ota yhteys sivun ylläpitäjään, jotta saisit sen käyttöön.</translation>
+        <translation type="unfinished">Tiedoston lataus ei ole käytössä. Ota yhteys sivun ylläpitäjään, jotta saisit sen käyttöön.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set by the upload_max_filesize directive in php.ini.</source>
-        <translation type="obsolete">Ladatun tiedoston koko ylittää rajoituksen, joka on asetttu upload_max_filesize käskyssä php.ini-tiedostossa.</translation>
+        <translation type="unfinished">Ladatun tiedoston koko ylittää rajoituksen, joka on asetttu upload_max_filesize käskyssä php.ini-tiedostossa.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the maximum upload size: %1 bytes.</source>
-        <translation type="obsolete">Ladatun tiedoston koko ylittää maksimaalisen latauskoon: %1 tavua.</translation>
+        <translation type="unfinished">Ladatun tiedoston koko ylittää maksimaalisen latauskoon: %1 tavua.</translation>
     </message>
     <message>
         <source>The email address is empty.</source>
-        <translation type="obsolete">Sähköpostiosoite on tyhjä.</translation>
+        <translation type="unfinished">Sähköpostiosoite on tyhjä.</translation>
     </message>
     <message>
         <source>The given input is not a floating point number.</source>
-        <translation type="obsolete">Annettu syöte ei ole liukuluku.</translation>
+        <translation type="unfinished">Annettu syöte ei ole liukuluku.</translation>
     </message>
     <message>
         <source>The input must be greater than %1</source>
-        <translation type="obsolete">Syötteen tulee olla isompi kuin %1</translation>
+        <translation type="unfinished">Syötteen tulee olla isompi kuin %1</translation>
     </message>
     <message>
         <source>The input must be less than %1</source>
-        <translation type="obsolete">Syötteen tulee olla vähemmän kuin %1</translation>
+        <translation type="unfinished">Syötteen tulee olla vähemmän kuin %1</translation>
     </message>
     <message>
         <source>The input is not in defined range %1 - %2</source>
-        <translation type="obsolete">Syöte ei ole määritellyssä arvovälissä %1 - %2</translation>
+        <translation type="unfinished">Syöte ei ole määritellyssä arvovälissä %1 - %2</translation>
     </message>
     <message>
         <source>A valid image file is required.</source>
-        <translation type="obsolete">Kelvollinen kuvatiedosto vaaditaan.</translation>
+        <translation type="unfinished">Kelvollinen kuvatiedosto vaaditaan.</translation>
     </message>
     <message>
         <source>The size of the uploaded image exceeds limit set by upload_max_filesize directive in php.ini. Please contact the site administrator.</source>
-        <translation type="obsolete">Ladatun tiedoston koko ylittää rajoituksen, joka on asetttu upload_max_filesize-käskyssä php.ini-tiedostossa. Ota yhteyttä sivun ylläpitäjään.</translation>
+        <translation type="unfinished">Ladatun tiedoston koko ylittää rajoituksen, joka on asetttu upload_max_filesize-käskyssä php.ini-tiedostossa. Ota yhteyttä sivun ylläpitäjään.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
-        <translation type="obsolete">Ladatun tiedoston koko ylittää rajoituksen, joka on asetttu tälle sivulle: %1 tavua.</translation>
+        <translation type="unfinished">Ladatun tiedoston koko ylittää rajoituksen, joka on asetttu tälle sivulle: %1 tavua.</translation>
     </message>
     <message>
         <source>Could not locate the ini file.</source>
-        <translation type="obsolete">Ei voitu paikantaa ini-tiedostoa.</translation>
+        <translation type="unfinished">Ei voitu paikantaa ini-tiedostoa.</translation>
     </message>
     <message>
         <source>The input is not a valid integer.</source>
-        <translation type="obsolete">Syöte ei ole kelvollinen kokonaisluku.</translation>
+        <translation type="unfinished">Syöte ei ole kelvollinen kokonaisluku.</translation>
     </message>
     <message>
         <source>The number must be greater than %1</source>
-        <translation type="obsolete">Numeron tulee olla suurempi kuin %1</translation>
+        <translation type="unfinished">Numeron tulee olla suurempi kuin %1</translation>
     </message>
     <message>
         <source>The number must be less than %1</source>
-        <translation type="obsolete">Numeron tulee olla pienempi kuin %1</translation>
+        <translation type="unfinished">Numeron tulee olla pienempi kuin %1</translation>
     </message>
     <message>
         <source>The number is not within the required range %1 - %2</source>
-        <translation type="obsolete">Numero ei ole vaaditussa arvovälissä %1 - %2</translation>
+        <translation type="unfinished">Numero ei ole vaaditussa arvovälissä %1 - %2</translation>
     </message>
     <message>
         <source>The ISBN number is not correct. Please check the input for mistakes.</source>
-        <translation type="obsolete">ISBN-numero ei ole oikea. Tarkista syöte virheiden varalta.</translation>
+        <translation type="unfinished">ISBN-numero ei ole oikea. Tarkista syöte virheiden varalta.</translation>
     </message>
     <message>
         <source>A valid media file is required.</source>
-        <translation type="obsolete">Kelvollinen mediatiedosto on vaadittu.</translation>
+        <translation type="unfinished">Kelvollinen mediatiedosto on vaadittu.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set by upload_max_filesize directive in php.ini. Please contact the site administrator.</source>
-        <translation type="obsolete">Ladatun tiedoston koko ylittää rajoituksen, joka on asetttu upload_max_filesize-käskyssä php.ini-tiedostossa. Ota yhteyttä sivun ylläpitäjään.</translation>
+        <translation type="unfinished">Ladatun tiedoston koko ylittää rajoituksen, joka on asetttu upload_max_filesize-käskyssä php.ini-tiedostossa. Ota yhteyttä sivun ylläpitäjään.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds site maximum: %1 bytes.</source>
-        <translation type="obsolete">Ladatun tiedoston koko ylittää rajoituksen, joka on asetttu tälle sivulle: %1 tavua.</translation>
+        <translation type="unfinished">Ladatun tiedoston koko ylittää rajoituksen, joka on asetttu tälle sivulle: %1 tavua.</translation>
     </message>
     <message>
         <source>The option value must be provided.</source>
-        <translation type="obsolete">Asetusarvo pitää antaa.</translation>
+        <translation type="unfinished">Asetusarvo pitää antaa.</translation>
     </message>
     <message>
         <source>The additional price for the multioption value is not valid.</source>
-        <translation type="obsolete">Moniasetusarvon lisäarvo ei ole kelvollinen.</translation>
+        <translation type="unfinished">Moniasetusarvon lisäarvo ei ole kelvollinen.</translation>
     </message>
     <message>
         <source>The Additional price value is not valid.</source>
-        <translation type="obsolete">Lisähintaarvo ei ole kelvollinen.</translation>
+        <translation type="unfinished">Lisähintaarvo ei ole kelvollinen.</translation>
     </message>
     <message>
         <source>Input required.</source>
-        <translation type="obsolete">Syöte vaadittu.</translation>
+        <translation type="unfinished">Syöte vaadittu.</translation>
     </message>
     <message>
         <source>The input text is too long. The maximum number of characters allowed is %1.</source>
-        <translation type="obsolete">Syöteteksti on liian pitkä. Suurin sallittu merkkimäärä on %1.</translation>
+        <translation type="unfinished">Syöteteksti on liian pitkä. Suurin sallittu merkkimäärä on %1.</translation>
     </message>
     <message>
         <source>Time input required.</source>
-        <translation type="obsolete">Aikasyöte on vaadittu.</translation>
+        <translation type="unfinished">Aikasyöte on vaadittu.</translation>
     </message>
     <message>
         <source>The username must be specified.</source>
-        <translation type="obsolete">Käyttäjänimi pitää määritellä.</translation>
+        <translation type="unfinished">Käyttäjänimi pitää määritellä.</translation>
     </message>
     <message>
         <source>The username already exists, please choose another one.</source>
-        <translation type="obsolete">Käyttäjänimi on jo olemassa, valitse toinen.</translation>
+        <translation type="unfinished">Käyttäjänimi on jo olemassa, valitse toinen.</translation>
     </message>
     <message>
         <source>The passwords do not match.</source>
         <comment>eZUserType</comment>
-        <translation type="obsolete">Salasanat eivät täsmää.</translation>
+        <translation type="unfinished">Salasanat eivät täsmää.</translation>
     </message>
     <message>
         <source>Cannot remove the account:</source>
-        <translation type="obsolete">Ei voi poistaa tiliä:</translation>
+        <translation type="unfinished">Ei voi poistaa tiliä:</translation>
     </message>
     <message>
         <source>The account owner is currently logged in.</source>
-        <translation type="obsolete">Tilin omistaja on jo kirjautuneena sisään.</translation>
+        <translation type="unfinished">Tilin omistaja on jo kirjautuneena sisään.</translation>
     </message>
     <message>
         <source>The account is currently used by the anonymous user.</source>
-        <translation type="obsolete">Tili on jo anonyymin käyttäjän käytössä.</translation>
+        <translation type="unfinished">Tili on jo anonyymin käyttäjän käytössä.</translation>
     </message>
     <message>
         <source>Multi-option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Monivalinta</translation>
+        <translation type="unfinished">Monivalinta</translation>
     </message>
     <message>
         <source>Authors</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Tekijät</translation>
+        <translation type="unfinished">Tekijät</translation>
     </message>
     <message>
         <source>File</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Tiedosto</translation>
+        <translation type="unfinished">Tiedosto</translation>
     </message>
     <message>
         <source>Date</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Päivämäärä</translation>
+        <translation type="unfinished">Päivämäärä</translation>
     </message>
     <message>
         <source>Date and time</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Päivämäärä ja aika</translation>
+        <translation type="unfinished">Päivämäärä ja aika</translation>
     </message>
     <message>
         <source>Keywords</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Avainsanat</translation>
+        <translation type="unfinished">Avainsanat</translation>
     </message>
     <message>
         <source>Object relations</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Objektin suhteet</translation>
+        <translation type="unfinished">Objektin suhteet</translation>
     </message>
     <message>
         <source>Text block</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Tekstin jatko</translation>
+        <translation type="unfinished">Tekstin jatko</translation>
     </message>
     <message>
         <source>Time</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Aika</translation>
+        <translation type="unfinished">Aika</translation>
     </message>
     <message>
         <source>XML block</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">XML-jatko</translation>
+        <translation type="unfinished">XML-jatko</translation>
     </message>
     <message>
         <source>Object %1 can not be embeded to itself.</source>
-        <translation type="obsolete">Objektia %1 ei voi upottaa itseensä.</translation>
+        <translation type="unfinished">Objektia %1 ei voi upottaa itseensä.</translation>
     </message>
     <message>
         <source>Country</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Maa</translation>
+        <translation type="unfinished">Maa</translation>
     </message>
     <message>
         <source>Date is not valid.</source>
-        <translation type="obsolete">Päivämäärä ei ole kelvollinen.</translation>
+        <translation type="unfinished">Päivämäärä ei ole kelvollinen.</translation>
     </message>
     <message>
         <source>Time is not valid.</source>
-        <translation type="obsolete">Aika ei ole kelvollinen.</translation>
+        <translation type="unfinished">Aika ei ole kelvollinen.</translation>
     </message>
     <message>
         <source>The image file must have non-zero size.</source>
-        <translation type="obsolete">Kuvatiedoston tulee sisältää nollasta poikkeava koko.</translation>
+        <translation type="unfinished">Kuvatiedoston tulee sisältää nollasta poikkeava koko.</translation>
     </message>
     <message>
         <source>Wrong text field value.</source>
-        <translation type="obsolete">Väärä tekstikentän arvo.</translation>
+        <translation type="unfinished">Väärä tekstikentän arvo.</translation>
     </message>
     <message>
         <source>Missing matrix input.</source>
-        <translation type="obsolete">Puuttuva matriisisyöte.</translation>
+        <translation type="unfinished">Puuttuva matriisisyöte.</translation>
     </message>
     <message>
         <source>Multi-price</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Monihinta</translation>
+        <translation type="unfinished">Monihinta</translation>
     </message>
     <message>
         <source>Invalid price for &apos;%currencyCode&apos; currency </source>
-        <translation type="obsolete">Epäkelpo hinta &apos;%currencyCode&apos; valuutalle</translation>
+        <translation type="unfinished">Epäkelpo hinta &apos;%currencyCode&apos; valuutalle</translation>
     </message>
     <message>
         <source>Missing objectrelation list input.</source>
-        <translation type="obsolete">Puuttuva objektisuhdelistan syöte.</translation>
+        <translation type="unfinished">Puuttuva objektisuhdelistan syöte.</translation>
     </message>
     <message>
         <source>NAME is required.</source>
-        <translation type="obsolete">NIMI vaaditaan.</translation>
+        <translation type="unfinished">NIMI vaaditaan.</translation>
     </message>
     <message>
         <source>Invalid price.</source>
-        <translation type="obsolete">Epäkelpo hinta.</translation>
+        <translation type="unfinished">Epäkelpo hinta.</translation>
     </message>
     <message>
         <source>Product category</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Tuotekategoria</translation>
+        <translation type="unfinished">Tuotekategoria</translation>
     </message>
     <message>
         <source>Dynamic VAT cannot be included.</source>
-        <translation type="obsolete">Dynaamista ALV:ta ei voida lisätä.</translation>
+        <translation type="unfinished">Dynaamista ALV:ta ei voida lisätä.</translation>
     </message>
     <message>
         <source>Missing range option input.</source>
-        <translation type="obsolete">Puuttuva arvoväliasetuksen syöte.</translation>
+        <translation type="unfinished">Puuttuva arvoväliasetuksen syöte.</translation>
     </message>
     <message>
         <source>Option set name is required.</source>
-        <translation type="obsolete">Aseta nimi -asetus on vaadittu.</translation>
+        <translation type="unfinished">Aseta nimi -asetus on vaadittu.</translation>
     </message>
     <message>
         <source>The password must be at least %1 characters long.</source>
-        <translation type="obsolete">Salasanan tulee olla vähintään %1 merkkiä pitkä.</translation>
+        <translation type="unfinished">Salasanan tulee olla vähintään %1 merkkiä pitkä.</translation>
     </message>
     <message>
         <source>Invalid reference in &amp;lt;embed&amp;gt; tag. Note that &lt;embed&gt; tag supports only &apos;eznode&apos; and &apos;ezobject&apos; protocols.</source>
-        <translation type="obsolete">Epäkelpo viite &amp;lt;embed&amp;gt; -merkissä. Huomioi, että &lt;embed&gt; merkki tukee ainoastaan &apos;eznode&apos; ja &apos;ezobjekti&apos; -protokolleja.</translation>
+        <translation type="unfinished">Epäkelpo viite &amp;lt;embed&amp;gt; -merkissä. Huomioi, että &lt;embed&gt; merkki tukee ainoastaan &apos;eznode&apos; ja &apos;ezobjekti&apos; -protokolleja.</translation>
     </message>
     <message>
         <source>The ISBN number is not correct. </source>
-        <translation type="obsolete">ISBN-numero ei ole oikea.</translation>
+        <translation type="unfinished">ISBN-numero ei ole oikea.</translation>
     </message>
     <message>
         <source>13 digit ISBN must start with 978 or 979</source>
-        <translation type="obsolete">13 merkin ISBN:n tulee alkaa 978 tai 979</translation>
+        <translation type="unfinished">13 merkin ISBN:n tulee alkaa 978 tai 979</translation>
     </message>
     <message>
         <source>ISBN length is invalid</source>
-        <translation type="obsolete">ISBN-pituus on epäkelpo</translation>
+        <translation type="unfinished">ISBN-pituus on epäkelpo</translation>
     </message>
     <message>
         <source>The registrant element of the ISBN number does not exist.</source>
-        <translation type="obsolete">Rekisteröityä elementtiä ISBN:stä ei ole olemassa.</translation>
+        <translation type="unfinished">Rekisteröityä elementtiä ISBN:stä ei ole olemassa.</translation>
     </message>
     <message>
         <source>The ISBN number has a incorrect registration group number.</source>
-        <translation type="obsolete">ISBN-numerossa on väärä rekisteröintiryhmänumero.</translation>
+        <translation type="unfinished">ISBN-numerossa on väärä rekisteröintiryhmänumero.</translation>
     </message>
     <message>
         <source>The group element of the ISBN number does not exist.</source>
-        <translation type="obsolete">ISBN-numeron ryhmäelementtiä ei ole olemassa.</translation>
+        <translation type="unfinished">ISBN-numeron ryhmäelementtiä ei ole olemassa.</translation>
     </message>
     <message>
         <source>%1 is not a valid prefix of the ISBN number.</source>
-        <translation type="obsolete">%1 ei ole kelvollinen ISBN-numeron etuliite.</translation>
+        <translation type="unfinished">%1 ei ole kelvollinen ISBN-numeron etuliite.</translation>
     </message>
     <message>
         <source>All ISBN 13 characters need to be numeric</source>
-        <translation type="obsolete">Kaikki ISBN-numeron 13 merkistä pitää olla numeroita</translation>
+        <translation type="unfinished">Kaikki ISBN-numeron 13 merkistä pitää olla numeroita</translation>
     </message>
     <message>
         <source>Bad checksum, last digit should be %1</source>
-        <translation type="obsolete">Väärä tarkastussumma, viimeisen merkin tulee olla %1</translation>
+        <translation type="unfinished">Väärä tarkastussumma, viimeisen merkin tulee olla %1</translation>
     </message>
     <message>
         <source>The ISBN number should be ISBN13, but seems to be ISBN10.</source>
-        <translation type="obsolete">ISBN-numeron tulee olla ISBN13, mutta se näyttää olevan ISBN10.</translation>
+        <translation type="unfinished">ISBN-numeron tulee olla ISBN13, mutta se näyttää olevan ISBN10.</translation>
     </message>
     <message>
         <source>Multi-option2</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Monivalinta2</translation>
+        <translation type="unfinished">Monivalinta2</translation>
     </message>
     <message>
         <source>You cannot choose option value &quot;%1&quot; from &quot;%2&quot; because it is unselectable </source>
-        <translation type="obsolete">Et voi valita asetusarvoa &quot;%1&quot; &quot;%2&quot; koska se ei ole valittavissa</translation>
+        <translation type="unfinished">Et voi valita asetusarvoa &quot;%1&quot; &quot;%2&quot; koska se ei ole valittavissa</translation>
     </message>
     <message>
         <source>You cannot choose option value &quot;%1&quot; from &quot;%2&quot;  
  if you selected option &quot;%3&quot; from &quot;%4&quot; </source>
-        <translation type="obsolete">Et voi valita asetusarvoa &quot;%1&quot; &quot;%2&quot;:sta  
+        <translation type="unfinished">Et voi valita asetusarvoa &quot;%1&quot; &quot;%2&quot;:sta  
 Jos valitsit asetuksen &quot;%3&quot; asetuksesta &quot;%4&quot;</translation>
     </message>
     <message>
         <source>The password must not be &quot;password&quot;.</source>
-        <translation type="obsolete">Salasana ei voi olla &quot;salasana&quot;.</translation>
+        <translation type="unfinished">Salasana ei voi olla &quot;salasana&quot;.</translation>
     </message>
     <message>
         <source>The account is currently used the administrator user.</source>
-        <translation type="obsolete">Tiliä käyttää tällä hetkellä pääkäyttäjä.</translation>
+        <translation type="unfinished">Tiliä käyttää tällä hetkellä pääkäyttäjä.</translation>
     </message>
     <message>
         <source>You cannot remove the last class holding user accounts.</source>
-        <translation type="obsolete">Et voi poistaa viimeistä luokkaa, joka sisältää käyttäjätilejä.</translation>
+        <translation type="unfinished">Et voi poistaa viimeistä luokkaa, joka sisältää käyttäjätilejä.</translation>
+    </message>
+    <message>
+        <source>Missing email input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The password cannot be empty.</source>
+        <comment>eZUserType</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezbinaryfile</name>
     <message>
         <source>Failed to store file %filename. Please contact the site administrator.</source>
-        <translation type="obsolete">Napsauta tätä näppäintä tallentaaksesi muutokset, jos olet muokannut yläpuolella olevia parametrejä.</translation>
+        <translation type="unfinished">Napsauta tätä näppäintä tallentaaksesi muutokset, jos olet muokannut yläpuolella olevia parametrejä.</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezimage</name>
     <message>
         <source>Failed to fetch Image Handler. Please contact the site administrator.</source>
-        <translation type="obsolete">Kuvankäsittelijän haku epäonnistui. Ota yhteys sivun hallitsijaan.</translation>
+        <translation type="unfinished">Kuvankäsittelijän haku epäonnistui. Ota yhteys sivun hallitsijaan.</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezmedia</name>
     <message>
         <source>Failed to store media file %filename. Please contact the site administrator.</source>
-        <translation type="obsolete">Mediatiedoston %filename tallennus epäonnistui. Ota yhteys sivun hallitsijaan. </translation>
+        <translation type="unfinished">Mediatiedoston %filename tallennus epäonnistui. Ota yhteys sivun hallitsijaan. </translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezxmltext</name>
     <message>
         <source>Wrong closing tag : &amp;lt;/%1&amp;gt;.</source>
-        <translation type="obsolete">Väärä sulkemismerkki:  &amp;lt;/%1&amp;gt;.</translation>
+        <translation type="unfinished">Väärä sulkemismerkki:  &amp;lt;/%1&amp;gt;.</translation>
     </message>
     <message>
         <source>Unknown tag: &amp;lt;%1&amp;gt;.</source>
-        <translation type="obsolete">Tuntematon merkki: &amp;lt;%1&amp;gt;.</translation>
+        <translation type="unfinished">Tuntematon merkki: &amp;lt;%1&amp;gt;.</translation>
     </message>
     <message>
         <source>Can&apos;t convert tag&apos;s name: &amp;lt;%1&amp;gt;.</source>
-        <translation type="obsolete">Ei voi muuntaa merkin nimeä: &amp;lt;%1&amp;gt;.</translation>
+        <translation type="unfinished">Ei voi muuntaa merkin nimeä: &amp;lt;%1&amp;gt;.</translation>
     </message>
     <message>
         <source>Required attribute &apos;%1&apos; is not presented in tag &amp;lt;%2&amp;gt;.</source>
-        <translation type="obsolete">Vaadittu määrite &apos;%1&apos; ei ole esitettynä merkissä &amp;lt;%2&amp;gt;.</translation>
+        <translation type="unfinished">Vaadittu määrite &apos;%1&apos; ei ole esitettynä merkissä &amp;lt;%2&amp;gt;.</translation>
     </message>
     <message>
         <source>%1 is not allowed to be a child of &amp;lt;%2&amp;gt;.</source>
-        <translation type="obsolete">%1 ei ole hyväksytty olemaan &amp;lt;%2&amp;gt;.alempi kohde.</translation>
+        <translation type="unfinished">%1 ei ole hyväksytty olemaan &amp;lt;%2&amp;gt;.alempi kohde.</translation>
     </message>
     <message>
         <source>Attribute &apos;%1&apos; is not allowed in &amp;lt;%2&amp;gt; element.</source>
-        <translation type="obsolete">Määrite &apos;%1&apos; ei ole sallittu &amp;lt;%2&amp;gt;. elementissä.</translation>
+        <translation type="unfinished">Määrite &apos;%1&apos; ei ole sallittu &amp;lt;%2&amp;gt;. elementissä.</translation>
     </message>
     <message>
         <source>Class &apos;%1&apos; is not allowed for element &amp;lt;%2&amp;gt; (check content.ini).</source>
-        <translation type="obsolete">Luokka &apos;%1&apos; ei ole sallittu elementissä &amp;lt;%2&amp;gt;. (tarkista content.ini).</translation>
+        <translation type="unfinished">Luokka &apos;%1&apos; ei ole sallittu elementissä &amp;lt;%2&amp;gt;. (tarkista content.ini).</translation>
     </message>
     <message>
         <source>Wrong closing tag</source>
-        <translation type="obsolete">Väärä sulkemismerkki</translation>
+        <translation type="unfinished">Väärä sulkemismerkki</translation>
     </message>
     <message>
         <source>Wrong opening tag</source>
-        <translation type="obsolete">Väärä avaamismerkki</translation>
+        <translation type="unfinished">Väärä avaamismerkki</translation>
     </message>
     <message>
         <source>Custom tag &apos;%1&apos; is not allowed.</source>
-        <translation type="obsolete">Muokautettu merkki &apos;%1&apos; ei ole sallittu.</translation>
+        <translation type="unfinished">Muokautettu merkki &apos;%1&apos; ei ole sallittu.</translation>
     </message>
     <message>
         <source>&amp;lt;%1&amp;gt; tag can&apos;t be empty.</source>
-        <translation type="obsolete">&amp;lt;%1&amp;gt; merkkiä ei voi tyhjentää.</translation>
+        <translation type="unfinished">&amp;lt;%1&amp;gt; merkkiä ei voi tyhjentää.</translation>
     </message>
     <message>
         <source>Incorrect headers nesting</source>
-        <translation type="obsolete">Väärät ylätunnisteet sisäkkäin</translation>
+        <translation type="unfinished">Väärät ylätunnisteet sisäkkäin</translation>
     </message>
     <message>
         <source>Node &apos;%1&apos; does not exist.</source>
-        <translation type="obsolete">Solmua &apos;%1&apos; ei ole olemassa.</translation>
+        <translation type="unfinished">Solmua &apos;%1&apos; ei ole olemassa.</translation>
     </message>
     <message>
         <source>Using scripts in links is not allowed, link &apos;%1&apos; has been removed</source>
-        <translation type="obsolete">Skriptien käyttäminen linkeissä ei ole sallittua. Linkki &apos;%1&apos; poistettin</translation>
+        <translation type="unfinished">Skriptien käyttäminen linkeissä ei ole sallittua. Linkki &apos;%1&apos; poistettin</translation>
     </message>
     <message>
         <source>Invalid e-mail address: &apos;%1&apos;</source>
-        <translation type="obsolete">Epäkelpo sähköpostiosoite: &apos;%1&apos;</translation>
+        <translation type="unfinished">Epäkelpo sähköpostiosoite: &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Object %1 can not be embeded to itself.</source>
-        <translation type="obsolete">Objektia %1 ei voi sisällyttää itseensä.</translation>
+        <translation type="unfinished">Objektia %1 ei voi sisällyttää itseensä.</translation>
     </message>
 </context>
 <context>
     <name>kernel/collaboration</name>
     <message>
         <source>Collaboration custom action</source>
-        <translation type="obsolete">Yhteistyön mukautettu toiminto</translation>
+        <translation type="unfinished">Yhteistyön mukautettu toiminto</translation>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation type="obsolete">Yhdistäminen</translation>
+        <translation type="unfinished">Yhdistäminen</translation>
     </message>
 </context>
 <context>
     <name>kernel/content</name>
     <message>
         <source>Search</source>
-        <translation type="obsolete">Etsi</translation>
+        <translation type="unfinished">Etsi</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="obsolete">Edistynyt</translation>
+        <translation type="unfinished">Edistynyt</translation>
     </message>
     <message>
         <source>No main node selected, please select one.</source>
-        <translation type="obsolete">Pääsolmua ei ole valittu, valitse yksi.</translation>
+        <translation type="unfinished">Pääsolmua ei ole valittu, valitse yksi.</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation type="obsolete">Sisältö</translation>
+        <translation type="unfinished">Sisältö</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">Muokkaa</translation>
+        <translation type="unfinished">Muokkaa</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="obsolete">Kopioi</translation>
+        <translation type="unfinished">Kopioi</translation>
     </message>
     <message>
         <source>My drafts</source>
-        <translation type="obsolete">Omat luonnokset</translation>
+        <translation type="unfinished">Omat luonnokset</translation>
     </message>
     <message>
         <source>Remove editing version</source>
-        <translation type="obsolete">Poista muokattava versio</translation>
+        <translation type="unfinished">Poista muokattava versio</translation>
     </message>
     <message>
         <source>Remove object</source>
-        <translation type="obsolete">Poista objekti</translation>
+        <translation type="unfinished">Poista objekti</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="obsolete">Käännös</translation>
+        <translation type="unfinished">Käännös</translation>
     </message>
     <message>
         <source>Content translations</source>
-        <translation type="obsolete">Sisältökäännökset</translation>
+        <translation type="unfinished">Sisältökäännökset</translation>
     </message>
     <message>
         <source>Trash</source>
-        <translation type="obsolete">Roskakori</translation>
+        <translation type="unfinished">Roskakori</translation>
     </message>
     <message>
         <source>Versions</source>
-        <translation type="obsolete">Versiot</translation>
+        <translation type="unfinished">Versiot</translation>
     </message>
     <message>
         <source>My bookmarks</source>
-        <translation type="obsolete">Omat kirjamerkit</translation>
+        <translation type="unfinished">Omat kirjamerkit</translation>
     </message>
     <message>
         <source>Tip from %1: %2</source>
-        <translation type="obsolete">Vinkki %1: %2</translation>
+        <translation type="unfinished">Vinkki %1: %2</translation>
     </message>
     <message>
         <source>The email address of the sender is not valid</source>
-        <translation type="obsolete">Lähettäjän sähköpostiosoite on epäkelpo</translation>
+        <translation type="unfinished">Lähettäjän sähköpostiosoite on epäkelpo</translation>
     </message>
     <message>
         <source>The email address of the receiver is not valid</source>
-        <translation type="obsolete">Vastaanottajan sähköpostiosoite on epäkelpo</translation>
+        <translation type="unfinished">Vastaanottajan sähköpostiosoite on epäkelpo</translation>
     </message>
     <message>
         <source>Tip a friend</source>
-        <translation type="obsolete">Kerro kaverille</translation>
+        <translation type="unfinished">Kerro kaverille</translation>
     </message>
     <message>
         <source>My pending list</source>
-        <translation type="obsolete">Oma odottava lista</translation>
+        <translation type="unfinished">Oma odottava lista</translation>
     </message>
     <message>
         <source>Keywords</source>
-        <translation type="obsolete">Avainsanat</translation>
+        <translation type="unfinished">Avainsanat</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation type="obsolete">Media</translation>
+        <translation type="unfinished">Media</translation>
     </message>
     <message>
         <source>New content</source>
-        <translation type="obsolete">Uusi sisältö</translation>
+        <translation type="unfinished">Uusi sisältö</translation>
     </message>
     <message>
         <source>Remove location</source>
-        <translation type="obsolete">Poista sijainti</translation>
+        <translation type="unfinished">Poista sijainti</translation>
     </message>
     <message>
         <source>You are not allowed to place this object under: %1</source>
-        <translation type="obsolete">Et voi sijoittaa tätä objektia alle: %1</translation>
+        <translation type="unfinished">Et voi sijoittaa tätä objektia alle: %1</translation>
     </message>
     <message>
         <source>Top Level Nodes</source>
-        <translation type="obsolete">Ylätason solmut</translation>
+        <translation type="unfinished">Ylätason solmut</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="obsolete">Piilotettu</translation>
+        <translation type="unfinished">Piilotettu</translation>
     </message>
     <message>
         <source>Hidden by superior</source>
-        <translation type="obsolete">Ylempiarvoisen piilottama</translation>
+        <translation type="unfinished">Ylempiarvoisen piilottama</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="obsolete">Näkyvä</translation>
+        <translation type="unfinished">Näkyvä</translation>
     </message>
     <message>
         <source>A node in the node assignment list has been deleted.</source>
-        <translation type="obsolete">Solmumääräyslistassa ollut solmu on poistettu.</translation>
+        <translation type="unfinished">Solmumääräyslistassa ollut solmu on poistettu.</translation>
     </message>
     <message>
         <source>&quot;$contentObjectName&quot;: Sub items that are used by other objects</source>
-        <translation type="obsolete">&quot;$contentObjectName&quot;: alikohteita käyttävät muut objektit</translation>
+        <translation type="unfinished">&quot;$contentObjectName&quot;: alikohteita käyttävät muut objektit</translation>
     </message>
     <message>
         <source>Differences</source>
-        <translation type="obsolete">Erot</translation>
+        <translation type="unfinished">Erot</translation>
     </message>
     <message>
         <source>Remove translation</source>
-        <translation type="obsolete">Poista käännös</translation>
+        <translation type="unfinished">Poista käännös</translation>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="obsolete">Kielet</translation>
+        <translation type="unfinished">Kielet</translation>
     </message>
     <message>
         <source>Class identifier</source>
-        <translation type="obsolete">Luokkatunniste</translation>
+        <translation type="unfinished">Luokkatunniste</translation>
     </message>
     <message>
         <source>Class name</source>
-        <translation type="obsolete">Luokkanimi</translation>
+        <translation type="unfinished">Luokkanimi</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="obsolete">Syvyys</translation>
+        <translation type="unfinished">Syvyys</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="obsolete">Muokattu</translation>
+        <translation type="unfinished">Muokattu</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">Nimi</translation>
+        <translation type="unfinished">Nimi</translation>
     </message>
     <message>
         <source>Path String</source>
-        <translation type="obsolete">Polun määrite</translation>
+        <translation type="unfinished">Polun määrite</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation type="obsolete">Prioriteetti</translation>
+        <translation type="unfinished">Prioriteetti</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation type="obsolete">Julkaistu</translation>
+        <translation type="unfinished">Julkaistu</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="obsolete">Osa</translation>
+        <translation type="unfinished">Osa</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="obsolete">Historia</translation>
+        <translation type="unfinished">Historia</translation>
     </message>
     <message>
         <source>Version preview</source>
-        <translation type="obsolete">Version esikatselu</translation>
+        <translation type="unfinished">Version esikatselu</translation>
     </message>
     <message>
         <source>You do not have enough rights to access the requested node</source>
-        <translation type="obsolete">Sinulla ei ole tarpeeksi oikeuksia käyttää vaadittua solmua</translation>
+        <translation type="unfinished">Sinulla ei ole tarpeeksi oikeuksia käyttää vaadittua solmua</translation>
     </message>
     <message>
         <source>Copy subtree</source>
-        <translation type="obsolete">Kopioi alipuu</translation>
+        <translation type="unfinished">Kopioi alipuu</translation>
     </message>
     <message>
         <source>The receiver has already received the maximum number of tipafriend mails the last hours</source>
-        <translation type="obsolete">Vastaanottaja on jo vastaanottanut maksimaalisen määrän kerro kaverille -viestejä viime tunteina</translation>
+        <translation type="unfinished">Vastaanottaja on jo vastaanottanut maksimaalisen määrän kerro kaverille -viestejä viime tunteina</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">Virhe</translation>
+        <translation type="unfinished">Virhe</translation>
+    </message>
+    <message>
+        <source>The request sent to the server was too big to be accepted. This probably means that you uploaded a file which was too big. The maximum allowed request size is %max_size_string.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dashboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have already sent a tipafriend mail to this receiver regarding &apos;%1&apos; content</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -26441,59 +26731,63 @@ Jos valitsit asetuksen &quot;%3&quot; asetuksesta &quot;%4&quot;</translation>
     </message>
     <message>
         <source>Fatal error: cannot get subtree main node (ID = %1).</source>
-        <translation type="obsolete">Vakava virhe: alipuun pääsolmua ei saada (ID = %1).</translation>
+        <translation type="unfinished">Vakava virhe: alipuun pääsolmua ei saada (ID = %1).</translation>
     </message>
     <message>
         <source>Fatal error: cannot get destination node (ID = %1).</source>
-        <translation type="obsolete">Vakava virhe: kohdepääsolmua ei saada (ID = %1).</translation>
+        <translation type="unfinished">Vakava virhe: kohdepääsolmua ei saada (ID = %1).</translation>
     </message>
     <message>
         <source>Number of nodes of source subtree - %1</source>
-        <translation type="obsolete">Solmujen määrä alipuusta -%1</translation>
+        <translation type="unfinished">Solmujen määrä alipuusta -%1</translation>
     </message>
     <message>
         <source>Subtree was not copied.</source>
-        <translation type="obsolete">Alipuuta ei kopioitu.</translation>
+        <translation type="unfinished">Alipuuta ei kopioitu.</translation>
     </message>
     <message>
         <source>Number of copied nodes - %1</source>
-        <translation type="obsolete">Kopioitujen solmujen määrä - %1 </translation>
+        <translation type="unfinished">Kopioitujen solmujen määrä - %1 </translation>
     </message>
     <message>
         <source>Number of copied contentobjects - %1</source>
-        <translation type="obsolete">Kopioitujen sisältösolmujen määrä - %1 </translation>
+        <translation type="unfinished">Kopioitujen sisältösolmujen määrä - %1 </translation>
     </message>
     <message>
         <source>Cannot create instance of eZDB to fix local links (related objects).</source>
-        <translation type="obsolete">Ei voi luoda eZB:n instanssia paikallisten linkkien korjaamiseen (suhteelliset objektit).</translation>
+        <translation type="unfinished">Ei voi luoda eZB:n instanssia paikallisten linkkien korjaamiseen (suhteelliset objektit).</translation>
     </message>
     <message>
         <source>You are trying to copy a subtree that contains more than the maximum possible nodes for subtree copying. You can copy this subtree using Subtree Copy script.</source>
-        <translation type="obsolete">Yrität kopioida alipuun, joka sisältää enemmän kuin maksimaalisen mahdollisen määrän solmuja alipuun kopioimiseen. Voit kopioida alipuun käyttämällä Subtree Copy -skriptiä.</translation>
+        <translation type="unfinished">Yrität kopioida alipuun, joka sisältää enemmän kuin maksimaalisen mahdollisen määrän solmuja alipuun kopioimiseen. Voit kopioida alipuun käyttämällä Subtree Copy -skriptiä.</translation>
     </message>
     <message>
         <source>Object (ID = %1) was not copied: you do not have permission to read the object.</source>
-        <translation type="obsolete">Objektia (ID = %1) ei kopioitu: sinulla ei ole oikeuksia lukea objektia.</translation>
+        <translation type="unfinished">Objektia (ID = %1) ei kopioitu: sinulla ei ole oikeuksia lukea objektia.</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: you do not have permission to read object (ID = %2).</source>
-        <translation type="obsolete">Solmua (ID = %1) ei kopioitu: sinulla ei ole oikeuksia luoka objektia (ID = %2).</translation>
+        <translation type="unfinished">Solmua (ID = %1) ei kopioitu: sinulla ei ole oikeuksia luoka objektia (ID = %2).</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: parent node (ID = %2) was not copied.</source>
-        <translation type="obsolete">Solmua (ID = %1) ei kopioitu: pääsolmua (ID = %2) ei kopioitu.</translation>
+        <translation type="unfinished">Solmua (ID = %1) ei kopioitu: pääsolmua (ID = %2) ei kopioitu.</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: you do not have permission to create.</source>
-        <translation type="obsolete">Solmua (ID = %1) ei kopioitu: sinulla ei ole oikeuksia luoda.</translation>
+        <translation type="unfinished">Solmua (ID = %1) ei kopioitu: sinulla ei ole oikeuksia luoda.</translation>
     </message>
     <message>
         <source>Object (ID = %1) was not copied: no one nodes of object was not copied.</source>
-        <translation type="obsolete">Solmua (ID = %1) ei kopioitu: yhtään objektin solmua ei kopioitu.</translation>
+        <translation type="unfinished">Solmua (ID = %1) ei kopioitu: yhtään objektin solmua ei kopioitu.</translation>
     </message>
     <message>
         <source>Successfully DONE.</source>
-        <translation type="obsolete">Onnistuneesti TEHTY.</translation>
+        <translation type="unfinished">Onnistuneesti TEHTY.</translation>
+    </message>
+    <message>
+        <source>Cannot publish object (Name: %1, ID: %2).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -26501,172 +26795,172 @@ Jos valitsit asetuksen &quot;%3&quot; asetuksesta &quot;%4&quot;</translation>
     <message>
         <source>child</source>
         <comment>1 child</comment>
-        <translation type="obsolete">alempi kohde</translation>
+        <translation type="unfinished">alempi kohde</translation>
     </message>
     <message>
         <source>children</source>
         <comment>several children</comment>
-        <translation type="obsolete">alemmat kohteet</translation>
+        <translation type="unfinished">alemmat kohteet</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/restore</name>
     <message>
         <source>Restore object</source>
-        <translation type="obsolete">Palauta objekti</translation>
+        <translation type="unfinished">Palauta objekti</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/upload</name>
     <message>
         <source>The file %filename does not exist, cannot insert file.</source>
-        <translation type="obsolete">Tiedostoa %filename ei ole olemassa, ei voi liittää tiedostoa.</translation>
+        <translation type="unfinished">Tiedostoa %filename ei ole olemassa, ei voi liittää tiedostoa.</translation>
     </message>
     <message>
         <source>No matching class identifier found.</source>
-        <translation type="obsolete">Täsmäävää luokkatunnistetta ei löytynyt.</translation>
+        <translation type="unfinished">Täsmäävää luokkatunnistetta ei löytynyt.</translation>
     </message>
     <message>
         <source>The class %class_identifier does not exist.</source>
-        <translation type="obsolete">Luokkaa %class_identifier ei ole olemassa.</translation>
+        <translation type="unfinished">Luokkaa %class_identifier ei ole olemassa.</translation>
     </message>
     <message>
         <source>Was not able to figure out placement of object.</source>
-        <translation type="obsolete">Objektin sijoitus ei onnistunut.</translation>
+        <translation type="unfinished">Objektin sijoitus ei onnistunut.</translation>
     </message>
     <message>
         <source>No configuration group in upload.ini for class identifier %class_identifier.</source>
-        <translation type="obsolete">Upload.ini-tiedostossa ei ole konfiguraatioryhmää luokkatunnisteelle %class_identifier.</translation>
+        <translation type="unfinished">Upload.ini-tiedostossa ei ole konfiguraatioryhmää luokkatunnisteelle %class_identifier.</translation>
     </message>
     <message>
         <source>No matching file attribute found, cannot create content object without this.</source>
-        <translation type="obsolete">Täsmääviä tiedostomääritteitä ei löytynyt, sisältöobjektia ei voida luoda ilman sitä.</translation>
+        <translation type="unfinished">Täsmääviä tiedostomääritteitä ei löytynyt, sisältöobjektia ei voida luoda ilman sitä.</translation>
     </message>
     <message>
         <source>No matching name attribute found, cannot create content object without this.</source>
-        <translation type="obsolete">Täsmääviä nimimääritteitä ei löytynyt, sisältöobjektia ei voida luoda ilman sitä.</translation>
+        <translation type="unfinished">Täsmääviä nimimääritteitä ei löytynyt, sisältöobjektia ei voida luoda ilman sitä.</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support regular file storage.</source>
-        <translation type="obsolete">Määrite %class_identifier ei tue normaalia tiedostotallennusta.</translation>
+        <translation type="unfinished">Määrite %class_identifier ei tue normaalia tiedostotallennusta.</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support simple string storage.</source>
-        <translation type="obsolete">Määrite %class_identifier ei tue yksinkertaista merkkijonotallennusta.</translation>
+        <translation type="unfinished">Määrite %class_identifier ei tue yksinkertaista merkkijonotallennusta.</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support HTTP file storage.</source>
-        <translation type="obsolete">Määrite %class_identifier ei tue HTTP-tiedostotallennusta.</translation>
+        <translation type="unfinished">Määrite %class_identifier ei tue HTTP-tiedostotallennusta.</translation>
     </message>
     <message>
         <source>Publishing of content object was halted.</source>
-        <translation type="obsolete">Sisältöobjektin julkaisu pysäytettiin.</translation>
+        <translation type="unfinished">Sisältöobjektin julkaisu pysäytettiin.</translation>
     </message>
     <message>
         <source>Publish process was cancelled.</source>
-        <translation type="obsolete">Julkaisuprosessi peruutettiin.</translation>
+        <translation type="unfinished">Julkaisuprosessi peruutettiin.</translation>
     </message>
     <message>
         <source>A file is required for upload, no file were found.</source>
-        <translation type="obsolete">Ladattava tiedosto vaaditaan, tiedostoa ei löytynyt.</translation>
+        <translation type="unfinished">Ladattava tiedosto vaaditaan, tiedostoa ei löytynyt.</translation>
     </message>
     <message>
         <source>Expected a eZHTTPFile object but got nothing.</source>
-        <translation type="obsolete">eZHTTPFile-objektia odotettiin, mutta mitään ei saatu.</translation>
+        <translation type="unfinished">eZHTTPFile-objektia odotettiin, mutta mitään ei saatu.</translation>
     </message>
     <message>
         <source>No HTTP file found, cannot fetch uploaded file.</source>
-        <translation type="obsolete">HTTP-tiedostoa ei löytynyt, ei voi hakea ladattua tiedostoa.</translation>
+        <translation type="unfinished">HTTP-tiedostoa ei löytynyt, ei voi hakea ladattua tiedostoa.</translation>
     </message>
     <message>
         <source>Permission denied</source>
-        <translation type="obsolete">Oikeus evätty</translation>
+        <translation type="unfinished">Oikeus evätty</translation>
     </message>
     <message>
         <source>There was an error trying to instantiate content upload handler.</source>
-        <translation type="obsolete">Sisällön latauksenkäsittelijän aloittamisessa tapahtui virhe.</translation>
+        <translation type="unfinished">Sisällön latauksenkäsittelijän aloittamisessa tapahtui virhe.</translation>
     </message>
     <message>
         <source>Could not find content upload handler &apos;%handler_name&apos;</source>
-        <translation type="obsolete">Sisällön latauskäsittelijää &apos;%handler_name&apos; ei löytynyt</translation>
+        <translation type="unfinished">Sisällön latauskäsittelijää &apos;%handler_name&apos; ei löytynyt</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
-        <translation type="obsolete">Ladatun tiedoston koko ylittää sivulle määrätyn rajan: %1 bittiä.</translation>
+        <translation type="unfinished">Ladatun tiedoston koko ylittää sivulle määrätyn rajan: %1 bittiä.</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/urlalias_global</name>
     <message>
         <source>Global URL aliases</source>
-        <translation type="obsolete">Yleiset URL-aliakset</translation>
+        <translation type="unfinished">Yleiset URL-aliakset</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/urlalias_wildcard</name>
     <message>
         <source>URL wildcard aliases</source>
-        <translation type="obsolete">URL-jokerikorttialiakset</translation>
+        <translation type="unfinished">URL-jokerikorttialiakset</translation>
     </message>
 </context>
 <context>
     <name>kernel/contentclass</name>
     <message>
         <source>New %1</source>
-        <translation type="obsolete">Uusi %1</translation>
+        <translation type="unfinished">Uusi %1</translation>
     </message>
     <message>
         <source>Cannot remove class &apos;%class_name&apos;:</source>
-        <translation type="obsolete">Ei voi poistaa luokkaa &apos;%class_name&apos;:</translation>
+        <translation type="unfinished">Ei voi poistaa luokkaa &apos;%class_name&apos;:</translation>
     </message>
     <message>
         <source>The class is used by a top-level node and cannot be removed.</source>
-        <translation type="obsolete">Luokka on ylätason solmun käytössä eikä sitä voi poistaa.</translation>
+        <translation type="unfinished">Luokka on ylätason solmun käytössä eikä sitä voi poistaa.</translation>
     </message>
 </context>
 <context>
     <name>kernel/design</name>
     <message>
         <source>Template list</source>
-        <translation type="obsolete">Mallilista</translation>
+        <translation type="unfinished">Mallilista</translation>
     </message>
     <message>
         <source>Template view</source>
-        <translation type="obsolete">Mallinäkymä</translation>
+        <translation type="unfinished">Mallinäkymä</translation>
     </message>
     <message>
         <source>Create new template</source>
-        <translation type="obsolete">Luo uusi malli</translation>
+        <translation type="unfinished">Luo uusi malli</translation>
     </message>
     <message>
         <source>Template edit</source>
-        <translation type="obsolete">Mallin muokkaus</translation>
+        <translation type="unfinished">Mallin muokkaus</translation>
     </message>
     <message>
         <source>Toolbar list</source>
-        <translation type="obsolete">Työkalupalkkilista</translation>
+        <translation type="unfinished">Työkalupalkkilista</translation>
     </message>
 </context>
 <context>
     <name>kernel/error</name>
     <message>
         <source>Error</source>
-        <translation type="obsolete">Virhe</translation>
+        <translation type="unfinished">Virhe</translation>
     </message>
 </context>
 <context>
     <name>kernel/ezinfo</name>
     <message>
         <source>Info</source>
-        <translation type="obsolete">Info</translation>
+        <translation type="unfinished">Info</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="obsolete">Tietoja</translation>
+        <translation type="unfinished">Tietoja</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="obsolete">Tekijänoikeus</translation>
+        <translation type="unfinished">Tekijänoikeus</translation>
     </message>
 </context>
 <context>
@@ -26680,7 +26974,7 @@ Jos valitsit asetuksen &quot;%3&quot; asetuksesta &quot;%4&quot;</translation>
     <name>kernel/infocollector</name>
     <message>
         <source>Collected information</source>
-        <translation type="obsolete">Kerätty tieto</translation>
+        <translation type="unfinished">Kerätty tieto</translation>
     </message>
 </context>
 <context>
@@ -26688,373 +26982,385 @@ Jos valitsit asetuksen &quot;%3&quot; asetuksesta &quot;%4&quot;</translation>
     <message>
         <source>Content structure</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Sisältörakenne</translation>
+        <translation type="unfinished">Sisältörakenne</translation>
     </message>
     <message>
         <source>Media library</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Mediakirjasto</translation>
+        <translation type="unfinished">Mediakirjasto</translation>
     </message>
     <message>
         <source>User accounts</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Käyttäjätilit</translation>
+        <translation type="unfinished">Käyttäjätilit</translation>
     </message>
     <message>
         <source>Webshop</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Verkkokauppa</translation>
+        <translation type="unfinished">Verkkokauppa</translation>
     </message>
     <message>
         <source>Design</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Ulkoasu</translation>
+        <translation type="unfinished">Ulkoasu</translation>
     </message>
     <message>
         <source>Setup</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Asennus</translation>
+        <translation type="unfinished">Asennus</translation>
     </message>
     <message>
         <source>My account</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Oma tili</translation>
+        <translation type="unfinished">Oma tili</translation>
     </message>
 </context>
 <context>
     <name>kernel/notification</name>
     <message>
         <source>Notification settings</source>
-        <translation type="obsolete">Tiedotusasetukset</translation>
+        <translation type="unfinished">Tiedotusasetukset</translation>
     </message>
 </context>
 <context>
     <name>kernel/package</name>
     <message>
         <source>Packages</source>
-        <translation type="obsolete">Paketit</translation>
+        <translation type="unfinished">Paketit</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="obsolete">Lataa</translation>
+        <translation type="unfinished">Lataa</translation>
     </message>
     <message>
         <source>Package information</source>
-        <translation type="obsolete">Paketin tiedot</translation>
+        <translation type="unfinished">Paketin tiedot</translation>
     </message>
     <message>
         <source>Package maintainer</source>
-        <translation type="obsolete">Paketin ylläpitäjä</translation>
+        <translation type="unfinished">Paketin ylläpitäjä</translation>
     </message>
     <message>
         <source>Package changelog</source>
-        <translation type="obsolete">Paketin vaihdosloki</translation>
+        <translation type="unfinished">Paketin vaihdosloki</translation>
     </message>
     <message>
         <source>Package thumbnail</source>
-        <translation type="obsolete">Paketin esikatselukuva</translation>
+        <translation type="unfinished">Paketin esikatselukuva</translation>
     </message>
     <message>
         <source>Package name</source>
-        <translation type="obsolete">Paketin nimi</translation>
+        <translation type="unfinished">Paketin nimi</translation>
     </message>
     <message>
         <source>Package name is missing</source>
-        <translation type="obsolete">Paketin nimi puuttuu</translation>
+        <translation type="unfinished">Paketin nimi puuttuu</translation>
     </message>
     <message>
         <source>A package named %packagename already exists, please give another name</source>
-        <translation type="obsolete">Paketti nimeltä %packagename on jo olemassa, anna toinen nimi</translation>
+        <translation type="unfinished">Paketti nimeltä %packagename on jo olemassa, anna toinen nimi</translation>
     </message>
     <message>
         <source>Summary</source>
-        <translation type="obsolete">Yhteenveto</translation>
+        <translation type="unfinished">Yhteenveto</translation>
     </message>
     <message>
         <source>Summary is missing</source>
-        <translation type="obsolete">Yhteenveto puuttuu</translation>
+        <translation type="unfinished">Yhteenveto puuttuu</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="obsolete">Versio</translation>
+        <translation type="unfinished">Versio</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">Nimi</translation>
+        <translation type="unfinished">Nimi</translation>
     </message>
     <message>
         <source>You must enter a name for the changelog</source>
-        <translation type="obsolete">Sinun tulee antaa nimi muutoslokille</translation>
+        <translation type="unfinished">Sinun tulee antaa nimi muutoslokille</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="obsolete">Muutosloki</translation>
+        <translation type="unfinished">Muutosloki</translation>
     </message>
     <message>
         <source>You must supply some text for the changelog entry</source>
-        <translation type="obsolete">Sinun tulee täyttää tekstiä muutoslokimerkintään</translation>
+        <translation type="unfinished">Sinun tulee täyttää tekstiä muutoslokimerkintään</translation>
     </message>
     <message>
         <source>You must enter a name of the maintainer</source>
-        <translation type="obsolete">Sinun tulee syöttää ylläpitäjän nimi</translation>
+        <translation type="unfinished">Sinun tulee syöttää ylläpitäjän nimi</translation>
     </message>
     <message>
         <source>Content classes to include</source>
-        <translation type="obsolete">Sisältöluokat, jotka sisällytetään</translation>
+        <translation type="unfinished">Sisältöluokat, jotka sisällytetään</translation>
     </message>
     <message>
         <source>Content class export</source>
-        <translation type="obsolete">Sisältöluokan vienti</translation>
+        <translation type="unfinished">Sisältöluokan vienti</translation>
     </message>
     <message>
         <source>Class list</source>
-        <translation type="obsolete">Luokkalista</translation>
+        <translation type="unfinished">Luokkalista</translation>
     </message>
     <message>
         <source>You must select at least one class for inclusion</source>
-        <translation type="obsolete">Sinun tulee valita ainakin yksi luokka sisällykseen</translation>
+        <translation type="unfinished">Sinun tulee valita ainakin yksi luokka sisällykseen</translation>
     </message>
     <message>
         <source>CSS file</source>
-        <translation type="obsolete">CSS-tiedosto</translation>
+        <translation type="unfinished">CSS-tiedosto</translation>
     </message>
     <message>
         <source>Image files</source>
-        <translation type="obsolete">Kuvatiedostot</translation>
+        <translation type="unfinished">Kuvatiedostot</translation>
     </message>
     <message>
         <source>Site style</source>
-        <translation type="obsolete">Sivutyyli</translation>
+        <translation type="unfinished">Sivutyyli</translation>
     </message>
     <message>
         <source>File did not have a .css suffix, this is most likely not a CSS file</source>
-        <translation type="obsolete">Tiedostolla ei ollut .css suffiksia, tämä ei luultavasti ole CSS-tiedosto</translation>
+        <translation type="unfinished">Tiedostolla ei ollut .css suffiksia, tämä ei luultavasti ole CSS-tiedosto</translation>
     </message>
     <message>
         <source>Create package</source>
-        <translation type="obsolete">Luo paketti</translation>
+        <translation type="unfinished">Luo paketti</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="obsolete">Asenna</translation>
+        <translation type="unfinished">Asenna</translation>
     </message>
     <message>
         <source>Uninstall</source>
-        <translation type="obsolete">Poista asennus</translation>
+        <translation type="unfinished">Poista asennus</translation>
     </message>
     <message>
         <source>Package %packagename already exists, cannot import the package</source>
-        <translation type="obsolete">Paketti %packagename on jo olemassa, ei voi tuoda pakettia</translation>
+        <translation type="unfinished">Paketti %packagename on jo olemassa, ei voi tuoda pakettia</translation>
     </message>
     <message>
         <source>Local</source>
-        <translation type="obsolete">Paikallinen</translation>
+        <translation type="unfinished">Paikallinen</translation>
     </message>
     <message>
         <source>The version must only contain numbers (optionally followed by text) and must be delimited by dots (.), e.g. 1.0, 3.4.0beta1</source>
-        <translation type="obsolete">Versio voi sisältää vain numeroita (valinnaisesti sen jälkeen myös tekstiä) ja sen pitää olla erotettuna pisteillä (.), esim 1.0, 3.4.0beta1</translation>
+        <translation type="unfinished">Versio voi sisältää vain numeroita (valinnaisesti sen jälkeen myös tekstiä) ja sen pitää olla erotettuna pisteillä (.), esim 1.0, 3.4.0beta1</translation>
     </message>
     <message>
         <source>Content objects to include</source>
-        <translation type="obsolete">Sisällytettävät sisältöobjektit</translation>
+        <translation type="unfinished">Sisällytettävät sisältöobjektit</translation>
     </message>
     <message>
         <source>Content object limits</source>
-        <translation type="obsolete">Sisältöobjektin rajoitukset</translation>
+        <translation type="unfinished">Sisältöobjektin rajoitukset</translation>
     </message>
     <message>
         <source>Content object export</source>
-        <translation type="obsolete">Sisältöobjektin vienti</translation>
+        <translation type="unfinished">Sisältöobjektin vienti</translation>
     </message>
     <message>
         <source>Selected nodes</source>
-        <translation type="obsolete">Valitut solmut</translation>
+        <translation type="unfinished">Valitut solmut</translation>
     </message>
     <message>
         <source>You must select one or more node(s)/subtree(s) for export.</source>
-        <translation type="obsolete">Sinun tulee valita yksi tai useampi solmu/alipuu vientiä varten.</translation>
+        <translation type="unfinished">Sinun tulee valita yksi tai useampi solmu/alipuu vientiä varten.</translation>
     </message>
     <message>
         <source>You must choose one or more languages.</source>
-        <translation type="obsolete">Sinun tulee valita yksi tai useampi kieli.</translation>
+        <translation type="unfinished">Sinun tulee valita yksi tai useampi kieli.</translation>
     </message>
     <message>
         <source>You must choose one or more site access.</source>
-        <translation type="obsolete">Sinun tulee valita yksi tai useampi sivuyhteys.</translation>
+        <translation type="unfinished">Sinun tulee valita yksi tai useampi sivuyhteys.</translation>
     </message>
     <message>
         <source>CSS files</source>
-        <translation type="obsolete">CSS-tiedostot</translation>
+        <translation type="unfinished">CSS-tiedostot</translation>
     </message>
     <message>
         <source>You must upload both CSS files</source>
-        <translation type="obsolete">Sinun tulee ladata molemmat CSS-tiedostot</translation>
+        <translation type="unfinished">Sinun tulee ladata molemmat CSS-tiedostot</translation>
     </message>
     <message>
         <source>Content object %objectname</source>
-        <translation type="obsolete">Sisältöobjekti %objectname</translation>
+        <translation type="unfinished">Sisältöobjekti %objectname</translation>
     </message>
     <message>
         <source>Site access mapping</source>
-        <translation type="obsolete">Sivuyhteyden kartoitus</translation>
+        <translation type="unfinished">Sivuyhteyden kartoitus</translation>
     </message>
     <message>
         <source>Top node placements</source>
-        <translation type="obsolete">Pääsolmusijoitukset</translation>
+        <translation type="unfinished">Pääsolmusijoitukset</translation>
     </message>
     <message>
         <source>Content object import</source>
-        <translation type="obsolete">Sisältöobjektin tuonti</translation>
+        <translation type="unfinished">Sisältöobjektin tuonti</translation>
     </message>
     <message>
         <source>Select parent nodes</source>
-        <translation type="obsolete">Valitse pääsolmut</translation>
+        <translation type="unfinished">Valitse pääsolmut</translation>
     </message>
     <message>
         <source>You must assign all nodes to new parent nodes.</source>
-        <translation type="obsolete">Sinun tulee määritää kaikki solmut uusille pääsolmuille.</translation>
+        <translation type="unfinished">Sinun tulee määritää kaikki solmut uusille pääsolmuille.</translation>
     </message>
     <message>
         <source>Lead</source>
-        <translation type="obsolete">Johto</translation>
+        <translation type="unfinished">Johto</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="obsolete">Kehittäjä</translation>
+        <translation type="unfinished">Kehittäjä</translation>
     </message>
     <message>
         <source>Designer</source>
-        <translation type="obsolete">Suunnitelija</translation>
+        <translation type="unfinished">Suunnitelija</translation>
     </message>
     <message>
         <source>Contributor</source>
-        <translation type="obsolete">Osallistuja</translation>
+        <translation type="unfinished">Osallistuja</translation>
     </message>
     <message>
         <source>Tester</source>
-        <translation type="obsolete">Testaaja</translation>
+        <translation type="unfinished">Testaaja</translation>
     </message>
     <message>
         <source>The package name %packagename is not valid, it can only contain characters in the range a-z, 0-9 and underscore.</source>
-        <translation type="obsolete">Paketin nimi %packagename ei ole kelvollinen. Se voi vain sisältää merkkejä a-z, 0-9 ja aliviivan.</translation>
+        <translation type="unfinished">Paketin nimi %packagename ei ole kelvollinen. Se voi vain sisältää merkkejä a-z, 0-9 ja aliviivan.</translation>
     </message>
     <message>
         <source>Extension export</source>
-        <translation type="obsolete">Laajennuksen vienti</translation>
+        <translation type="unfinished">Laajennuksen vienti</translation>
     </message>
     <message>
         <source>%number content objects</source>
-        <translation type="obsolete">%number sisältöobjektit</translation>
+        <translation type="unfinished">%number sisältöobjektit</translation>
     </message>
     <message>
         <source>Extension &apos;%extensionname&apos;</source>
-        <translation type="obsolete">Laajennus &apos;%extensionname&apos;</translation>
+        <translation type="unfinished">Laajennus &apos;%extensionname&apos;</translation>
     </message>
     <message>
         <source>Removing class &apos;%classname&apos; will result in the removal of %objectscount object(s) of this class and all their sub-items. Are you sure you want to uninstall it?</source>
-        <translation type="obsolete">Poistamalla luokan &apos;%classname&apos; poistuu tästä luokasta %objectscount objektia ja kaikki niiden alikohteet. Oletko varma, että haluat poistaa asennuksen?</translation>
+        <translation type="unfinished">Poistamalla luokan &apos;%classname&apos; poistuu tästä luokasta %objectscount objektia ja kaikki niiden alikohteet. Oletko varma, että haluat poistaa asennuksen?</translation>
     </message>
     <message>
         <source>Class &apos;%classname&apos; already exists.</source>
-        <translation type="obsolete">Luokka %classname&apos; on jo olemassa.</translation>
+        <translation type="unfinished">Luokka %classname&apos; on jo olemassa.</translation>
     </message>
     <message>
         <source>Replace existing class</source>
-        <translation type="obsolete">Korvaa olemassaoleva luokka</translation>
+        <translation type="unfinished">Korvaa olemassaoleva luokka</translation>
     </message>
     <message>
         <source>(Warning! $objectsCount content object(s) and their sub-items will be removed)</source>
-        <translation type="obsolete">(Varoitus! $objectsCount sisältöobjektit ja niiden alikohteet poistetaan)</translation>
+        <translation type="unfinished">(Varoitus! $objectsCount sisältöobjektit ja niiden alikohteet poistetaan)</translation>
     </message>
     <message>
         <source>Skip installing this class</source>
-        <translation type="obsolete">Ohita tämän luokan asennus</translation>
+        <translation type="unfinished">Ohita tämän luokan asennus</translation>
     </message>
     <message>
         <source>Keep existing and create a new one</source>
-        <translation type="obsolete">Pidä olemassaoleva ja luo uusi</translation>
+        <translation type="unfinished">Pidä olemassaoleva ja luo uusi</translation>
     </message>
     <message>
         <source>Object &apos;%objectname&apos; has been modified since installation. Are you sure you want to remove it?</source>
-        <translation type="obsolete">Objektia %objectname&apos; on muokattu sen asennuksen jälkeen. Oletko varma, että haluat poistaa sen?</translation>
+        <translation type="unfinished">Objektia %objectname&apos; on muokattu sen asennuksen jälkeen. Oletko varma, että haluat poistaa sen?</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="obsolete">Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Keep object</source>
-        <translation type="obsolete">Pidä objekti</translation>
+        <translation type="unfinished">Pidä objekti</translation>
     </message>
     <message>
         <source>Object &apos;%objectname&apos; has %childrencount sub-item(s) that will be removed.</source>
-        <translation type="obsolete">Objektilla &apos;%objectname&apos; on %childrencount alikohteita, jotka poistetaan.</translation>
+        <translation type="unfinished">Objektilla &apos;%objectname&apos; on %childrencount alikohteita, jotka poistetaan.</translation>
     </message>
     <message>
         <source>Extension &apos;%extensionname&apos; already exists.</source>
-        <translation type="obsolete">Laajennus  &apos;%extensionname&apos; on jo olemassa.</translation>
+        <translation type="unfinished">Laajennus  &apos;%extensionname&apos; on jo olemassa.</translation>
     </message>
     <message>
         <source>Replace extension</source>
-        <translation type="obsolete">Korvaa laajennus</translation>
+        <translation type="unfinished">Korvaa laajennus</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="obsolete">Ohita</translation>
+        <translation type="unfinished">Ohita</translation>
     </message>
     <message>
         <source>Install script: %description</source>
-        <translation type="obsolete">Asenna käskyjono: %description</translation>
+        <translation type="unfinished">Asenna käskyjono: %description</translation>
     </message>
     <message>
         <source>Content class &apos;%classname&apos; (%classidentifier)</source>
-        <translation type="obsolete">Sisältöluokka &apos;%classname&apos; (%classidentifier)</translation>
+        <translation type="unfinished">Sisältöluokka &apos;%classname&apos; (%classidentifier)</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="obsolete">Sähköposti</translation>
+        <translation type="unfinished">Sähköposti</translation>
     </message>
     <message>
         <source>You must enter an email for the changelog</source>
-        <translation type="obsolete">Sinun tulee syöttää sähköposti muutoslokiin</translation>
+        <translation type="unfinished">Sinun tulee syöttää sähköposti muutoslokiin</translation>
     </message>
     <message>
         <source>You must enter an email address of the maintainer</source>
-        <translation type="obsolete">Sinun tulee syöttää ylläpitäjän sähköpostiosoite</translation>
+        <translation type="unfinished">Sinun tulee syöttää ylläpitäjän sähköpostiosoite</translation>
     </message>
     <message>
         <source>Remove object and its sub-item(s)</source>
-        <translation type="obsolete">Poista objekti ja sen alikohteet</translation>
+        <translation type="unfinished">Poista objekti ja sen alikohteet</translation>
     </message>
     <message>
         <source>Extensions to include</source>
-        <translation type="obsolete">Sisällytettävät laajennukset</translation>
+        <translation type="unfinished">Sisällytettävät laajennukset</translation>
     </message>
     <message>
         <source>Extension list</source>
-        <translation type="obsolete">Laajennuslista</translation>
+        <translation type="unfinished">Laajennuslista</translation>
     </message>
     <message>
         <source>You must select at least one extension</source>
-        <translation type="obsolete">Sinun tulee valita ainakin yksi laajennus</translation>
+        <translation type="unfinished">Sinun tulee valita ainakin yksi laajennus</translation>
+    </message>
+    <message>
+        <source>Package contains an invalid extension name: %extensionname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The package name %packagename is invalid, cannot import the package</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/pdf</name>
     <message>
         <source>PDF Export</source>
-        <translation type="obsolete">PDF-vienti</translation>
+        <translation type="unfinished">PDF-vienti</translation>
     </message>
     <message>
         <source>An export with such filename already exists.</source>
-        <translation type="obsolete">Vienti samalla nimellä on jo olemassa.</translation>
+        <translation type="unfinished">Vienti samalla nimellä on jo olemassa.</translation>
     </message>
 </context>
 <context>
     <name>kernel/pdfexport</name>
     <message>
         <source>New PDF Export</source>
-        <translation type="obsolete">Uusi PDF-vienti</translation>
+        <translation type="unfinished">Uusi PDF-vienti</translation>
     </message>
 </context>
 <context>
@@ -27068,83 +27374,83 @@ Jos valitsit asetuksen &quot;%3&quot; asetuksesta &quot;%4&quot;</translation>
     <name>kernel/role</name>
     <message>
         <source>Role list</source>
-        <translation type="obsolete">Roolilista</translation>
+        <translation type="unfinished">Roolilista</translation>
     </message>
     <message>
         <source>Editing policy</source>
-        <translation type="obsolete">Käytännön muokkaaminen</translation>
+        <translation type="unfinished">Käytännön muokkaaminen</translation>
     </message>
     <message>
         <source>Limit on section</source>
-        <translation type="obsolete">Rajoitus osassa</translation>
+        <translation type="unfinished">Rajoitus osassa</translation>
     </message>
     <message>
         <source>Create new policy, step 2: select function</source>
-        <translation type="obsolete">Luo uusi käytäntö, vaihe 2: valitse toiminto</translation>
+        <translation type="unfinished">Luo uusi käytäntö, vaihe 2: valitse toiminto</translation>
     </message>
     <message>
         <source>Create new policy, step three: set function limitations</source>
-        <translation type="obsolete">Luo uusi käytäntö, vaihe kolme: aseta toimintorajoitukset</translation>
+        <translation type="unfinished">Luo uusi käytäntö, vaihe kolme: aseta toimintorajoitukset</translation>
     </message>
     <message>
         <source>Create new policy, step two: select function</source>
-        <translation type="obsolete">Luo uusi käytäntö, vaihe kaksi: valitse toiminto</translation>
+        <translation type="unfinished">Luo uusi käytäntö, vaihe kaksi: valitse toiminto</translation>
     </message>
     <message>
         <source>Create new policy, step one: select module</source>
-        <translation type="obsolete">Luo uusi käytäntö, vaihe yksi: valitse moduuli</translation>
+        <translation type="unfinished">Luo uusi käytäntö, vaihe yksi: valitse moduuli</translation>
     </message>
 </context>
 <context>
     <name>kernel/role/edit</name>
     <message>
         <source>New role</source>
-        <translation type="obsolete">Uusi rooli</translation>
+        <translation type="unfinished">Uusi rooli</translation>
     </message>
     <message>
         <source>Copy of %rolename</source>
-        <translation type="obsolete">Kopioi %rolename</translation>
+        <translation type="unfinished">Kopioi %rolename</translation>
     </message>
 </context>
 <context>
     <name>kernel/rss</name>
     <message>
         <source>Really Simple Syndication</source>
-        <translation type="obsolete">Erittäin yksinkertainen </translation>
+        <translation type="unfinished">Erittäin yksinkertainen </translation>
     </message>
     <message>
         <source>New RSS Export</source>
-        <translation type="obsolete">Uusi RSS-vienti</translation>
+        <translation type="unfinished">Uusi RSS-vienti</translation>
     </message>
     <message>
         <source>New RSS Import</source>
-        <translation type="obsolete">Uusi RSS-tuonti</translation>
+        <translation type="unfinished">Uusi RSS-tuonti</translation>
     </message>
 </context>
 <context>
     <name>kernel/rss/edit_export</name>
     <message>
         <source>Invalid selection for title class %1 does not have attribute &quot;%2&quot;</source>
-        <translation type="obsolete">Epäkelpo valinta otsikkoluokalle %1 ei ole ole määritettä &quot;%2&quot;</translation>
+        <translation type="unfinished">Epäkelpo valinta otsikkoluokalle %1 ei ole ole määritettä &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Invalid selection for description class %1 does not have attribute &quot;%2&quot;</source>
-        <translation type="obsolete">Epäkelpo valinta kuvausluokalle %1 ei ole ole määritettä &quot;%2&quot;</translation>
+        <translation type="unfinished">Epäkelpo valinta kuvausluokalle %1 ei ole ole määritettä &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Selected class does not exist</source>
-        <translation type="obsolete">Valittua luokkaa ei ole olemassa</translation>
+        <translation type="unfinished">Valittua luokkaa ei ole olemassa</translation>
     </message>
     <message>
         <source>Invalid selection for category class %1 does not have attribute &quot;%2&quot;</source>
-        <translation type="obsolete">Epäkelpo valinta kategorialuokalle %1 ei ole ole määritettä &quot;%2&quot;</translation>
+        <translation type="unfinished">Epäkelpo valinta kategorialuokalle %1 ei ole ole määritettä &quot;%2&quot;</translation>
     </message>
 </context>
 <context>
     <name>kernel/search</name>
     <message>
         <source>Search stats</source>
-        <translation type="obsolete">Etsintätilastot</translation>
+        <translation type="unfinished">Etsintätilastot</translation>
     </message>
 </context>
 <context>
@@ -27155,7 +27461,7 @@ Jos valitsit asetuksen &quot;%3&quot; asetuksesta &quot;%4&quot;</translation>
     </message>
     <message>
         <source>Sections</source>
-        <translation type="obsolete">Osat</translation>
+        <translation type="unfinished">Osat</translation>
     </message>
     <message>
         <source>View section</source>
@@ -27163,568 +27469,624 @@ Jos valitsit asetuksen &quot;%3&quot; asetuksesta &quot;%4&quot;</translation>
     </message>
     <message>
         <source>New section</source>
-        <translation type="obsolete">Uusi osa</translation>
+        <translation type="unfinished">Uusi osa</translation>
     </message>
     <message>
         <source>Assign section</source>
-        <translation type="obsolete">Määritä osa</translation>
+        <translation type="unfinished">Määritä osa</translation>
     </message>
 </context>
 <context>
     <name>kernel/setup</name>
     <message>
         <source>Cache admin</source>
-        <translation type="obsolete">Välimuistin hallinta</translation>
+        <translation type="unfinished">Välimuistin hallinta</translation>
     </message>
     <message>
         <source>Template operator wizard</source>
-        <translation type="obsolete">Mallioperaattorin apuohjelma</translation>
+        <translation type="unfinished">Mallioperaattorin apuohjelma</translation>
     </message>
     <message>
         <source>Extension configuration</source>
-        <translation type="obsolete">Laajennusten konfigurointi</translation>
+        <translation type="unfinished">Laajennusten konfigurointi</translation>
     </message>
     <message>
         <source>System information</source>
-        <translation type="obsolete">Järjestelmän tiedot</translation>
+        <translation type="unfinished">Järjestelmän tiedot</translation>
     </message>
     <message>
         <source>Rapid Application Development</source>
-        <translation type="obsolete">Rapid Application Development</translation>
+        <translation type="unfinished">Rapid Application Development</translation>
     </message>
     <message>
         <source>Setup menu</source>
-        <translation type="obsolete">Asennusvalikko</translation>
+        <translation type="unfinished">Asennusvalikko</translation>
     </message>
     <message>
         <source>System Upgrade</source>
-        <translation type="obsolete">Järjestelmän päivitys</translation>
+        <translation type="unfinished">Järjestelmän päivitys</translation>
     </message>
     <message>
         <source>Session admin</source>
-        <translation type="obsolete">Istunnon hallinta</translation>
+        <translation type="unfinished">Istunnon hallinta</translation>
     </message>
     <message>
         <source>File %1 does not exist. You should copy it from the recent eZ Publish distribution.</source>
-        <translation type="obsolete">Tiedostoa %1 ei ole olemassa. Sinun tulee kopioida se uusimmasta eZ Publish-julkaisusta.</translation>
+        <translation type="unfinished">Tiedostoa %1 ei ole olemassa. Sinun tulee kopioida se uusimmasta eZ Publish-julkaisusta.</translation>
     </message>
     <message>
         <source>Datatype wizard</source>
-        <translation type="obsolete">Tietotyypin apuohjelma</translation>
+        <translation type="unfinished">Tietotyypin apuohjelma</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop</name>
     <message>
         <source>Basket</source>
-        <translation type="obsolete">Kori</translation>
+        <translation type="unfinished">Kori</translation>
     </message>
     <message>
         <source>Confirm order</source>
-        <translation type="obsolete">Vahvista tilaus</translation>
+        <translation type="unfinished">Vahvista tilaus</translation>
     </message>
     <message>
         <source>Discount group</source>
-        <translation type="obsolete">Alennusryhmä</translation>
+        <translation type="unfinished">Alennusryhmä</translation>
     </message>
     <message>
         <source>Group view of discount rule</source>
-        <translation type="obsolete">Ryhmänäkymä alennussäännölle</translation>
+        <translation type="unfinished">Ryhmänäkymä alennussäännölle</translation>
     </message>
     <message>
         <source>Editing rule</source>
-        <translation type="obsolete">Säännön muokkaus</translation>
+        <translation type="unfinished">Säännön muokkaus</translation>
     </message>
     <message>
         <source>Order list</source>
-        <translation type="obsolete">Tilauslista</translation>
+        <translation type="unfinished">Tilauslista</translation>
     </message>
     <message>
         <source>Enter account information</source>
-        <translation type="obsolete">Syötä tilitiedot</translation>
+        <translation type="unfinished">Syötä tilitiedot</translation>
     </message>
     <message>
         <source>VAT types</source>
-        <translation type="obsolete">ALV-tyypit</translation>
+        <translation type="unfinished">ALV-tyypit</translation>
     </message>
     <message>
         <source>Checkout</source>
-        <translation type="obsolete">Siirry kassalle</translation>
+        <translation type="unfinished">Siirry kassalle</translation>
     </message>
     <message>
         <source>Customer list</source>
-        <translation type="obsolete">Asiakaslista</translation>
+        <translation type="unfinished">Asiakaslista</translation>
     </message>
     <message>
         <source>Remove order</source>
-        <translation type="obsolete">Poista tilaus</translation>
+        <translation type="unfinished">Poista tilaus</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="obsolete">Tilastot</translation>
+        <translation type="unfinished">Tilastot</translation>
     </message>
     <message>
         <source>VAT type</source>
-        <translation type="obsolete">ALV-tyyppi</translation>
+        <translation type="unfinished">ALV-tyyppi</translation>
     </message>
     <message>
         <source>Classes</source>
-        <translation type="obsolete">Luokat</translation>
+        <translation type="unfinished">Luokat</translation>
     </message>
     <message>
         <source>Any class</source>
-        <translation type="obsolete">Mikä tahansa luokka</translation>
+        <translation type="unfinished">Mikä tahansa luokka</translation>
     </message>
     <message>
         <source>in sections</source>
-        <translation type="obsolete">osissa</translation>
+        <translation type="unfinished">osissa</translation>
     </message>
     <message>
         <source>in any section</source>
-        <translation type="obsolete">missä tahansa osassa</translation>
+        <translation type="unfinished">missä tahansa osassa</translation>
     </message>
     <message>
         <source>Products</source>
-        <translation type="obsolete">Tuotteet</translation>
+        <translation type="unfinished">Tuotteet</translation>
     </message>
     <message>
         <source>Any product</source>
-        <translation type="obsolete">Mikä tahansa tuote</translation>
+        <translation type="unfinished">Mikä tahansa tuote</translation>
     </message>
     <message>
         <source>Order status</source>
-        <translation type="obsolete">Tilauksen status</translation>
+        <translation type="unfinished">Tilauksen status</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation type="obsolete">Ei määritetty</translation>
+        <translation type="unfinished">Ei määritetty</translation>
     </message>
     <message>
         <source>The confirm order operation was canceled. Try to checkout again.</source>
-        <translation type="obsolete">Tilauksen vahvistustoimenpide peruutettiin. Kokeile kassalle siirtymistä uudelleen.</translation>
+        <translation type="unfinished">Tilauksen vahvistustoimenpide peruutettiin. Kokeile kassalle siirtymistä uudelleen.</translation>
     </message>
     <message>
         <source>Order #%order_id</source>
-        <translation type="obsolete">Tilaus #%order_id</translation>
+        <translation type="unfinished">Tilaus #%order_id</translation>
     </message>
     <message>
         <source>New order status was successfully added.</source>
-        <translation type="obsolete">Uusi tilausstatus lisätiin onnistuneesti.</translation>
+        <translation type="unfinished">Uusi tilausstatus lisätiin onnistuneesti.</translation>
     </message>
     <message>
         <source>Changes to order status were successfully stored.</source>
-        <translation type="obsolete">Muutokset tilausstatukseen tallennettiin onnistuneesti.</translation>
+        <translation type="unfinished">Muutokset tilausstatukseen tallennettiin onnistuneesti.</translation>
     </message>
     <message>
         <source>Selected order statuses were successfully removed.</source>
-        <translation type="obsolete">Valitut tilausstatukset poistettiin onnistuneesti.</translation>
+        <translation type="unfinished">Valitut tilausstatukset poistettiin onnistuneesti.</translation>
     </message>
     <message>
         <source>Internal orders cannot be removed.</source>
-        <translation type="obsolete">Sisäisiä tilauksia ei voida poistaa.</translation>
+        <translation type="unfinished">Sisäisiä tilauksia ei voida poistaa.</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">Status</translation>
+        <translation type="unfinished">Status</translation>
     </message>
     <message>
         <source>Customer order view</source>
-        <translation type="obsolete">Asiakastilausnäkymä</translation>
+        <translation type="unfinished">Asiakastilausnäkymä</translation>
     </message>
     <message>
         <source>Any</source>
-        <translation type="obsolete">Mikä tahansa</translation>
+        <translation type="unfinished">Mikä tahansa</translation>
     </message>
     <message>
         <source>Available currency list</source>
-        <translation type="obsolete">Saatavilla oleva valuuttalista</translation>
+        <translation type="unfinished">Saatavilla oleva valuuttalista</translation>
     </message>
     <message>
         <source>Edit currency</source>
-        <translation type="obsolete">Muokkaa valuuttaa</translation>
+        <translation type="unfinished">Muokkaa valuuttaa</translation>
     </message>
     <message>
         <source>Create new currency</source>
-        <translation type="obsolete">Luo uusi valuutta</translation>
+        <translation type="unfinished">Luo uusi valuutta</translation>
     </message>
     <message>
         <source>Preferred currency</source>
-        <translation type="obsolete">Ensisijainen valuutta</translation>
+        <translation type="unfinished">Ensisijainen valuutta</translation>
     </message>
     <message>
         <source>Products overview</source>
-        <translation type="obsolete">Tuotteiden yleisnäkymä</translation>
+        <translation type="unfinished">Tuotteiden yleisnäkymä</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="obsolete">Ei yhtään</translation>
+        <translation type="unfinished">Ei yhtään</translation>
     </message>
     <message>
         <source>Error checking out</source>
-        <translation type="obsolete">Virhe kassalle siirryttäessä</translation>
+        <translation type="unfinished">Virhe kassalle siirryttäessä</translation>
     </message>
     <message>
         <source>Unable to calculate VAT percentage because your country is unknown. You can either fill country manually in your account information (if you are a registered user) or contact site administrator.</source>
-        <translation type="obsolete">ALV-prosenttia ei voi laskea, koska maasi on tuntematon. Voit joko lisätä maan manuaalisesti tilitietoihisi (jos olet rekisteröitynyt käyttäjä) tai ota yhteyttä sivun ylläpitäjään.</translation>
+        <translation type="unfinished">ALV-prosenttia ei voi laskea, koska maasi on tuntematon. Voit joko lisätä maan manuaalisesti tilitietoihisi (jos olet rekisteröitynyt käyttäjä) tai ota yhteyttä sivun ylläpitäjään.</translation>
     </message>
     <message>
         <source>Wishlist</source>
-        <translation type="obsolete">Toivomuslista</translation>
+        <translation type="unfinished">Toivomuslista</translation>
     </message>
     <message>
         <source>&apos;Autorates&apos; were retrieved successfully</source>
-        <translation type="obsolete">&apos;Automaattiset hinnoittelu&apos; haettiin onnistuneesti</translation>
+        <translation type="unfinished">&apos;Automaattiset hinnoittelu&apos; haettiin onnistuneesti</translation>
     </message>
     <message>
         <source>Unknown body format in HTTP response. Expected &apos;text/xml&apos;</source>
-        <translation type="obsolete">Tuntematon bodyformaatti HTTP-vastauksessa. Odotettiin &apos;teksti/xml&apos;</translation>
+        <translation type="unfinished">Tuntematon bodyformaatti HTTP-vastauksessa. Odotettiin &apos;teksti/xml&apos;</translation>
     </message>
     <message>
         <source>Invalid HTTP response</source>
-        <translation type="obsolete">Epäkelpo HTTP-vastaus</translation>
+        <translation type="unfinished">Epäkelpo HTTP-vastaus</translation>
     </message>
     <message>
         <source>Unable to send http request: %1:%2/%3</source>
-        <translation type="obsolete">Http-pyynnön: %1:%2/%3 lähetys ei onnistunut</translation>
+        <translation type="unfinished">Http-pyynnön: %1:%2/%3 lähetys ei onnistunut</translation>
     </message>
     <message>
         <source>eZExchangeRatesUpdateHandler: you should reimplement &apos;requestRates&apos; method</source>
-        <translation type="obsolete">eZExchangeRatesUpdateHandler: sinun tulee ottaa &apos;requestRates&apos;-tapa käyttöön uudelleen</translation>
+        <translation type="unfinished">eZExchangeRatesUpdateHandler: sinun tulee ottaa &apos;requestRates&apos;-tapa käyttöön uudelleen</translation>
     </message>
     <message>
         <source>&apos;Auto&apos; prices were updated successfully.</source>
-        <translation type="obsolete">&apos;Automaattiset&apos; hinnat päivitettiin onnistuneesti.</translation>
+        <translation type="unfinished">&apos;Automaattiset&apos; hinnat päivitettiin onnistuneesti.</translation>
     </message>
     <message>
         <source>&apos;Auto&apos; rates were updated successfully.</source>
-        <translation type="obsolete">&apos;Automaattiset&apos; maksut päivitettiin onnistuneesti.</translation>
+        <translation type="unfinished">&apos;Automaattiset&apos; maksut päivitettiin onnistuneesti.</translation>
     </message>
     <message>
         <source>Unable to calculate cross-rate for currency-pair &apos;%1&apos;/&apos;%2&apos;</source>
-        <translation type="obsolete">Ei onnistunut laskemaan valuuttaparille &apos;%1&apos;/&apos;%2&apos;</translation>
+        <translation type="unfinished">Ei onnistunut laskemaan valuuttaparille &apos;%1&apos;/&apos;%2&apos;</translation>
     </message>
     <message>
         <source>Unable to determine currency for retrieved rates.</source>
-        <translation type="obsolete">Haetuille maksuille ei onnistuttu määrittämään valuuttaa. </translation>
+        <translation type="unfinished">Haetuille maksuille ei onnistuttu määrittämään valuuttaa. </translation>
     </message>
     <message>
         <source>Retrieved empty list of rates.</source>
-        <translation type="obsolete">Haettu lista hinnoitteluista on tyhjä.</translation>
+        <translation type="unfinished">Haettu lista hinnoitteluista on tyhjä.</translation>
     </message>
     <message>
         <source>Unable to create handler to update auto rates.</source>
-        <translation type="obsolete">Automaattisten hinnoittelujen käsittelijää ei voitu luoda.</translation>
+        <translation type="unfinished">Automaattisten hinnoittelujen käsittelijää ei voitu luoda.</translation>
     </message>
     <message>
         <source>Changes were stored successfully.</source>
-        <translation type="obsolete">Muutokset tallennettiin onnistuneesti.</translation>
+        <translation type="unfinished">Muutokset tallennettiin onnistuneesti.</translation>
+    </message>
+    <message>
+        <source>&apos;%value&apos; is not a valid custom rate value (positive number expected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;%value&apos; is not a valid rate_factor value (positive number expected)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/classes/ezcurrencydata</name>
     <message>
         <source>Invalid characters in currency code.</source>
-        <translation type="obsolete">Epäkelvot merkit valuuttakoodissa.</translation>
+        <translation type="unfinished">Epäkelvot merkit valuuttakoodissa.</translation>
     </message>
     <message>
         <source>Currency already exists.</source>
-        <translation type="obsolete">Valuutta on jo olemassa.</translation>
+        <translation type="unfinished">Valuutta on jo olemassa.</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="obsolete">Tuntematon virhe.</translation>
+        <translation type="unfinished">Tuntematon virhe.</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/discountgroup</name>
     <message>
         <source>New discount group</source>
-        <translation type="obsolete">Uusi alennusryhmä</translation>
+        <translation type="unfinished">Uusi alennusryhmä</translation>
     </message>
     <message>
         <source>New Discount Rule</source>
-        <translation type="obsolete">Uusi alennussääntö</translation>
+        <translation type="unfinished">Uusi alennussääntö</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/editvatrule</name>
     <message>
         <source>Choose a country.</source>
-        <translation type="obsolete">Valitse maa.</translation>
+        <translation type="unfinished">Valitse maa.</translation>
     </message>
     <message>
         <source>Choose a VAT type.</source>
-        <translation type="obsolete">Valitse ALV-tyyppi.</translation>
+        <translation type="unfinished">Valitse ALV-tyyppi.</translation>
     </message>
     <message>
         <source>Rule not found</source>
-        <translation type="obsolete">Sääntöä ei löytynyt</translation>
+        <translation type="unfinished">Sääntöä ei löytynyt</translation>
     </message>
     <message>
         <source>Edit VAT charging rule</source>
-        <translation type="obsolete">Muokkaa ALV-laskutussääntöä</translation>
+        <translation type="unfinished">Muokkaa ALV-laskutussääntöä</translation>
     </message>
     <message>
         <source>Create new VAT charging rule</source>
-        <translation type="obsolete">Luo uusi ALV-laskutussääntö</translation>
+        <translation type="unfinished">Luo uusi ALV-laskutussääntö</translation>
     </message>
     <message>
         <source>Invalid data entered</source>
-        <translation type="obsolete">Epäkelpo tieto syötetty</translation>
+        <translation type="unfinished">Epäkelpo tieto syötetty</translation>
     </message>
     <message>
         <source>Conflicting rule</source>
-        <translation type="obsolete">Ristiriitainen sääntö</translation>
+        <translation type="unfinished">Ristiriitainen sääntö</translation>
     </message>
     <message>
         <source>Default rule for any country already exists.</source>
-        <translation type="obsolete">Oletussääntö mille tahansa maalle on jo olemassa.</translation>
+        <translation type="unfinished">Oletussääntö mille tahansa maalle on jo olemassa.</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/productcategories</name>
     <message>
         <source>Product categories</source>
-        <translation type="obsolete">Tuotekategoriat</translation>
+        <translation type="unfinished">Tuotekategoriat</translation>
     </message>
     <message>
         <source>Product category</source>
-        <translation type="obsolete">Tuotekategoria</translation>
+        <translation type="unfinished">Tuotekategoria</translation>
     </message>
     <message>
         <source>Empty category names are not allowed (corrected).</source>
-        <translation type="obsolete">Tyhjät kategorianimet ei ole hyväksyttyjä (korjattu).</translation>
+        <translation type="unfinished">Tyhjät kategorianimet ei ole hyväksyttyjä (korjattu).</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/vatrules</name>
     <message>
         <source>No default rule found. Please add rule having &quot;Any&quot; country and &quot;Any&quot; category.</source>
-        <translation type="obsolete">Oletussääntöä ei löytynyt. Lisää uusi sääntö &quot;Mikä tahansa&quot; maa ja &quot;Mikä tahansa&quot; kategoriaan.</translation>
+        <translation type="unfinished">Oletussääntöä ei löytynyt. Lisää uusi sääntö &quot;Mikä tahansa&quot; maa ja &quot;Mikä tahansa&quot; kategoriaan.</translation>
     </message>
     <message>
         <source>VAT rules</source>
-        <translation type="obsolete">ALV-säännöt</translation>
+        <translation type="unfinished">ALV-säännöt</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/vattype</name>
     <message>
         <source>Empty VAT type names are not allowed (corrected).</source>
-        <translation type="obsolete">Tyhjät ALV-tyyppinimet ei ole sallittuja (korjattu).</translation>
+        <translation type="unfinished">Tyhjät ALV-tyyppinimet ei ole sallittuja (korjattu).</translation>
     </message>
     <message>
         <source>Wrong VAT percentage (corrected).</source>
-        <translation type="obsolete">Väärä ALV-prosentti (korjattu).</translation>
+        <translation type="unfinished">Väärä ALV-prosentti (korjattu).</translation>
     </message>
 </context>
 <context>
     <name>kernel/state</name>
     <message>
         <source>Assign</source>
-        <translation type="obsolete">Määrää</translation>
+        <translation type="unfinished">Määrää</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="obsolete">Uusi</translation>
+        <translation type="unfinished">Uusi</translation>
     </message>
     <message>
         <source>Groups</source>
-        <translation type="obsolete">Ryhmät</translation>
+        <translation type="unfinished">Ryhmät</translation>
     </message>
     <message>
         <source>New group</source>
-        <translation type="obsolete">Uusi ryhmä</translation>
+        <translation type="unfinished">Uusi ryhmä</translation>
     </message>
     <message>
         <source>Group edit</source>
-        <translation type="obsolete">Ryhmämuokkaus</translation>
+        <translation type="unfinished">Ryhmämuokkaus</translation>
+    </message>
+    <message>
+        <source>State</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/state/edit</name>
+    <message>
+        <source>Identifier: input required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: invalid, it can only consist of characters in the range a-z, 0-9 and underscore.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: invalid, maximum %max characters allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: a content object state group with this identifier already exists, please give another identifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%language_name: this language is the default but neither name or description were provided for this language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations: you need to add at least one localization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations: there are multiple localizations but you did not specify which is the default one</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: identifiers starting with &quot;ez&quot; are reserved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name in %language_name is too long. Maximum 45 characters allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name in %language_name: input required</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/trigger</name>
     <message>
         <source>Trigger</source>
-        <translation type="obsolete">Laukaisin</translation>
+        <translation type="unfinished">Laukaisin</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">Lista</translation>
+        <translation type="unfinished">Lista</translation>
     </message>
 </context>
 <context>
     <name>kernel/url</name>
     <message>
         <source>URL</source>
-        <translation type="obsolete">URL</translation>
+        <translation type="unfinished">URL</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">Lista</translation>
+        <translation type="unfinished">Lista</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">Näytä</translation>
+        <translation type="unfinished">Näytä</translation>
     </message>
     <message>
         <source>URL edit</source>
-        <translation type="obsolete">URL-muokkaus</translation>
+        <translation type="unfinished">URL-muokkaus</translation>
     </message>
 </context>
 <context>
     <name>kernel/user</name>
     <message>
         <source>User</source>
-        <translation type="obsolete">Käyttäjä</translation>
+        <translation type="unfinished">Käyttäjä</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="obsolete">Kirjaudu sisään</translation>
+        <translation type="unfinished">Kirjaudu sisään</translation>
     </message>
     <message>
         <source>Change password</source>
-        <translation type="obsolete">Vaihda salasana</translation>
+        <translation type="unfinished">Vaihda salasana</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="obsolete">Rekisteröi</translation>
+        <translation type="unfinished">Rekisteröi</translation>
     </message>
     <message>
         <source>Forgot password</source>
-        <translation type="obsolete">Unohdin salasanan</translation>
+        <translation type="unfinished">Unohdin salasanan</translation>
     </message>
     <message>
         <source>User profile</source>
-        <translation type="obsolete">Käyttäjäprofiili</translation>
+        <translation type="unfinished">Käyttäjäprofiili</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="obsolete">Asetus</translation>
+        <translation type="unfinished">Asetus</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="obsolete">Aktiivinen</translation>
+        <translation type="unfinished">Aktiivinen</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="obsolete">Onnistui</translation>
+        <translation type="unfinished">Onnistui</translation>
     </message>
 </context>
 <context>
     <name>kernel/user/register</name>
     <message>
         <source>Registration info</source>
-        <translation type="obsolete">Rekisteröintitiedot</translation>
+        <translation type="unfinished">Rekisteröintitiedot</translation>
     </message>
     <message>
         <source>New user registered</source>
-        <translation type="obsolete">Uusi rekisteröity käyttäjä</translation>
+        <translation type="unfinished">Uusi rekisteröity käyttäjä</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow</name>
     <message>
         <source>Edit workflow</source>
-        <translation type="obsolete">Muokkaa työprosessia</translation>
+        <translation type="unfinished">Muokkaa työprosessia</translation>
     </message>
     <message>
         <source>Workflow</source>
-        <translation type="obsolete">Työprosessi</translation>
+        <translation type="unfinished">Työprosessi</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">Muokkaa</translation>
+        <translation type="unfinished">Muokkaa</translation>
     </message>
     <message>
         <source>Edit workflow group</source>
-        <translation type="obsolete">Muokkaa työprosessiryhmää</translation>
+        <translation type="unfinished">Muokkaa työprosessiryhmää</translation>
     </message>
     <message>
         <source>Group edit</source>
-        <translation type="obsolete">Ryhmämuokkaus</translation>
+        <translation type="unfinished">Ryhmämuokkaus</translation>
     </message>
     <message>
         <source>Workflow group list</source>
-        <translation type="obsolete">Työprosessiryhmälista</translation>
+        <translation type="unfinished">Työprosessiryhmälista</translation>
     </message>
     <message>
         <source>Group list</source>
-        <translation type="obsolete">Ryhmälista</translation>
+        <translation type="unfinished">Ryhmälista</translation>
     </message>
     <message>
         <source>Workflow list</source>
-        <translation type="obsolete">Työprosessilista</translation>
+        <translation type="unfinished">Työprosessilista</translation>
     </message>
     <message>
         <source>Workflow list of group</source>
-        <translation type="obsolete">Ryhmän työprosessilista</translation>
+        <translation type="unfinished">Ryhmän työprosessilista</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">Lista</translation>
+        <translation type="unfinished">Lista</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">Näytä</translation>
+        <translation type="unfinished">Näytä</translation>
     </message>
     <message>
         <source>You have to have at least one group that the workflow belongs to!</source>
-        <translation type="obsolete">Sinulla tulee olla vähintään yksi ryhmä, joka omistaa työprosessin!</translation>
+        <translation type="unfinished">Sinulla tulee olla vähintään yksi ryhmä, joka omistaa työprosessin!</translation>
     </message>
     <message>
         <source>Process list</source>
-        <translation type="obsolete">Prosessilista</translation>
+        <translation type="unfinished">Prosessilista</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/edit</name>
     <message>
         <source>New Workflow</source>
-        <translation type="obsolete">Uusi työprosessi</translation>
+        <translation type="unfinished">Uusi työprosessi</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/event</name>
     <message>
         <source>Event</source>
-        <translation type="obsolete">Tapahtuma</translation>
+        <translation type="unfinished">Tapahtuma</translation>
     </message>
     <message>
         <source>Approve</source>
-        <translation type="obsolete">Hyväksy</translation>
+        <translation type="unfinished">Hyväksy</translation>
     </message>
     <message>
         <source>Multiplexer</source>
-        <translation type="obsolete">Multiplexer</translation>
+        <translation type="unfinished">Multiplexer</translation>
     </message>
     <message>
         <source>Simple shipping</source>
-        <translation type="obsolete">Peruspostitus</translation>
+        <translation type="unfinished">Peruspostitus</translation>
     </message>
     <message>
         <source>Wait until date</source>
-        <translation type="obsolete">Odota päivään</translation>
+        <translation type="unfinished">Odota päivään</translation>
     </message>
     <message>
         <source>Payment Gateway</source>
-        <translation type="obsolete">Hintaportti</translation>
+        <translation type="unfinished">Hintaportti</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/group</name>
     <message>
         <source>Group</source>
-        <translation type="obsolete">Ryhmä</translation>
+        <translation type="unfinished">Ryhmä</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/groupedit</name>
     <message>
         <source>New WorkflowGroup</source>
-        <translation type="obsolete">Uusi työprosessiryhmä</translation>
+        <translation type="unfinished">Uusi työprosessiryhmä</translation>
     </message>
 </context>
 <context>
@@ -27732,62 +28094,62 @@ Jos valitsit asetuksen &quot;%3&quot; asetuksesta &quot;%4&quot;</translation>
     <message>
         <source>Contents</source>
         <comment>Table of contents</comment>
-        <translation type="obsolete">Sisällöt</translation>
+        <translation type="unfinished">Sisällöt</translation>
     </message>
     <message>
         <source>Index</source>
         <comment>Keyword index name</comment>
-        <translation type="obsolete">Indeksi</translation>
+        <translation type="unfinished">Indeksi</translation>
     </message>
 </context>
 <context>
     <name>lib/eztemplate</name>
     <message>
         <source>Some template errors occurred, see debug for more information.</source>
-        <translation type="obsolete">Joitain mallivirheitä on ilmentynyt, katso llisätietoja virheenpoistosta.</translation>
+        <translation type="unfinished">Joitain mallivirheitä on ilmentynyt, katso llisätietoja virheenpoistosta.</translation>
     </message>
 </context>
 <context>
     <name>lib/template</name>
     <message>
         <source>The maximum nesting level of %max has been reached. The execution is stopped to avoid infinite recursion.</source>
-        <translation type="obsolete">Maksimi sisäkkäinasettamistaso %max on saavutettu. Suoritus on pysäytetty loppumattoman toiston välttämiseksi.</translation>
+        <translation type="unfinished">Maksimi sisäkkäinasettamistaso %max on saavutettu. Suoritus on pysäytetty loppumattoman toiston välttämiseksi.</translation>
     </message>
 </context>
 <context>
     <name>pdf/edit</name>
     <message>
         <source>PDF Export</source>
-        <translation type="obsolete">PDF-vienti</translation>
+        <translation type="unfinished">PDF-vienti</translation>
     </message>
 </context>
 <context>
     <name>settings/edit</name>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">Asetukset</translation>
+        <translation type="unfinished">Asetukset</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">Muokkaa</translation>
+        <translation type="unfinished">Muokkaa</translation>
     </message>
 </context>
 <context>
     <name>settings/view</name>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">Asetukset</translation>
+        <translation type="unfinished">Asetukset</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">Näkymä</translation>
+        <translation type="unfinished">Näkymä</translation>
     </message>
 </context>
 <context>
     <name>shop</name>
     <message>
         <source>Remove orders</source>
-        <translation type="obsolete">Poista tilaukset</translation>
+        <translation type="unfinished">Poista tilaukset</translation>
     </message>
 </context>
 <context>

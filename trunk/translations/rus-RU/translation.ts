@@ -1,4 +1,6 @@
-<!DOCTYPE TS><TS>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0">
 <context>
     <name>contentstructuremenu/show_content_structure</name>
     <message>
@@ -358,10 +360,6 @@
         <translation>Тип данных &lt;%datatype_name&gt; не может использоваться в качестве центра сбора информации.</translation>
     </message>
     <message>
-        <source>Edit &lt;%class_name&gt; (%object_count)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Description</source>
         <translation type="unfinished">Описание</translation>
     </message>
@@ -391,6 +389,14 @@
     </message>
     <message>
         <source>Category</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit &lt;%class_name&gt; (%object_count objects)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The draft of the class definition was successfully stored.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1615,6 +1621,26 @@
     <message>
         <source>No media file is available.</source>
         <translation>Нет доступных медиа файлов.</translation>
+    </message>
+    <message>
+        <source>Year</source>
+        <translation type="unfinished">Год</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation type="unfinished">Месяц</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation type="unfinished">День</translation>
+    </message>
+    <message>
+        <source>Hour</source>
+        <translation type="unfinished">Час</translation>
+    </message>
+    <message>
+        <source>Minute</source>
+        <translation type="unfinished">Минута</translation>
     </message>
 </context>
 <context>
@@ -5163,6 +5189,14 @@
         <source>The lines marked with red contain more than the maximum possible nodes for subtree removal and will not be deleted. You can remove this subtree using the ezsubtreeremove.php script.</source>
         <translation>Строчки, отмеченные красным цветом, содержат количество узлов, превышающее максимальное для удаления ветви, и не будут удалены. Вы можете удалить эту ветвь с помощью скрипта ezsubtreeremove.php.</translation>
     </message>
+    <message>
+        <source>Pending sub-object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removal failed because there is pending sub object under the node. Please finish the relevant process then redo the removal.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/node/view</name>
@@ -5909,10 +5943,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tab is disabled, enable on dashboard.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Translations (%count)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5938,22 +5968,14 @@
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished">Создать</translation>
+        <translation type="obsolete">Создать</translation>
     </message>
     <message>
         <source>in</source>
-        <translation type="unfinished">в</translation>
-    </message>
-    <message>
-        <source>Here</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">в</translation>
     </message>
     <message>
         <source>Published order</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>List of sub items of current node, with controlls to edit, remove and move them directly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6026,6 +6048,90 @@
     </message>
     <message>
         <source>Language list of translations for current object.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tab is disabled, enable with toggler to the left of these tabs.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show simplified view of content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ordering</source>
+        <translation type="unfinished">Сортировка</translation>
+    </message>
+    <message>
+        <source>Show published ordering overview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Node remote ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object remote ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of items per page:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visible table columns:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished">Выбрать</translation>
+    </message>
+    <message>
+        <source>Select all visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select none</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new</source>
+        <translation type="unfinished">Создать</translation>
+    </message>
+    <message>
+        <source>More actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use the checkboxes to select one or more items.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>prev</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>last</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6648,27 +6754,27 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Content structure</source>
-        <translation type="obsolete">Структура сайта</translation>
+        <translation type="unfinished">Структура сайта</translation>
     </message>
     <message>
         <source>Media library</source>
-        <translation type="obsolete">Библиотека файлов</translation>
+        <translation type="unfinished">Библиотека файлов</translation>
     </message>
     <message>
         <source>User accounts</source>
-        <translation type="obsolete">Учетные записи</translation>
+        <translation type="unfinished">Учетные записи</translation>
     </message>
     <message>
         <source>Webshop</source>
-        <translation type="obsolete">Интернет-магазин</translation>
+        <translation type="unfinished">Интернет-магазин</translation>
     </message>
     <message>
         <source>Setup</source>
-        <translation type="obsolete">Настройка</translation>
+        <translation type="unfinished">Настройка</translation>
     </message>
     <message>
         <source>Design</source>
-        <translation type="obsolete">Дизайн</translation>
+        <translation type="unfinished">Дизайн</translation>
     </message>
     <message>
         <source>My account</source>
@@ -6712,31 +6818,31 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Manage the main content structure of the site.</source>
-        <translation type="obsolete">Управление структурой и материалами сайта.</translation>
+        <translation type="unfinished">Управление структурой и материалами сайта.</translation>
     </message>
     <message>
         <source>Manage images, files, documents, etc.</source>
-        <translation type="obsolete">Управление файлами изображений, документов и т.д.</translation>
+        <translation type="unfinished">Управление файлами изображений, документов и т.д.</translation>
     </message>
     <message>
         <source>Manage users, user groups and permission settings.</source>
-        <translation type="obsolete">Управление пользователями, группами и правами доступа.</translation>
+        <translation type="unfinished">Управление пользователями, группами и правами доступа.</translation>
     </message>
     <message>
         <source>Manage customers, orders, discounts and VAT types; view sales statistics.</source>
-        <translation type="obsolete">Управление покупателями, заказами, скидками, налогами. Просмотр статистики покупок.</translation>
+        <translation type="unfinished">Управление покупателями, заказами, скидками, налогами. Просмотр статистики покупок.</translation>
     </message>
     <message>
         <source>Manage templates, menus, toolbars and other things related to appearence.</source>
-        <translation type="obsolete">Управление шаблонами, меню, панелями иструментов и остальными элементами внешнего вида сайта.</translation>
+        <translation type="unfinished">Управление шаблонами, меню, панелями иструментов и остальными элементами внешнего вида сайта.</translation>
     </message>
     <message>
         <source>Configure settings and manage advanced functionality.</source>
-        <translation type="obsolete">Настройки сайта и дополнительные возможности.</translation>
+        <translation type="unfinished">Настройки сайта и дополнительные возможности.</translation>
     </message>
     <message>
         <source>Manage items and settings that belong to your account.</source>
-        <translation type="obsolete">Управление своей учетной записью.</translation>
+        <translation type="unfinished">Управление своей учетной записью.</translation>
     </message>
     <message>
         <source>Change password for &lt;%username&gt;.</source>
@@ -6819,7 +6925,11 @@ Note: The packages will not be uninstalled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>User perferences</source>
+        <source>Dashboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User preferences</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7014,15 +7124,19 @@ Note: The packages will not be uninstalled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preview tab</source>
+        <source>Enable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Disable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
+        <source>Disable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
+        <source>Enable &amp;quot;Tabs&amp;quot; by default while browsing content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable &amp;quot;Tabs&amp;quot; by default while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7584,6 +7698,14 @@ Note: The packages will not be uninstalled.</source>
         <source>New translation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Sitemap for subtree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/preview/article</name>
@@ -7636,6 +7758,10 @@ Note: The packages will not be uninstalled.</source>
     <message>
         <source>Your email address</source>
         <translation>Ваш E-mail</translation>
+    </message>
+    <message>
+        <source>Your name</source>
+        <translation type="unfinished">Ваше имя</translation>
     </message>
 </context>
 <context>
@@ -8986,6 +9112,26 @@ Note: The packages will not be uninstalled.</source>
         <source>Navigation part</source>
         <translation>Часть навигации</translation>
     </message>
+    <message>
+        <source>Identifier can not be empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier should consist of letters, numbers or &apos;_&apos; with letter prefix.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The identifier has been used in another section.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section edit error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/section/list</name>
@@ -9055,6 +9201,10 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Assign a subtree to the &lt;%section_name&gt; section.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9138,6 +9288,10 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Assign subtree of objects to this section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9555,7 +9709,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source></source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -9617,7 +9771,15 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished">Активировать</translation>
+        <translation type="obsolete">Активировать</translation>
+    </message>
+    <message>
+        <source>Activate or deactivate extension. Use the &quot;Update&quot; button to apply the changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished">Обновить</translation>
     </message>
 </context>
 <context>
@@ -9800,7 +9962,7 @@ Note: The packages will not be uninstalled.</source>
     <message>
         <source>SVN revision</source>
         <comment>eZ Publish version</comment>
-        <translation>SVN ревизия</translation>
+        <translation type="obsolete">SVN ревизия</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -10199,10 +10361,6 @@ Note: The packages will not be uninstalled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your alternatives are to:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10216,6 +10374,10 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The operation was cut short in order to avoid execution timeout.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10991,7 +11153,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>New discount rule</source>
-        <translation type="obsolete">Новое правило скидок</translation>
+        <translation type="unfinished">Новое правило скидок</translation>
     </message>
     <message>
         <source>Product types</source>
@@ -12009,10 +12171,6 @@ Note: The packages will not be uninstalled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save changes to this states.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation type="unfinished">Отменить</translation>
     </message>
@@ -12034,6 +12192,10 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Description:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save changes to this state.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14211,6 +14373,29 @@ your account.</source>
     </message>
 </context>
 <context>
+    <name>design/ezwebin/content/datatype</name>
+    <message>
+        <source>Year</source>
+        <translation type="obsolete">Год</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation type="obsolete">Месяц</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation type="obsolete">День</translation>
+    </message>
+    <message>
+        <source>Hour</source>
+        <translation type="obsolete">Час</translation>
+    </message>
+    <message>
+        <source>Minute</source>
+        <translation type="obsolete">Минута</translation>
+    </message>
+</context>
+<context>
     <name>design/plain/layout</name>
     <message>
         <source>Advanced search</source>
@@ -14894,7 +15079,15 @@ your account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>seconds(s)</source>
+        <source>Html5 Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Html5 Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>second(s)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16370,6 +16563,30 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>Find objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The related objects will be edited in the same language as this object. If such translations do not exist they will be created, based on the source language of your choice.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation base</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This object is already translated, the existing translation will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This object is not translated, please select the language the new translation will be based on.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your browser does not support html5 video.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your browser does not support html5 audio.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -20778,7 +20995,7 @@ By using %operatorname you can ...</source>
     <message>
         <source>SVN revision</source>
         <comment>eZ Publish version</comment>
-        <translation>SVN ревизия</translation>
+        <translation type="obsolete">SVN ревизия</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -21341,23 +21558,23 @@ The default code was made from the basic parameters you chose.</source>
     </message>
     <message>
         <source>The database would not accept the connection, please review your settings and try again.</source>
-        <translation type="obsolete">Невозможно подключение к БД. Проверьте настройки и попробуйте еще раз.</translation>
+        <translation type="unfinished">Невозможно подключение к БД. Проверьте настройки и попробуйте еще раз.</translation>
     </message>
     <message>
         <source>Password entries did not match.</source>
-        <translation type="obsolete">Пароль и его подтверждение не совпадают.</translation>
+        <translation type="unfinished">Пароль и его подтверждение не совпадают.</translation>
     </message>
     <message>
         <source>The selected database was not empty, please choose from the alternatives below.</source>
-        <translation type="obsolete">Выбранная БД не пуста, выберите варианты действий.</translation>
+        <translation type="unfinished">Выбранная БД не пуста, выберите варианты действий.</translation>
     </message>
     <message>
         <source>Database initalization</source>
-        <translation type="obsolete">Инициализация БД</translation>
+        <translation type="unfinished">Инициализация БД</translation>
     </message>
     <message>
         <source>Email settings</source>
-        <translation type="obsolete">Почтовые настройки</translation>
+        <translation type="unfinished">Почтовые настройки</translation>
     </message>
     <message>
         <source>Finished</source>
@@ -21365,19 +21582,19 @@ The default code was made from the basic parameters you chose.</source>
     </message>
     <message>
         <source>Language options</source>
-        <translation type="obsolete">Языковые параметры</translation>
+        <translation type="unfinished">Языковые параметры</translation>
     </message>
     <message>
         <source>Registration</source>
-        <translation type="obsolete">Регистрация</translation>
+        <translation type="unfinished">Регистрация</translation>
     </message>
     <message>
         <source>Securing site</source>
-        <translation type="obsolete">Настройки безопасности</translation>
+        <translation type="unfinished">Настройки безопасности</translation>
     </message>
     <message>
         <source>Site access</source>
-        <translation type="obsolete">Сайт</translation>
+        <translation type="unfinished">Сайт</translation>
     </message>
     <message>
         <source>Site details</source>
@@ -21385,7 +21602,7 @@ The default code was made from the basic parameters you chose.</source>
     </message>
     <message>
         <source>Site template selection</source>
-        <translation type="obsolete">Выбор шаблона для сайта</translation>
+        <translation type="unfinished">Выбор шаблона для сайта</translation>
     </message>
     <message>
         <source>System check</source>
@@ -21801,7 +22018,7 @@ To fix this problem you must do one of the following:</source>
     </message>
     <message>
         <source>Site selection</source>
-        <translation type="obsolete">Выбор сайта</translation>
+        <translation type="unfinished">Выбор сайта</translation>
     </message>
     <message>
         <source>You need to fill in the first name.</source>
@@ -21890,11 +22107,11 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>Please make sure that the username and the password is correct. Verify that your PostgreSQL database is configured correctly.&lt;br&gt;See the PHP documentation for more information about this.&lt;br&gt;Remember to start postmaster with the -i option.&lt;br&gt;Note that PostgreSQL 7.2 is not supported.</source>
-        <translation type="obsolete">Проверьте, чтобы имя и пароль были правильными. Удостоверьтесь, что PostgreSQL сконфигурирована правильно.Читайте документацию к PHP об этом. Не забудьте запускать postmaster  с опцией -i. Заметьте, что PostgreSQL 7.2 не поддерживается.</translation>
+        <translation type="unfinished">Проверьте, чтобы имя и пароль были правильными. Удостоверьтесь, что PostgreSQL сконфигурирована правильно.Читайте документацию к PHP об этом. Не забудьте запускать postmaster  с опцией -i. Заметьте, что PostgreSQL 7.2 не поддерживается.</translation>
     </message>
     <message>
         <source>Your database version %version does not fit the minimum requirement which is %req_version.</source>
-        <translation type="obsolete">Версия вашей БД %version, что не соответствует минимальным требованиям (%req_version).</translation>
+        <translation type="unfinished">Версия вашей БД %version, что не соответствует минимальным требованиям (%req_version).</translation>
     </message>
     <message>
         <source>The setup wizard was not able to complete the creation of your selected sites.</source>
@@ -21928,23 +22145,23 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>Cannot write to file</source>
-        <translation type="obsolete">Не возможна запись в файл</translation>
+        <translation type="unfinished">Не возможна запись в файл</translation>
     </message>
     <message>
         <source>Download of package &apos;%pkg&apos; failed. You may upload the package manually.</source>
-        <translation type="obsolete">Загрузка пакета &apos;%pkg&apos; невозможна. Вы можете загрузить его в ручном режиме позже.</translation>
+        <translation type="unfinished">Загрузка пакета &apos;%pkg&apos; невозможна. Вы можете загрузить его в ручном режиме позже.</translation>
     </message>
     <message>
         <source>Invalid package</source>
-        <translation type="obsolete">Неправильный пакет</translation>
+        <translation type="unfinished">Неправильный пакет</translation>
     </message>
     <message>
         <source>No package selected for upload</source>
-        <translation type="obsolete">Для загрузки не выбрано пакетов</translation>
+        <translation type="unfinished">Для загрузки не выбрано пакетов</translation>
     </message>
     <message>
         <source>Failed fetching upload package file</source>
-        <translation type="obsolete">Сбой при раскрытии пакета</translation>
+        <translation type="unfinished">Сбой при раскрытии пакета</translation>
     </message>
     <message>
         <source>Site package</source>
@@ -21968,11 +22185,11 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>The database [%database_name] cannot be used, the setup wizard wants to create the site in [%req_charset] but the database has been created using character set [%charset]. You will have to choose a database having support for [%req_charset] or modify [%database_name] .</source>
-        <translation type="obsolete">База данных [%database_name] не может быть использована. Мастер установки хочет создать ее в кодировке [%req_charset], а БД создана в кодировке [%charset]. Вам нужно выбрать БД, поддерживающую кодировку [%req_charset] или изменить БД [%database_name] .</translation>
+        <translation type="unfinished">База данных [%database_name] не может быть использована. Мастер установки хочет создать ее в кодировке [%req_charset], а БД создана в кодировке [%charset]. Вам нужно выбрать БД, поддерживающую кодировку [%req_charset] или изменить БД [%database_name] .</translation>
     </message>
     <message>
         <source>Failed to copy %url to local file %filename</source>
-        <translation type="obsolete">Невозможно скопировать %url в локальный файл %filename</translation>
+        <translation type="unfinished">Невозможно скопировать %url в локальный файл %filename</translation>
     </message>
     <message>
         <source>Access method</source>
@@ -21996,7 +22213,7 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>Package &apos;%packageName&apos; and it&apos;s dependencies have been downloaded successfully. Press &apos;Next&apos; to continue.</source>
-        <translation type="obsolete">Пакет &apos;%packageName&apos; и его зависимые были загружены успешно. Нажмите &apos;Далее&apos; для продолжения.</translation>
+        <translation type="unfinished">Пакет &apos;%packageName&apos; и его зависимые были загружены успешно. Нажмите &apos;Далее&apos; для продолжения.</translation>
     </message>
     <message>
         <source>Use the radio buttons to choose the default language, and the checkboxes to choose additional languages. You will be able to use any of the selected languages for translating your content. The default language will determine the locale settings and will be used as the most prioritized language for your site.</source>
@@ -22266,7 +22483,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>The selected user has not got access to any databases. Change user or create a database for the user.</source>
-        <translation type="obsolete">Выбранный пользовате не получил доступ ни к одной из БД. Смените пользователя или создайте для него БД.</translation>
+        <translation type="unfinished">Выбранный пользовате не получил доступ ни к одной из БД. Смените пользователя или создайте для него БД.</translation>
     </message>
     <message>
         <source>The &apos;digest&apos; procedure is not available in your database, you cannot run eZ Publish without this. Visit the FAQ for more information.</source>
@@ -22274,27 +22491,27 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>No packages chosen.</source>
-        <translation type="obsolete">Пакеты не выбраны.</translation>
+        <translation type="unfinished">Пакеты не выбраны.</translation>
     </message>
     <message>
         <source>No templates chosen.</source>
-        <translation type="obsolete">Шаблоны не выбраны.</translation>
+        <translation type="unfinished">Шаблоны не выбраны.</translation>
     </message>
     <message>
         <source>Uploaded file is not an eZ Publish package</source>
-        <translation type="obsolete">Выгруженный файл не является пакетом eZ Publish</translation>
+        <translation type="unfinished">Выгруженный файл не является пакетом eZ Publish</translation>
     </message>
     <message>
         <source>No site package chosen.</source>
-        <translation type="obsolete">Пакет сайта не выбран.</translation>
+        <translation type="unfinished">Пакет сайта не выбран.</translation>
     </message>
     <message>
         <source>Retrieving remote site packages list failed. You may upload packages manually.</source>
-        <translation type="obsolete">Неудачная попытка получения удаленного списка пакетов сайта. Вы можете выгрузить пакеты вручную.</translation>
+        <translation type="unfinished">Неудачная попытка получения удаленного списка пакетов сайта. Вы можете выгрузить пакеты вручную.</translation>
     </message>
     <message>
         <source>Welcome to eZ Publish</source>
-        <translation type="obsolete">Добро пожаловать в eZ Publish</translation>
+        <translation type="unfinished">Добро пожаловать в eZ Publish</translation>
     </message>
     <message>
         <source>If you think you have fixed the errors you can try then click the &quot;Retry&quot; button.</source>
@@ -22351,6 +22568,10 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>PostgreSQL support was detected on your system. Please choose the database driver you would like to use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The &apos;digest&apos; function is not available in your database, you cannot run eZ Publish without this. See the documentation for more information.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -22484,10 +22705,6 @@ This functionality is also available at a later time from the Administration Int
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your alternatives are to:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22501,6 +22718,14 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The operation was cut short in order to avoid execution timeout.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your current session handler does not support session administration.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -24040,7 +24265,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     <name>design/standard/toolbar</name>
     <message>
         <source>Toolbar management</source>
-        <translation type="obsolete">Управление Панелями инструментов</translation>
+        <translation type="unfinished">Управление Панелями инструментов</translation>
     </message>
     <message>
         <source>There are %logged_in_count registered and %anonymous_count anonymous users online.</source>
@@ -24510,7 +24735,7 @@ To do this you need to change the %chown commands under Alternative shell comman
     </message>
     <message>
         <source>The node (%1) specified in [UserSettings].DefaultUserPlacement setting in site.ini does not exist!</source>
-        <translation type="obsolete">Узел (%1) указанный в файле настроек site.ini, [UserSettings].DefaultUserPlacement не найден!</translation>
+        <translation type="unfinished">Узел (%1) указанный в файле настроек site.ini, [UserSettings].DefaultUserPlacement не найден!</translation>
     </message>
     <message>
         <source>Email</source>
@@ -25375,78 +25600,98 @@ your account.</source>
     <name>kernel/cache</name>
     <message>
         <source>Content view cache</source>
-        <translation type="obsolete">Кэш содержимого</translation>
+        <translation type="unfinished">Кэш содержимого</translation>
     </message>
     <message>
         <source>Global INI cache</source>
-        <translation type="obsolete">Кэш глобальных настроек</translation>
+        <translation type="unfinished">Кэш глобальных настроек</translation>
     </message>
     <message>
         <source>INI cache</source>
-        <translation type="obsolete">Кэш настроек</translation>
+        <translation type="unfinished">Кэш настроек</translation>
     </message>
     <message>
         <source>Codepage cache</source>
-        <translation type="obsolete">Кэш кодировок</translation>
+        <translation type="unfinished">Кэш кодировок</translation>
     </message>
     <message>
         <source>Class identifier cache</source>
-        <translation type="obsolete">Кэш идентификаторов классов</translation>
+        <translation type="unfinished">Кэш идентификаторов классов</translation>
     </message>
     <message>
         <source>Sort key cache</source>
-        <translation type="obsolete">Кэш полей сортировки</translation>
+        <translation type="unfinished">Кэш полей сортировки</translation>
     </message>
     <message>
         <source>URL alias cache</source>
-        <translation type="obsolete">Кэш преобразований адресов</translation>
+        <translation type="unfinished">Кэш преобразований адресов</translation>
     </message>
     <message>
         <source>Image alias</source>
-        <translation type="obsolete">Кэш преобразований изображений</translation>
+        <translation type="unfinished">Кэш преобразований изображений</translation>
     </message>
     <message>
         <source>Template cache</source>
-        <translation type="obsolete">Кэш шаблонов</translation>
+        <translation type="unfinished">Кэш шаблонов</translation>
     </message>
     <message>
         <source>Template block cache</source>
-        <translation type="obsolete">Кэш блоков в шаблонах</translation>
+        <translation type="unfinished">Кэш блоков в шаблонах</translation>
     </message>
     <message>
         <source>Template override cache</source>
-        <translation type="obsolete">Кэш замещающих шаблонов</translation>
+        <translation type="unfinished">Кэш замещающих шаблонов</translation>
     </message>
     <message>
         <source>RSS cache</source>
-        <translation type="obsolete">Кэш RSS лент</translation>
+        <translation type="unfinished">Кэш RSS лент</translation>
     </message>
     <message>
         <source>Character transformation cache</source>
-        <translation type="obsolete">Кэш преобразований символов</translation>
+        <translation type="unfinished">Кэш преобразований символов</translation>
     </message>
     <message>
         <source>User info cache</source>
-        <translation type="obsolete">Кэш пользовательских данных</translation>
+        <translation type="unfinished">Кэш пользовательских данных</translation>
     </message>
     <message>
         <source>Content tree menu (browser cache)</source>
-        <translation type="obsolete">Меню дерева содержимого (кэш браузера)</translation>
+        <translation type="unfinished">Меню дерева содержимого (кэш браузера)</translation>
+    </message>
+    <message>
+        <source>Text to image cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>State limitations cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Design base cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Active extensions cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TS Translation cache</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/class</name>
     <message>
         <source>Class list of group</source>
-        <translation type="obsolete">Список классов группы</translation>
+        <translation type="unfinished">Список классов группы</translation>
     </message>
     <message>
         <source>Class group list</source>
-        <translation type="obsolete">Список групп классов</translation>
+        <translation type="unfinished">Список групп классов</translation>
     </message>
     <message>
         <source>Remove class</source>
-        <translation type="obsolete">Удалить класс</translation>
+        <translation type="unfinished">Удалить класс</translation>
     </message>
     <message>
         <source>Class edit</source>
@@ -25458,977 +25703,1022 @@ your account.</source>
     </message>
     <message>
         <source>Class list</source>
-        <translation type="obsolete">Список классов</translation>
+        <translation type="unfinished">Список классов</translation>
     </message>
     <message>
         <source>(no classes)</source>
-        <translation type="obsolete">нет классов</translation>
+        <translation type="unfinished">нет классов</translation>
     </message>
     <message>
         <source>Remove class groups</source>
-        <translation type="obsolete">Удалить группы классов</translation>
+        <translation type="unfinished">Удалить группы классов</translation>
     </message>
     <message>
         <source>You have to have at least one group that the class belongs to!</source>
-        <translation type="obsolete">Необходимо иметь хотя бы одну группу, каторой будет принадлежать класс!</translation>
+        <translation type="unfinished">Необходимо иметь хотя бы одну группу, каторой будет принадлежать класс!</translation>
     </message>
     <message>
         <source>Remove classes %class_id</source>
-        <translation type="obsolete">Удалить классы %class_id.</translation>
+        <translation type="unfinished">Удалить классы %class_id.</translation>
     </message>
     <message>
         <source>Copy of %class_name</source>
-        <translation type="obsolete">*Копия %class_name</translation>
+        <translation type="unfinished">*Копия %class_name</translation>
     </message>
     <message>
         <source>The class should have nonempty &apos;Name&apos; attribute.</source>
-        <translation type="obsolete">Класс должен иметь заполненный атрибут &apos;Название&apos;</translation>
+        <translation type="unfinished">Класс должен иметь заполненный атрибут &apos;Название&apos;</translation>
     </message>
     <message>
         <source>The class should have at least one attribute.</source>
-        <translation type="obsolete">Класс должен иметь минимум 1 атрибут</translation>
+        <translation type="unfinished">Класс должен иметь минимум 1 атрибут</translation>
     </message>
     <message>
         <source>There is a class already having the same identifier.</source>
-        <translation type="obsolete">Пожалуйста выберите другой, незанятый идентификатор класса</translation>
+        <translation type="unfinished">Пожалуйста выберите другой, незанятый идентификатор класса</translation>
     </message>
     <message>
         <source>Remove translation</source>
-        <translation type="obsolete">Удалить перевод</translation>
+        <translation type="unfinished">Удалить перевод</translation>
     </message>
     <message>
         <source>Could not load datatype: </source>
-        <translation type="obsolete">Не удалось загрузить тип данных:</translation>
+        <translation type="unfinished">Не удалось загрузить тип данных:</translation>
     </message>
     <message>
         <source>Editing this content class may cause data corruption in your system.</source>
-        <translation type="obsolete">Редактирвоание данного класса содержания может привести к повреждению данных в вашей системе.</translation>
+        <translation type="unfinished">Редактирвоание данного класса содержания может привести к повреждению данных в вашей системе.</translation>
     </message>
     <message>
         <source>duplicate attribute placement</source>
-        <translation type="obsolete">дублировать расположение атрибута</translation>
+        <translation type="unfinished">дублировать расположение атрибута</translation>
     </message>
     <message>
         <source>duplicate attribute identifier</source>
-        <translation type="obsolete">дублировать идентификатор атрибута</translation>
+        <translation type="unfinished">дублировать идентификатор атрибута</translation>
     </message>
     <message>
         <source>Press &quot;Cancel&quot; to safely exit this operation.</source>
-        <translation type="obsolete">Для безопасного завершения данной операции, нажмите кнопку &quot;Отмена&quot;.</translation>
+        <translation type="unfinished">Для безопасного завершения данной операции, нажмите кнопку &quot;Отмена&quot;.</translation>
     </message>
     <message>
         <source>Please contact your eZ Publish administrator to solve this problem.</source>
-        <translation type="obsolete">Для того чтобы разрешить проблему, обратитесь к администратору eZ Publish.</translation>
+        <translation type="unfinished">Для того чтобы разрешить проблему, обратитесь к администратору eZ Publish.</translation>
+    </message>
+    <message>
+        <source>Class groups</source>
+        <translation type="unfinished">Группы классов</translation>
+    </message>
+    <message>
+        <source>Remove classes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/class/edit</name>
     <message>
         <source>New Class</source>
-        <translation type="obsolete">Новый класс</translation>
+        <translation type="unfinished">Новый класс</translation>
     </message>
     <message>
         <source>new attribute</source>
-        <translation type="obsolete">новый атрибут</translation>
+        <translation type="unfinished">новый атрибут</translation>
     </message>
 </context>
 <context>
     <name>kernel/class/groupedit</name>
     <message>
         <source>New Group</source>
-        <translation type="obsolete">Новая группа</translation>
+        <translation type="unfinished">Новая группа</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes</name>
     <message>
         <source>Approval</source>
-        <translation type="obsolete">Подтверждение</translation>
+        <translation type="unfinished">Подтверждение</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="obsolete">Стандартные</translation>
+        <translation type="unfinished">Стандартные</translation>
     </message>
     <message>
         <source>Observer</source>
-        <translation type="obsolete">Наблюдатель</translation>
+        <translation type="unfinished">Наблюдатель</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="obsolete">Владелец</translation>
+        <translation type="unfinished">Владелец</translation>
     </message>
     <message>
         <source>Approver</source>
-        <translation type="obsolete">Редактор</translation>
+        <translation type="unfinished">Редактор</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation type="obsolete">Автор</translation>
+        <translation type="unfinished">Автор</translation>
     </message>
     <message>
         <source>Inbox</source>
-        <translation type="obsolete">Входящие</translation>
+        <translation type="unfinished">Входящие</translation>
     </message>
     <message>
         <source>No state yet</source>
-        <translation type="obsolete">Еще не определен статус</translation>
+        <translation type="unfinished">Еще не определен статус</translation>
     </message>
     <message>
         <source>Workflow running</source>
-        <translation type="obsolete">Процесс выполняется</translation>
+        <translation type="unfinished">Процесс выполняется</translation>
     </message>
     <message>
         <source>Workflow done</source>
-        <translation type="obsolete">Процесс закончен</translation>
+        <translation type="unfinished">Процесс закончен</translation>
     </message>
     <message>
         <source>Workflow failed an event</source>
-        <translation type="obsolete">Процесс прервался на событии</translation>
+        <translation type="unfinished">Процесс прервался на событии</translation>
     </message>
     <message>
         <source>Workflow event deferred to cron job</source>
-        <translation type="obsolete">Событие процесса перенаправленно на выполнение cron-демону</translation>
+        <translation type="unfinished">Событие процесса перенаправленно на выполнение cron-демону</translation>
     </message>
     <message>
         <source>Workflow was reset for reuse</source>
-        <translation type="obsolete">Процесс был переинициализирован для повторного использования</translation>
+        <translation type="unfinished">Процесс был переинициализирован для повторного использования</translation>
     </message>
     <message>
         <source>Accepted event</source>
-        <translation type="obsolete">Принятое событие</translation>
+        <translation type="unfinished">Принятое событие</translation>
     </message>
     <message>
         <source>Rejected event</source>
-        <translation type="obsolete">Отброшенное событие</translation>
+        <translation type="unfinished">Отброшенное событие</translation>
     </message>
     <message>
         <source>Event deferred to cron job</source>
-        <translation type="obsolete">Событие перенаправленно cron-демону</translation>
+        <translation type="unfinished">Событие перенаправленно cron-демону</translation>
     </message>
     <message>
         <source>Event deferred to cron job, event will be rerun</source>
-        <translation type="obsolete">Событие процесса перенаправленно на выполнение cron-демону, событи будет начато с начала</translation>
+        <translation type="unfinished">Событие процесса перенаправленно на выполнение cron-демону, событи будет начато с начала</translation>
     </message>
     <message>
         <source>Event runs a sub event</source>
-        <translation type="obsolete">Событие выполняет подсобытие</translation>
+        <translation type="unfinished">Событие выполняет подсобытие</translation>
     </message>
     <message>
         <source>Workflow fetches template</source>
-        <translation type="obsolete">Процесс использует шаблон</translation>
+        <translation type="unfinished">Процесс использует шаблон</translation>
     </message>
     <message>
         <source>Workflow redirects user view</source>
-        <translation type="obsolete">Процесс перенаправляет </translation>
+        <translation type="unfinished">Процесс перенаправляет </translation>
     </message>
     <message>
         <source>New RSS Export</source>
-        <translation type="obsolete">Новый экспорт RSS</translation>
+        <translation type="unfinished">Новый экспорт RSS</translation>
     </message>
     <message>
         <source>Workflow was canceled</source>
-        <translation type="obsolete">Процесс отменен</translation>
+        <translation type="unfinished">Процесс отменен</translation>
     </message>
     <message>
         <source>Canceled whole workflow</source>
-        <translation type="obsolete">Весь процесс отменен</translation>
+        <translation type="unfinished">Весь процесс отменен</translation>
     </message>
     <message>
         <source>Keep existing and create a new one</source>
-        <translation type="obsolete">Сохранить имеющийся и создать новый</translation>
+        <translation type="unfinished">Сохранить имеющийся и создать новый</translation>
+    </message>
+    <message>
+        <source>Replace existing object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update existing object</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes</name>
     <message>
         <source>Missing date input.</source>
-        <translation type="obsolete">Не указана дата при вводе.</translation>
+        <translation type="unfinished">Не указана дата при вводе.</translation>
     </message>
     <message>
         <source>Missing datetime input.</source>
-        <translation type="obsolete">Не указаны дата и время при вводе.</translation>
+        <translation type="unfinished">Не указаны дата и время при вводе.</translation>
     </message>
     <message>
         <source>At least one author is required.</source>
-        <translation type="obsolete">По крайней мере один автор должен быть указан.</translation>
+        <translation type="unfinished">По крайней мере один автор должен быть указан.</translation>
     </message>
     <message>
         <source>A valid file is required.</source>
-        <translation type="obsolete">Необходим правильный файл.</translation>
+        <translation type="unfinished">Необходим правильный файл.</translation>
     </message>
     <message>
         <source>Checkbox</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Флажок</translation>
+        <translation type="unfinished">Флажок</translation>
     </message>
     <message>
         <source>Email</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Электронная почта</translation>
+        <translation type="unfinished">Электронная почта</translation>
     </message>
     <message>
         <source>Enum</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Поле со списком</translation>
+        <translation type="unfinished">Поле со списком</translation>
     </message>
     <message>
         <source>At least one field should be chosen.</source>
-        <translation type="obsolete">Хотя бы одно поле должно быть выбрано.</translation>
+        <translation type="unfinished">Хотя бы одно поле должно быть выбрано.</translation>
     </message>
     <message>
         <source>Float</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Вещ. число</translation>
+        <translation type="unfinished">Вещ. число</translation>
     </message>
     <message>
         <source>Image</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Изображение</translation>
+        <translation type="unfinished">Изображение</translation>
     </message>
     <message>
         <source>Integer</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Целое число</translation>
+        <translation type="unfinished">Целое число</translation>
     </message>
     <message>
         <source>ISBN</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">ISBN</translation>
+        <translation type="unfinished">ISBN</translation>
     </message>
     <message>
         <source>Matrix</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Таблица</translation>
+        <translation type="unfinished">Таблица</translation>
     </message>
     <message>
         <source>Media</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Медиа</translation>
+        <translation type="unfinished">Медиа</translation>
     </message>
     <message>
         <source>Object relation</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Связь с объектом</translation>
+        <translation type="unfinished">Связь с объектом</translation>
     </message>
     <message>
         <source>Option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">shop - Опция</translation>
+        <translation type="unfinished">shop - Опция</translation>
     </message>
     <message>
         <source>At least one option is required.</source>
-        <translation type="obsolete">Необходима по крайней мере одна опция.</translation>
+        <translation type="unfinished">Необходима по крайней мере одна опция.</translation>
     </message>
     <message>
         <source>Price</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">shop - Цена</translation>
+        <translation type="unfinished">shop - Цена</translation>
     </message>
     <message>
         <source>Add to basket</source>
-        <translation type="obsolete">Добавить в корзину</translation>
+        <translation type="unfinished">Добавить в корзину</translation>
     </message>
     <message>
         <source>Add to wish list</source>
-        <translation type="obsolete">Добавить в список пожеланий</translation>
+        <translation type="unfinished">Добавить в список пожеланий</translation>
     </message>
     <message>
         <source>Range option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">shop - Опция - числовой ряд</translation>
+        <translation type="unfinished">shop - Опция - числовой ряд</translation>
     </message>
     <message>
         <source>Selection</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Выбор</translation>
+        <translation type="unfinished">Выбор</translation>
     </message>
     <message>
         <source>Text line</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Строка текста</translation>
+        <translation type="unfinished">Строка текста</translation>
     </message>
     <message>
         <source>Subtree subscription</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Х Подписка на поддерево </translation>
+        <translation type="unfinished">Х Подписка на поддерево </translation>
     </message>
     <message>
         <source>URL</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">URL</translation>
+        <translation type="unfinished">URL</translation>
     </message>
     <message>
         <source>User account</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Учетная запись</translation>
+        <translation type="unfinished">Учетная запись</translation>
     </message>
     <message>
         <source>A user with this email already exists.</source>
-        <translation type="obsolete">Пользователь с таким адресом электронной почты уже существует.</translation>
+        <translation type="unfinished">Пользователь с таким адресом электронной почты уже существует.</translation>
     </message>
     <message>
         <source>Identifier</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Счетчик</translation>
+        <translation type="unfinished">Счетчик</translation>
     </message>
     <message>
         <source>image</source>
         <comment>Default image name</comment>
-        <translation type="obsolete">изображение</translation>
+        <translation type="unfinished">изображение</translation>
     </message>
     <message>
         <source>Ini Setting</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">INI файлы</translation>
+        <translation type="unfinished">INI файлы</translation>
     </message>
     <message>
         <source>Package</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Пакет</translation>
+        <translation type="unfinished">Пакет</translation>
     </message>
     <message>
         <source>Send</source>
         <comment>Datatype information collector action</comment>
-        <translation type="obsolete">Отправить</translation>
+        <translation type="unfinished">Отправить</translation>
     </message>
     <message>
         <source>Content required</source>
-        <translation type="obsolete">Необходимо содержимое</translation>
+        <translation type="unfinished">Необходимо содержимое</translation>
     </message>
     <message>
         <source>Missing objectrelation input.</source>
-        <translation type="obsolete">Не указана связь с объектом.</translation>
+        <translation type="unfinished">Не указана связь с объектом.</translation>
     </message>
     <message>
         <source>Invalid time.</source>
-        <translation type="obsolete">Неправильное время.</translation>
+        <translation type="unfinished">Неправильное время.</translation>
     </message>
     <message>
         <source>The author name must be provided.</source>
-        <translation type="obsolete">Должно быть указано имя автора.</translation>
+        <translation type="unfinished">Должно быть указано имя автора.</translation>
     </message>
     <message>
         <source>The email address is not valid.</source>
-        <translation type="obsolete">Адрес электронной почты неправильный</translation>
+        <translation type="unfinished">Адрес электронной почты неправильный</translation>
     </message>
     <message>
         <source>File uploading is not enabled. Please contact the site administrator to enable it.</source>
-        <translation type="obsolete">Загрузка файлов отключена. Пожалуйста, свяжитесь с администратором сайта для включения загрузки файлов.</translation>
+        <translation type="unfinished">Загрузка файлов отключена. Пожалуйста, свяжитесь с администратором сайта для включения загрузки файлов.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set by the upload_max_filesize directive in php.ini.</source>
-        <translation type="obsolete">Размер загружаемого файла больше ограничения, установленного директивой upload_max_filesize в файле конфигурации php.ini.</translation>
+        <translation type="unfinished">Размер загружаемого файла больше ограничения, установленного директивой upload_max_filesize в файле конфигурации php.ini.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the maximum upload size: %1 bytes.</source>
-        <translation type="obsolete">Размер загружаемого файла превышает ограничение на максимальный размер загружаемых файлов (%1 байт).</translation>
+        <translation type="unfinished">Размер загружаемого файла превышает ограничение на максимальный размер загружаемых файлов (%1 байт).</translation>
     </message>
     <message>
         <source>The email address is empty.</source>
-        <translation type="obsolete">Адрес электронной почты пуст</translation>
+        <translation type="unfinished">Адрес электронной почты пуст</translation>
     </message>
     <message>
         <source>The given input is not a floating point number.</source>
-        <translation type="obsolete">Введенное число не является дробным.</translation>
+        <translation type="unfinished">Введенное число не является дробным.</translation>
     </message>
     <message>
         <source>The input must be greater than %1</source>
-        <translation type="obsolete">Веденное число должно быть больше %1</translation>
+        <translation type="unfinished">Веденное число должно быть больше %1</translation>
     </message>
     <message>
         <source>The input must be less than %1</source>
-        <translation type="obsolete">Веденное число должно быть меньше %1</translation>
+        <translation type="unfinished">Веденное число должно быть меньше %1</translation>
     </message>
     <message>
         <source>The input is not in defined range %1 - %2</source>
-        <translation type="obsolete">Веденное число должно быть в пределах от %1 до %2</translation>
+        <translation type="unfinished">Веденное число должно быть в пределах от %1 до %2</translation>
     </message>
     <message>
         <source>A valid image file is required.</source>
-        <translation type="obsolete">Необходим правильный файл-изображение.</translation>
+        <translation type="unfinished">Необходим правильный файл-изображение.</translation>
     </message>
     <message>
         <source>The size of the uploaded image exceeds limit set by upload_max_filesize directive in php.ini. Please contact the site administrator.</source>
-        <translation type="obsolete">Размер загружаемого файла больше ограничения, установленного директивой upload_max_filesize в файле конфигурации php.ini.</translation>
+        <translation type="unfinished">Размер загружаемого файла больше ограничения, установленного директивой upload_max_filesize в файле конфигурации php.ini.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
-        <translation type="obsolete">Размер загружаемого файла превышает ограничение, установленное для этого сайта (%1 байт).</translation>
+        <translation type="unfinished">Размер загружаемого файла превышает ограничение, установленное для этого сайта (%1 байт).</translation>
     </message>
     <message>
         <source>Could not locate the ini file.</source>
-        <translation type="obsolete">Не обнаружен файл настроек.</translation>
+        <translation type="unfinished">Не обнаружен файл настроек.</translation>
     </message>
     <message>
         <source>The input is not a valid integer.</source>
-        <translation type="obsolete">Введенное число не является целым.</translation>
+        <translation type="unfinished">Введенное число не является целым.</translation>
     </message>
     <message>
         <source>The number must be greater than %1</source>
-        <translation type="obsolete">Веденное число должно быть больше %1</translation>
+        <translation type="unfinished">Веденное число должно быть больше %1</translation>
     </message>
     <message>
         <source>The number must be less than %1</source>
-        <translation type="obsolete">Веденное число должно быть меньше %1</translation>
+        <translation type="unfinished">Веденное число должно быть меньше %1</translation>
     </message>
     <message>
         <source>The number is not within the required range %1 - %2</source>
-        <translation type="obsolete">Веденное число должно быть в пределах от %1 до %2</translation>
+        <translation type="unfinished">Веденное число должно быть в пределах от %1 до %2</translation>
     </message>
     <message>
         <source>The ISBN number is not correct. Please check the input for mistakes.</source>
-        <translation type="obsolete">ISBN номер неправильный.</translation>
+        <translation type="unfinished">ISBN номер неправильный.</translation>
     </message>
     <message>
         <source>A valid media file is required.</source>
-        <translation type="obsolete">Необходим правильный медиафайл.</translation>
+        <translation type="unfinished">Необходим правильный медиафайл.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set by upload_max_filesize directive in php.ini. Please contact the site administrator.</source>
-        <translation type="obsolete">Размер загружаемого файла больше ограничения, установленного директивой upload_max_filesize в файле конфигурации php.ini.</translation>
+        <translation type="unfinished">Размер загружаемого файла больше ограничения, установленного директивой upload_max_filesize в файле конфигурации php.ini.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds site maximum: %1 bytes.</source>
-        <translation type="obsolete">Размер загружаемого файла превышает ограничение на %1 байт.</translation>
+        <translation type="unfinished">Размер загружаемого файла превышает ограничение на %1 байт.</translation>
     </message>
     <message>
         <source>The option value must be provided.</source>
-        <translation type="obsolete">Должно быть указано значение опции.</translation>
+        <translation type="unfinished">Должно быть указано значение опции.</translation>
     </message>
     <message>
         <source>The additional price for the multioption value is not valid.</source>
-        <translation type="obsolete">Добавляемая цена в множестве опций неправильна.</translation>
+        <translation type="unfinished">Добавляемая цена в множестве опций неправильна.</translation>
     </message>
     <message>
         <source>The Additional price value is not valid.</source>
-        <translation type="obsolete">Добавляемая цена неправильна.</translation>
+        <translation type="unfinished">Добавляемая цена неправильна.</translation>
     </message>
     <message>
         <source>Input required.</source>
-        <translation type="obsolete">Небходимо ввести данные.</translation>
+        <translation type="unfinished">Небходимо ввести данные.</translation>
     </message>
     <message>
         <source>The input text is too long. The maximum number of characters allowed is %1.</source>
-        <translation type="obsolete">Введенный текст слишком длинный. Максимальное число символов - %1.</translation>
+        <translation type="unfinished">Введенный текст слишком длинный. Максимальное число символов - %1.</translation>
     </message>
     <message>
         <source>Time input required.</source>
-        <translation type="obsolete">Небходимо ввести время.</translation>
+        <translation type="unfinished">Небходимо ввести время.</translation>
     </message>
     <message>
         <source>The username must be specified.</source>
-        <translation type="obsolete">Должно быть указано имя пользователя.</translation>
+        <translation type="unfinished">Должно быть указано имя пользователя.</translation>
     </message>
     <message>
         <source>The username already exists, please choose another one.</source>
-        <translation type="obsolete">Такое имя пользователя уже существует, придумайте другое.</translation>
+        <translation type="unfinished">Такое имя пользователя уже существует, придумайте другое.</translation>
     </message>
     <message>
         <source>The passwords do not match.</source>
         <comment>eZUserType</comment>
-        <translation type="obsolete">Введенные пароли не совпадают.</translation>
+        <translation type="unfinished">Введенные пароли не совпадают.</translation>
     </message>
     <message>
         <source>Cannot remove the account:</source>
-        <translation type="obsolete">Учетная запись пользователя не может быть удалена:</translation>
+        <translation type="unfinished">Учетная запись пользователя не может быть удалена:</translation>
     </message>
     <message>
         <source>The account owner is currently logged in.</source>
-        <translation type="obsolete">Владелец учетной записи сейчас авторизован в системе.</translation>
+        <translation type="unfinished">Владелец учетной записи сейчас авторизован в системе.</translation>
     </message>
     <message>
         <source>The account is currently used by the anonymous user.</source>
-        <translation type="obsolete">Учетная запись используется анонимным пользователем.</translation>
+        <translation type="unfinished">Учетная запись используется анонимным пользователем.</translation>
     </message>
     <message>
         <source>Multi-option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">shop - Множество опций</translation>
+        <translation type="unfinished">shop - Множество опций</translation>
     </message>
     <message>
         <source>Authors</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Список авторов</translation>
+        <translation type="unfinished">Список авторов</translation>
     </message>
     <message>
         <source>File</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Файл</translation>
+        <translation type="unfinished">Файл</translation>
     </message>
     <message>
         <source>Date</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Дата</translation>
+        <translation type="unfinished">Дата</translation>
     </message>
     <message>
         <source>Date and time</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Дата-время</translation>
+        <translation type="unfinished">Дата-время</translation>
     </message>
     <message>
         <source>Keywords</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Ключевые слова</translation>
+        <translation type="unfinished">Ключевые слова</translation>
     </message>
     <message>
         <source>Object relations</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Список связей с объектами</translation>
+        <translation type="unfinished">Список связей с объектами</translation>
     </message>
     <message>
         <source>Text block</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Текстовый блок</translation>
+        <translation type="unfinished">Текстовый блок</translation>
     </message>
     <message>
         <source>Time</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Время</translation>
+        <translation type="unfinished">Время</translation>
     </message>
     <message>
         <source>XML block</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Текст с оформлением</translation>
+        <translation type="unfinished">Текст с оформлением</translation>
     </message>
     <message>
         <source>Object %1 can not be embeded to itself.</source>
-        <translation type="obsolete">Объект %1 не может быть включен сам в себя.</translation>
+        <translation type="unfinished">Объект %1 не может быть включен сам в себя.</translation>
     </message>
     <message>
         <source>Country</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Страна</translation>
+        <translation type="unfinished">Страна</translation>
     </message>
     <message>
         <source>Date is not valid.</source>
-        <translation type="obsolete">Неправильная дата.</translation>
+        <translation type="unfinished">Неправильная дата.</translation>
     </message>
     <message>
         <source>Time is not valid.</source>
-        <translation type="obsolete">Время неверное.</translation>
+        <translation type="unfinished">Время неверное.</translation>
     </message>
     <message>
         <source>The image file must have non-zero size.</source>
-        <translation type="obsolete">Файл избражения должен иметь ненулевой размер.</translation>
+        <translation type="unfinished">Файл избражения должен иметь ненулевой размер.</translation>
     </message>
     <message>
         <source>Wrong text field value.</source>
-        <translation type="obsolete">Неверное значение текстовго поля.</translation>
+        <translation type="unfinished">Неверное значение текстовго поля.</translation>
     </message>
     <message>
         <source>Missing matrix input.</source>
-        <translation type="obsolete">В таблицу ничего не внесено.</translation>
+        <translation type="unfinished">В таблицу ничего не внесено.</translation>
     </message>
     <message>
         <source>Multi-price</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">shop - Цена в разных валютах</translation>
+        <translation type="unfinished">shop - Цена в разных валютах</translation>
     </message>
     <message>
         <source>Invalid price for &apos;%currencyCode&apos; currency </source>
-        <translation type="obsolete">Неправильная цена для валюты &apos;%currencyCode&apos;</translation>
+        <translation type="unfinished">Неправильная цена для валюты &apos;%currencyCode&apos;</translation>
     </message>
     <message>
         <source>Missing objectrelation list input.</source>
-        <translation type="obsolete">Не указан список связей с объектами.</translation>
+        <translation type="unfinished">Не указан список связей с объектами.</translation>
     </message>
     <message>
         <source>NAME is required.</source>
-        <translation type="obsolete">НАЗВАНИЕ - обязательно.</translation>
+        <translation type="unfinished">НАЗВАНИЕ - обязательно.</translation>
     </message>
     <message>
         <source>Invalid price.</source>
-        <translation type="obsolete">Неверная цена.</translation>
+        <translation type="unfinished">Неверная цена.</translation>
     </message>
     <message>
         <source>Product category</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">shop - Категория товара</translation>
+        <translation type="unfinished">shop - Категория товара</translation>
     </message>
     <message>
         <source>Dynamic VAT cannot be included.</source>
-        <translation type="obsolete">Динамический НДС не может быть &quot;включенным в цену&quot;.</translation>
+        <translation type="unfinished">Динамический НДС не может быть &quot;включенным в цену&quot;.</translation>
     </message>
     <message>
         <source>Missing range option input.</source>
-        <translation type="obsolete">Не указаны границы для Опции - числового ряда.
+        <translation type="unfinished">Не указаны границы для Опции - числового ряда.
 </translation>
     </message>
     <message>
         <source>Option set name is required.</source>
-        <translation type="obsolete">Необходимо указать название набора опций.</translation>
+        <translation type="unfinished">Необходимо указать название набора опций.</translation>
     </message>
     <message>
         <source>The password must be at least %1 characters long.</source>
-        <translation type="obsolete">Пароль должен состоять как минимум из %1 символов.</translation>
+        <translation type="unfinished">Пароль должен состоять как минимум из %1 символов.</translation>
     </message>
     <message>
         <source>Invalid reference in &amp;lt;embed&amp;gt; tag. Note that &lt;embed&gt; tag supports only &apos;eznode&apos; and &apos;ezobject&apos; protocols.</source>
-        <translation type="obsolete">Неправильная ссылка в тэге &amp;lt;embed&amp;gt;. Помините, что этот тэг поддерживает только протоколы &apos;eznode&apos; и &apos;ezobject&apos;.</translation>
+        <translation type="unfinished">Неправильная ссылка в тэге &amp;lt;embed&amp;gt;. Помините, что этот тэг поддерживает только протоколы &apos;eznode&apos; и &apos;ezobject&apos;.</translation>
     </message>
     <message>
         <source>The ISBN number is not correct. </source>
-        <translation type="obsolete">Номер ISBN неправильный.</translation>
+        <translation type="unfinished">Номер ISBN неправильный.</translation>
     </message>
     <message>
         <source>13 digit ISBN must start with 978 or 979</source>
-        <translation type="obsolete">13-значный ISBN должен начинаться с 978 или 979</translation>
+        <translation type="unfinished">13-значный ISBN должен начинаться с 978 или 979</translation>
     </message>
     <message>
         <source>ISBN length is invalid</source>
-        <translation type="obsolete">Неправильная длина ISBN</translation>
+        <translation type="unfinished">Неправильная длина ISBN</translation>
     </message>
     <message>
         <source>The registrant element of the ISBN number does not exist.</source>
-        <translation type="obsolete">Регистрационный элемент номера ISBN не существует.</translation>
+        <translation type="unfinished">Регистрационный элемент номера ISBN не существует.</translation>
     </message>
     <message>
         <source>The ISBN number has a incorrect registration group number.</source>
-        <translation type="obsolete">Номер ISBN имеет неправельный номер регистрационной группы.</translation>
+        <translation type="unfinished">Номер ISBN имеет неправельный номер регистрационной группы.</translation>
     </message>
     <message>
         <source>The group element of the ISBN number does not exist.</source>
-        <translation type="obsolete">Элемент группы номера ISBN не существует.</translation>
+        <translation type="unfinished">Элемент группы номера ISBN не существует.</translation>
     </message>
     <message>
         <source>%1 is not a valid prefix of the ISBN number.</source>
-        <translation type="obsolete">%1 является недействительной приставкой к номеру ISBN.</translation>
+        <translation type="unfinished">%1 является недействительной приставкой к номеру ISBN.</translation>
     </message>
     <message>
         <source>All ISBN 13 characters need to be numeric</source>
-        <translation type="obsolete">Все 13 символов ISBN должны быть числовыми</translation>
+        <translation type="unfinished">Все 13 символов ISBN должны быть числовыми</translation>
     </message>
     <message>
         <source>Bad checksum, last digit should be %1</source>
-        <translation type="obsolete">Неправильная контрольная сумма, последняя цифра должна быть %1</translation>
+        <translation type="unfinished">Неправильная контрольная сумма, последняя цифра должна быть %1</translation>
     </message>
     <message>
         <source>The ISBN number should be ISBN13, but seems to be ISBN10.</source>
-        <translation type="obsolete">Номер ISBN должен быть ISBN13, но является ISBN10.</translation>
+        <translation type="unfinished">Номер ISBN должен быть ISBN13, но является ISBN10.</translation>
     </message>
     <message>
         <source>Multi-option2</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Мультиопция2
+        <translation type="unfinished">Мультиопция2
 
 Название типа данных</translation>
     </message>
     <message>
         <source>You cannot choose option value &quot;%1&quot; from &quot;%2&quot; because it is unselectable </source>
-        <translation type="obsolete">Не возможно выбрать значение параметра &quot;%1&quot; из &quot;%2&quot;, так как не имеет возможности выбора</translation>
+        <translation type="unfinished">Не возможно выбрать значение параметра &quot;%1&quot; из &quot;%2&quot;, так как не имеет возможности выбора</translation>
     </message>
     <message>
         <source>You cannot choose option value &quot;%1&quot; from &quot;%2&quot;  
  if you selected option &quot;%3&quot; from &quot;%4&quot; </source>
-        <translation type="obsolete">Не возможно выбрать значение параметра &quot;%1&quot; из &quot;%2&quot;(sp)(sp)(new line)
+        <translation type="unfinished">Не возможно выбрать значение параметра &quot;%1&quot; из &quot;%2&quot;(sp)(sp)(new line)
 если выбран параметр &quot;%3&quot; из &quot;%4&quot; </translation>
     </message>
     <message>
         <source>The password must not be &quot;password&quot;.</source>
-        <translation type="obsolete">Пароль не должен быть словом &quot;пароль&quot;.</translation>
+        <translation type="unfinished">Пароль не должен быть словом &quot;пароль&quot;.</translation>
     </message>
     <message>
         <source>The account is currently used the administrator user.</source>
-        <translation type="obsolete">Учетная запись используется пользователем с правами администратора.</translation>
+        <translation type="unfinished">Учетная запись используется пользователем с правами администратора.</translation>
     </message>
     <message>
         <source>You cannot remove the last class holding user accounts.</source>
-        <translation type="obsolete">Не возможно удалить последний класс, удерживая учетные записи пользователей.</translation>
+        <translation type="unfinished">Не возможно удалить последний класс, удерживая учетные записи пользователей.</translation>
+    </message>
+    <message>
+        <source>Missing email input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The password cannot be empty.</source>
+        <comment>eZUserType</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezbinaryfile</name>
     <message>
         <source>Failed to store file %filename. Please contact the site administrator.</source>
-        <translation type="obsolete">Не удалось сохранить файл - %filename. Обратитесь к администратору сайта.</translation>
+        <translation type="unfinished">Не удалось сохранить файл - %filename. Обратитесь к администратору сайта.</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezimage</name>
     <message>
         <source>Failed to fetch Image Handler. Please contact the site administrator.</source>
-        <translation type="obsolete">Неудачная попытка извлечения Image Handler. Обратитесь к администратору сайта.</translation>
+        <translation type="unfinished">Неудачная попытка извлечения Image Handler. Обратитесь к администратору сайта.</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezmedia</name>
     <message>
         <source>Failed to store media file %filename. Please contact the site administrator.</source>
-        <translation type="obsolete">Неудачная попытка сохранить медиафайл под названием %filename. Обратитесь к администратору сайта.</translation>
+        <translation type="unfinished">Неудачная попытка сохранить медиафайл под названием %filename. Обратитесь к администратору сайта.</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezxmltext</name>
     <message>
         <source>Wrong closing tag : &amp;lt;/%1&amp;gt;.</source>
-        <translation type="obsolete">Неправильный закрывающий тэг: &amp;lt;/%1&amp;gt;.</translation>
+        <translation type="unfinished">Неправильный закрывающий тэг: &amp;lt;/%1&amp;gt;.</translation>
     </message>
     <message>
         <source>Unknown tag: &amp;lt;%1&amp;gt;.</source>
-        <translation type="obsolete">Неизвестный тэг: &amp;lt;%1&amp;gt;.</translation>
+        <translation type="unfinished">Неизвестный тэг: &amp;lt;%1&amp;gt;.</translation>
     </message>
     <message>
         <source>Can&apos;t convert tag&apos;s name: &amp;lt;%1&amp;gt;.</source>
-        <translation type="obsolete">Невозможно преобразовать имя тэга: &amp;lt;%1&amp;gt;.</translation>
+        <translation type="unfinished">Невозможно преобразовать имя тэга: &amp;lt;%1&amp;gt;.</translation>
     </message>
     <message>
         <source>Required attribute &apos;%1&apos; is not presented in tag &amp;lt;%2&amp;gt;.</source>
-        <translation type="obsolete">Обязательный атрибут &apos;%1&apos; не найден в тэге &amp;lt;%2&amp;gt;.</translation>
+        <translation type="unfinished">Обязательный атрибут &apos;%1&apos; не найден в тэге &amp;lt;%2&amp;gt;.</translation>
     </message>
     <message>
         <source>%1 is not allowed to be a child of &amp;lt;%2&amp;gt;.</source>
-        <translation type="obsolete">&amp;lt;%1&amp;gt не может быть дочерним тэгом по отношению к тэгу &amp;lt;%2&amp;gt;.</translation>
+        <translation type="unfinished">&amp;lt;%1&amp;gt не может быть дочерним тэгом по отношению к тэгу &amp;lt;%2&amp;gt;.</translation>
     </message>
     <message>
         <source>Attribute &apos;%1&apos; is not allowed in &amp;lt;%2&amp;gt; element.</source>
-        <translation type="obsolete">Атрибут &apos;%1&apos; не может быть в элементе &amp;lt;%2&amp;gt;.</translation>
+        <translation type="unfinished">Атрибут &apos;%1&apos; не может быть в элементе &amp;lt;%2&amp;gt;.</translation>
     </message>
     <message>
         <source>Class &apos;%1&apos; is not allowed for element &amp;lt;%2&amp;gt; (check content.ini).</source>
-        <translation type="obsolete">Класс &apos;%1&apos; не сожет быть использован в элементе &amp;lt;%2&amp;gt; (внесите соответствующие изменения в файл настроек content.ini для вашего сайта).</translation>
+        <translation type="unfinished">Класс &apos;%1&apos; не сожет быть использован в элементе &amp;lt;%2&amp;gt; (внесите соответствующие изменения в файл настроек content.ini для вашего сайта).</translation>
     </message>
     <message>
         <source>Wrong closing tag</source>
-        <translation type="obsolete">Неверный закрывающий тэг</translation>
+        <translation type="unfinished">Неверный закрывающий тэг</translation>
     </message>
     <message>
         <source>Wrong opening tag</source>
-        <translation type="obsolete">Неверный открывающий тэг</translation>
+        <translation type="unfinished">Неверный открывающий тэг</translation>
     </message>
     <message>
         <source>Custom tag &apos;%1&apos; is not allowed.</source>
-        <translation type="obsolete">Пользователький тэг  &apos;%1&apos; запрещен.</translation>
+        <translation type="unfinished">Пользователький тэг  &apos;%1&apos; запрещен.</translation>
     </message>
     <message>
         <source>&amp;lt;%1&amp;gt; tag can&apos;t be empty.</source>
-        <translation type="obsolete">&amp;lt;%1&amp;gt; тэг не может быть пустым.</translation>
+        <translation type="unfinished">&amp;lt;%1&amp;gt; тэг не может быть пустым.</translation>
     </message>
     <message>
         <source>Incorrect headers nesting</source>
-        <translation type="obsolete">Неправильное вложение заголовков</translation>
+        <translation type="unfinished">Неправильное вложение заголовков</translation>
     </message>
     <message>
         <source>Node &apos;%1&apos; does not exist.</source>
-        <translation type="obsolete">Узел &apos;%1&apos; не существует.</translation>
+        <translation type="unfinished">Узел &apos;%1&apos; не существует.</translation>
     </message>
     <message>
         <source>Using scripts in links is not allowed, link &apos;%1&apos; has been removed</source>
-        <translation type="obsolete">Использование скриптов в ссылках не разрешено, ссылка  &apos;%1&apos; была удалена</translation>
+        <translation type="unfinished">Использование скриптов в ссылках не разрешено, ссылка  &apos;%1&apos; была удалена</translation>
     </message>
     <message>
         <source>Invalid e-mail address: &apos;%1&apos;</source>
-        <translation type="obsolete">Недействительный адрес электронной почты: &apos;%1&apos;</translation>
+        <translation type="unfinished">Недействительный адрес электронной почты: &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Object %1 can not be embeded to itself.</source>
-        <translation type="obsolete">Объект %1 не может быть вложен сам в себя.</translation>
+        <translation type="unfinished">Объект %1 не может быть вложен сам в себя.</translation>
     </message>
 </context>
 <context>
     <name>kernel/collaboration</name>
     <message>
         <source>Collaboration custom action</source>
-        <translation type="obsolete">Специальное событие совместной работы</translation>
+        <translation type="unfinished">Специальное событие совместной работы</translation>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation type="obsolete">Совместная работа</translation>
+        <translation type="unfinished">Совместная работа</translation>
     </message>
 </context>
 <context>
     <name>kernel/content</name>
     <message>
         <source>Search</source>
-        <translation type="obsolete">Поиск</translation>
+        <translation type="unfinished">Поиск</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="obsolete">Расширенный</translation>
+        <translation type="unfinished">Расширенный</translation>
     </message>
     <message>
         <source>No main node selected, please select one.</source>
-        <translation type="obsolete">Не выбран главный узел, пожалуйста укажите один.</translation>
+        <translation type="unfinished">Не выбран главный узел, пожалуйста укажите один.</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation type="obsolete">Content</translation>
+        <translation type="unfinished">Content</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">Изменить</translation>
+        <translation type="unfinished">Изменить</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="obsolete">Копировать</translation>
+        <translation type="unfinished">Копировать</translation>
     </message>
     <message>
         <source>My drafts</source>
-        <translation type="obsolete">Мои черновики</translation>
+        <translation type="unfinished">Мои черновики</translation>
     </message>
     <message>
         <source>Remove editing version</source>
-        <translation type="obsolete">Удалить редактируемую версию</translation>
+        <translation type="unfinished">Удалить редактируемую версию</translation>
     </message>
     <message>
         <source>Remove object</source>
-        <translation type="obsolete">Удалить объект</translation>
+        <translation type="unfinished">Удалить объект</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="obsolete">Перевод</translation>
+        <translation type="unfinished">Перевод</translation>
     </message>
     <message>
         <source>Content translations</source>
-        <translation type="obsolete">Переводы содержимого</translation>
+        <translation type="unfinished">Переводы содержимого</translation>
     </message>
     <message>
         <source>Trash</source>
-        <translation type="obsolete">Мусорная корзина</translation>
+        <translation type="unfinished">Мусорная корзина</translation>
     </message>
     <message>
         <source>Versions</source>
-        <translation type="obsolete">Версии</translation>
+        <translation type="unfinished">Версии</translation>
     </message>
     <message>
         <source>My bookmarks</source>
-        <translation type="obsolete">Мои закладки</translation>
+        <translation type="unfinished">Мои закладки</translation>
     </message>
     <message>
         <source>Tip from %1: %2</source>
-        <translation type="obsolete">Закладка от %1: %2</translation>
+        <translation type="unfinished">Закладка от %1: %2</translation>
     </message>
     <message>
         <source>The email address of the sender is not valid</source>
-        <translation type="obsolete">Почтовый адрес отправителя неправилен</translation>
+        <translation type="unfinished">Почтовый адрес отправителя неправилен</translation>
     </message>
     <message>
         <source>The email address of the receiver is not valid</source>
-        <translation type="obsolete">Почтовый адрес получателя неправилен</translation>
+        <translation type="unfinished">Почтовый адрес получателя неправилен</translation>
     </message>
     <message>
         <source>Tip a friend</source>
-        <translation type="obsolete">Послать другу</translation>
+        <translation type="unfinished">Послать другу</translation>
     </message>
     <message>
         <source>My pending list</source>
-        <translation type="obsolete">Мой список обработки</translation>
+        <translation type="unfinished">Мой список обработки</translation>
     </message>
     <message>
         <source>Keywords</source>
-        <translation type="obsolete">Ключевые слова</translation>
+        <translation type="unfinished">Ключевые слова</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation type="obsolete">Media</translation>
+        <translation type="unfinished">Media</translation>
     </message>
     <message>
         <source>New content</source>
-        <translation type="obsolete">Новое содержимое</translation>
+        <translation type="unfinished">Новое содержимое</translation>
     </message>
     <message>
         <source>Remove location</source>
-        <translation type="obsolete">Удалить расположение</translation>
+        <translation type="unfinished">Удалить расположение</translation>
     </message>
     <message>
         <source>You are not allowed to place this object under: %1</source>
-        <translation type="obsolete">Вам не разрешено создавать объект в узле %1</translation>
+        <translation type="unfinished">Вам не разрешено создавать объект в узле %1</translation>
     </message>
     <message>
         <source>Top Level Nodes</source>
-        <translation type="obsolete">Узлы верхнего уровня</translation>
+        <translation type="unfinished">Узлы верхнего уровня</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="obsolete">Скрыто</translation>
+        <translation type="unfinished">Скрыто</translation>
     </message>
     <message>
         <source>Hidden by superior</source>
-        <translation type="obsolete">Скрыто из-за вышестоящего</translation>
+        <translation type="unfinished">Скрыто из-за вышестоящего</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="obsolete">Открыто</translation>
+        <translation type="unfinished">Открыто</translation>
     </message>
     <message>
         <source>A node in the node assignment list has been deleted.</source>
-        <translation type="obsolete">Узел в списке расположений был удален.</translation>
+        <translation type="unfinished">Узел в списке расположений был удален.</translation>
     </message>
     <message>
         <source>&quot;$contentObjectName&quot;: Sub items that are used by other objects</source>
-        <translation type="obsolete">&quot;$contentObjectName&quot;: Дочерние элементы, с которыми связаны другие объекты</translation>
+        <translation type="unfinished">&quot;$contentObjectName&quot;: Дочерние элементы, с которыми связаны другие объекты</translation>
     </message>
     <message>
         <source>Differences</source>
-        <translation type="obsolete">Изменения</translation>
+        <translation type="unfinished">Изменения</translation>
     </message>
     <message>
         <source>Remove translation</source>
-        <translation type="obsolete">Удалить перевод</translation>
+        <translation type="unfinished">Удалить перевод</translation>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="obsolete">Языки</translation>
+        <translation type="unfinished">Языки</translation>
     </message>
     <message>
         <source>Class identifier</source>
-        <translation type="obsolete">Идентификатор класса</translation>
+        <translation type="unfinished">Идентификатор класса</translation>
     </message>
     <message>
         <source>Class name</source>
-        <translation type="obsolete">Имя класса</translation>
+        <translation type="unfinished">Имя класса</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="obsolete">Глубина</translation>
+        <translation type="unfinished">Глубина</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="obsolete">Изменено</translation>
+        <translation type="unfinished">Изменено</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">Имя</translation>
+        <translation type="unfinished">Имя</translation>
     </message>
     <message>
         <source>Path String</source>
-        <translation type="obsolete">Строка пути</translation>
+        <translation type="unfinished">Строка пути</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation type="obsolete">Приоритет</translation>
+        <translation type="unfinished">Приоритет</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation type="obsolete">Опубликовано
+        <translation type="unfinished">Опубликовано
 </translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="obsolete">Секция</translation>
+        <translation type="unfinished">Секция</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="obsolete">История</translation>
+        <translation type="unfinished">История</translation>
     </message>
     <message>
         <source>Version preview</source>
-        <translation type="obsolete">Предварительный просмотр версии</translation>
+        <translation type="unfinished">Предварительный просмотр версии</translation>
     </message>
     <message>
         <source>You do not have enough rights to access the requested node</source>
-        <translation type="obsolete">У вас недостаточно прав для доступа к запрошенному узлу</translation>
+        <translation type="unfinished">У вас недостаточно прав для доступа к запрошенному узлу</translation>
     </message>
     <message>
         <source>Copy subtree</source>
-        <translation type="obsolete">Копировать ветвь</translation>
+        <translation type="unfinished">Копировать ветвь</translation>
     </message>
     <message>
         <source>The receiver has already received the maximum number of tipafriend mails the last hours</source>
-        <translation type="obsolete">За последние несколько часов получатель уже получил максимальное число писем &quot;послать другу&quot;</translation>
+        <translation type="unfinished">За последние несколько часов получатель уже получил максимальное число писем &quot;послать другу&quot;</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">Ошибка</translation>
+        <translation type="unfinished">Ошибка</translation>
+    </message>
+    <message>
+        <source>The request sent to the server was too big to be accepted. This probably means that you uploaded a file which was too big. The maximum allowed request size is %max_size_string.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dashboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have already sent a tipafriend mail to this receiver regarding &apos;%1&apos; content</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -26439,59 +26729,63 @@ your account.</source>
     </message>
     <message>
         <source>Fatal error: cannot get subtree main node (ID = %1).</source>
-        <translation type="obsolete">Критическая ошибка: невозможно получить ответвление от узла (Код = %1).</translation>
+        <translation type="unfinished">Критическая ошибка: невозможно получить ответвление от узла (Код = %1).</translation>
     </message>
     <message>
         <source>Fatal error: cannot get destination node (ID = %1).</source>
-        <translation type="obsolete">Критическая ошибка: невозможно получить целевой узел (Код = %1).</translation>
+        <translation type="unfinished">Критическая ошибка: невозможно получить целевой узел (Код = %1).</translation>
     </message>
     <message>
         <source>Number of nodes of source subtree - %1</source>
-        <translation type="obsolete">Число узлов в ответвлении-источнике составляет %1</translation>
+        <translation type="unfinished">Число узлов в ответвлении-источнике составляет %1</translation>
     </message>
     <message>
         <source>Subtree was not copied.</source>
-        <translation type="obsolete">Ответвление не было скопировано.</translation>
+        <translation type="unfinished">Ответвление не было скопировано.</translation>
     </message>
     <message>
         <source>Number of copied nodes - %1</source>
-        <translation type="obsolete">Число скопированных узлов составляет %1</translation>
+        <translation type="unfinished">Число скопированных узлов составляет %1</translation>
     </message>
     <message>
         <source>Number of copied contentobjects - %1</source>
-        <translation type="obsolete">Число скопированных объектов составляет %1</translation>
+        <translation type="unfinished">Число скопированных объектов составляет %1</translation>
     </message>
     <message>
         <source>Cannot create instance of eZDB to fix local links (related objects).</source>
-        <translation type="obsolete">Невозможно обращение к БД для исправления локальных ссылок (на связанные объекты).</translation>
+        <translation type="unfinished">Невозможно обращение к БД для исправления локальных ссылок (на связанные объекты).</translation>
     </message>
     <message>
         <source>You are trying to copy a subtree that contains more than the maximum possible nodes for subtree copying. You can copy this subtree using Subtree Copy script.</source>
-        <translation type="obsolete">Вы пытаетесь скопировать ответвление, число узлов в котором больше допустимого для копирования с помощью этого инструмента.</translation>
+        <translation type="unfinished">Вы пытаетесь скопировать ответвление, число узлов в котором больше допустимого для копирования с помощью этого инструмента.</translation>
     </message>
     <message>
         <source>Object (ID = %1) was not copied: you do not have permission to read the object.</source>
-        <translation type="obsolete">Объект (ID = %1) не был скопирован: нет прав на прочтение объекта.</translation>
+        <translation type="unfinished">Объект (ID = %1) не был скопирован: нет прав на прочтение объекта.</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: you do not have permission to read object (ID = %2).</source>
-        <translation type="obsolete">Узел (ID = %1) не был скопирован: нет прав на прочтение объекта (ID = %2).</translation>
+        <translation type="unfinished">Узел (ID = %1) не был скопирован: нет прав на прочтение объекта (ID = %2).</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: parent node (ID = %2) was not copied.</source>
-        <translation type="obsolete">Узел (ID = %1) не был скопирован: родительский узел (ID = %2) не был скопирован.</translation>
+        <translation type="unfinished">Узел (ID = %1) не был скопирован: родительский узел (ID = %2) не был скопирован.</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: you do not have permission to create.</source>
-        <translation type="obsolete">Узел (ID = %1) не был скопирован: нет прав на создание.</translation>
+        <translation type="unfinished">Узел (ID = %1) не был скопирован: нет прав на создание.</translation>
     </message>
     <message>
         <source>Object (ID = %1) was not copied: no one nodes of object was not copied.</source>
-        <translation type="obsolete">Объект (ID = %1) не был скопирован: не один из узлов объект не был скопирован.</translation>
+        <translation type="unfinished">Объект (ID = %1) не был скопирован: не один из узлов объект не был скопирован.</translation>
     </message>
     <message>
         <source>Successfully DONE.</source>
-        <translation type="obsolete">Успешно выполнено.</translation>
+        <translation type="unfinished">Успешно выполнено.</translation>
+    </message>
+    <message>
+        <source>Cannot publish object (Name: %1, ID: %2).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -26499,172 +26793,172 @@ your account.</source>
     <message>
         <source>child</source>
         <comment>1 child</comment>
-        <translation type="obsolete">Дочерний</translation>
+        <translation type="unfinished">Дочерний</translation>
     </message>
     <message>
         <source>children</source>
         <comment>several children</comment>
-        <translation type="obsolete">дочерние</translation>
+        <translation type="unfinished">дочерние</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/restore</name>
     <message>
         <source>Restore object</source>
-        <translation type="obsolete">Восстановить объект</translation>
+        <translation type="unfinished">Восстановить объект</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/upload</name>
     <message>
         <source>The file %filename does not exist, cannot insert file.</source>
-        <translation type="obsolete">Файл %filename не найден.</translation>
+        <translation type="unfinished">Файл %filename не найден.</translation>
     </message>
     <message>
         <source>No matching class identifier found.</source>
-        <translation type="obsolete">Не найдено соответствующих идентификаторов классов.</translation>
+        <translation type="unfinished">Не найдено соответствующих идентификаторов классов.</translation>
     </message>
     <message>
         <source>The class %class_identifier does not exist.</source>
-        <translation type="obsolete">Класса %class_identifier не существует в системе.</translation>
+        <translation type="unfinished">Класса %class_identifier не существует в системе.</translation>
     </message>
     <message>
         <source>Was not able to figure out placement of object.</source>
-        <translation type="obsolete">Не удалось определить место для объекта.</translation>
+        <translation type="unfinished">Не удалось определить место для объекта.</translation>
     </message>
     <message>
         <source>No configuration group in upload.ini for class identifier %class_identifier.</source>
-        <translation type="obsolete">Нет группы настроек в наcтроечном файле upload.ini для идентификатора класса %class_identifier.</translation>
+        <translation type="unfinished">Нет группы настроек в наcтроечном файле upload.ini для идентификатора класса %class_identifier.</translation>
     </message>
     <message>
         <source>No matching file attribute found, cannot create content object without this.</source>
-        <translation type="obsolete">Не найдено соответствий атрибуту &quot;файл&quot;, без этого нет возможности создать объект.</translation>
+        <translation type="unfinished">Не найдено соответствий атрибуту &quot;файл&quot;, без этого нет возможности создать объект.</translation>
     </message>
     <message>
         <source>No matching name attribute found, cannot create content object without this.</source>
-        <translation type="obsolete">Не найдено соответствий атрибуту &quot;название&quot;, без этого нет возможности создать объект.</translation>
+        <translation type="unfinished">Не найдено соответствий атрибуту &quot;название&quot;, без этого нет возможности создать объект.</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support regular file storage.</source>
-        <translation type="obsolete">Атрибут %class_identifier не поддерживает хранение обычных файлов.</translation>
+        <translation type="unfinished">Атрибут %class_identifier не поддерживает хранение обычных файлов.</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support simple string storage.</source>
-        <translation type="obsolete">Атрибут %class_identifier не поддерживает хранение простых текстовых строк.</translation>
+        <translation type="unfinished">Атрибут %class_identifier не поддерживает хранение простых текстовых строк.</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support HTTP file storage.</source>
-        <translation type="obsolete">Атрибут %class_identifier не поддерживает хранение HTTP файлов.</translation>
+        <translation type="unfinished">Атрибут %class_identifier не поддерживает хранение HTTP файлов.</translation>
     </message>
     <message>
         <source>Publishing of content object was halted.</source>
-        <translation type="obsolete">Размещение содержимого было прервано.</translation>
+        <translation type="unfinished">Размещение содержимого было прервано.</translation>
     </message>
     <message>
         <source>Publish process was cancelled.</source>
-        <translation type="obsolete">Процесс размещения содержимого был прерван пользователем.</translation>
+        <translation type="unfinished">Процесс размещения содержимого был прерван пользователем.</translation>
     </message>
     <message>
         <source>A file is required for upload, no file were found.</source>
-        <translation type="obsolete">Для загрузки необходим файл, найти который не удалось.</translation>
+        <translation type="unfinished">Для загрузки необходим файл, найти который не удалось.</translation>
     </message>
     <message>
         <source>Expected a eZHTTPFile object but got nothing.</source>
-        <translation type="obsolete">Ожидался объект типа eZHTTPFile, а ничего не получено.</translation>
+        <translation type="unfinished">Ожидался объект типа eZHTTPFile, а ничего не получено.</translation>
     </message>
     <message>
         <source>No HTTP file found, cannot fetch uploaded file.</source>
-        <translation type="obsolete">Не получен файл из HTTP потока, нет возможности извлечь его.</translation>
+        <translation type="unfinished">Не получен файл из HTTP потока, нет возможности извлечь его.</translation>
     </message>
     <message>
         <source>Permission denied</source>
-        <translation type="obsolete">Доступ запрещен</translation>
+        <translation type="unfinished">Доступ запрещен</translation>
     </message>
     <message>
         <source>There was an error trying to instantiate content upload handler.</source>
-        <translation type="obsolete">Произошла ошибка при попытке создать обработчик загрузки контента.</translation>
+        <translation type="unfinished">Произошла ошибка при попытке создать обработчик загрузки контента.</translation>
     </message>
     <message>
         <source>Could not find content upload handler &apos;%handler_name&apos;</source>
-        <translation type="obsolete">Не удалось найти обработчик выгрузки содержания &apos;%handler_name&apos;</translation>
+        <translation type="unfinished">Не удалось найти обработчик выгрузки содержания &apos;%handler_name&apos;</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
-        <translation type="obsolete">Размер загружаемого файла превышает ограничение этого сайта на %1 байт.</translation>
+        <translation type="unfinished">Размер загружаемого файла превышает ограничение этого сайта на %1 байт.</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/urlalias_global</name>
     <message>
         <source>Global URL aliases</source>
-        <translation type="obsolete">Глобальные алиасы URL</translation>
+        <translation type="unfinished">Глобальные алиасы URL</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/urlalias_wildcard</name>
     <message>
         <source>URL wildcard aliases</source>
-        <translation type="obsolete">Алиасы URL с подставными символами</translation>
+        <translation type="unfinished">Алиасы URL с подставными символами</translation>
     </message>
 </context>
 <context>
     <name>kernel/contentclass</name>
     <message>
         <source>New %1</source>
-        <translation type="obsolete">Новый %1</translation>
+        <translation type="unfinished">Новый %1</translation>
     </message>
     <message>
         <source>Cannot remove class &apos;%class_name&apos;:</source>
-        <translation type="obsolete">Не возможно удалить класс &apos;%class_name&apos;:</translation>
+        <translation type="unfinished">Не возможно удалить класс &apos;%class_name&apos;:</translation>
     </message>
     <message>
         <source>The class is used by a top-level node and cannot be removed.</source>
-        <translation type="obsolete">Этот класс использован при создании корневых узлов и поэтому не может быть удален.</translation>
+        <translation type="unfinished">Этот класс использован при создании корневых узлов и поэтому не может быть удален.</translation>
     </message>
 </context>
 <context>
     <name>kernel/design</name>
     <message>
         <source>Template list</source>
-        <translation type="obsolete">Список шаблонов</translation>
+        <translation type="unfinished">Список шаблонов</translation>
     </message>
     <message>
         <source>Template view</source>
-        <translation type="obsolete">Просмотр шаблона</translation>
+        <translation type="unfinished">Просмотр шаблона</translation>
     </message>
     <message>
         <source>Create new template</source>
-        <translation type="obsolete">Создать новый шаблон</translation>
+        <translation type="unfinished">Создать новый шаблон</translation>
     </message>
     <message>
         <source>Template edit</source>
-        <translation type="obsolete">Редактирование шаблона</translation>
+        <translation type="unfinished">Редактирование шаблона</translation>
     </message>
     <message>
         <source>Toolbar list</source>
-        <translation type="obsolete">Список панелей инструментов</translation>
+        <translation type="unfinished">Список панелей инструментов</translation>
     </message>
 </context>
 <context>
     <name>kernel/error</name>
     <message>
         <source>Error</source>
-        <translation type="obsolete">Ошибка</translation>
+        <translation type="unfinished">Ошибка</translation>
     </message>
 </context>
 <context>
     <name>kernel/ezinfo</name>
     <message>
         <source>Info</source>
-        <translation type="obsolete">Информация</translation>
+        <translation type="unfinished">Информация</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="obsolete">Про</translation>
+        <translation type="unfinished">Про</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="obsolete">Права</translation>
+        <translation type="unfinished">Права</translation>
     </message>
 </context>
 <context>
@@ -26678,7 +26972,7 @@ your account.</source>
     <name>kernel/infocollector</name>
     <message>
         <source>Collected information</source>
-        <translation type="obsolete">Собранная информация</translation>
+        <translation type="unfinished">Собранная информация</translation>
     </message>
 </context>
 <context>
@@ -26686,255 +26980,255 @@ your account.</source>
     <message>
         <source>Content structure</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Структура сайта</translation>
+        <translation type="unfinished">Структура сайта</translation>
     </message>
     <message>
         <source>Media library</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Библиотека файлов</translation>
+        <translation type="unfinished">Библиотека файлов</translation>
     </message>
     <message>
         <source>User accounts</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Учетные записи</translation>
+        <translation type="unfinished">Учетные записи</translation>
     </message>
     <message>
         <source>Webshop</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Интернет-магазин</translation>
+        <translation type="unfinished">Интернет-магазин</translation>
     </message>
     <message>
         <source>Design</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Дизайн</translation>
+        <translation type="unfinished">Дизайн</translation>
     </message>
     <message>
         <source>Setup</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Настройки</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
         <source>My account</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Личный кабинет</translation>
+        <translation type="unfinished">Личный кабинет</translation>
     </message>
 </context>
 <context>
     <name>kernel/notification</name>
     <message>
         <source>Notification settings</source>
-        <translation type="obsolete">Установки уведомления</translation>
+        <translation type="unfinished">Установки уведомления</translation>
     </message>
 </context>
 <context>
     <name>kernel/package</name>
     <message>
         <source>Packages</source>
-        <translation type="obsolete">Пакеты</translation>
+        <translation type="unfinished">Пакеты</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="obsolete">Загрузить</translation>
+        <translation type="unfinished">Загрузить</translation>
     </message>
     <message>
         <source>Package information</source>
-        <translation type="obsolete">Информация о пакете</translation>
+        <translation type="unfinished">Информация о пакете</translation>
     </message>
     <message>
         <source>Package maintainer</source>
-        <translation type="obsolete">Поддержка пакета</translation>
+        <translation type="unfinished">Поддержка пакета</translation>
     </message>
     <message>
         <source>Package changelog</source>
-        <translation type="obsolete">Список изменений в пакете</translation>
+        <translation type="unfinished">Список изменений в пакете</translation>
     </message>
     <message>
         <source>Package thumbnail</source>
-        <translation type="obsolete">Картинка пакета</translation>
+        <translation type="unfinished">Картинка пакета</translation>
     </message>
     <message>
         <source>Package name</source>
-        <translation type="obsolete">Название пакета</translation>
+        <translation type="unfinished">Название пакета</translation>
     </message>
     <message>
         <source>Package name is missing</source>
-        <translation type="obsolete">Название пакета не задано</translation>
+        <translation type="unfinished">Название пакета не задано</translation>
     </message>
     <message>
         <source>A package named %packagename already exists, please give another name</source>
-        <translation type="obsolete">Пакет с названием %packagename уже существует. Дайте другое название пакета</translation>
+        <translation type="unfinished">Пакет с названием %packagename уже существует. Дайте другое название пакета</translation>
     </message>
     <message>
         <source>Summary</source>
-        <translation type="obsolete">Обобщенная информация</translation>
+        <translation type="unfinished">Обобщенная информация</translation>
     </message>
     <message>
         <source>Summary is missing</source>
-        <translation type="obsolete">Обобщенная информация не задана</translation>
+        <translation type="unfinished">Обобщенная информация не задана</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="obsolete">Версия</translation>
+        <translation type="unfinished">Версия</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">Название</translation>
+        <translation type="unfinished">Название</translation>
     </message>
     <message>
         <source>You must enter a name for the changelog</source>
-        <translation type="obsolete">Небходимо ввести название списка изменений</translation>
+        <translation type="unfinished">Небходимо ввести название списка изменений</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="obsolete">Список изменений</translation>
+        <translation type="unfinished">Список изменений</translation>
     </message>
     <message>
         <source>You must supply some text for the changelog entry</source>
-        <translation type="obsolete">Небходимо ввести текст списка изменений</translation>
+        <translation type="unfinished">Небходимо ввести текст списка изменений</translation>
     </message>
     <message>
         <source>You must enter a name of the maintainer</source>
-        <translation type="obsolete">Введите имя человека, поддерживающего пакет</translation>
+        <translation type="unfinished">Введите имя человека, поддерживающего пакет</translation>
     </message>
     <message>
         <source>Content classes to include</source>
-        <translation type="obsolete">Включить контент-классы</translation>
+        <translation type="unfinished">Включить контент-классы</translation>
     </message>
     <message>
         <source>Content class export</source>
-        <translation type="obsolete">Экспортировать контент-классы</translation>
+        <translation type="unfinished">Экспортировать контент-классы</translation>
     </message>
     <message>
         <source>Class list</source>
-        <translation type="obsolete">Список классов</translation>
+        <translation type="unfinished">Список классов</translation>
     </message>
     <message>
         <source>You must select at least one class for inclusion</source>
-        <translation type="obsolete">Необходимо выбрать по крайней мере один класс для включения</translation>
+        <translation type="unfinished">Необходимо выбрать по крайней мере один класс для включения</translation>
     </message>
     <message>
         <source>CSS file</source>
-        <translation type="obsolete">CSS файл</translation>
+        <translation type="unfinished">CSS файл</translation>
     </message>
     <message>
         <source>Image files</source>
-        <translation type="obsolete">Файлы изображений</translation>
+        <translation type="unfinished">Файлы изображений</translation>
     </message>
     <message>
         <source>Site style</source>
-        <translation type="obsolete">Стиль сайта</translation>
+        <translation type="unfinished">Стиль сайта</translation>
     </message>
     <message>
         <source>File did not have a .css suffix, this is most likely not a CSS file</source>
-        <translation type="obsolete">У файла расширение не .css, скорее всего это не CSS файл</translation>
+        <translation type="unfinished">У файла расширение не .css, скорее всего это не CSS файл</translation>
     </message>
     <message>
         <source>Create package</source>
-        <translation type="obsolete">Создать пакет</translation>
+        <translation type="unfinished">Создать пакет</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="obsolete">Установить</translation>
+        <translation type="unfinished">Установить</translation>
     </message>
     <message>
         <source>Uninstall</source>
-        <translation type="obsolete">Удалить</translation>
+        <translation type="unfinished">Удалить</translation>
     </message>
     <message>
         <source>Package %packagename already exists, cannot import the package</source>
-        <translation type="obsolete">Пакет %packagename уже существует, поэтому невозможно импортировать пакет</translation>
+        <translation type="unfinished">Пакет %packagename уже существует, поэтому невозможно импортировать пакет</translation>
     </message>
     <message>
         <source>Local</source>
-        <translation type="obsolete">Локальный</translation>
+        <translation type="unfinished">Локальный</translation>
     </message>
     <message>
         <source>The version must only contain numbers (optionally followed by text) and must be delimited by dots (.), e.g. 1.0, 3.4.0beta1</source>
-        <translation type="obsolete">Версия должна содержать только цифры (за ними может следовать текст) разделенные точками (.) например 1.0, 3.4.0beta1</translation>
+        <translation type="unfinished">Версия должна содержать только цифры (за ними может следовать текст) разделенные точками (.) например 1.0, 3.4.0beta1</translation>
     </message>
     <message>
         <source>Content objects to include</source>
-        <translation type="obsolete">Объекты для включения</translation>
+        <translation type="unfinished">Объекты для включения</translation>
     </message>
     <message>
         <source>Content object limits</source>
-        <translation type="obsolete">Лимиты объектов</translation>
+        <translation type="unfinished">Лимиты объектов</translation>
     </message>
     <message>
         <source>Content object export</source>
-        <translation type="obsolete">Экспортировать объекты</translation>
+        <translation type="unfinished">Экспортировать объекты</translation>
     </message>
     <message>
         <source>Selected nodes</source>
-        <translation type="obsolete">Выбранные узлы</translation>
+        <translation type="unfinished">Выбранные узлы</translation>
     </message>
     <message>
         <source>You must select one or more node(s)/subtree(s) for export.</source>
-        <translation type="obsolete">Выберите ветви, которые вы хотели бы экспортировать.</translation>
+        <translation type="unfinished">Выберите ветви, которые вы хотели бы экспортировать.</translation>
     </message>
     <message>
         <source>You must choose one or more languages.</source>
-        <translation type="obsolete">Необходимо выбрать по крайней мере один язык.</translation>
+        <translation type="unfinished">Необходимо выбрать по крайней мере один язык.</translation>
     </message>
     <message>
         <source>You must choose one or more site access.</source>
-        <translation type="obsolete">Необходимо выбрать по крайней мере один вид сайта.</translation>
+        <translation type="unfinished">Необходимо выбрать по крайней мере один вид сайта.</translation>
     </message>
     <message>
         <source>CSS files</source>
-        <translation type="obsolete">CSS файлы</translation>
+        <translation type="unfinished">CSS файлы</translation>
     </message>
     <message>
         <source>You must upload both CSS files</source>
-        <translation type="obsolete">Загрузите оба CSS файла</translation>
+        <translation type="unfinished">Загрузите оба CSS файла</translation>
     </message>
     <message>
         <source>Content object %objectname</source>
-        <translation type="obsolete">Объект %objectname</translation>
+        <translation type="unfinished">Объект %objectname</translation>
     </message>
     <message>
         <source>Site access mapping</source>
-        <translation type="obsolete">Соответствие сайтам</translation>
+        <translation type="unfinished">Соответствие сайтам</translation>
     </message>
     <message>
         <source>Top node placements</source>
-        <translation type="obsolete">Расположения корневых узлов</translation>
+        <translation type="unfinished">Расположения корневых узлов</translation>
     </message>
     <message>
         <source>Content object import</source>
-        <translation type="obsolete">Импорт объектов содержимого</translation>
+        <translation type="unfinished">Импорт объектов содержимого</translation>
     </message>
     <message>
         <source>Select parent nodes</source>
-        <translation type="obsolete">Выберите родительские узлы</translation>
+        <translation type="unfinished">Выберите родительские узлы</translation>
     </message>
     <message>
         <source>You must assign all nodes to new parent nodes.</source>
-        <translation type="obsolete">Необходимо привязать все импортируемые узлы к новым родительским узлам.</translation>
+        <translation type="unfinished">Необходимо привязать все импортируемые узлы к новым родительским узлам.</translation>
     </message>
     <message>
         <source>Lead</source>
-        <translation type="obsolete">Ведущий</translation>
+        <translation type="unfinished">Ведущий</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="obsolete">Разработчик</translation>
+        <translation type="unfinished">Разработчик</translation>
     </message>
     <message>
         <source>Designer</source>
-        <translation type="obsolete">Дизайнер</translation>
+        <translation type="unfinished">Дизайнер</translation>
     </message>
     <message>
         <source>Contributor</source>
-        <translation type="obsolete">Распространитель</translation>
+        <translation type="unfinished">Распространитель</translation>
     </message>
     <message>
         <source>Tester</source>
-        <translation type="obsolete">Тестировщик</translation>
+        <translation type="unfinished">Тестировщик</translation>
     </message>
     <message>
         <source>The package name %packagename is not valid, it can only contain characters in the range a-z, 0-9 and underscore.</source>
-        <translation type="obsolete">Указанное название пакета &quot;%packagename&quot; не подходит, т.к. содержит недопустимые символы. Допустимыми являются символы a-z, 0-9 и подчеркивание (_).</translation>
+        <translation type="unfinished">Указанное название пакета &quot;%packagename&quot; не подходит, т.к. содержит недопустимые символы. Допустимыми являются символы a-z, 0-9 и подчеркивание (_).</translation>
     </message>
     <message>
         <source>Select an extension to be exported</source>
@@ -26942,7 +27236,7 @@ your account.</source>
     </message>
     <message>
         <source>Extension export</source>
-        <translation type="obsolete">Экспорт расширений</translation>
+        <translation type="unfinished">Экспорт расширений</translation>
     </message>
     <message>
         <source>Extension:</source>
@@ -26954,105 +27248,129 @@ your account.</source>
     </message>
     <message>
         <source>%number content objects</source>
-        <translation type="obsolete">%number объектов</translation>
+        <translation type="unfinished">%number объектов</translation>
     </message>
     <message>
         <source>Extension &apos;%extensionname&apos;</source>
-        <translation type="obsolete">Расширение &apos;%extensionname&apos;</translation>
+        <translation type="unfinished">Расширение &apos;%extensionname&apos;</translation>
     </message>
     <message>
         <source>Removing class &apos;%classname&apos; will result in the removal of %objectscount object(s) of this class and all their sub-items. Are you sure you want to uninstall it?</source>
-        <translation type="obsolete">Удаление класса &apos;%classname&apos; также приведет к удалению %objectscount объектов этого класса и их дочерних элементов. Вы уверены, что хотите удалить его?</translation>
+        <translation type="unfinished">Удаление класса &apos;%classname&apos; также приведет к удалению %objectscount объектов этого класса и их дочерних элементов. Вы уверены, что хотите удалить его?</translation>
     </message>
     <message>
         <source>Class &apos;%classname&apos; already exists.</source>
-        <translation type="obsolete">Класс &apos;%classname&apos; уже имеется в системе.</translation>
+        <translation type="unfinished">Класс &apos;%classname&apos; уже имеется в системе.</translation>
     </message>
     <message>
         <source>Replace existing class</source>
-        <translation type="obsolete">Заменить существующий класс</translation>
+        <translation type="unfinished">Заменить существующий класс</translation>
     </message>
     <message>
         <source>(Warning! $objectsCount content object(s) and their sub-items will be removed)</source>
-        <translation type="obsolete">(Предупреждение! $objectsCount объектов и их дочерние элементы будут удалены)</translation>
+        <translation type="unfinished">(Предупреждение! $objectsCount объектов и их дочерние элементы будут удалены)</translation>
     </message>
     <message>
         <source>Skip installing this class</source>
-        <translation type="obsolete">Пропустить установку класса</translation>
+        <translation type="unfinished">Пропустить установку класса</translation>
     </message>
     <message>
         <source>Keep existing and create a new one</source>
-        <translation type="obsolete">Сохранить имеющийся и создать новый</translation>
+        <translation type="unfinished">Сохранить имеющийся и создать новый</translation>
     </message>
     <message>
         <source>Object &apos;%objectname&apos; has been modified since installation. Are you sure you want to remove it?</source>
-        <translation type="obsolete">Объект &apos;%objectname&apos; был изменен после установки. Вы уверены, что хотите его удалить?</translation>
+        <translation type="unfinished">Объект &apos;%objectname&apos; был изменен после установки. Вы уверены, что хотите его удалить?</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="obsolete">Удалить</translation>
+        <translation type="unfinished">Удалить</translation>
     </message>
     <message>
         <source>Keep object</source>
-        <translation type="obsolete">Сохранить объект</translation>
+        <translation type="unfinished">Сохранить объект</translation>
     </message>
     <message>
         <source>Object &apos;%objectname&apos; has %childrencount sub-item(s) that will be removed.</source>
-        <translation type="obsolete">Объект &apos;%objectname&apos; имеет %childrencount дочерних элементов, которые будут удалены.</translation>
+        <translation type="unfinished">Объект &apos;%objectname&apos; имеет %childrencount дочерних элементов, которые будут удалены.</translation>
     </message>
     <message>
         <source>Extension &apos;%extensionname&apos; already exists.</source>
-        <translation type="obsolete">Расширение &apos;%extensionname&apos; уже имеется в системе.</translation>
+        <translation type="unfinished">Расширение &apos;%extensionname&apos; уже имеется в системе.</translation>
     </message>
     <message>
         <source>Replace extension</source>
-        <translation type="obsolete">Заменить расширение</translation>
+        <translation type="unfinished">Заменить расширение</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="obsolete">Пропустить</translation>
+        <translation type="unfinished">Пропустить</translation>
     </message>
     <message>
         <source>Install script: %description</source>
-        <translation type="obsolete">Установочный скрипт: %description</translation>
+        <translation type="unfinished">Установочный скрипт: %description</translation>
     </message>
     <message>
         <source>Content class &apos;%classname&apos; (%classidentifier)</source>
-        <translation type="obsolete">Класс содержимого &apos;%classname&apos; (%classidentifier)</translation>
+        <translation type="unfinished">Класс содержимого &apos;%classname&apos; (%classidentifier)</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="obsolete">Электронная почта</translation>
+        <translation type="unfinished">Электронная почта</translation>
     </message>
     <message>
         <source>You must enter an email for the changelog</source>
-        <translation type="obsolete">Необходимо ввести электронную почту списка изменений</translation>
+        <translation type="unfinished">Необходимо ввести электронную почту списка изменений</translation>
     </message>
     <message>
         <source>You must enter an email address of the maintainer</source>
-        <translation type="obsolete">Необходимо ввести адрес электронной почты человека, поддерживающего пакет</translation>
+        <translation type="unfinished">Необходимо ввести адрес электронной почты человека, поддерживающего пакет</translation>
     </message>
     <message>
         <source>Remove object and its sub-item(s)</source>
-        <translation type="obsolete">Удалить объекты и его дочерние объекты</translation>
+        <translation type="unfinished">Удалить объекты и его дочерние объекты</translation>
+    </message>
+    <message>
+        <source>Extensions to include</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extension list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must select at least one extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package contains an invalid extension name: %extensionname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The package name %packagename is invalid, cannot import the package</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/pdf</name>
     <message>
         <source>PDF Export</source>
-        <translation type="obsolete">Экспорт PDF</translation>
+        <translation type="unfinished">Экспорт PDF</translation>
     </message>
     <message>
         <source>An export with such filename already exists.</source>
-        <translation type="obsolete">Экспорт с указанным именем файла уже существует.</translation>
+        <translation type="unfinished">Экспорт с указанным именем файла уже существует.</translation>
     </message>
 </context>
 <context>
     <name>kernel/pdfexport</name>
     <message>
         <source>New PDF Export</source>
-        <translation type="obsolete">Новый экспорт PDF</translation>
+        <translation type="unfinished">Новый экспорт PDF</translation>
     </message>
 </context>
 <context>
@@ -27066,79 +27384,83 @@ your account.</source>
     <name>kernel/role</name>
     <message>
         <source>Role list</source>
-        <translation type="obsolete">Список ролей</translation>
+        <translation type="unfinished">Список ролей</translation>
     </message>
     <message>
         <source>Editing policy</source>
-        <translation type="obsolete">Редактирование правила</translation>
+        <translation type="unfinished">Редактирование правила</translation>
     </message>
     <message>
         <source>Limit on section</source>
-        <translation type="obsolete">Ограничение по секции</translation>
+        <translation type="unfinished">Ограничение по секции</translation>
     </message>
     <message>
         <source>Create new policy, step 2: select function</source>
-        <translation type="obsolete">Создание нового правила доступа, шаг 2: выбор функции</translation>
+        <translation type="unfinished">Создание нового правила доступа, шаг 2: выбор функции</translation>
     </message>
     <message>
         <source>Create new policy, step three: set function limitations</source>
-        <translation type="obsolete">Создание нового правила доступа, шаг 3: выбор ограничений для применения функции</translation>
+        <translation type="unfinished">Создание нового правила доступа, шаг 3: выбор ограничений для применения функции</translation>
     </message>
     <message>
         <source>Create new policy, step two: select function</source>
-        <translation type="obsolete">Создание нового правила доступа, шаг 2: выбор функции</translation>
+        <translation type="unfinished">Создание нового правила доступа, шаг 2: выбор функции</translation>
     </message>
     <message>
         <source>Create new policy, step one: select module</source>
-        <translation type="obsolete">Создание нового правила доступа, шаг 1: выбор модуля</translation>
+        <translation type="unfinished">Создание нового правила доступа, шаг 1: выбор модуля</translation>
     </message>
 </context>
 <context>
     <name>kernel/role/edit</name>
     <message>
         <source>New role</source>
-        <translation type="obsolete">Новая роль</translation>
+        <translation type="unfinished">Новая роль</translation>
     </message>
     <message>
         <source>Copy of %rolename</source>
-        <translation type="obsolete">Копия %rolename</translation>
+        <translation type="unfinished">Копия %rolename</translation>
     </message>
 </context>
 <context>
     <name>kernel/rss</name>
     <message>
         <source>Really Simple Syndication</source>
-        <translation type="obsolete">Really Simple Syndication</translation>
+        <translation type="unfinished">Really Simple Syndication</translation>
     </message>
     <message>
         <source>New RSS Export</source>
-        <translation type="obsolete">Новый экспорт RSS</translation>
+        <translation type="unfinished">Новый экспорт RSS</translation>
     </message>
     <message>
         <source>New RSS Import</source>
-        <translation type="obsolete">Новый импорт RSS</translation>
+        <translation type="unfinished">Новый импорт RSS</translation>
     </message>
 </context>
 <context>
     <name>kernel/rss/edit_export</name>
     <message>
         <source>Invalid selection for title class %1 does not have attribute &quot;%2&quot;</source>
-        <translation type="obsolete">Неправильный выбор для класса заголовка %1 не имеет атрибут &quot;%2&quot;</translation>
+        <translation type="unfinished">Неправильный выбор для класса заголовка %1 не имеет атрибут &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Invalid selection for description class %1 does not have attribute &quot;%2&quot;</source>
-        <translation type="obsolete">Неправильный выбор для класса описания %1 не имеет атрибут &quot;%2&quot;</translation>
+        <translation type="unfinished">Неправильный выбор для класса описания %1 не имеет атрибут &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Selected class does not exist</source>
-        <translation type="obsolete">Выбранный класс не существует</translation>
+        <translation type="unfinished">Выбранный класс не существует</translation>
+    </message>
+    <message>
+        <source>Invalid selection for category class %1 does not have attribute &quot;%2&quot;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/search</name>
     <message>
         <source>Search stats</source>
-        <translation type="obsolete">Статистика поиска</translation>
+        <translation type="unfinished">Статистика поиска</translation>
     </message>
 </context>
 <context>
@@ -27149,7 +27471,7 @@ your account.</source>
     </message>
     <message>
         <source>Sections</source>
-        <translation type="obsolete">Секции</translation>
+        <translation type="unfinished">Секции</translation>
     </message>
     <message>
         <source>View section</source>
@@ -27157,565 +27479,625 @@ your account.</source>
     </message>
     <message>
         <source>New section</source>
-        <translation type="obsolete">Новая секция</translation>
+        <translation type="unfinished">Новая секция</translation>
     </message>
     <message>
         <source>Assign section</source>
-        <translation type="obsolete">Назначить секцию</translation>
+        <translation type="unfinished">Назначить секцию</translation>
     </message>
 </context>
 <context>
     <name>kernel/setup</name>
     <message>
         <source>Cache admin</source>
-        <translation type="obsolete">
+        <translation type="unfinished">
 Управление кэшем</translation>
     </message>
     <message>
         <source>Template operator wizard</source>
-        <translation type="obsolete">Мастер операторов шаблона</translation>
+        <translation type="unfinished">Мастер операторов шаблона</translation>
     </message>
     <message>
         <source>Extension configuration</source>
-        <translation type="obsolete">Конфигурация расширений</translation>
+        <translation type="unfinished">Конфигурация расширений</translation>
     </message>
     <message>
         <source>System information</source>
-        <translation type="obsolete">Информация о системе</translation>
+        <translation type="unfinished">Информация о системе</translation>
     </message>
     <message>
         <source>Rapid Application Development</source>
-        <translation type="obsolete">Rapid Application Development</translation>
+        <translation type="unfinished">Rapid Application Development</translation>
     </message>
     <message>
         <source>Setup menu</source>
-        <translation type="obsolete">Настройка меню</translation>
+        <translation type="unfinished">Настройка меню</translation>
     </message>
     <message>
         <source>System Upgrade</source>
-        <translation type="obsolete">Обновление системы</translation>
+        <translation type="unfinished">Обновление системы</translation>
     </message>
     <message>
         <source>Session admin</source>
-        <translation type="obsolete">Управление сессиями</translation>
+        <translation type="unfinished">Управление сессиями</translation>
     </message>
     <message>
         <source>File %1 does not exist. You should copy it from the recent eZ Publish distribution.</source>
-        <translation type="obsolete">Файл %1 не найден. Вам необходимо скопировать его из последнего дистрибутива системы.</translation>
+        <translation type="unfinished">Файл %1 не найден. Вам необходимо скопировать его из последнего дистрибутива системы.</translation>
     </message>
     <message>
         <source>Datatype wizard</source>
-        <translation type="obsolete">Мастер типов данных</translation>
+        <translation type="unfinished">Мастер типов данных</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop</name>
     <message>
         <source>Basket</source>
-        <translation type="obsolete">Корзина</translation>
+        <translation type="unfinished">Корзина</translation>
     </message>
     <message>
         <source>Confirm order</source>
-        <translation type="obsolete">Подтвердите заказ</translation>
+        <translation type="unfinished">Подтвердите заказ</translation>
     </message>
     <message>
         <source>Discount group</source>
-        <translation type="obsolete">Грппа скидок</translation>
+        <translation type="unfinished">Грппа скидок</translation>
     </message>
     <message>
         <source>Group view of discount rule</source>
-        <translation type="obsolete">просмотр группы правила скоидок</translation>
+        <translation type="unfinished">просмотр группы правила скоидок</translation>
     </message>
     <message>
         <source>Editing rule</source>
-        <translation type="obsolete">Редактирование правила</translation>
+        <translation type="unfinished">Редактирование правила</translation>
     </message>
     <message>
         <source>Order list</source>
-        <translation type="obsolete">Список заказов</translation>
+        <translation type="unfinished">Список заказов</translation>
     </message>
     <message>
         <source>Enter account information</source>
-        <translation type="obsolete">Введите данные счета</translation>
+        <translation type="unfinished">Введите данные счета</translation>
     </message>
     <message>
         <source>VAT types</source>
-        <translation type="obsolete">Типы НДС</translation>
+        <translation type="unfinished">Типы НДС</translation>
     </message>
     <message>
         <source>Checkout</source>
-        <translation type="obsolete">Расчитаться</translation>
+        <translation type="unfinished">Расчитаться</translation>
     </message>
     <message>
         <source>Customer list</source>
-        <translation type="obsolete">Список клиентов</translation>
+        <translation type="unfinished">Список клиентов</translation>
     </message>
     <message>
         <source>Remove order</source>
-        <translation type="obsolete">Удалить заказ</translation>
+        <translation type="unfinished">Удалить заказ</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="obsolete">Статистика</translation>
+        <translation type="unfinished">Статистика</translation>
     </message>
     <message>
         <source>VAT type</source>
-        <translation type="obsolete">Тип НДС</translation>
+        <translation type="unfinished">Тип НДС</translation>
     </message>
     <message>
         <source>Classes</source>
-        <translation type="obsolete">Классы</translation>
+        <translation type="unfinished">Классы</translation>
     </message>
     <message>
         <source>Any class</source>
-        <translation type="obsolete">Любой класс</translation>
+        <translation type="unfinished">Любой класс</translation>
     </message>
     <message>
         <source>in sections</source>
-        <translation type="obsolete">в секциях</translation>
+        <translation type="unfinished">в секциях</translation>
     </message>
     <message>
         <source>in any section</source>
-        <translation type="obsolete">в любой секции</translation>
+        <translation type="unfinished">в любой секции</translation>
     </message>
     <message>
         <source>Products</source>
-        <translation type="obsolete">Товары</translation>
+        <translation type="unfinished">Товары</translation>
     </message>
     <message>
         <source>Any product</source>
-        <translation type="obsolete">Любой товар</translation>
+        <translation type="unfinished">Любой товар</translation>
     </message>
     <message>
         <source>Order status</source>
-        <translation type="obsolete">Статус заказа</translation>
+        <translation type="unfinished">Статус заказа</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation type="obsolete">Неопределено</translation>
+        <translation type="unfinished">Неопределено</translation>
     </message>
     <message>
         <source>The confirm order operation was canceled. Try to checkout again.</source>
-        <translation type="obsolete">Операция подтверждения заказа была прервана. Попробуйте повторить еще раз.</translation>
+        <translation type="unfinished">Операция подтверждения заказа была прервана. Попробуйте повторить еще раз.</translation>
     </message>
     <message>
         <source>Order #%order_id</source>
-        <translation type="obsolete">Заказ №%order_id</translation>
+        <translation type="unfinished">Заказ №%order_id</translation>
     </message>
     <message>
         <source>New order status was successfully added.</source>
-        <translation type="obsolete">Новый статус заказа был успешно добавлен.</translation>
+        <translation type="unfinished">Новый статус заказа был успешно добавлен.</translation>
     </message>
     <message>
         <source>Changes to order status were successfully stored.</source>
-        <translation type="obsolete">Изменение статуса заказа были успешно сохранены.</translation>
+        <translation type="unfinished">Изменение статуса заказа были успешно сохранены.</translation>
     </message>
     <message>
         <source>Selected order statuses were successfully removed.</source>
-        <translation type="obsolete">Выбранные статусы заказов были успешно удалены.</translation>
+        <translation type="unfinished">Выбранные статусы заказов были успешно удалены.</translation>
     </message>
     <message>
         <source>Internal orders cannot be removed.</source>
-        <translation type="obsolete">Внутренние заказы не могут быть удалены.</translation>
+        <translation type="unfinished">Внутренние заказы не могут быть удалены.</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">Статус</translation>
+        <translation type="unfinished">Статус</translation>
     </message>
     <message>
         <source>Customer order view</source>
-        <translation type="obsolete">Информация о клиентском заказе</translation>
+        <translation type="unfinished">Информация о клиентском заказе</translation>
     </message>
     <message>
         <source>Any</source>
-        <translation type="obsolete">Любой</translation>
+        <translation type="unfinished">Любой</translation>
     </message>
     <message>
         <source>Available currency list</source>
-        <translation type="obsolete">Список доступных валют</translation>
+        <translation type="unfinished">Список доступных валют</translation>
     </message>
     <message>
         <source>Edit currency</source>
-        <translation type="obsolete">Изменить валюту</translation>
+        <translation type="unfinished">Изменить валюту</translation>
     </message>
     <message>
         <source>Create new currency</source>
-        <translation type="obsolete">Создать валюту</translation>
+        <translation type="unfinished">Создать валюту</translation>
     </message>
     <message>
         <source>Preferred currency</source>
-        <translation type="obsolete">Предпочитаемая валюта</translation>
+        <translation type="unfinished">Предпочитаемая валюта</translation>
     </message>
     <message>
         <source>Products overview</source>
-        <translation type="obsolete">Обзор товаров</translation>
+        <translation type="unfinished">Обзор товаров</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="obsolete">Нет</translation>
+        <translation type="unfinished">Нет</translation>
     </message>
     <message>
         <source>Error checking out</source>
-        <translation type="obsolete">Ошибка в процессе оформления заказа</translation>
+        <translation type="unfinished">Ошибка в процессе оформления заказа</translation>
     </message>
     <message>
         <source>Unable to calculate VAT percentage because your country is unknown. You can either fill country manually in your account information (if you are a registered user) or contact site administrator.</source>
-        <translation type="obsolete">Невозможно рассчитать процент НДС, поскольку ваша страна неопознана. Вы можете ввести страну в вашей учетной записи или связатья с администратором сайта.</translation>
+        <translation type="unfinished">Невозможно рассчитать процент НДС, поскольку ваша страна неопознана. Вы можете ввести страну в вашей учетной записи или связатья с администратором сайта.</translation>
     </message>
     <message>
         <source>Wishlist</source>
-        <translation type="obsolete">Список пожеланий</translation>
+        <translation type="unfinished">Список пожеланий</translation>
     </message>
     <message>
         <source>&apos;Autorates&apos; were retrieved successfully</source>
-        <translation type="obsolete">&apos;Автокурсы&apos; были успешно получены</translation>
+        <translation type="unfinished">&apos;Автокурсы&apos; были успешно получены</translation>
     </message>
     <message>
         <source>Unknown body format in HTTP response. Expected &apos;text/xml&apos;</source>
-        <translation type="obsolete">Неизвестный формат заголовка в HTTP отклике. Ожидался &apos;text/xml&apos;</translation>
+        <translation type="unfinished">Неизвестный формат заголовка в HTTP отклике. Ожидался &apos;text/xml&apos;</translation>
     </message>
     <message>
         <source>Invalid HTTP response</source>
-        <translation type="obsolete">Неправильный HTTP отклик</translation>
+        <translation type="unfinished">Неправильный HTTP отклик</translation>
     </message>
     <message>
         <source>Unable to send http request: %1:%2/%3</source>
-        <translation type="obsolete">Невозможно послать запрос HTTP: %1:%2/%3</translation>
+        <translation type="unfinished">Невозможно послать запрос HTTP: %1:%2/%3</translation>
     </message>
     <message>
         <source>eZExchangeRatesUpdateHandler: you should reimplement &apos;requestRates&apos; method</source>
-        <translation type="obsolete">eZExchangeRatesUpdateHandler: вы должны переопределить метод  &apos;requestRates&apos;</translation>
+        <translation type="unfinished">eZExchangeRatesUpdateHandler: вы должны переопределить метод  &apos;requestRates&apos;</translation>
     </message>
     <message>
         <source>&apos;Auto&apos; prices were updated successfully.</source>
-        <translation type="obsolete">&apos;Авто&apos; цены были успешно обновлены.</translation>
+        <translation type="unfinished">&apos;Авто&apos; цены были успешно обновлены.</translation>
     </message>
     <message>
         <source>&apos;Auto&apos; rates were updated successfully.</source>
-        <translation type="obsolete">&apos;Авто&apos; курсы были успешно обновлены.</translation>
+        <translation type="unfinished">&apos;Авто&apos; курсы были успешно обновлены.</translation>
     </message>
     <message>
         <source>Unable to calculate cross-rate for currency-pair &apos;%1&apos;/&apos;%2&apos;</source>
-        <translation type="obsolete">Невозможно рассчитать кросс-курс для валютной пары &apos;%1&apos;/&apos;%2&apos;</translation>
+        <translation type="unfinished">Невозможно рассчитать кросс-курс для валютной пары &apos;%1&apos;/&apos;%2&apos;</translation>
     </message>
     <message>
         <source>Unable to determine currency for retrieved rates.</source>
-        <translation type="obsolete">Невозможно определить валюты для полученных курсов.</translation>
+        <translation type="unfinished">Невозможно определить валюты для полученных курсов.</translation>
     </message>
     <message>
         <source>Retrieved empty list of rates.</source>
-        <translation type="obsolete">Получен пустой список курсов.</translation>
+        <translation type="unfinished">Получен пустой список курсов.</translation>
     </message>
     <message>
         <source>Unable to create handler to update auto rates.</source>
-        <translation type="obsolete">Невозможно создать обработчик для обновления автокурсов.</translation>
+        <translation type="unfinished">Невозможно создать обработчик для обновления автокурсов.</translation>
     </message>
     <message>
         <source>Changes were stored successfully.</source>
-        <translation type="obsolete">Изменения успешно сохранены.</translation>
+        <translation type="unfinished">Изменения успешно сохранены.</translation>
+    </message>
+    <message>
+        <source>&apos;%value&apos; is not a valid custom rate value (positive number expected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;%value&apos; is not a valid rate_factor value (positive number expected)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/classes/ezcurrencydata</name>
     <message>
         <source>Invalid characters in currency code.</source>
-        <translation type="obsolete">Неправильные символы в коде валюты.</translation>
+        <translation type="unfinished">Неправильные символы в коде валюты.</translation>
     </message>
     <message>
         <source>Currency already exists.</source>
-        <translation type="obsolete">Валюта уже существует.</translation>
+        <translation type="unfinished">Валюта уже существует.</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="obsolete">Неизвестная ошибка.</translation>
+        <translation type="unfinished">Неизвестная ошибка.</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/discountgroup</name>
     <message>
         <source>New discount group</source>
-        <translation type="obsolete">Новая группа скидок</translation>
+        <translation type="unfinished">Новая группа скидок</translation>
     </message>
     <message>
         <source>New Discount Rule</source>
-        <translation type="obsolete">Новое правило скидок</translation>
+        <translation type="unfinished">Новое правило скидок</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/editvatrule</name>
     <message>
         <source>Choose a country.</source>
-        <translation type="obsolete">Выберите страну.</translation>
+        <translation type="unfinished">Выберите страну.</translation>
     </message>
     <message>
         <source>Choose a VAT type.</source>
-        <translation type="obsolete">Выберите тип НДС.</translation>
+        <translation type="unfinished">Выберите тип НДС.</translation>
     </message>
     <message>
         <source>Rule not found</source>
-        <translation type="obsolete">Правило не найдено</translation>
+        <translation type="unfinished">Правило не найдено</translation>
     </message>
     <message>
         <source>Edit VAT charging rule</source>
-        <translation type="obsolete">Изменить правило начисления НДС</translation>
+        <translation type="unfinished">Изменить правило начисления НДС</translation>
     </message>
     <message>
         <source>Create new VAT charging rule</source>
-        <translation type="obsolete">Создать новое правило начисления НДС</translation>
+        <translation type="unfinished">Создать новое правило начисления НДС</translation>
     </message>
     <message>
         <source>Invalid data entered</source>
-        <translation type="obsolete">Введены неправильные данные</translation>
+        <translation type="unfinished">Введены неправильные данные</translation>
     </message>
     <message>
         <source>Conflicting rule</source>
-        <translation type="obsolete">Конфликтующее правило</translation>
+        <translation type="unfinished">Конфликтующее правило</translation>
     </message>
     <message>
         <source>Default rule for any country already exists.</source>
-        <translation type="obsolete">Правило по умолчанию для всех стран уже существует.</translation>
+        <translation type="unfinished">Правило по умолчанию для всех стран уже существует.</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/productcategories</name>
     <message>
         <source>Product categories</source>
-        <translation type="obsolete">Категории товаров</translation>
+        <translation type="unfinished">Категории товаров</translation>
     </message>
     <message>
         <source>Product category</source>
-        <translation type="obsolete">Категория товара</translation>
+        <translation type="unfinished">Категория товара</translation>
     </message>
     <message>
         <source>Empty category names are not allowed (corrected).</source>
-        <translation type="obsolete">Пустые названия категорий недопустимы (исправлено).</translation>
+        <translation type="unfinished">Пустые названия категорий недопустимы (исправлено).</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/vatrules</name>
     <message>
         <source>No default rule found. Please add rule having &quot;Any&quot; country and &quot;Any&quot; category.</source>
-        <translation type="obsolete">Не задано правило по умолчанию. Пожалуйста, добавьте правило, имеющее &apos;Любую&apos; страну и &apos;Любую&apos; категорию.</translation>
+        <translation type="unfinished">Не задано правило по умолчанию. Пожалуйста, добавьте правило, имеющее &apos;Любую&apos; страну и &apos;Любую&apos; категорию.</translation>
     </message>
     <message>
         <source>VAT rules</source>
-        <translation type="obsolete">Правила начисления налогов</translation>
+        <translation type="unfinished">Правила начисления налогов</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/vattype</name>
     <message>
         <source>Empty VAT type names are not allowed (corrected).</source>
-        <translation type="obsolete">Пустые названия типов НДС недопустимы (исправлено).</translation>
+        <translation type="unfinished">Пустые названия типов НДС недопустимы (исправлено).</translation>
     </message>
     <message>
         <source>Wrong VAT percentage (corrected).</source>
-        <translation type="obsolete">Неправильный процент НДС (исправлено).</translation>
+        <translation type="unfinished">Неправильный процент НДС (исправлено).</translation>
     </message>
 </context>
 <context>
     <name>kernel/state</name>
     <message>
         <source>Assign</source>
-        <translation type="obsolete">Назначить</translation>
+        <translation type="unfinished">Назначить</translation>
     </message>
     <message>
         <source>Groups</source>
-        <translation type="obsolete">Группы</translation>
+        <translation type="unfinished">Группы</translation>
     </message>
     <message>
         <source>New group</source>
-        <translation type="obsolete">Новая группа</translation>
+        <translation type="unfinished">Новая группа</translation>
     </message>
     <message>
         <source>Group edit</source>
-        <translation type="obsolete">Редактировать группу</translation>
+        <translation type="unfinished">Редактировать группу</translation>
+    </message>
+    <message>
+        <source>State</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/state/edit</name>
+    <message>
+        <source>Identifier: input required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: invalid, it can only consist of characters in the range a-z, 0-9 and underscore.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: invalid, maximum %max characters allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: a content object state group with this identifier already exists, please give another identifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%language_name: this language is the default but neither name or description were provided for this language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations: you need to add at least one localization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations: there are multiple localizations but you did not specify which is the default one</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: identifiers starting with &quot;ez&quot; are reserved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name in %language_name is too long. Maximum 45 characters allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name in %language_name: input required</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/trigger</name>
     <message>
         <source>Trigger</source>
-        <translation type="obsolete">Триггер</translation>
+        <translation type="unfinished">Триггер</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">Список</translation>
+        <translation type="unfinished">Список</translation>
     </message>
 </context>
 <context>
     <name>kernel/url</name>
     <message>
         <source>URL</source>
-        <translation type="obsolete">URL</translation>
+        <translation type="unfinished">URL</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">Список</translation>
+        <translation type="unfinished">Список</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">Вид</translation>
+        <translation type="unfinished">Вид</translation>
     </message>
     <message>
         <source>URL edit</source>
-        <translation type="obsolete">Редактирование URL</translation>
+        <translation type="unfinished">Редактирование URL</translation>
     </message>
 </context>
 <context>
     <name>kernel/user</name>
     <message>
         <source>User</source>
-        <translation type="obsolete">Пользователь</translation>
+        <translation type="unfinished">Пользователь</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="obsolete">- авторизация</translation>
+        <translation type="unfinished">- авторизация</translation>
     </message>
     <message>
         <source>Change password</source>
-        <translation type="obsolete">- изменение пароля</translation>
+        <translation type="unfinished">- изменение пароля</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="obsolete">- регистрация</translation>
+        <translation type="unfinished">- регистрация</translation>
     </message>
     <message>
         <source>Forgot password</source>
-        <translation type="obsolete">- забыл пароль</translation>
+        <translation type="unfinished">- забыл пароль</translation>
     </message>
     <message>
         <source>User profile</source>
-        <translation type="obsolete">Профиль пользователя</translation>
+        <translation type="unfinished">Профиль пользователя</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="obsolete">Настройка</translation>
+        <translation type="unfinished">Настройка</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="obsolete">Активировать</translation>
+        <translation type="unfinished">Активировать</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="obsolete">Успешно</translation>
+        <translation type="unfinished">Успешно</translation>
     </message>
 </context>
 <context>
     <name>kernel/user/register</name>
     <message>
         <source>Registration info</source>
-        <translation type="obsolete">Регистрационная информация</translation>
+        <translation type="unfinished">Регистрационная информация</translation>
     </message>
     <message>
         <source>New user registered</source>
-        <translation type="obsolete">Новый пользователь зарегистрирован</translation>
+        <translation type="unfinished">Новый пользователь зарегистрирован</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow</name>
     <message>
         <source>Edit workflow</source>
-        <translation type="obsolete">Редактировать процесс</translation>
+        <translation type="unfinished">Редактировать процесс</translation>
     </message>
     <message>
         <source>Workflow</source>
-        <translation type="obsolete">Процесс</translation>
+        <translation type="unfinished">Процесс</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">Редактировать</translation>
+        <translation type="unfinished">Редактировать</translation>
     </message>
     <message>
         <source>Edit workflow group</source>
-        <translation type="obsolete">Редактировать группу процессов</translation>
+        <translation type="unfinished">Редактировать группу процессов</translation>
     </message>
     <message>
         <source>Group edit</source>
-        <translation type="obsolete">Редактировать группу</translation>
+        <translation type="unfinished">Редактировать группу</translation>
     </message>
     <message>
         <source>Workflow group list</source>
-        <translation type="obsolete">Список групп процессов</translation>
+        <translation type="unfinished">Список групп процессов</translation>
     </message>
     <message>
         <source>Group list</source>
-        <translation type="obsolete">Список групп</translation>
+        <translation type="unfinished">Список групп</translation>
     </message>
     <message>
         <source>Workflow list</source>
-        <translation type="obsolete">Список процессов</translation>
+        <translation type="unfinished">Список процессов</translation>
     </message>
     <message>
         <source>Workflow list of group</source>
-        <translation type="obsolete">Список процессов в группе</translation>
+        <translation type="unfinished">Список процессов в группе</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">Список</translation>
+        <translation type="unfinished">Список</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">Вид</translation>
+        <translation type="unfinished">Вид</translation>
     </message>
     <message>
         <source>You have to have at least one group that the workflow belongs to!</source>
-        <translation type="obsolete">Необходимо иметь хотя бы одну группу, каторой будет принадлежать процесс!</translation>
+        <translation type="unfinished">Необходимо иметь хотя бы одну группу, каторой будет принадлежать процесс!</translation>
     </message>
     <message>
         <source>Process list</source>
-        <translation type="obsolete">Список процессов</translation>
+        <translation type="unfinished">Список процессов</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/edit</name>
     <message>
         <source>New Workflow</source>
-        <translation type="obsolete">Новый процесс</translation>
+        <translation type="unfinished">Новый процесс</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/event</name>
     <message>
         <source>Event</source>
-        <translation type="obsolete">Событие</translation>
+        <translation type="unfinished">Событие</translation>
     </message>
     <message>
         <source>Approve</source>
-        <translation type="obsolete">Утверждение</translation>
+        <translation type="unfinished">Утверждение</translation>
     </message>
     <message>
         <source>Multiplexer</source>
-        <translation type="obsolete">Мультиплексор</translation>
+        <translation type="unfinished">Мультиплексор</translation>
     </message>
     <message>
         <source>Simple shipping</source>
-        <translation type="obsolete">Простая доставка</translation>
+        <translation type="unfinished">Простая доставка</translation>
     </message>
     <message>
         <source>Wait until date</source>
-        <translation type="obsolete">Ожидание даты</translation>
+        <translation type="unfinished">Ожидание даты</translation>
     </message>
     <message>
         <source>Payment Gateway</source>
-        <translation type="obsolete">Шлюз платежной системы</translation>
+        <translation type="unfinished">Шлюз платежной системы</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/group</name>
     <message>
         <source>Group</source>
-        <translation type="obsolete">Группа</translation>
+        <translation type="unfinished">Группа</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/groupedit</name>
     <message>
         <source>New WorkflowGroup</source>
-        <translation type="obsolete">Новая группа процессов</translation>
+        <translation type="unfinished">Новая группа процессов</translation>
     </message>
 </context>
 <context>
@@ -27723,62 +28105,62 @@ your account.</source>
     <message>
         <source>Contents</source>
         <comment>Table of contents</comment>
-        <translation type="obsolete">Содержание</translation>
+        <translation type="unfinished">Содержание</translation>
     </message>
     <message>
         <source>Index</source>
         <comment>Keyword index name</comment>
-        <translation type="obsolete">Индекс</translation>
+        <translation type="unfinished">Индекс</translation>
     </message>
 </context>
 <context>
     <name>lib/eztemplate</name>
     <message>
         <source>Some template errors occurred, see debug for more information.</source>
-        <translation type="obsolete">Возникли некоторые ошибки шаблона, дополнительную информацию см. в отладке.</translation>
+        <translation type="unfinished">Возникли некоторые ошибки шаблона, дополнительную информацию см. в отладке.</translation>
     </message>
 </context>
 <context>
     <name>lib/template</name>
     <message>
         <source>The maximum nesting level of %max has been reached. The execution is stopped to avoid infinite recursion.</source>
-        <translation type="obsolete">Достигнут максимальный уровень вложения %max. Для избежания бесконечной рекурсии, выполнение остановлено.</translation>
+        <translation type="unfinished">Достигнут максимальный уровень вложения %max. Для избежания бесконечной рекурсии, выполнение остановлено.</translation>
     </message>
 </context>
 <context>
     <name>pdf/edit</name>
     <message>
         <source>PDF Export</source>
-        <translation type="obsolete">Экспорт PDF</translation>
+        <translation type="unfinished">Экспорт PDF</translation>
     </message>
 </context>
 <context>
     <name>settings/edit</name>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">Установки</translation>
+        <translation type="unfinished">Установки</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">Изменить</translation>
+        <translation type="unfinished">Изменить</translation>
     </message>
 </context>
 <context>
     <name>settings/view</name>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">Установки</translation>
+        <translation type="unfinished">Установки</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">Вид</translation>
+        <translation type="unfinished">Вид</translation>
     </message>
 </context>
 <context>
     <name>shop</name>
     <message>
         <source>Remove orders</source>
-        <translation type="obsolete">Удалить заказы</translation>
+        <translation type="unfinished">Удалить заказы</translation>
     </message>
 </context>
 <context>

@@ -360,7 +360,7 @@
     </message>
     <message>
         <source>Edit &lt;%class_name&gt; (%object_count)</source>
-        <translation>Bewerk &lt;%class_name&gt; (%object_count)</translation>
+        <translation type="obsolete">Bewerk &lt;%class_name&gt; (%object_count)</translation>
     </message>
     <message>
         <source>Description</source>
@@ -393,6 +393,14 @@
     <message>
         <source>Category</source>
         <translation>Categorie</translation>
+    </message>
+    <message>
+        <source>Edit &lt;%class_name&gt; (%object_count objects)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The draft of the class definition was successfully stored.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1617,6 +1625,26 @@
         <source>No media file is available.</source>
         <translation>Er is geen media bestand aanwezig.</translation>
     </message>
+    <message>
+        <source>Year</source>
+        <translation type="unfinished">Jaar</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation type="unfinished">Maand</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation type="unfinished">Dag</translation>
+    </message>
+    <message>
+        <source>Hour</source>
+        <translation type="unfinished">Uur</translation>
+    </message>
+    <message>
+        <source>Minute</source>
+        <translation type="unfinished">Minuut</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/content/datatype/ezuser</name>
@@ -2309,7 +2337,7 @@
     </message>
     <message>
         <source>Possible actions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mogelijke acties</translation>
     </message>
     <message>
         <source>Continue editing one of your drafts.</source>
@@ -2436,7 +2464,7 @@
     </message>
     <message>
         <source>Select the language you want to add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selecteer de taal welke u wilt toevoegen</translation>
     </message>
     <message>
         <source>Select the language the added translation will be based on</source>
@@ -2575,7 +2603,7 @@
     </message>
     <message>
         <source>Untouched draft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Onaangeroerd concept</translation>
     </message>
     <message>
         <source>Create a copy of version #%version_number.</source>
@@ -2687,7 +2715,7 @@
     </message>
     <message>
         <source>Versions for &lt;%object_name&gt; (%version_count)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Versies voor &lt;%object_name&gt; (%version_count)</translation>
     </message>
     <message>
         <source>New drafts (%newerDraftCount)</source>
@@ -2864,7 +2892,7 @@
     </message>
     <message>
         <source>Are you sure you want to discard the draft?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Weet u zeker dat u het concept wilt verwijderen?</translation>
     </message>
     <message>
         <source>OK</source>
@@ -4199,7 +4227,7 @@
     </message>
     <message>
         <source>Untouched draft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Onaangeroerd concept</translation>
     </message>
     <message>
         <source>Back</source>
@@ -4382,7 +4410,7 @@
     </message>
     <message>
         <source>Back to edit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Terug naar bewerken</translation>
     </message>
     <message>
         <source>Back</source>
@@ -4503,7 +4531,7 @@
     </message>
     <message>
         <source>Edit &lt;%draft_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bewerk &lt;%draft_name&gt;.</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -5077,7 +5105,7 @@
     </message>
     <message>
         <source>Item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Item</translation>
     </message>
     <message>
         <source>Sub items</source>
@@ -5109,11 +5137,11 @@
     </message>
     <message>
         <source>Confirm translation removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bevestig verwijdering vertaling</translation>
     </message>
     <message>
         <source>Cancel the removal of translations.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Annuleer het verwijderen van vertalingen.</translation>
     </message>
     <message>
         <source>Some of the subtrees or objects selected for removal are used by other objects. Select the menu from the content tree, and</source>
@@ -5149,6 +5177,14 @@
     </message>
     <message>
         <source>The system will let you restore the object &lt;%name&gt;. Specify where you wish to restore it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pending sub-object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removal failed because there is pending sub object under the node. Please finish the relevant process then redo the removal.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5542,7 +5578,7 @@
     </message>
     <message>
         <source>Display sub items using a simple list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Toon sub items in eenvoudige lijst.</translation>
     </message>
     <message>
         <source>Display sub items using a detailed list.</source>
@@ -5550,7 +5586,7 @@
     </message>
     <message>
         <source>Display sub items as thumbnails.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Toon sub items als thumbnails.</translation>
     </message>
     <message>
         <source>Use these controls to set the sorting method for the sub items of the current location.</source>
@@ -5578,7 +5614,7 @@
     </message>
     <message>
         <source>Select location for removal.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selecteer te verwijderen locatie.</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -5630,7 +5666,7 @@
     </message>
     <message>
         <source>View translation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bekijk vertaling.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -5642,7 +5678,7 @@
     </message>
     <message>
         <source>Required data is either missing or is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vereiste data ontbreekt of is ongeldig</translation>
     </message>
     <message>
         <source>There is no removable location.</source>
@@ -5674,7 +5710,7 @@
     </message>
     <message>
         <source>Another language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Andere taal</translation>
     </message>
     <message>
         <source>Existing languages</source>
@@ -5682,19 +5718,19 @@
     </message>
     <message>
         <source>Use these radio buttons to select the desired main language.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gebruik deze radioknoppen om de gewenste standaard taal te selecteren.</translation>
     </message>
     <message>
         <source>Edit in &lt;%language_name&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bewerk in &lt;%language_name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected languages from the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verwijder geselcteerde talen uit de lijst hierboven.</translation>
     </message>
     <message>
         <source>There is no removable language.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Er is geen verwijderbare taal.</translation>
     </message>
     <message>
         <source>Use the main language if there is no prioritized translation.</source>
@@ -5718,7 +5754,7 @@
     </message>
     <message>
         <source>Relation type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Relatie type</translation>
     </message>
     <message>
         <source>You do not have permission to remove any of the items from the list above.</source>
@@ -5830,11 +5866,11 @@
     </message>
     <message>
         <source>Select the desired main language using the radio buttons above then click this button to store the setting.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selecteer de gewenste standaard taal middels de radioknoppen hierboven en klik dan op deze knop om de instellingen op te slaan.</translation>
     </message>
     <message>
         <source>You cannot change the main language because the object is not translated to any other languages.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">U kunt de standaard taal niet wijzigen omdat het object niet vertaald is in een andere talen.</translation>
     </message>
     <message>
         <source>You cannot change the main language because you do not have permission to edit the current item.</source>
@@ -5897,10 +5933,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tab is disabled, enable on dashboard.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Translations (%count)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5926,22 +5958,14 @@
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished">Aanmaken</translation>
+        <translation type="obsolete">Aanmaken</translation>
     </message>
     <message>
         <source>in</source>
-        <translation type="unfinished">in</translation>
-    </message>
-    <message>
-        <source>Here</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">in</translation>
     </message>
     <message>
         <source>Published order</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>List of sub items of current node, with controlls to edit, remove and move them directly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6014,6 +6038,90 @@
     </message>
     <message>
         <source>Language list of translations for current object.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tab is disabled, enable with toggler to the left of these tabs.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show simplified view of content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ordering</source>
+        <translation type="unfinished">Volgorde</translation>
+    </message>
+    <message>
+        <source>Show published ordering overview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Node remote ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object remote ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of items per page:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visible table columns:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished">Selecteren</translation>
+    </message>
+    <message>
+        <source>Select all visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select none</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new</source>
+        <translation type="unfinished">Nieuw aanmaken</translation>
+    </message>
+    <message>
+        <source>More actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use the checkboxes to select one or more items.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>prev</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>last</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6133,7 +6241,7 @@
     </message>
     <message>
         <source>Add items</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Voeg items toe</translation>
     </message>
     <message>
         <source>Add items to your personal notification list.</source>
@@ -6614,15 +6722,15 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     <name>design/admin/pagelayout</name>
     <message>
         <source>Content structure</source>
-        <translation type="obsolete">Contentstructuur</translation>
+        <translation type="unfinished">Contentstructuur</translation>
     </message>
     <message>
         <source>Media library</source>
-        <translation type="obsolete">Media bibliotheek</translation>
+        <translation type="unfinished">Media bibliotheek</translation>
     </message>
     <message>
         <source>User accounts</source>
-        <translation type="obsolete">Gebruikersaccounts</translation>
+        <translation type="unfinished">Gebruikersaccounts</translation>
     </message>
     <message>
         <source>Search</source>
@@ -6646,15 +6754,15 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Webshop</source>
-        <translation type="obsolete">Webshop</translation>
+        <translation type="unfinished">Webshop</translation>
     </message>
     <message>
         <source>Setup</source>
-        <translation type="obsolete">Set up</translation>
+        <translation type="unfinished">Set up</translation>
     </message>
     <message>
         <source>Design</source>
-        <translation type="obsolete">Design</translation>
+        <translation type="unfinished">Design</translation>
     </message>
     <message>
         <source>My account</source>
@@ -6777,7 +6885,39 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>User perferences</source>
+        <source>Manage the main content structure of the site.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage images, files, documents, etc.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage users, user groups and permission settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage customers, orders, discounts and VAT types; view sales statistics.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage templates, menus, toolbars and other things related to appearence.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configure settings and manage advanced functionality.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dashboard</source>
+        <translation type="unfinished">Dashboard</translation>
+    </message>
+    <message>
+        <source>Manage items and settings that belong to your account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User preferences</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6969,18 +7109,22 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Dashboard</source>
+        <translation type="unfinished">Dashboard</translation>
+    </message>
+    <message>
+        <source>Enable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preview tab</source>
+        <source>Disable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Disable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
+        <source>Enable &amp;quot;Tabs&amp;quot; by default while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
+        <source>Disable &amp;quot;Tabs&amp;quot; by default while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7334,7 +7478,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Required data is either missing or is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vereiste data ontbreekt of is ongeldig</translation>
     </message>
 </context>
 <context>
@@ -7500,7 +7644,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Another language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Andere taal</translation>
     </message>
     <message>
         <source>Create here</source>
@@ -7537,6 +7681,14 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     <message>
         <source>New translation</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sitemap for subtree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">Voorbeeld</translation>
     </message>
 </context>
 <context>
@@ -7590,6 +7742,10 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     <message>
         <source>Your email address</source>
         <translation type="unfinished">Uw emailadres</translation>
+    </message>
+    <message>
+        <source>Your name</source>
+        <translation type="unfinished">Uw naam</translation>
     </message>
 </context>
 <context>
@@ -8935,6 +9091,26 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
         <source>Navigation part</source>
         <translation type="unfinished">Navigatiedeel</translation>
     </message>
+    <message>
+        <source>Identifier can not be empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier should consist of letters, numbers or &apos;_&apos; with letter prefix.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The identifier has been used in another section.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section edit error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/section/list</name>
@@ -9004,6 +9180,10 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Assign a subtree to the &lt;%section_name&gt; section.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9087,6 +9267,10 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Assign subtree of objects to this section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9504,7 +9688,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source></source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -9566,7 +9750,15 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished">Activeer</translation>
+        <translation type="obsolete">Activeer</translation>
+    </message>
+    <message>
+        <source>Activate or deactivate extension. Use the &quot;Update&quot; button to apply the changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished">Actualiseren</translation>
     </message>
 </context>
 <context>
@@ -9751,7 +9943,7 @@ eZ Publish link</translation>
     <message>
         <source>SVN revision</source>
         <comment>eZ Publish version</comment>
-        <translation type="unfinished">eZ publish SVN versie</translation>
+        <translation type="obsolete">eZ publish SVN versie</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -10150,10 +10342,6 @@ Gegevenstype</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your alternatives are to:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10167,6 +10355,10 @@ Gegevenstype</translation>
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The operation was cut short in order to avoid execution timeout.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10942,7 +11134,7 @@ Gegevenstype</translation>
     </message>
     <message>
         <source>New discount rule</source>
-        <translation type="obsolete">Nieuwe kortingsregel</translation>
+        <translation type="unfinished">Nieuwe kortingsregel</translation>
     </message>
     <message>
         <source>Product types</source>
@@ -11945,7 +12137,7 @@ Gegevenstype</translation>
     </message>
     <message>
         <source>Required data is either missing or is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vereiste data ontbreekt of is ongeldig</translation>
     </message>
     <message>
         <source>Edit content object state &quot;%state_name&quot;</source>
@@ -11976,15 +12168,15 @@ Gegevenstype</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save changes to this states.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation type="unfinished">Annuleren</translation>
     </message>
     <message>
         <source>Cancel saving any changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save changes to this state.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12122,7 +12314,7 @@ Gegevenstype</translation>
     </message>
     <message>
         <source>Required data is either missing or is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vereiste data ontbreekt of is ongeldig</translation>
     </message>
     <message>
         <source>Invert selection.</source>
@@ -14164,6 +14356,29 @@ uw account te activeren.</translation>
     </message>
 </context>
 <context>
+    <name>design/ezwebin/content/datatype</name>
+    <message>
+        <source>Year</source>
+        <translation type="obsolete">Jaar</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation type="obsolete">Maand</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation type="obsolete">Dag</translation>
+    </message>
+    <message>
+        <source>Hour</source>
+        <translation type="obsolete">Uur</translation>
+    </message>
+    <message>
+        <source>Minute</source>
+        <translation type="obsolete">Minuut</translation>
+    </message>
+</context>
+<context>
     <name>design/plain/layout</name>
     <message>
         <source>Advanced search</source>
@@ -14828,7 +15043,7 @@ uw account te activeren.</translation>
     </message>
     <message>
         <source>seconds(s)</source>
-        <translation>seconde(n)</translation>
+        <translation type="obsolete">seconde(n)</translation>
     </message>
     <message>
         <source>Drop-down menu / multi select</source>
@@ -14848,6 +15063,18 @@ uw account te activeren.</translation>
     </message>
     <message>
         <source>Tag preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Html5 Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Html5 Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>second(s)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16322,6 +16549,30 @@ Indien u commentaren naar de fiatteur wenst te sturen of de status wenst te zien
     </message>
     <message>
         <source>Find objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The related objects will be edited in the same language as this object. If such translations do not exist they will be created, based on the source language of your choice.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation base</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This object is already translated, the existing translation will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This object is not translated, please select the language the new translation will be based on.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your browser does not support html5 video.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your browser does not support html5 audio.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -20749,7 +21000,7 @@ eZ Publish versie</translation>
     <message>
         <source>SVN revision</source>
         <comment>eZ Publish version</comment>
-        <translation>SVN versie
+        <translation type="obsolete">SVN versie
 
 eZ publish versie</translation>
     </message>
@@ -21297,23 +21548,23 @@ Sjabloonoperator.</translation>
     </message>
     <message>
         <source>The database would not accept the connection, please review your settings and try again.</source>
-        <translation type="obsolete">Er kon geen verbinding worden gemaakt met de database. Controleer uw instellingen en probeer het nogmaals.</translation>
+        <translation type="unfinished">Er kon geen verbinding worden gemaakt met de database. Controleer uw instellingen en probeer het nogmaals.</translation>
     </message>
     <message>
         <source>Password entries did not match.</source>
-        <translation type="obsolete">De wachtwoorden kwamen niet overeen.</translation>
+        <translation type="unfinished">De wachtwoorden kwamen niet overeen.</translation>
     </message>
     <message>
         <source>The selected database was not empty, please choose from the alternatives below.</source>
-        <translation type="obsolete">De geselecteerde database was niet leeg, kies één van de onderstaande alternatieven.</translation>
+        <translation type="unfinished">De geselecteerde database was niet leeg, kies één van de onderstaande alternatieven.</translation>
     </message>
     <message>
         <source>Database initalization</source>
-        <translation type="obsolete">Database initialisatie</translation>
+        <translation type="unfinished">Database initialisatie</translation>
     </message>
     <message>
         <source>Email settings</source>
-        <translation type="obsolete">E-mail configuratie</translation>
+        <translation type="unfinished">E-mail configuratie</translation>
     </message>
     <message>
         <source>Finished</source>
@@ -21321,19 +21572,19 @@ Sjabloonoperator.</translation>
     </message>
     <message>
         <source>Language options</source>
-        <translation type="obsolete">Taal opties</translation>
+        <translation type="unfinished">Taal opties</translation>
     </message>
     <message>
         <source>Registration</source>
-        <translation type="obsolete">Registratie</translation>
+        <translation type="unfinished">Registratie</translation>
     </message>
     <message>
         <source>Securing site</source>
-        <translation type="obsolete">Site beveiligen</translation>
+        <translation type="unfinished">Site beveiligen</translation>
     </message>
     <message>
         <source>Site access</source>
-        <translation type="obsolete">Toegang tot de site</translation>
+        <translation type="unfinished">Toegang tot de site</translation>
     </message>
     <message>
         <source>Site details</source>
@@ -21341,7 +21592,7 @@ Sjabloonoperator.</translation>
     </message>
     <message>
         <source>Site template selection</source>
-        <translation type="obsolete">Selectie van het site template</translation>
+        <translation type="unfinished">Selectie van het site template</translation>
     </message>
     <message>
         <source>System check</source>
@@ -21753,7 +22004,7 @@ Om dit probleem op te lossten kunt u het volgende doen:</translation>
     </message>
     <message>
         <source>Site selection</source>
-        <translation type="obsolete">Geselecteerde site</translation>
+        <translation type="unfinished">Geselecteerde site</translation>
     </message>
     <message>
         <source>You need to fill in the first name.</source>
@@ -21858,11 +22109,11 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>Please make sure that the username and the password is correct. Verify that your PostgreSQL database is configured correctly.&lt;br&gt;See the PHP documentation for more information about this.&lt;br&gt;Remember to start postmaster with the -i option.&lt;br&gt;Note that PostgreSQL 7.2 is not supported.</source>
-        <translation type="obsolete">Gelieve u ervan te verzekeren dat de gebruikersnaam en het wachtwoord correct is. Verifieer dat uw PostgreSQL database correct is geconfigureerd. &lt;br&gt; Zie de PHP documentatie voor meer informatie hierover. &lt;br&gt; Vergeet niet om de postmaster met de -i optie te starten. &lt;br&gt; Let erop dat PostgreSQL 7.2 niet ondersteund wordt.</translation>
+        <translation type="unfinished">Gelieve u ervan te verzekeren dat de gebruikersnaam en het wachtwoord correct is. Verifieer dat uw PostgreSQL database correct is geconfigureerd. &lt;br&gt; Zie de PHP documentatie voor meer informatie hierover. &lt;br&gt; Vergeet niet om de postmaster met de -i optie te starten. &lt;br&gt; Let erop dat PostgreSQL 7.2 niet ondersteund wordt.</translation>
     </message>
     <message>
         <source>Your database version %version does not fit the minimum requirement which is %req_version.</source>
-        <translation type="obsolete">Uw databaseversie %version voldoet niet aan de minimumeis van %req_version.</translation>
+        <translation type="unfinished">Uw databaseversie %version voldoet niet aan de minimumeis van %req_version.</translation>
     </message>
     <message>
         <source>The setup wizard was not able to complete the creation of your selected sites.</source>
@@ -21897,23 +22148,23 @@ Probeer opnieuw-knop in de installatie</translation>
     </message>
     <message>
         <source>Cannot write to file</source>
-        <translation type="obsolete">Kan niet naar bestand schrijven</translation>
+        <translation type="unfinished">Kan niet naar bestand schrijven</translation>
     </message>
     <message>
         <source>Download of package &apos;%pkg&apos; failed. You may upload the package manually.</source>
-        <translation type="obsolete">Download van pakket &apos;%pkg&apos; faalde. U kan het pakket handmatig uploaden.</translation>
+        <translation type="unfinished">Download van pakket &apos;%pkg&apos; faalde. U kan het pakket handmatig uploaden.</translation>
     </message>
     <message>
         <source>Invalid package</source>
-        <translation type="obsolete">Ongeldig pakket</translation>
+        <translation type="unfinished">Ongeldig pakket</translation>
     </message>
     <message>
         <source>No package selected for upload</source>
-        <translation type="obsolete">Geen pakket geselecteerd voor upload</translation>
+        <translation type="unfinished">Geen pakket geselecteerd voor upload</translation>
     </message>
     <message>
         <source>Failed fetching upload package file</source>
-        <translation type="obsolete">Ophalen van upload pakketbestand faalde</translation>
+        <translation type="unfinished">Ophalen van upload pakketbestand faalde</translation>
     </message>
     <message>
         <source>Site package</source>
@@ -21937,11 +22188,11 @@ Probeer opnieuw-knop in de installatie</translation>
     </message>
     <message>
         <source>The database [%database_name] cannot be used, the setup wizard wants to create the site in [%req_charset] but the database has been created using character set [%charset]. You will have to choose a database having support for [%req_charset] or modify [%database_name] .</source>
-        <translation type="obsolete">De database (%database_name) kon niet gebruikt worden, de set-upwizard wil de site in (%req_charset) aanmaken, maar de database werd aangemaakt met het gebruik van tekenset (%charset). U zult een database moeten kiezen die (%req-charset) ondersteunt of (%database_name) wijzigen.</translation>
+        <translation type="unfinished">De database (%database_name) kon niet gebruikt worden, de set-upwizard wil de site in (%req_charset) aanmaken, maar de database werd aangemaakt met het gebruik van tekenset (%charset). U zult een database moeten kiezen die (%req-charset) ondersteunt of (%database_name) wijzigen.</translation>
     </message>
     <message>
         <source>Failed to copy %url to local file %filename</source>
-        <translation type="obsolete">Faalde om %url te kopiëren naar lokaal bestand %filename</translation>
+        <translation type="unfinished">Faalde om %url te kopiëren naar lokaal bestand %filename</translation>
     </message>
     <message>
         <source>Access method</source>
@@ -21965,7 +22216,7 @@ Probeer opnieuw-knop in de installatie</translation>
     </message>
     <message>
         <source>Package &apos;%packageName&apos; and it&apos;s dependencies have been downloaded successfully. Press &apos;Next&apos; to continue.</source>
-        <translation type="obsolete">Pakket &apos;%packageName&apos; en zijn afhankelijke items werden succesvol gedownload. Klik op &apos;Volgende&apos; om verder te gaan.</translation>
+        <translation type="unfinished">Pakket &apos;%packageName&apos; en zijn afhankelijke items werden succesvol gedownload. Klik op &apos;Volgende&apos; om verder te gaan.</translation>
     </message>
     <message>
         <source>Use the radio buttons to choose the default language, and the checkboxes to choose additional languages. You will be able to use any of the selected languages for translating your content. The default language will determine the locale settings and will be used as the most prioritized language for your site.</source>
@@ -22037,11 +22288,11 @@ Probeer opnieuw-knop in de installatie</translation>
     </message>
     <message>
         <source>The selected user has not got access to any databases. Change user or create a database for the user.</source>
-        <translation type="obsolete">De geselecteerde gebruiker heeft geen toegang tot enige databases. Wijzig gebruiker of maak een database voor de gebruiker aan.</translation>
+        <translation type="unfinished">De geselecteerde gebruiker heeft geen toegang tot enige databases. Wijzig gebruiker of maak een database voor de gebruiker aan.</translation>
     </message>
     <message>
         <source>The &apos;digest&apos; function is not available in your database, you cannot run eZ Publish without this. See the documentation for more information.</source>
-        <translation type="obsolete">De &apos;digest&apos;-functie is niet beschikbaar in uw database. U kunt eZ Publish niet zonder deze activeren. Lees meer informatie in de documentatie.</translation>
+        <translation type="unfinished">De &apos;digest&apos;-functie is niet beschikbaar in uw database. U kunt eZ Publish niet zonder deze activeren. Lees meer informatie in de documentatie.</translation>
     </message>
     <message>
         <source>Package language options</source>
@@ -22049,27 +22300,27 @@ Probeer opnieuw-knop in de installatie</translation>
     </message>
     <message>
         <source>No packages chosen.</source>
-        <translation type="obsolete">Geen pakketten gekozen.</translation>
+        <translation type="unfinished">Geen pakketten gekozen.</translation>
     </message>
     <message>
         <source>No templates chosen.</source>
-        <translation type="obsolete">Geen sjablonen gekozen.</translation>
+        <translation type="unfinished">Geen sjablonen gekozen.</translation>
     </message>
     <message>
         <source>Uploaded file is not an eZ Publish package</source>
-        <translation type="obsolete">Uploaded bestand is geen eZ Publish-pakket</translation>
+        <translation type="unfinished">Uploaded bestand is geen eZ Publish-pakket</translation>
     </message>
     <message>
         <source>No site package chosen.</source>
-        <translation type="obsolete">Geen sitepakket gekozen.</translation>
+        <translation type="unfinished">Geen sitepakket gekozen.</translation>
     </message>
     <message>
         <source>Retrieving remote site packages list failed. You may upload packages manually.</source>
-        <translation type="obsolete">Ophalen van afstandsbediende sitepakketlijst faalde. U kan de pakketten handmatig uploaden.</translation>
+        <translation type="unfinished">Ophalen van afstandsbediende sitepakketlijst faalde. U kan de pakketten handmatig uploaden.</translation>
     </message>
     <message>
         <source>Welcome to eZ Publish</source>
-        <translation type="obsolete">Welkom bij eZ Publish</translation>
+        <translation type="unfinished">Welkom bij eZ Publish</translation>
     </message>
     <message>
         <source>If you think you have fixed the errors you can try then click the &quot;Retry&quot; button.</source>
@@ -22455,10 +22706,6 @@ Deze functionaliteit is ook beschikbaar op een later tijdstip vanaf de beheerint
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your alternatives are to:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22472,6 +22719,14 @@ Deze functionaliteit is ook beschikbaar op een later tijdstip vanaf de beheerint
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The operation was cut short in order to avoid execution timeout.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your current session handler does not support session administration.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -24011,7 +24266,7 @@ Om dit te doen, moet u de %chown commando&apos;s bij de alternatieve shellcomman
     <name>design/standard/toolbar</name>
     <message>
         <source>Toolbar management</source>
-        <translation type="obsolete">Toolbar beheer</translation>
+        <translation type="unfinished">Toolbar beheer</translation>
     </message>
     <message>
         <source>There are %logged_in_count registered and %anonymous_count anonymous users online.</source>
@@ -24483,7 +24738,7 @@ Gebruikersnaam</translation>
     </message>
     <message>
         <source>The node (%1) specified in [UserSettings].DefaultUserPlacement setting in site.ini does not exist!</source>
-        <translation type="obsolete">Het knooppunt (%1) gespecificeerd in (gebruikersinstellingen), standaardgebruikerplaatsing-instelling in site.ini bestaat niet!</translation>
+        <translation type="unfinished">Het knooppunt (%1) gespecificeerd in (gebruikersinstellingen), standaardgebruikerplaatsing-instelling in site.ini bestaat niet!</translation>
     </message>
     <message>
         <source>Email</source>
@@ -25350,78 +25605,98 @@ Aanmeldingsnaam</translation>
     <name>kernel/cache</name>
     <message>
         <source>Content view cache</source>
-        <translation type="obsolete">Inhoudsweergave-cache</translation>
+        <translation type="unfinished">Inhoudsweergave-cache</translation>
     </message>
     <message>
         <source>Global INI cache</source>
-        <translation type="obsolete">Global INI-cache</translation>
+        <translation type="unfinished">Global INI-cache</translation>
     </message>
     <message>
         <source>INI cache</source>
-        <translation type="obsolete">INI-cache</translation>
+        <translation type="unfinished">INI-cache</translation>
     </message>
     <message>
         <source>Codepage cache</source>
-        <translation type="obsolete">Codepagina-cache</translation>
+        <translation type="unfinished">Codepagina-cache</translation>
     </message>
     <message>
         <source>Class identifier cache</source>
-        <translation type="obsolete">Klasse-identificatie-cache</translation>
+        <translation type="unfinished">Klasse-identificatie-cache</translation>
     </message>
     <message>
         <source>Sort key cache</source>
-        <translation type="obsolete">Sorteersleutel-cache</translation>
+        <translation type="unfinished">Sorteersleutel-cache</translation>
     </message>
     <message>
         <source>URL alias cache</source>
-        <translation type="obsolete">URL alias cache</translation>
+        <translation type="unfinished">URL alias cache</translation>
     </message>
     <message>
         <source>Image alias</source>
-        <translation type="obsolete">Afbeeldingsalias</translation>
+        <translation type="unfinished">Afbeeldingsalias</translation>
     </message>
     <message>
         <source>Template cache</source>
-        <translation type="obsolete">Sjabloon-cache</translation>
+        <translation type="unfinished">Sjabloon-cache</translation>
     </message>
     <message>
         <source>Template block cache</source>
-        <translation type="obsolete">Sjabloonblokkeer-cache</translation>
+        <translation type="unfinished">Sjabloonblokkeer-cache</translation>
     </message>
     <message>
         <source>Template override cache</source>
-        <translation type="obsolete">Sjabloon negeren-cache</translation>
+        <translation type="unfinished">Sjabloon negeren-cache</translation>
     </message>
     <message>
         <source>RSS cache</source>
-        <translation type="obsolete">RSS-cache</translation>
+        <translation type="unfinished">RSS-cache</translation>
     </message>
     <message>
         <source>Character transformation cache</source>
-        <translation type="obsolete">Tekentransformatie-cache</translation>
+        <translation type="unfinished">Tekentransformatie-cache</translation>
     </message>
     <message>
         <source>User info cache</source>
-        <translation type="obsolete">Gebruikersinformatie-cache</translation>
+        <translation type="unfinished">Gebruikersinformatie-cache</translation>
     </message>
     <message>
         <source>Content tree menu (browser cache)</source>
-        <translation type="obsolete">Inhoudsstructuurmenu (browser-cache)</translation>
+        <translation type="unfinished">Inhoudsstructuurmenu (browser-cache)</translation>
+    </message>
+    <message>
+        <source>Text to image cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>State limitations cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Design base cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Active extensions cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TS Translation cache</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/class</name>
     <message>
         <source>Class list of group</source>
-        <translation type="obsolete">Klasselijst van groepen</translation>
+        <translation type="unfinished">Klasselijst van groepen</translation>
     </message>
     <message>
         <source>Class group list</source>
-        <translation type="obsolete">Klasse groepslijst</translation>
+        <translation type="unfinished">Klasse groepslijst</translation>
     </message>
     <message>
         <source>Remove class</source>
-        <translation type="obsolete">Verwijder klasse</translation>
+        <translation type="unfinished">Verwijder klasse</translation>
     </message>
     <message>
         <source>Class edit</source>
@@ -25433,1003 +25708,1048 @@ Aanmeldingsnaam</translation>
     </message>
     <message>
         <source>Class list</source>
-        <translation type="obsolete">Klasselijst</translation>
+        <translation type="unfinished">Klasselijst</translation>
     </message>
     <message>
         <source>(no classes)</source>
-        <translation type="obsolete">(geen klassen)</translation>
+        <translation type="unfinished">(geen klassen)</translation>
     </message>
     <message>
         <source>Remove class groups</source>
-        <translation type="obsolete">Verwijder klassegroepen</translation>
+        <translation type="unfinished">Verwijder klassegroepen</translation>
     </message>
     <message>
         <source>You have to have at least one group that the class belongs to!</source>
-        <translation type="obsolete">U dient in ieder geval de klasse in één groep the plaatsen!</translation>
+        <translation type="unfinished">U dient in ieder geval de klasse in één groep the plaatsen!</translation>
     </message>
     <message>
         <source>Remove classes %class_id</source>
-        <translation type="obsolete">Klasse %class_id verwijderen</translation>
+        <translation type="unfinished">Klasse %class_id verwijderen</translation>
     </message>
     <message>
         <source>Copy of %class_name</source>
-        <translation type="obsolete">Kopie van %class_name</translation>
+        <translation type="unfinished">Kopie van %class_name</translation>
     </message>
     <message>
         <source>The class should have nonempty &apos;Name&apos; attribute.</source>
-        <translation type="obsolete">De klasse moet een niet-leeg &apos;Naam* kenmerk hebben.</translation>
+        <translation type="unfinished">De klasse moet een niet-leeg &apos;Naam* kenmerk hebben.</translation>
     </message>
     <message>
         <source>The class should have at least one attribute.</source>
-        <translation type="obsolete">De klasse moet tenminste één kenmerk hebben.</translation>
+        <translation type="unfinished">De klasse moet tenminste één kenmerk hebben.</translation>
     </message>
     <message>
         <source>There is a class already having the same identifier.</source>
-        <translation type="obsolete">Er is reeds een klasse met dezelfde identificatie.</translation>
+        <translation type="unfinished">Er is reeds een klasse met dezelfde identificatie.</translation>
     </message>
     <message>
         <source>Remove translation</source>
-        <translation type="obsolete">Vertaling verwijderen</translation>
+        <translation type="unfinished">Vertaling verwijderen</translation>
     </message>
     <message>
         <source>Could not load datatype: </source>
-        <translation type="obsolete">Kon niet laden datatype:</translation>
+        <translation type="unfinished">Kon niet laden datatype:</translation>
     </message>
     <message>
         <source>Editing this content class may cause data corruption in your system.</source>
-        <translation type="obsolete">Deze inhoudsklasse bewerken kan een gegevenscorruptie in uw systeem veroorzaken.</translation>
+        <translation type="unfinished">Deze inhoudsklasse bewerken kan een gegevenscorruptie in uw systeem veroorzaken.</translation>
     </message>
     <message>
         <source>duplicate attribute placement</source>
-        <translation type="obsolete">kenmerkplaatsing dupliceren</translation>
+        <translation type="unfinished">kenmerkplaatsing dupliceren</translation>
     </message>
     <message>
         <source>duplicate attribute identifier</source>
-        <translation type="obsolete">kenmerkidentificatie dupliceren</translation>
+        <translation type="unfinished">kenmerkidentificatie dupliceren</translation>
     </message>
     <message>
         <source>Press &quot;Cancel&quot; to safely exit this operation.</source>
-        <translation type="obsolete">Klik op &quot;Cancel&quot; om op een veilige manier deze operatie af te sluiten.</translation>
+        <translation type="unfinished">Klik op &quot;Cancel&quot; om op een veilige manier deze operatie af te sluiten.</translation>
     </message>
     <message>
         <source>Please contact your eZ Publish administrator to solve this problem.</source>
-        <translation type="obsolete">Gelieve uw eZ Publish-beheerder te contacteren om dit probleem op te lossen.</translation>
+        <translation type="unfinished">Gelieve uw eZ Publish-beheerder te contacteren om dit probleem op te lossen.</translation>
+    </message>
+    <message>
+        <source>Class groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove classes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/class/edit</name>
     <message>
         <source>New Class</source>
-        <translation type="obsolete">Nieuwe klasse</translation>
+        <translation type="unfinished">Nieuwe klasse</translation>
     </message>
     <message>
         <source>new attribute</source>
-        <translation type="obsolete">Nieuw kenmerk</translation>
+        <translation type="unfinished">Nieuw kenmerk</translation>
     </message>
 </context>
 <context>
     <name>kernel/class/groupedit</name>
     <message>
         <source>New Group</source>
-        <translation type="obsolete">Nieuwe groep</translation>
+        <translation type="unfinished">Nieuwe groep</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes</name>
     <message>
         <source>Approval</source>
-        <translation type="obsolete">Goedkeuring</translation>
+        <translation type="unfinished">Goedkeuring</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="obsolete">Standaard</translation>
+        <translation type="unfinished">Standaard</translation>
     </message>
     <message>
         <source>Observer</source>
-        <translation type="obsolete">Waarnemer</translation>
+        <translation type="unfinished">Waarnemer</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="obsolete">Eigenaar</translation>
+        <translation type="unfinished">Eigenaar</translation>
     </message>
     <message>
         <source>Approver</source>
-        <translation type="obsolete">Persoon die goedkeuring verleent</translation>
+        <translation type="unfinished">Persoon die goedkeuring verleent</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation type="obsolete">Auteur</translation>
+        <translation type="unfinished">Auteur</translation>
     </message>
     <message>
         <source>Inbox</source>
-        <translation type="obsolete">Inbox</translation>
+        <translation type="unfinished">Inbox</translation>
     </message>
     <message>
         <source>No state yet</source>
-        <translation type="obsolete">Nog geen &apos;state&apos; </translation>
+        <translation type="unfinished">Nog geen &apos;state&apos; </translation>
     </message>
     <message>
         <source>Workflow running</source>
-        <translation type="obsolete">Workflow is running</translation>
+        <translation type="unfinished">Workflow is running</translation>
     </message>
     <message>
         <source>Workflow done</source>
-        <translation type="obsolete">Workflow compleet</translation>
+        <translation type="unfinished">Workflow compleet</translation>
     </message>
     <message>
         <source>Workflow failed an event</source>
-        <translation type="obsolete">Workflow miste een event</translation>
+        <translation type="unfinished">Workflow miste een event</translation>
     </message>
     <message>
         <source>Workflow event deferred to cron job</source>
-        <translation type="obsolete">Workflow event afhankelijk van cron job </translation>
+        <translation type="unfinished">Workflow event afhankelijk van cron job </translation>
     </message>
     <message>
         <source>Workflow was reset for reuse</source>
-        <translation type="obsolete">Workflow werd gereset voor hergebruik</translation>
+        <translation type="unfinished">Workflow werd gereset voor hergebruik</translation>
     </message>
     <message>
         <source>Accepted event</source>
-        <translation type="obsolete">Geaccepteerde event </translation>
+        <translation type="unfinished">Geaccepteerde event </translation>
     </message>
     <message>
         <source>Rejected event</source>
-        <translation type="obsolete">Niet geaccepteerde event</translation>
+        <translation type="unfinished">Niet geaccepteerde event</translation>
     </message>
     <message>
         <source>Event deferred to cron job</source>
-        <translation type="obsolete">Event afhankelijk gemaakt van cron job</translation>
+        <translation type="unfinished">Event afhankelijk gemaakt van cron job</translation>
     </message>
     <message>
         <source>Event deferred to cron job, event will be rerun</source>
-        <translation type="obsolete">Event afhankelijk gemaakt van cron job, even zal opnieuw uitgevoerd worden</translation>
+        <translation type="unfinished">Event afhankelijk gemaakt van cron job, even zal opnieuw uitgevoerd worden</translation>
     </message>
     <message>
         <source>Event runs a sub event</source>
-        <translation type="obsolete">Event voert een subevent uit</translation>
+        <translation type="unfinished">Event voert een subevent uit</translation>
     </message>
     <message>
         <source>Workflow fetches template</source>
-        <translation type="obsolete">Workflow haalt een template op</translation>
+        <translation type="unfinished">Workflow haalt een template op</translation>
     </message>
     <message>
         <source>Workflow redirects user view</source>
-        <translation type="obsolete">Workflow leidt gebruikersoverzicht om</translation>
+        <translation type="unfinished">Workflow leidt gebruikersoverzicht om</translation>
     </message>
     <message>
         <source>New RSS Export</source>
-        <translation type="obsolete">Nieuwe RSS-export</translation>
+        <translation type="unfinished">Nieuwe RSS-export</translation>
     </message>
     <message>
         <source>Workflow was canceled</source>
-        <translation type="obsolete">Workflow werd geannuleerd</translation>
+        <translation type="unfinished">Workflow werd geannuleerd</translation>
     </message>
     <message>
         <source>Canceled whole workflow</source>
-        <translation type="obsolete">Hele workflow geannuleerd</translation>
+        <translation type="unfinished">Hele workflow geannuleerd</translation>
     </message>
     <message>
         <source>Keep existing and create a new one</source>
-        <translation type="obsolete">Behoud het bestaande en maak een nieuwe aan</translation>
+        <translation type="unfinished">Behoud het bestaande en maak een nieuwe aan</translation>
+    </message>
+    <message>
+        <source>Replace existing object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update existing object</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes</name>
     <message>
         <source>Missing date input.</source>
-        <translation type="obsolete">Geen datuminvoer.</translation>
+        <translation type="unfinished">Geen datuminvoer.</translation>
     </message>
     <message>
         <source>Missing datetime input.</source>
-        <translation type="obsolete">Geen datum/tijdinvoer.</translation>
+        <translation type="unfinished">Geen datum/tijdinvoer.</translation>
     </message>
     <message>
         <source>At least one author is required.</source>
-        <translation type="obsolete">Tenminste één auteur is vereist. </translation>
+        <translation type="unfinished">Tenminste één auteur is vereist. </translation>
     </message>
     <message>
         <source>A valid file is required.</source>
-        <translation type="obsolete">Een geldig bestand is vereist.</translation>
+        <translation type="unfinished">Een geldig bestand is vereist.</translation>
     </message>
     <message>
         <source>Checkbox</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Checkbox</translation>
+        <translation type="unfinished">Checkbox</translation>
     </message>
     <message>
         <source>Email</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">E-mail
+        <translation type="unfinished">E-mail
 
 Gegevenstypenaam</translation>
     </message>
     <message>
         <source>Enum</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Enum</translation>
+        <translation type="unfinished">Enum</translation>
     </message>
     <message>
         <source>At least one field should be chosen.</source>
-        <translation type="obsolete">Minstens één veld moet worden gekozen. </translation>
+        <translation type="unfinished">Minstens één veld moet worden gekozen. </translation>
     </message>
     <message>
         <source>Float</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Float (getal)</translation>
+        <translation type="unfinished">Float (getal)</translation>
     </message>
     <message>
         <source>Image</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Afbeelding</translation>
+        <translation type="unfinished">Afbeelding</translation>
     </message>
     <message>
         <source>Integer</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Integer (geheel getal)</translation>
+        <translation type="unfinished">Integer (geheel getal)</translation>
     </message>
     <message>
         <source>ISBN</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">ISBN</translation>
+        <translation type="unfinished">ISBN</translation>
     </message>
     <message>
         <source>Matrix</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Matrix</translation>
+        <translation type="unfinished">Matrix</translation>
     </message>
     <message>
         <source>Media</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Media</translation>
+        <translation type="unfinished">Media</translation>
     </message>
     <message>
         <source>Object relation</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Objectrelatie</translation>
+        <translation type="unfinished">Objectrelatie</translation>
     </message>
     <message>
         <source>Option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Optie</translation>
+        <translation type="unfinished">Optie</translation>
     </message>
     <message>
         <source>At least one option is required.</source>
-        <translation type="obsolete">Tenminste één optie is vereist.</translation>
+        <translation type="unfinished">Tenminste één optie is vereist.</translation>
     </message>
     <message>
         <source>Price</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Prijs</translation>
+        <translation type="unfinished">Prijs</translation>
     </message>
     <message>
         <source>Add to basket</source>
-        <translation type="obsolete">Voeg toe aan boodschappenmandje</translation>
+        <translation type="unfinished">Voeg toe aan boodschappenmandje</translation>
     </message>
     <message>
         <source>Add to wish list</source>
-        <translation type="obsolete">Voeg toe aan wensenlijst</translation>
+        <translation type="unfinished">Voeg toe aan wensenlijst</translation>
     </message>
     <message>
         <source>Range option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Optierange</translation>
+        <translation type="unfinished">Optierange</translation>
     </message>
     <message>
         <source>Selection</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Selectie</translation>
+        <translation type="unfinished">Selectie</translation>
     </message>
     <message>
         <source>Text line</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Tekstregel</translation>
+        <translation type="unfinished">Tekstregel</translation>
     </message>
     <message>
         <source>Subtree subscription</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Subtree subscriptie</translation>
+        <translation type="unfinished">Subtree subscriptie</translation>
     </message>
     <message>
         <source>URL</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">URL</translation>
+        <translation type="unfinished">URL</translation>
     </message>
     <message>
         <source>User account</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Gebruikersaccount</translation>
+        <translation type="unfinished">Gebruikersaccount</translation>
     </message>
     <message>
         <source>A user with this email already exists.</source>
-        <translation type="obsolete">Een gebruiker met dit emailadres bestaat reeds.</translation>
+        <translation type="unfinished">Een gebruiker met dit emailadres bestaat reeds.</translation>
     </message>
     <message>
         <source>Identifier</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Identifier</translation>
+        <translation type="unfinished">Identifier</translation>
     </message>
     <message>
         <source>image</source>
         <comment>Default image name</comment>
-        <translation type="obsolete">Afbeelding</translation>
+        <translation type="unfinished">Afbeelding</translation>
     </message>
     <message>
         <source>Ini Setting</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Ini instelling</translation>
+        <translation type="unfinished">Ini instelling</translation>
     </message>
     <message>
         <source>Package</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Pakket</translation>
+        <translation type="unfinished">Pakket</translation>
     </message>
     <message>
         <source>Send</source>
         <comment>Datatype information collector action</comment>
-        <translation type="obsolete">Verzenden</translation>
+        <translation type="unfinished">Verzenden</translation>
     </message>
     <message>
         <source>Content required</source>
-        <translation type="obsolete">Inhoud vereist</translation>
+        <translation type="unfinished">Inhoud vereist</translation>
     </message>
     <message>
         <source>Missing objectrelation input.</source>
-        <translation type="obsolete">Geen object-relatie input.</translation>
+        <translation type="unfinished">Geen object-relatie input.</translation>
     </message>
     <message>
         <source>Invalid time.</source>
-        <translation type="obsolete">Ongeldige tijd.</translation>
+        <translation type="unfinished">Ongeldige tijd.</translation>
     </message>
     <message>
         <source>The author name must be provided.</source>
-        <translation type="obsolete">De auteursnaam moet opgegeven worden.</translation>
+        <translation type="unfinished">De auteursnaam moet opgegeven worden.</translation>
     </message>
     <message>
         <source>The email address is not valid.</source>
-        <translation type="obsolete">Dit e-mailadres is niet geldig.</translation>
+        <translation type="unfinished">Dit e-mailadres is niet geldig.</translation>
     </message>
     <message>
         <source>File uploading is not enabled. Please contact the site administrator to enable it.</source>
-        <translation type="obsolete">Bestanden uploaden is niet ingeschakled. Gelieve de sitebeheerder te contacteren om dit in te schakelen.</translation>
+        <translation type="unfinished">Bestanden uploaden is niet ingeschakled. Gelieve de sitebeheerder te contacteren om dit in te schakelen.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set by the upload_max_filesize directive in php.ini.</source>
-        <translation type="obsolete">De grootte van het te uploaden bestand overschrijdt de limiet ingesteld door de upload_max_filesize richtlijn in php.ini.</translation>
+        <translation type="unfinished">De grootte van het te uploaden bestand overschrijdt de limiet ingesteld door de upload_max_filesize richtlijn in php.ini.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the maximum upload size: %1 bytes.</source>
-        <translation type="obsolete">De grootte van het te uploaden bestand overschrijdt de maximum uploadgrootte: %1 bytes.</translation>
+        <translation type="unfinished">De grootte van het te uploaden bestand overschrijdt de maximum uploadgrootte: %1 bytes.</translation>
     </message>
     <message>
         <source>The email address is empty.</source>
-        <translation type="obsolete">Het e-mailadres is leeg.</translation>
+        <translation type="unfinished">Het e-mailadres is leeg.</translation>
     </message>
     <message>
         <source>The given input is not a floating point number.</source>
-        <translation type="obsolete">De opgegeven invoer is geen floating point nummer.</translation>
+        <translation type="unfinished">De opgegeven invoer is geen floating point nummer.</translation>
     </message>
     <message>
         <source>The input must be greater than %1</source>
-        <translation type="obsolete">De invoer moet groter zijn dan %1</translation>
+        <translation type="unfinished">De invoer moet groter zijn dan %1</translation>
     </message>
     <message>
         <source>The input must be less than %1</source>
-        <translation type="obsolete">De invoer moet kleiner zijn dan %1</translation>
+        <translation type="unfinished">De invoer moet kleiner zijn dan %1</translation>
     </message>
     <message>
         <source>The input is not in defined range %1 - %2</source>
-        <translation type="obsolete">De invoer is niet in het gedefinieerd bereik %1 - %2</translation>
+        <translation type="unfinished">De invoer is niet in het gedefinieerd bereik %1 - %2</translation>
     </message>
     <message>
         <source>A valid image file is required.</source>
-        <translation type="obsolete">Een geldig afbeeldingsbestand is vereist.</translation>
+        <translation type="unfinished">Een geldig afbeeldingsbestand is vereist.</translation>
     </message>
     <message>
         <source>The size of the uploaded image exceeds limit set by upload_max_filesize directive in php.ini. Please contact the site administrator.</source>
-        <translation type="obsolete">De grootte van de te uploaden afbeelding overschrijdt de limiet ingesteld door upload_max_filesize richtlijn in php.ini. Gelieve de sitebeheerder te contacteren.</translation>
+        <translation type="unfinished">De grootte van de te uploaden afbeelding overschrijdt de limiet ingesteld door upload_max_filesize richtlijn in php.ini. Gelieve de sitebeheerder te contacteren.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
-        <translation type="obsolete">De grootte van het te uploaden bestand overschrijdt de limiet ingesteld voor deze site: %1 bytes.</translation>
+        <translation type="unfinished">De grootte van het te uploaden bestand overschrijdt de limiet ingesteld voor deze site: %1 bytes.</translation>
     </message>
     <message>
         <source>Could not locate the ini file.</source>
-        <translation type="obsolete">Kon het ini-bestand niet lokaliseren.</translation>
+        <translation type="unfinished">Kon het ini-bestand niet lokaliseren.</translation>
     </message>
     <message>
         <source>The input is not a valid integer.</source>
-        <translation type="obsolete">De invoer is geen geldig geheel getal.</translation>
+        <translation type="unfinished">De invoer is geen geldig geheel getal.</translation>
     </message>
     <message>
         <source>The number must be greater than %1</source>
-        <translation type="obsolete">Het nummer moet groter zijn dan %1</translation>
+        <translation type="unfinished">Het nummer moet groter zijn dan %1</translation>
     </message>
     <message>
         <source>The number must be less than %1</source>
-        <translation type="obsolete">Het nummer moet kleiner zijn dan %1</translation>
+        <translation type="unfinished">Het nummer moet kleiner zijn dan %1</translation>
     </message>
     <message>
         <source>The number is not within the required range %1 - %2</source>
-        <translation type="obsolete">Het nummer is niet in het vereist bereik %1 -%2</translation>
+        <translation type="unfinished">Het nummer is niet in het vereist bereik %1 -%2</translation>
     </message>
     <message>
         <source>The ISBN number is not correct. Please check the input for mistakes.</source>
-        <translation type="obsolete">Het ISBN-nummer is niet correct. Gelieve de invoer voor fouten te controleren.</translation>
+        <translation type="unfinished">Het ISBN-nummer is niet correct. Gelieve de invoer voor fouten te controleren.</translation>
     </message>
     <message>
         <source>A valid media file is required.</source>
-        <translation type="obsolete">Een geldig mediabestand is vereist.</translation>
+        <translation type="unfinished">Een geldig mediabestand is vereist.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set by upload_max_filesize directive in php.ini. Please contact the site administrator.</source>
-        <translation type="obsolete">De grootte van het te uploaden bestand overschrijdt de limiet ingesteld door de upload_max_filesize richtlijn in php.ini. Gelieve de sitebeheerder te contacteren.</translation>
+        <translation type="unfinished">De grootte van het te uploaden bestand overschrijdt de limiet ingesteld door de upload_max_filesize richtlijn in php.ini. Gelieve de sitebeheerder te contacteren.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds site maximum: %1 bytes.</source>
-        <translation type="obsolete">De grootte van het te uploaden bestand overschrijdt de maximum site: %1 bytes.</translation>
+        <translation type="unfinished">De grootte van het te uploaden bestand overschrijdt de maximum site: %1 bytes.</translation>
     </message>
     <message>
         <source>The option value must be provided.</source>
-        <translation type="obsolete">De optiewaarde moet geleverd zijn.</translation>
+        <translation type="unfinished">De optiewaarde moet geleverd zijn.</translation>
     </message>
     <message>
         <source>The additional price for the multioption value is not valid.</source>
-        <translation type="obsolete">De additionele prijs voor de multi-optie waard is niet geldig.</translation>
+        <translation type="unfinished">De additionele prijs voor de multi-optie waard is niet geldig.</translation>
     </message>
     <message>
         <source>The Additional price value is not valid.</source>
-        <translation type="obsolete">De additionele prijswaarde is niet geldig.</translation>
+        <translation type="unfinished">De additionele prijswaarde is niet geldig.</translation>
     </message>
     <message>
         <source>Input required.</source>
-        <translation type="obsolete">Invoer vereist.</translation>
+        <translation type="unfinished">Invoer vereist.</translation>
     </message>
     <message>
         <source>The input text is too long. The maximum number of characters allowed is %1.</source>
-        <translation type="obsolete">De invoertekst is te lang. Het maximum aantal tekens toegestaan is %1.</translation>
+        <translation type="unfinished">De invoertekst is te lang. Het maximum aantal tekens toegestaan is %1.</translation>
     </message>
     <message>
         <source>Time input required.</source>
-        <translation type="obsolete">Tijdinvoer vereist.</translation>
+        <translation type="unfinished">Tijdinvoer vereist.</translation>
     </message>
     <message>
         <source>The username must be specified.</source>
-        <translation type="obsolete">De gebruikersnaam dient gespecificeerd te zijn.</translation>
+        <translation type="unfinished">De gebruikersnaam dient gespecificeerd te zijn.</translation>
     </message>
     <message>
         <source>The username already exists, please choose another one.</source>
-        <translation type="obsolete">De gebruikersnaam bestaat reeds. Gelieve een andere te kiezen.</translation>
+        <translation type="unfinished">De gebruikersnaam bestaat reeds. Gelieve een andere te kiezen.</translation>
     </message>
     <message>
         <source>The passwords do not match.</source>
         <comment>eZUserType</comment>
-        <translation type="obsolete">De wachwoorden stemmen niet overeen.</translation>
+        <translation type="unfinished">De wachwoorden stemmen niet overeen.</translation>
     </message>
     <message>
         <source>Cannot remove the account:</source>
-        <translation type="obsolete">Kan de account niet verwijderen:</translation>
+        <translation type="unfinished">Kan de account niet verwijderen:</translation>
     </message>
     <message>
         <source>The account owner is currently logged in.</source>
-        <translation type="obsolete">De accounteigenaar is momenteel aangemeld.</translation>
+        <translation type="unfinished">De accounteigenaar is momenteel aangemeld.</translation>
     </message>
     <message>
         <source>The account is currently used by the anonymous user.</source>
-        <translation type="obsolete">De account is momenteel gebruikt door een anonieme gebruiker.</translation>
+        <translation type="unfinished">De account is momenteel gebruikt door een anonieme gebruiker.</translation>
     </message>
     <message>
         <source>Multi-option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Multi-optie
+        <translation type="unfinished">Multi-optie
 
 Naam gegevenstype</translation>
     </message>
     <message>
         <source>Authors</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Auteurs
+        <translation type="unfinished">Auteurs
 
 Naam gegevenstype</translation>
     </message>
     <message>
         <source>File</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Bestand
+        <translation type="unfinished">Bestand
 
 Naam gegevenstype</translation>
     </message>
     <message>
         <source>Date</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Datum
+        <translation type="unfinished">Datum
 
 Naam gegevenstype</translation>
     </message>
     <message>
         <source>Date and time</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Datum en tijdstip
+        <translation type="unfinished">Datum en tijdstip
 
 Naam gegevenstype</translation>
     </message>
     <message>
         <source>Keywords</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Trefwoorden
+        <translation type="unfinished">Trefwoorden
 
 Naam gegevenstype</translation>
     </message>
     <message>
         <source>Object relations</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Objectrelaties
+        <translation type="unfinished">Objectrelaties
 
 Naam gegevenstype</translation>
     </message>
     <message>
         <source>Text block</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Tekstblok
+        <translation type="unfinished">Tekstblok
 
 Naam gegevenstype</translation>
     </message>
     <message>
         <source>Time</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Tijd
+        <translation type="unfinished">Tijd
 
 Naam gegevenstype</translation>
     </message>
     <message>
         <source>XML block</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">XML-blok
+        <translation type="unfinished">XML-blok
 
 Naam gegevenstype</translation>
     </message>
     <message>
         <source>Object %1 can not be embeded to itself.</source>
-        <translation type="obsolete">Object %1 kan niet op zichzelf ingesloten zijn.</translation>
+        <translation type="unfinished">Object %1 kan niet op zichzelf ingesloten zijn.</translation>
     </message>
     <message>
         <source>Country</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Land
+        <translation type="unfinished">Land
 
 Naam gegevenstype</translation>
     </message>
     <message>
         <source>Date is not valid.</source>
-        <translation type="obsolete">Datum is ongeldig.</translation>
+        <translation type="unfinished">Datum is ongeldig.</translation>
     </message>
     <message>
         <source>Time is not valid.</source>
-        <translation type="obsolete">Tijdstip is ongeldig.</translation>
+        <translation type="unfinished">Tijdstip is ongeldig.</translation>
     </message>
     <message>
         <source>The image file must have non-zero size.</source>
-        <translation type="obsolete">Het afbeeldingsbestand moet een niet-nul grootte hebben.</translation>
+        <translation type="unfinished">Het afbeeldingsbestand moet een niet-nul grootte hebben.</translation>
     </message>
     <message>
         <source>Wrong text field value.</source>
-        <translation type="obsolete">Verkeerde waarde tekstveld.</translation>
+        <translation type="unfinished">Verkeerde waarde tekstveld.</translation>
     </message>
     <message>
         <source>Missing matrix input.</source>
-        <translation type="obsolete">Ontbrekende matrixinvoer.</translation>
+        <translation type="unfinished">Ontbrekende matrixinvoer.</translation>
     </message>
     <message>
         <source>Multi-price</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Multi-prijs
+        <translation type="unfinished">Multi-prijs
 
 Naam gegevenstype</translation>
     </message>
     <message>
         <source>Invalid price for &apos;%currencyCode&apos; currency </source>
-        <translation type="obsolete">Ongeldige prijs voor &apos;%currencyCode&apos; valuta</translation>
+        <translation type="unfinished">Ongeldige prijs voor &apos;%currencyCode&apos; valuta</translation>
     </message>
     <message>
         <source>Missing objectrelation list input.</source>
-        <translation type="obsolete">Ontbrekende lijstinvoer van objectrelatie.</translation>
+        <translation type="unfinished">Ontbrekende lijstinvoer van objectrelatie.</translation>
     </message>
     <message>
         <source>NAME is required.</source>
-        <translation type="obsolete">NAAM is vereist.</translation>
+        <translation type="unfinished">NAAM is vereist.</translation>
     </message>
     <message>
         <source>Invalid price.</source>
-        <translation type="obsolete">Ongeldige prijs.</translation>
+        <translation type="unfinished">Ongeldige prijs.</translation>
     </message>
     <message>
         <source>Product category</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Productcategorie
+        <translation type="unfinished">Productcategorie
 
 Naam gegevenstype</translation>
     </message>
     <message>
         <source>Dynamic VAT cannot be included.</source>
-        <translation type="obsolete">Dynamische btw kan niet geïncludeerd worden.</translation>
+        <translation type="unfinished">Dynamische btw kan niet geïncludeerd worden.</translation>
     </message>
     <message>
         <source>Missing range option input.</source>
-        <translation type="obsolete">Invoer van bereikoptie mankeert.</translation>
+        <translation type="unfinished">Invoer van bereikoptie mankeert.</translation>
     </message>
     <message>
         <source>Option set name is required.</source>
-        <translation type="obsolete">Naam optie-instelling is vereist.</translation>
+        <translation type="unfinished">Naam optie-instelling is vereist.</translation>
     </message>
     <message>
         <source>The password must be at least %1 characters long.</source>
-        <translation type="obsolete">Het wachtwoord moet tenminste %1 tekens lang zijn.</translation>
+        <translation type="unfinished">Het wachtwoord moet tenminste %1 tekens lang zijn.</translation>
     </message>
     <message>
         <source>Invalid reference in &amp;lt;embed&amp;gt; tag. Note that &lt;embed&gt; tag supports only &apos;eznode&apos; and &apos;ezobject&apos; protocols.</source>
-        <translation type="obsolete">Ongeldige referentie in &amp;lt;embed&amp;gt; label. Let erop dat &lt;ingesloten&gt; label ondersteunt enkel &apos;ezknooppunt&apos; en ezobject&apos; protocols.</translation>
+        <translation type="unfinished">Ongeldige referentie in &amp;lt;embed&amp;gt; label. Let erop dat &lt;ingesloten&gt; label ondersteunt enkel &apos;ezknooppunt&apos; en ezobject&apos; protocols.</translation>
     </message>
     <message>
         <source>The ISBN number is not correct. </source>
-        <translation type="obsolete">Het ISBN-nummer is niet correct.</translation>
+        <translation type="unfinished">Het ISBN-nummer is niet correct.</translation>
     </message>
     <message>
         <source>13 digit ISBN must start with 978 or 979</source>
-        <translation type="obsolete">13 digit ISBN moet met 978 of 979 starten</translation>
+        <translation type="unfinished">13 digit ISBN moet met 978 of 979 starten</translation>
     </message>
     <message>
         <source>ISBN length is invalid</source>
-        <translation type="obsolete">ISBN lente is ongeldig</translation>
+        <translation type="unfinished">ISBN lente is ongeldig</translation>
     </message>
     <message>
         <source>The registrant element of the ISBN number does not exist.</source>
-        <translation type="obsolete">Het registrantelement van het ISBN-nummer bestaat niet.</translation>
+        <translation type="unfinished">Het registrantelement van het ISBN-nummer bestaat niet.</translation>
     </message>
     <message>
         <source>The ISBN number has a incorrect registration group number.</source>
-        <translation type="obsolete">Het ISBN-nummer heeft een incorrect registratiegroepnummer.</translation>
+        <translation type="unfinished">Het ISBN-nummer heeft een incorrect registratiegroepnummer.</translation>
     </message>
     <message>
         <source>The group element of the ISBN number does not exist.</source>
-        <translation type="obsolete">Het groepselement van het ISBN-nummer bestaat niet.</translation>
+        <translation type="unfinished">Het groepselement van het ISBN-nummer bestaat niet.</translation>
     </message>
     <message>
         <source>%1 is not a valid prefix of the ISBN number.</source>
-        <translation type="obsolete">%1 is geen geldige prefix van het ISBN-nummer.</translation>
+        <translation type="unfinished">%1 is geen geldige prefix van het ISBN-nummer.</translation>
     </message>
     <message>
         <source>All ISBN 13 characters need to be numeric</source>
-        <translation type="obsolete">alle ISBN 13 tekens moeten numeriek zijn</translation>
+        <translation type="unfinished">alle ISBN 13 tekens moeten numeriek zijn</translation>
     </message>
     <message>
         <source>Bad checksum, last digit should be %1</source>
-        <translation type="obsolete">Slechte controlesom, laatste cijfer moet %1 zijn</translation>
+        <translation type="unfinished">Slechte controlesom, laatste cijfer moet %1 zijn</translation>
     </message>
     <message>
         <source>The ISBN number should be ISBN13, but seems to be ISBN10.</source>
-        <translation type="obsolete">Het ISBN nummer moet ISBN13 zijn, maar lijkt ISBN10 te zijn.</translation>
+        <translation type="unfinished">Het ISBN nummer moet ISBN13 zijn, maar lijkt ISBN10 te zijn.</translation>
     </message>
     <message>
         <source>Multi-option2</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Multi-optie2
+        <translation type="unfinished">Multi-optie2
 
 Naam Gegevenstype</translation>
     </message>
     <message>
         <source>You cannot choose option value &quot;%1&quot; from &quot;%2&quot; because it is unselectable </source>
-        <translation type="obsolete">U kunt geen optiewaarde &quot;%1&quot; tot &quot;%2&quot; kiezen omdat deze niet selecteerbaar is</translation>
+        <translation type="unfinished">U kunt geen optiewaarde &quot;%1&quot; tot &quot;%2&quot; kiezen omdat deze niet selecteerbaar is</translation>
     </message>
     <message>
         <source>You cannot choose option value &quot;%1&quot; from &quot;%2&quot;  
  if you selected option &quot;%3&quot; from &quot;%4&quot; </source>
-        <translation type="obsolete">U kunt geen optiewaarde &quot;%1&quot; tot &quot;%2&quot; kiezen  
+        <translation type="unfinished">U kunt geen optiewaarde &quot;%1&quot; tot &quot;%2&quot; kiezen  
 indien u optie &quot;%3&quot; tot &quot;%4&quot; koos</translation>
     </message>
     <message>
         <source>The password must not be &quot;password&quot;.</source>
-        <translation type="obsolete">Het wachtwoord mag niet &quot;wachtwoord&quot; zijn.</translation>
+        <translation type="unfinished">Het wachtwoord mag niet &quot;wachtwoord&quot; zijn.</translation>
     </message>
     <message>
         <source>The account is currently used the administrator user.</source>
-        <translation type="obsolete">De account is momenteel in gebruik door de beheerder.</translation>
+        <translation type="unfinished">De account is momenteel in gebruik door de beheerder.</translation>
     </message>
     <message>
         <source>You cannot remove the last class holding user accounts.</source>
-        <translation type="obsolete">U kunt de laatste klasse, die gebruikeraccounts bevat, niet verwijderen.</translation>
+        <translation type="unfinished">U kunt de laatste klasse, die gebruikeraccounts bevat, niet verwijderen.</translation>
+    </message>
+    <message>
+        <source>Missing email input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The password cannot be empty.</source>
+        <comment>eZUserType</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezbinaryfile</name>
     <message>
         <source>Failed to store file %filename. Please contact the site administrator.</source>
-        <translation type="obsolete">Bestand %filename opslaan faalde. Gelieve de sitebeheerder te contacteren.</translation>
+        <translation type="unfinished">Bestand %filename opslaan faalde. Gelieve de sitebeheerder te contacteren.</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezimage</name>
     <message>
         <source>Failed to fetch Image Handler. Please contact the site administrator.</source>
-        <translation type="obsolete">Afbeeldingshandler ophalen faalde. Gelieve uw sitebeheerder te contacteren.</translation>
+        <translation type="unfinished">Afbeeldingshandler ophalen faalde. Gelieve uw sitebeheerder te contacteren.</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezmedia</name>
     <message>
         <source>Failed to store media file %filename. Please contact the site administrator.</source>
-        <translation type="obsolete">Mediabestand %filename opslaan faalde. Gelieve uw sitebeheerder te contacteren.</translation>
+        <translation type="unfinished">Mediabestand %filename opslaan faalde. Gelieve uw sitebeheerder te contacteren.</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezxmltext</name>
     <message>
         <source>Wrong closing tag : &amp;lt;/%1&amp;gt;.</source>
-        <translation type="obsolete">Verkeerde closing label: &amp;lt;/%1&amp;gt;.</translation>
+        <translation type="unfinished">Verkeerde closing label: &amp;lt;/%1&amp;gt;.</translation>
     </message>
     <message>
         <source>Unknown tag: &amp;lt;%1&amp;gt;.</source>
-        <translation type="obsolete">Onbekende label: &amp;lt;/%1&amp;gt;.</translation>
+        <translation type="unfinished">Onbekende label: &amp;lt;/%1&amp;gt;.</translation>
     </message>
     <message>
         <source>Can&apos;t convert tag&apos;s name: &amp;lt;%1&amp;gt;.</source>
-        <translation type="obsolete">Kan de naam van de label: &amp;lt;/%1&amp;gt; niet converteren.</translation>
+        <translation type="unfinished">Kan de naam van de label: &amp;lt;/%1&amp;gt; niet converteren.</translation>
     </message>
     <message>
         <source>Required attribute &apos;%1&apos; is not presented in tag &amp;lt;%2&amp;gt;.</source>
-        <translation type="obsolete">Gewenst kenmekr &apos;%1&apos; is niet aanwezig in label &amp;lt;/%2&amp;gt;.</translation>
+        <translation type="unfinished">Gewenst kenmekr &apos;%1&apos; is niet aanwezig in label &amp;lt;/%2&amp;gt;.</translation>
     </message>
     <message>
         <source>%1 is not allowed to be a child of &amp;lt;%2&amp;gt;.</source>
-        <translation type="obsolete">%1 is niet toegestaan een onderliggend knooppunt van &amp;lt;%2&amp;gt; te zijn.</translation>
+        <translation type="unfinished">%1 is niet toegestaan een onderliggend knooppunt van &amp;lt;%2&amp;gt; te zijn.</translation>
     </message>
     <message>
         <source>Attribute &apos;%1&apos; is not allowed in &amp;lt;%2&amp;gt; element.</source>
-        <translation type="obsolete">Kenmerk &apos;%1&apos; is niet toegestaan in &amp;lt;/%2&amp;gt; element.</translation>
+        <translation type="unfinished">Kenmerk &apos;%1&apos; is niet toegestaan in &amp;lt;/%2&amp;gt; element.</translation>
     </message>
     <message>
         <source>Class &apos;%1&apos; is not allowed for element &amp;lt;%2&amp;gt; (check content.ini).</source>
-        <translation type="obsolete">Klasse &apos;%1&apos; is niet gestaan voor element &amp;lt;%2&amp;gt;. (controleer inhoud.ini).</translation>
+        <translation type="unfinished">Klasse &apos;%1&apos; is niet gestaan voor element &amp;lt;%2&amp;gt;. (controleer inhoud.ini).</translation>
     </message>
     <message>
         <source>Wrong closing tag</source>
-        <translation type="obsolete">Verkeerde closing label</translation>
+        <translation type="unfinished">Verkeerde closing label</translation>
     </message>
     <message>
         <source>Wrong opening tag</source>
-        <translation type="obsolete">Verkeerde opening label</translation>
+        <translation type="unfinished">Verkeerde opening label</translation>
     </message>
     <message>
         <source>Custom tag &apos;%1&apos; is not allowed.</source>
-        <translation type="obsolete">Standaardlabel &apos;%1&apos; is niet toegestaan.</translation>
+        <translation type="unfinished">Standaardlabel &apos;%1&apos; is niet toegestaan.</translation>
     </message>
     <message>
         <source>&amp;lt;%1&amp;gt; tag can&apos;t be empty.</source>
-        <translation type="obsolete">&amp;lt;%1&amp;gt; label mag niet leeg zijn.</translation>
+        <translation type="unfinished">&amp;lt;%1&amp;gt; label mag niet leeg zijn.</translation>
     </message>
     <message>
         <source>Incorrect headers nesting</source>
-        <translation type="obsolete">Onjuiste kopnesting</translation>
+        <translation type="unfinished">Onjuiste kopnesting</translation>
     </message>
     <message>
         <source>Node &apos;%1&apos; does not exist.</source>
-        <translation type="obsolete">Knooppunt &apos;%1&apos; bestaat niet.</translation>
+        <translation type="unfinished">Knooppunt &apos;%1&apos; bestaat niet.</translation>
     </message>
     <message>
         <source>Using scripts in links is not allowed, link &apos;%1&apos; has been removed</source>
-        <translation type="obsolete">Het gebruik van scripts in links is niet toegestaan, link &apos;%1&apos; werd verwijderd</translation>
+        <translation type="unfinished">Het gebruik van scripts in links is niet toegestaan, link &apos;%1&apos; werd verwijderd</translation>
     </message>
     <message>
         <source>Invalid e-mail address: &apos;%1&apos;</source>
-        <translation type="obsolete">Ongeldig e-mailadres: &apos;%1&apos;</translation>
+        <translation type="unfinished">Ongeldig e-mailadres: &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Object %1 can not be embeded to itself.</source>
-        <translation type="obsolete">Object %1 kan niet op zichzefl ingesloten zijn.</translation>
+        <translation type="unfinished">Object %1 kan niet op zichzefl ingesloten zijn.</translation>
     </message>
 </context>
 <context>
     <name>kernel/collaboration</name>
     <message>
         <source>Collaboration custom action</source>
-        <translation type="obsolete">Samenwerking aangepaste actie</translation>
+        <translation type="unfinished">Samenwerking aangepaste actie</translation>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation type="obsolete">Samenwerking</translation>
+        <translation type="unfinished">Samenwerking</translation>
     </message>
 </context>
 <context>
     <name>kernel/content</name>
     <message>
         <source>Search</source>
-        <translation type="obsolete">Zoeken</translation>
+        <translation type="unfinished">Zoeken</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="obsolete">Uitgebreid</translation>
+        <translation type="unfinished">Uitgebreid</translation>
     </message>
     <message>
         <source>No main node selected, please select one.</source>
-        <translation type="obsolete">U moet nog een hoofd-knoop selecteren.</translation>
+        <translation type="unfinished">U moet nog een hoofd-knoop selecteren.</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation type="obsolete">Inhoud</translation>
+        <translation type="unfinished">Inhoud</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="obsolete">Copiëren </translation>
+        <translation type="unfinished">Copiëren </translation>
     </message>
     <message>
         <source>My drafts</source>
-        <translation type="obsolete">Mijn voorlopige versies</translation>
+        <translation type="unfinished">Mijn voorlopige versies</translation>
     </message>
     <message>
         <source>Remove editing version</source>
-        <translation type="obsolete">Verwijder &apos;versie bewerken&apos;</translation>
+        <translation type="unfinished">Verwijder &apos;versie bewerken&apos;</translation>
     </message>
     <message>
         <source>Remove object</source>
-        <translation type="obsolete">Verwijder object</translation>
+        <translation type="unfinished">Verwijder object</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="obsolete">Vertaling</translation>
+        <translation type="unfinished">Vertaling</translation>
     </message>
     <message>
         <source>Content translations</source>
-        <translation type="obsolete">Content vertalingen</translation>
+        <translation type="unfinished">Content vertalingen</translation>
     </message>
     <message>
         <source>Trash</source>
-        <translation type="obsolete">Prullenbak</translation>
+        <translation type="unfinished">Prullenbak</translation>
     </message>
     <message>
         <source>Versions</source>
-        <translation type="obsolete">Versies</translation>
+        <translation type="unfinished">Versies</translation>
     </message>
     <message>
         <source>My bookmarks</source>
-        <translation type="obsolete">Mijn favorieten</translation>
+        <translation type="unfinished">Mijn favorieten</translation>
     </message>
     <message>
         <source>Tip from %1: %2</source>
-        <translation type="obsolete">Tip van %1:%2</translation>
+        <translation type="unfinished">Tip van %1:%2</translation>
     </message>
     <message>
         <source>The email address of the sender is not valid</source>
-        <translation type="obsolete">Het email adres van de afzender is niet geldig</translation>
+        <translation type="unfinished">Het email adres van de afzender is niet geldig</translation>
     </message>
     <message>
         <source>The email address of the receiver is not valid</source>
-        <translation type="obsolete">Het emailadres van de ontvanger is niet geldig</translation>
+        <translation type="unfinished">Het emailadres van de ontvanger is niet geldig</translation>
     </message>
     <message>
         <source>Tip a friend</source>
-        <translation type="obsolete">Vertel een vriend</translation>
+        <translation type="unfinished">Vertel een vriend</translation>
     </message>
     <message>
         <source>My pending list</source>
-        <translation type="obsolete">Mijn lijst met taken </translation>
+        <translation type="unfinished">Mijn lijst met taken </translation>
     </message>
     <message>
         <source>Keywords</source>
-        <translation type="obsolete">Trefwoorden</translation>
+        <translation type="unfinished">Trefwoorden</translation>
     </message>
     <message>
         <source>New content</source>
-        <translation type="obsolete">Nieuwe content</translation>
+        <translation type="unfinished">Nieuwe content</translation>
     </message>
     <message>
         <source>Remove location</source>
-        <translation type="obsolete">Locatie verwijderen</translation>
+        <translation type="unfinished">Locatie verwijderen</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation type="obsolete">Media</translation>
+        <translation type="unfinished">Media</translation>
     </message>
     <message>
         <source>You are not allowed to place this object under: %1</source>
-        <translation type="obsolete">U mag dit object niet onder: %1 plaatsen</translation>
+        <translation type="unfinished">U mag dit object niet onder: %1 plaatsen</translation>
     </message>
     <message>
         <source>Top Level Nodes</source>
-        <translation type="obsolete">Knooppunten topniveau</translation>
+        <translation type="unfinished">Knooppunten topniveau</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="obsolete">Verborgen</translation>
+        <translation type="unfinished">Verborgen</translation>
     </message>
     <message>
         <source>Hidden by superior</source>
-        <translation type="obsolete">Verborgen door superieur</translation>
+        <translation type="unfinished">Verborgen door superieur</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="obsolete">Zichtbaar</translation>
+        <translation type="unfinished">Zichtbaar</translation>
     </message>
     <message>
         <source>A node in the node assignment list has been deleted.</source>
-        <translation type="obsolete">Een knooppunt in de knooppunttoewijzingslijst werd verwijderd.</translation>
+        <translation type="unfinished">Een knooppunt in de knooppunttoewijzingslijst werd verwijderd.</translation>
     </message>
     <message>
         <source>&quot;$contentObjectName&quot;: Sub items that are used by other objects</source>
-        <translation type="obsolete">&quot;$contentObjectName&quot;: Sub-items die gebruikt worden door andere objecten</translation>
+        <translation type="unfinished">&quot;$contentObjectName&quot;: Sub-items die gebruikt worden door andere objecten</translation>
     </message>
     <message>
         <source>Differences</source>
-        <translation type="obsolete">Verschillen</translation>
+        <translation type="unfinished">Verschillen</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">Bewerken</translation>
+        <translation type="unfinished">Bewerken</translation>
     </message>
     <message>
         <source>Remove translation</source>
-        <translation type="obsolete">Vertaling verwijderen</translation>
+        <translation type="unfinished">Vertaling verwijderen</translation>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="obsolete">TalenTalen</translation>
+        <translation type="unfinished">TalenTalen</translation>
     </message>
     <message>
         <source>Class identifier</source>
-        <translation type="obsolete">Klasse-identificatie</translation>
+        <translation type="unfinished">Klasse-identificatie</translation>
     </message>
     <message>
         <source>Class name</source>
-        <translation type="obsolete">Klassenaam</translation>
+        <translation type="unfinished">Klassenaam</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="obsolete">Diepte</translation>
+        <translation type="unfinished">Diepte</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="obsolete">Gewijzigd</translation>
+        <translation type="unfinished">Gewijzigd</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">Naam</translation>
+        <translation type="unfinished">Naam</translation>
     </message>
     <message>
         <source>Path String</source>
-        <translation type="obsolete">Padreeks</translation>
+        <translation type="unfinished">Padreeks</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation type="obsolete">Prioriteit</translation>
+        <translation type="unfinished">Prioriteit</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation type="obsolete">Gepubliceerd</translation>
+        <translation type="unfinished">Gepubliceerd</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="obsolete">Sectie</translation>
+        <translation type="unfinished">Sectie</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="obsolete">Geschiedenis</translation>
+        <translation type="unfinished">Geschiedenis</translation>
     </message>
     <message>
         <source>Version preview</source>
-        <translation type="obsolete">Versievoorbeeld</translation>
+        <translation type="unfinished">Versievoorbeeld</translation>
     </message>
     <message>
         <source>Copy subtree</source>
-        <translation type="obsolete">Kopieer substructuur</translation>
+        <translation type="unfinished">Kopieer substructuur</translation>
     </message>
     <message>
         <source>The receiver has already received the maximum number of tipafriend mails the last hours</source>
-        <translation type="obsolete">De ontvanger heeft reeds het maximum aantal van tip een vriend-mails ontvangen gedurende de laatste uren</translation>
+        <translation type="unfinished">De ontvanger heeft reeds het maximum aantal van tip een vriend-mails ontvangen gedurende de laatste uren</translation>
     </message>
     <message>
         <source>You do not have enough rights to access the requested node</source>
-        <translation type="obsolete">U heeft niet genoeg rechten om toegang te krijgen tot het gewenst knooppunt</translation>
+        <translation type="unfinished">U heeft niet genoeg rechten om toegang te krijgen tot het gewenst knooppunt</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">Foutmelding</translation>
+        <translation type="unfinished">Foutmelding</translation>
+    </message>
+    <message>
+        <source>The request sent to the server was too big to be accepted. This probably means that you uploaded a file which was too big. The maximum allowed request size is %max_size_string.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dashboard</source>
+        <translation type="unfinished">Dashboard</translation>
+    </message>
+    <message>
+        <source>You have already sent a tipafriend mail to this receiver regarding &apos;%1&apos; content</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -26440,59 +26760,63 @@ indien u optie &quot;%3&quot; tot &quot;%4&quot; koos</translation>
     </message>
     <message>
         <source>Fatal error: cannot get subtree main node (ID = %1).</source>
-        <translation type="obsolete">Fatale fout: kan niet de substructuur van het hoofdknooppunt (ID = % 1) ophalen.</translation>
+        <translation type="unfinished">Fatale fout: kan niet de substructuur van het hoofdknooppunt (ID = % 1) ophalen.</translation>
     </message>
     <message>
         <source>Fatal error: cannot get destination node (ID = %1).</source>
-        <translation type="obsolete">Fatale fout: kan niet het bestemmingsknooppunt (ID = % 1) ophalen.</translation>
+        <translation type="unfinished">Fatale fout: kan niet het bestemmingsknooppunt (ID = % 1) ophalen.</translation>
     </message>
     <message>
         <source>Number of nodes of source subtree - %1</source>
-        <translation type="obsolete">Aantal knooppunten van bronsubstructuur - %1</translation>
+        <translation type="unfinished">Aantal knooppunten van bronsubstructuur - %1</translation>
     </message>
     <message>
         <source>Subtree was not copied.</source>
-        <translation type="obsolete">Substructuur was niet gekopieerd.</translation>
+        <translation type="unfinished">Substructuur was niet gekopieerd.</translation>
     </message>
     <message>
         <source>Number of copied nodes - %1</source>
-        <translation type="obsolete">Aantal gekopieerde knooppunten - %1</translation>
+        <translation type="unfinished">Aantal gekopieerde knooppunten - %1</translation>
     </message>
     <message>
         <source>Number of copied contentobjects - %1</source>
-        <translation type="obsolete">Aantal gekopieerde inhoudsobjecten - %1</translation>
+        <translation type="unfinished">Aantal gekopieerde inhoudsobjecten - %1</translation>
     </message>
     <message>
         <source>Cannot create instance of eZDB to fix local links (related objects).</source>
-        <translation type="obsolete">Kan niet instance van eZDB aanmaken om de lokale links (gerelateerde objecten) te repareren.</translation>
+        <translation type="unfinished">Kan niet instance van eZDB aanmaken om de lokale links (gerelateerde objecten) te repareren.</translation>
     </message>
     <message>
         <source>You are trying to copy a subtree that contains more than the maximum possible nodes for subtree copying. You can copy this subtree using Subtree Copy script.</source>
-        <translation type="obsolete">U probeert een substructuur te kopiëren die meer dan het maximaal mogelijk knooppunten voor het kopiëren van een substructuur bevat. U kunt deze substructuur kopiëren door het script voor subbstructuur kopiëren te gebruiken.</translation>
+        <translation type="unfinished">U probeert een substructuur te kopiëren die meer dan het maximaal mogelijk knooppunten voor het kopiëren van een substructuur bevat. U kunt deze substructuur kopiëren door het script voor subbstructuur kopiëren te gebruiken.</translation>
     </message>
     <message>
         <source>Object (ID = %1) was not copied: you do not have permission to read the object.</source>
-        <translation type="obsolete">Object (ID = %1) werd niet gekopieerd: u heeft geen toestemming om het object te lezen.</translation>
+        <translation type="unfinished">Object (ID = %1) werd niet gekopieerd: u heeft geen toestemming om het object te lezen.</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: you do not have permission to read object (ID = %2).</source>
-        <translation type="obsolete">Knooppunt (ID = %1) werd niet gekopieerd: u heeft geen toestemming om het object (ID = %2) te lezen.</translation>
+        <translation type="unfinished">Knooppunt (ID = %1) werd niet gekopieerd: u heeft geen toestemming om het object (ID = %2) te lezen.</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: parent node (ID = %2) was not copied.</source>
-        <translation type="obsolete">Object (ID = %1) werd niet gekopieerd: bovenliggend knooppunt (ID = %2) werd niet gekopieerd.</translation>
+        <translation type="unfinished">Object (ID = %1) werd niet gekopieerd: bovenliggend knooppunt (ID = %2) werd niet gekopieerd.</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: you do not have permission to create.</source>
-        <translation type="obsolete">Knooppunt (ID = %1) werd niet gekopieerd: u heeft geen toestemming om er aan te maken.</translation>
+        <translation type="unfinished">Knooppunt (ID = %1) werd niet gekopieerd: u heeft geen toestemming om er aan te maken.</translation>
     </message>
     <message>
         <source>Object (ID = %1) was not copied: no one nodes of object was not copied.</source>
-        <translation type="obsolete">Object (ID = %1) werd niet gekopieerd: geen van de knooppunten van de objecten  werden gekopieerd.</translation>
+        <translation type="unfinished">Object (ID = %1) werd niet gekopieerd: geen van de knooppunten van de objecten  werden gekopieerd.</translation>
     </message>
     <message>
         <source>Successfully DONE.</source>
-        <translation type="obsolete">Met succes KLAAR.</translation>
+        <translation type="unfinished">Met succes KLAAR.</translation>
+    </message>
+    <message>
+        <source>Cannot publish object (Name: %1, ID: %2).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -26500,172 +26824,172 @@ indien u optie &quot;%3&quot; tot &quot;%4&quot; koos</translation>
     <message>
         <source>child</source>
         <comment>1 child</comment>
-        <translation type="obsolete">kind</translation>
+        <translation type="unfinished">kind</translation>
     </message>
     <message>
         <source>children</source>
         <comment>several children</comment>
-        <translation type="obsolete">kinderen</translation>
+        <translation type="unfinished">kinderen</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/restore</name>
     <message>
         <source>Restore object</source>
-        <translation type="obsolete">Object herstellen</translation>
+        <translation type="unfinished">Object herstellen</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/upload</name>
     <message>
         <source>A file is required for upload, no file were found.</source>
-        <translation type="obsolete">Een bestand is benodigd om te uploaden, maar er is geen bestand gevonden.</translation>
+        <translation type="unfinished">Een bestand is benodigd om te uploaden, maar er is geen bestand gevonden.</translation>
     </message>
     <message>
         <source>Expected a eZHTTPFile object but got nothing.</source>
-        <translation type="obsolete">Een eZHTTPFile object was verwacht, maar niet doorgegeven.</translation>
+        <translation type="unfinished">Een eZHTTPFile object was verwacht, maar niet doorgegeven.</translation>
     </message>
     <message>
         <source>No matching class identifier found.</source>
-        <translation type="obsolete">De klasse identifier kon niet worden gevonden.</translation>
+        <translation type="unfinished">De klasse identifier kon niet worden gevonden.</translation>
     </message>
     <message>
         <source>Was not able to figure out placement of object.</source>
-        <translation type="obsolete">De plaatsing voor het object kon niet worden gededuceerd.</translation>
+        <translation type="unfinished">De plaatsing voor het object kon niet worden gededuceerd.</translation>
     </message>
     <message>
         <source>The class %class_identifier does not exist.</source>
-        <translation type="obsolete">De klasse %class_identifier bestaat niet.</translation>
+        <translation type="unfinished">De klasse %class_identifier bestaat niet.</translation>
     </message>
     <message>
         <source>No configuration group in upload.ini for class identifier %class_identifier.</source>
-        <translation type="obsolete">Er is geen configuratie groep in upload.ini voor de klasse identifier %class_identifier.</translation>
+        <translation type="unfinished">Er is geen configuratie groep in upload.ini voor de klasse identifier %class_identifier.</translation>
     </message>
     <message>
         <source>No matching file attribute found, cannot create content object without this.</source>
-        <translation type="obsolete">De eigenschap &apos;file&apos; is niet gevonden, zonder deze eigenschap kan het contentobject niet worden aangemaakt.</translation>
+        <translation type="unfinished">De eigenschap &apos;file&apos; is niet gevonden, zonder deze eigenschap kan het contentobject niet worden aangemaakt.</translation>
     </message>
     <message>
         <source>No matching name attribute found, cannot create content object without this.</source>
-        <translation type="obsolete">De eigenschap &apos;name&apos; is niet gevonden, zonder deze eigenschap kan het contentobject niet worden aangemaakt.</translation>
+        <translation type="unfinished">De eigenschap &apos;name&apos; is niet gevonden, zonder deze eigenschap kan het contentobject niet worden aangemaakt.</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support HTTP file storage.</source>
-        <translation type="obsolete">De eigenschap %class_identifier ondersteund geen HTTP bestandsopslag.</translation>
+        <translation type="unfinished">De eigenschap %class_identifier ondersteund geen HTTP bestandsopslag.</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support simple string storage.</source>
-        <translation type="obsolete">De eigenschap %class_identifier ondersteund geen simpele opslag van strings.</translation>
+        <translation type="unfinished">De eigenschap %class_identifier ondersteund geen simpele opslag van strings.</translation>
     </message>
     <message>
         <source>Publishing of content object was halted.</source>
-        <translation type="obsolete">De publicatie van het contentobject is afgebroken.</translation>
+        <translation type="unfinished">De publicatie van het contentobject is afgebroken.</translation>
     </message>
     <message>
         <source>Publish process was cancelled.</source>
-        <translation type="obsolete">Het publicatieproces is afgebroken.</translation>
+        <translation type="unfinished">Het publicatieproces is afgebroken.</translation>
     </message>
     <message>
         <source>The file %filename does not exist, cannot insert file.</source>
-        <translation type="obsolete">Het bestand %filename bestaat niet, en kan daarom niet worden ingevoegd.</translation>
+        <translation type="unfinished">Het bestand %filename bestaat niet, en kan daarom niet worden ingevoegd.</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support regular file storage.</source>
-        <translation type="obsolete">De eigenschap %class_identifier ondersteund geen normale bestandsopslag.</translation>
+        <translation type="unfinished">De eigenschap %class_identifier ondersteund geen normale bestandsopslag.</translation>
     </message>
     <message>
         <source>No HTTP file found, cannot fetch uploaded file.</source>
-        <translation type="obsolete">Geen HTTP-bestand gevonden, kan te uploaden bestand niet ophalen.</translation>
+        <translation type="unfinished">Geen HTTP-bestand gevonden, kan te uploaden bestand niet ophalen.</translation>
     </message>
     <message>
         <source>Permission denied</source>
-        <translation type="obsolete">Toestemming geweigerd</translation>
+        <translation type="unfinished">Toestemming geweigerd</translation>
     </message>
     <message>
         <source>There was an error trying to instantiate content upload handler.</source>
-        <translation type="obsolete">Er was een fout bij poging tot instantiëren van inhoudsupload-handler.</translation>
+        <translation type="unfinished">Er was een fout bij poging tot instantiëren van inhoudsupload-handler.</translation>
     </message>
     <message>
         <source>Could not find content upload handler &apos;%handler_name&apos;</source>
-        <translation type="obsolete">Kon niet inhoudupload-handler &apos;%handler_name&apos; vinden</translation>
+        <translation type="unfinished">Kon niet inhoudupload-handler &apos;%handler_name&apos; vinden</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
-        <translation type="obsolete">De grootte van het te uploaden bestand overschrijdt de ingestelde limiet voor deze site: %1 bytes.</translation>
+        <translation type="unfinished">De grootte van het te uploaden bestand overschrijdt de ingestelde limiet voor deze site: %1 bytes.</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/urlalias_global</name>
     <message>
         <source>Global URL aliases</source>
-        <translation type="obsolete">Globale URL-aliasnamen</translation>
+        <translation type="unfinished">Globale URL-aliasnamen</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/urlalias_wildcard</name>
     <message>
         <source>URL wildcard aliases</source>
-        <translation type="obsolete">URL wildcard-aliasnamen</translation>
+        <translation type="unfinished">URL wildcard-aliasnamen</translation>
     </message>
 </context>
 <context>
     <name>kernel/contentclass</name>
     <message>
         <source>New %1</source>
-        <translation type="obsolete">Nieuw %1</translation>
+        <translation type="unfinished">Nieuw %1</translation>
     </message>
     <message>
         <source>Cannot remove class &apos;%class_name&apos;:</source>
-        <translation type="obsolete">Verwijderen niet mogelijk van klasse &apos;%class_name&apos;:</translation>
+        <translation type="unfinished">Verwijderen niet mogelijk van klasse &apos;%class_name&apos;:</translation>
     </message>
     <message>
         <source>The class is used by a top-level node and cannot be removed.</source>
-        <translation type="obsolete">De klasse is gebruikt door een topniveauknooppunt en kan niet worden verwijderd.</translation>
+        <translation type="unfinished">De klasse is gebruikt door een topniveauknooppunt en kan niet worden verwijderd.</translation>
     </message>
 </context>
 <context>
     <name>kernel/design</name>
     <message>
         <source>Template list</source>
-        <translation type="obsolete">Lijst van templates</translation>
+        <translation type="unfinished">Lijst van templates</translation>
     </message>
     <message>
         <source>Template view</source>
-        <translation type="obsolete">Template weergave</translation>
+        <translation type="unfinished">Template weergave</translation>
     </message>
     <message>
         <source>Create new template</source>
-        <translation type="obsolete">Maak een nieuwe template</translation>
+        <translation type="unfinished">Maak een nieuwe template</translation>
     </message>
     <message>
         <source>Template edit</source>
-        <translation type="obsolete">Template bewerken</translation>
+        <translation type="unfinished">Template bewerken</translation>
     </message>
     <message>
         <source>Toolbar list</source>
-        <translation type="obsolete">Toolbar lijst</translation>
+        <translation type="unfinished">Toolbar lijst</translation>
     </message>
 </context>
 <context>
     <name>kernel/error</name>
     <message>
         <source>Error</source>
-        <translation type="obsolete">Foutmelding</translation>
+        <translation type="unfinished">Foutmelding</translation>
     </message>
 </context>
 <context>
     <name>kernel/ezinfo</name>
     <message>
         <source>Info</source>
-        <translation type="obsolete">Informatie</translation>
+        <translation type="unfinished">Informatie</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="obsolete">Over</translation>
+        <translation type="unfinished">Over</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="obsolete">Copyright</translation>
+        <translation type="unfinished">Copyright</translation>
     </message>
 </context>
 <context>
@@ -26679,7 +27003,7 @@ indien u optie &quot;%3&quot; tot &quot;%4&quot; koos</translation>
     <name>kernel/infocollector</name>
     <message>
         <source>Collected information</source>
-        <translation type="obsolete">Verzamelde informatie</translation>
+        <translation type="unfinished">Verzamelde informatie</translation>
     </message>
 </context>
 <context>
@@ -26687,373 +27011,385 @@ indien u optie &quot;%3&quot; tot &quot;%4&quot; koos</translation>
     <message>
         <source>Content structure</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Inhoudsstructuur</translation>
+        <translation type="unfinished">Inhoudsstructuur</translation>
     </message>
     <message>
         <source>Media library</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Mediabibliotheek</translation>
+        <translation type="unfinished">Mediabibliotheek</translation>
     </message>
     <message>
         <source>User accounts</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Gebruikersaccounts</translation>
+        <translation type="unfinished">Gebruikersaccounts</translation>
     </message>
     <message>
         <source>Webshop</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Webshop</translation>
+        <translation type="unfinished">Webshop</translation>
     </message>
     <message>
         <source>Design</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Design</translation>
+        <translation type="unfinished">Design</translation>
     </message>
     <message>
         <source>Setup</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Set-up</translation>
+        <translation type="unfinished">Set-up</translation>
     </message>
     <message>
         <source>My account</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Mijn account</translation>
+        <translation type="unfinished">Mijn account</translation>
     </message>
 </context>
 <context>
     <name>kernel/notification</name>
     <message>
         <source>Notification settings</source>
-        <translation type="obsolete">Notificatie-instellingen</translation>
+        <translation type="unfinished">Notificatie-instellingen</translation>
     </message>
 </context>
 <context>
     <name>kernel/package</name>
     <message>
         <source>Packages</source>
-        <translation type="obsolete">Pakketten</translation>
+        <translation type="unfinished">Pakketten</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="obsolete">Opladen</translation>
+        <translation type="unfinished">Opladen</translation>
     </message>
     <message>
         <source>Package information</source>
-        <translation type="obsolete">Pakketinformatie</translation>
+        <translation type="unfinished">Pakketinformatie</translation>
     </message>
     <message>
         <source>Package maintainer</source>
-        <translation type="obsolete">Pakketbeheerder</translation>
+        <translation type="unfinished">Pakketbeheerder</translation>
     </message>
     <message>
         <source>Package changelog</source>
-        <translation type="obsolete">Pakket changelog</translation>
+        <translation type="unfinished">Pakket changelog</translation>
     </message>
     <message>
         <source>Package thumbnail</source>
-        <translation type="obsolete">Pakket afbeelding (klein)</translation>
+        <translation type="unfinished">Pakket afbeelding (klein)</translation>
     </message>
     <message>
         <source>Package name</source>
-        <translation type="obsolete">Pakketnaam</translation>
+        <translation type="unfinished">Pakketnaam</translation>
     </message>
     <message>
         <source>Package name is missing</source>
-        <translation type="obsolete">Geen Pakketnaam</translation>
+        <translation type="unfinished">Geen Pakketnaam</translation>
     </message>
     <message>
         <source>A package named %packagename already exists, please give another name</source>
-        <translation type="obsolete">Een pakket met de naam %packagename is reeds in gebruik, geef een andere naam</translation>
+        <translation type="unfinished">Een pakket met de naam %packagename is reeds in gebruik, geef een andere naam</translation>
     </message>
     <message>
         <source>Summary</source>
-        <translation type="obsolete">Samenvatting</translation>
+        <translation type="unfinished">Samenvatting</translation>
     </message>
     <message>
         <source>Summary is missing</source>
-        <translation type="obsolete">Geen samenvatting</translation>
+        <translation type="unfinished">Geen samenvatting</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="obsolete">Versie</translation>
+        <translation type="unfinished">Versie</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">Naam</translation>
+        <translation type="unfinished">Naam</translation>
     </message>
     <message>
         <source>You must enter a name for the changelog</source>
-        <translation type="obsolete">U dient een naam aan de changelog te geven</translation>
+        <translation type="unfinished">U dient een naam aan de changelog te geven</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="obsolete">Changelog</translation>
+        <translation type="unfinished">Changelog</translation>
     </message>
     <message>
         <source>You must supply some text for the changelog entry</source>
-        <translation type="obsolete">U dient tekst aan te maken voor het changelog bericht</translation>
+        <translation type="unfinished">U dient tekst aan te maken voor het changelog bericht</translation>
     </message>
     <message>
         <source>You must enter a name of the maintainer</source>
-        <translation type="obsolete">U dient de naam van de beheerder in te vullen</translation>
+        <translation type="unfinished">U dient de naam van de beheerder in te vullen</translation>
     </message>
     <message>
         <source>Content classes to include</source>
-        <translation type="obsolete">Op te nemen content klasse</translation>
+        <translation type="unfinished">Op te nemen content klasse</translation>
     </message>
     <message>
         <source>Content class export</source>
-        <translation type="obsolete">Uitvoer content klasse </translation>
+        <translation type="unfinished">Uitvoer content klasse </translation>
     </message>
     <message>
         <source>Class list</source>
-        <translation type="obsolete">Klasselijst</translation>
+        <translation type="unfinished">Klasselijst</translation>
     </message>
     <message>
         <source>You must select at least one class for inclusion</source>
-        <translation type="obsolete">U dient in ieder geval één klasse ter opname te selecteren</translation>
+        <translation type="unfinished">U dient in ieder geval één klasse ter opname te selecteren</translation>
     </message>
     <message>
         <source>CSS file</source>
-        <translation type="obsolete">CSS bestand</translation>
+        <translation type="unfinished">CSS bestand</translation>
     </message>
     <message>
         <source>Image files</source>
-        <translation type="obsolete">Beeldbestanden</translation>
+        <translation type="unfinished">Beeldbestanden</translation>
     </message>
     <message>
         <source>Site style</source>
-        <translation type="obsolete">Site-opmaak</translation>
+        <translation type="unfinished">Site-opmaak</translation>
     </message>
     <message>
         <source>File did not have a .css suffix, this is most likely not a CSS file</source>
-        <translation type="obsolete">Dit is waarschijnlijk geen CSS bestand; het heeft geen .css extensie</translation>
+        <translation type="unfinished">Dit is waarschijnlijk geen CSS bestand; het heeft geen .css extensie</translation>
     </message>
     <message>
         <source>Create package</source>
-        <translation type="obsolete">Maak pakket aan</translation>
+        <translation type="unfinished">Maak pakket aan</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="obsolete">Installeren</translation>
+        <translation type="unfinished">Installeren</translation>
     </message>
     <message>
         <source>Uninstall</source>
-        <translation type="obsolete">Verwijderen</translation>
+        <translation type="unfinished">Verwijderen</translation>
     </message>
     <message>
         <source>Package %packagename already exists, cannot import the package</source>
-        <translation type="obsolete">Het pakket met de naam %packagename is reeds in gebruik en kan niet worden geïmporeerd</translation>
+        <translation type="unfinished">Het pakket met de naam %packagename is reeds in gebruik en kan niet worden geïmporeerd</translation>
     </message>
     <message>
         <source>Local</source>
-        <translation type="obsolete">Lokaal</translation>
+        <translation type="unfinished">Lokaal</translation>
     </message>
     <message>
         <source>The version must only contain numbers (optionally followed by text) and must be delimited by dots (.), e.g. 1.0, 3.4.0beta1</source>
-        <translation type="obsolete">Het versienummer mag alleen maar nummers bevatten (optioneel gevolgd door tekst) en dient gescheiden to worden door punten (.), bijvoorbeeld: 1.0 en 3.4.0beta1</translation>
+        <translation type="unfinished">Het versienummer mag alleen maar nummers bevatten (optioneel gevolgd door tekst) en dient gescheiden to worden door punten (.), bijvoorbeeld: 1.0 en 3.4.0beta1</translation>
     </message>
     <message>
         <source>Content objects to include</source>
-        <translation type="obsolete">Op te nemen content klasse</translation>
+        <translation type="unfinished">Op te nemen content klasse</translation>
     </message>
     <message>
         <source>Content object limits</source>
-        <translation type="obsolete">Content object limieten</translation>
+        <translation type="unfinished">Content object limieten</translation>
     </message>
     <message>
         <source>Content object export</source>
-        <translation type="obsolete">Content object export</translation>
+        <translation type="unfinished">Content object export</translation>
     </message>
     <message>
         <source>Selected nodes</source>
-        <translation type="obsolete">Geselecteerde nodes</translation>
+        <translation type="unfinished">Geselecteerde nodes</translation>
     </message>
     <message>
         <source>You must select one or more node(s)/subtree(s) for export.</source>
-        <translation type="obsolete">U dient één of meerdere kno(o)p(en)/subtree(s) te selecteren voor export.</translation>
+        <translation type="unfinished">U dient één of meerdere kno(o)p(en)/subtree(s) te selecteren voor export.</translation>
     </message>
     <message>
         <source>You must choose one or more languages.</source>
-        <translation type="obsolete">U dient een of meerdere talen te kiezen.</translation>
+        <translation type="unfinished">U dient een of meerdere talen te kiezen.</translation>
     </message>
     <message>
         <source>You must choose one or more site access.</source>
-        <translation type="obsolete">U dient een of meerdere site toegangen te kiezen.</translation>
+        <translation type="unfinished">U dient een of meerdere site toegangen te kiezen.</translation>
     </message>
     <message>
         <source>CSS files</source>
-        <translation type="obsolete">CSS bestanden</translation>
+        <translation type="unfinished">CSS bestanden</translation>
     </message>
     <message>
         <source>You must upload both CSS files</source>
-        <translation type="obsolete">U dient beide CSS bestanden te uploaden</translation>
+        <translation type="unfinished">U dient beide CSS bestanden te uploaden</translation>
     </message>
     <message>
         <source>Content object %objectname</source>
-        <translation type="obsolete">Content object %objectname</translation>
+        <translation type="unfinished">Content object %objectname</translation>
     </message>
     <message>
         <source>Site access mapping</source>
-        <translation type="obsolete">Site toegang verwijzingen</translation>
+        <translation type="unfinished">Site toegang verwijzingen</translation>
     </message>
     <message>
         <source>Top node placements</source>
-        <translation type="obsolete">Top knoop plaatsingen</translation>
+        <translation type="unfinished">Top knoop plaatsingen</translation>
     </message>
     <message>
         <source>Content object import</source>
-        <translation type="obsolete">Content object import</translation>
+        <translation type="unfinished">Content object import</translation>
     </message>
     <message>
         <source>Select parent nodes</source>
-        <translation type="obsolete">Selecteer ouder knoop</translation>
+        <translation type="unfinished">Selecteer ouder knoop</translation>
     </message>
     <message>
         <source>You must assign all nodes to new parent nodes.</source>
-        <translation type="obsolete">U dient alle knopen aan nieuwe ouder knopen toe te wijzen.</translation>
+        <translation type="unfinished">U dient alle knopen aan nieuwe ouder knopen toe te wijzen.</translation>
     </message>
     <message>
         <source>Lead</source>
-        <translation type="obsolete">Potentiële klant</translation>
+        <translation type="unfinished">Potentiële klant</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="obsolete">Ontwikkelaar</translation>
+        <translation type="unfinished">Ontwikkelaar</translation>
     </message>
     <message>
         <source>Designer</source>
-        <translation type="obsolete">Ontwerper</translation>
+        <translation type="unfinished">Ontwerper</translation>
     </message>
     <message>
         <source>Contributor</source>
-        <translation type="obsolete">Bijdrager</translation>
+        <translation type="unfinished">Bijdrager</translation>
     </message>
     <message>
         <source>Tester</source>
-        <translation type="obsolete">Tester</translation>
+        <translation type="unfinished">Tester</translation>
     </message>
     <message>
         <source>The package name %packagename is not valid, it can only contain characters in the range a-z, 0-9 and underscore.</source>
-        <translation type="obsolete">De pakketnaam %packagename is niet geldig, de naam kan enkel tekens in het bereik a-z, 0-9 en underscore bevatten.</translation>
+        <translation type="unfinished">De pakketnaam %packagename is niet geldig, de naam kan enkel tekens in het bereik a-z, 0-9 en underscore bevatten.</translation>
     </message>
     <message>
         <source>Extension export</source>
-        <translation type="obsolete">Extensie-export</translation>
+        <translation type="unfinished">Extensie-export</translation>
     </message>
     <message>
         <source>%number content objects</source>
-        <translation type="obsolete">%aantal inhoudsobjecten</translation>
+        <translation type="unfinished">%aantal inhoudsobjecten</translation>
     </message>
     <message>
         <source>Extension &apos;%extensionname&apos;</source>
-        <translation type="obsolete">Extensie &apos;%extensionname&apos;</translation>
+        <translation type="unfinished">Extensie &apos;%extensionname&apos;</translation>
     </message>
     <message>
         <source>Removing class &apos;%classname&apos; will result in the removal of %objectscount object(s) of this class and all their sub-items. Are you sure you want to uninstall it?</source>
-        <translation type="obsolete">Het verwijderen van klasse &apos;%classname&apos; zal resulteren in het verwijderen van %objectscount object(en) van deze klasse en al hun sub-items. Bent u zeker dat u het wilt de-installeren?</translation>
+        <translation type="unfinished">Het verwijderen van klasse &apos;%classname&apos; zal resulteren in het verwijderen van %objectscount object(en) van deze klasse en al hun sub-items. Bent u zeker dat u het wilt de-installeren?</translation>
     </message>
     <message>
         <source>Class &apos;%classname&apos; already exists.</source>
-        <translation type="obsolete">Klasse &apos;%classname&apos; bestaat reeds.</translation>
+        <translation type="unfinished">Klasse &apos;%classname&apos; bestaat reeds.</translation>
     </message>
     <message>
         <source>Replace existing class</source>
-        <translation type="obsolete">Bestaande klasse vervangen</translation>
+        <translation type="unfinished">Bestaande klasse vervangen</translation>
     </message>
     <message>
         <source>(Warning! $objectsCount content object(s) and their sub-items will be removed)</source>
-        <translation type="obsolete">(Waarschuwing! $objectsCount inhoudsobject(en) en hun sub-items worden verwijderd)</translation>
+        <translation type="unfinished">(Waarschuwing! $objectsCount inhoudsobject(en) en hun sub-items worden verwijderd)</translation>
     </message>
     <message>
         <source>Skip installing this class</source>
-        <translation type="obsolete">Installeren van deze klasse overslaan</translation>
+        <translation type="unfinished">Installeren van deze klasse overslaan</translation>
     </message>
     <message>
         <source>Keep existing and create a new one</source>
-        <translation type="obsolete">Behoud het bestaande en maak een nieuwe aan</translation>
+        <translation type="unfinished">Behoud het bestaande en maak een nieuwe aan</translation>
     </message>
     <message>
         <source>Object &apos;%objectname&apos; has been modified since installation. Are you sure you want to remove it?</source>
-        <translation type="obsolete">Object &apos;%objectname&apos; werd gewijzigd sinds de installatie. Bent u zeker dat u deze wilt verwijderen?</translation>
+        <translation type="unfinished">Object &apos;%objectname&apos; werd gewijzigd sinds de installatie. Bent u zeker dat u deze wilt verwijderen?</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="obsolete">Verwijderen</translation>
+        <translation type="unfinished">Verwijderen</translation>
     </message>
     <message>
         <source>Keep object</source>
-        <translation type="obsolete">Object behouden</translation>
+        <translation type="unfinished">Object behouden</translation>
     </message>
     <message>
         <source>Object &apos;%objectname&apos; has %childrencount sub-item(s) that will be removed.</source>
-        <translation type="obsolete">Object &apos;%objectname&apos; heeft %childrencount sub-items(s) die zullen worden verwijderd.</translation>
+        <translation type="unfinished">Object &apos;%objectname&apos; heeft %childrencount sub-items(s) die zullen worden verwijderd.</translation>
     </message>
     <message>
         <source>Extension &apos;%extensionname&apos; already exists.</source>
-        <translation type="obsolete">Extensie &apos;%extensionname&apos; bestaat reeds.</translation>
+        <translation type="unfinished">Extensie &apos;%extensionname&apos; bestaat reeds.</translation>
     </message>
     <message>
         <source>Replace extension</source>
-        <translation type="obsolete">Extensie vervangen</translation>
+        <translation type="unfinished">Extensie vervangen</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="obsolete">Overslaan</translation>
+        <translation type="unfinished">Overslaan</translation>
     </message>
     <message>
         <source>Install script: %description</source>
-        <translation type="obsolete">Installeer script: %description</translation>
+        <translation type="unfinished">Installeer script: %description</translation>
     </message>
     <message>
         <source>Content class &apos;%classname&apos; (%classidentifier)</source>
-        <translation type="obsolete">Inhoudsklasse &apos;%classname&apos; (%classindentifier)</translation>
+        <translation type="unfinished">Inhoudsklasse &apos;%classname&apos; (%classindentifier)</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="obsolete">E-mail</translation>
+        <translation type="unfinished">E-mail</translation>
     </message>
     <message>
         <source>You must enter an email for the changelog</source>
-        <translation type="obsolete">U dient een e-mail voor de changelog in te vullen</translation>
+        <translation type="unfinished">U dient een e-mail voor de changelog in te vullen</translation>
     </message>
     <message>
         <source>You must enter an email address of the maintainer</source>
-        <translation type="obsolete">U dient een e-mailadres van de onderhouder in te vullen</translation>
+        <translation type="unfinished">U dient een e-mailadres van de onderhouder in te vullen</translation>
     </message>
     <message>
         <source>Extensions to include</source>
-        <translation type="obsolete">Te includeren extensies</translation>
+        <translation type="unfinished">Te includeren extensies</translation>
     </message>
     <message>
         <source>Extension list</source>
-        <translation type="obsolete">Extensielijst</translation>
+        <translation type="unfinished">Extensielijst</translation>
     </message>
     <message>
         <source>You must select at least one extension</source>
-        <translation type="obsolete">U dient tenminste één extensie te selecteren</translation>
+        <translation type="unfinished">U dient tenminste één extensie te selecteren</translation>
     </message>
     <message>
         <source>Remove object and its sub-item(s)</source>
-        <translation type="obsolete">Object en zijn sub-items(s) verwijderen</translation>
+        <translation type="unfinished">Object en zijn sub-items(s) verwijderen</translation>
+    </message>
+    <message>
+        <source>Package contains an invalid extension name: %extensionname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The package name %packagename is invalid, cannot import the package</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/pdf</name>
     <message>
         <source>PDF Export</source>
-        <translation type="obsolete">Exporteer PDF</translation>
+        <translation type="unfinished">Exporteer PDF</translation>
     </message>
     <message>
         <source>An export with such filename already exists.</source>
-        <translation type="obsolete">Een export met deze bestandsnaam bestaat reeds.</translation>
+        <translation type="unfinished">Een export met deze bestandsnaam bestaat reeds.</translation>
     </message>
 </context>
 <context>
     <name>kernel/pdfexport</name>
     <message>
         <source>New PDF Export</source>
-        <translation type="obsolete">Nieuwe PDF-export</translation>
+        <translation type="unfinished">Nieuwe PDF-export</translation>
     </message>
 </context>
 <context>
@@ -27067,83 +27403,83 @@ indien u optie &quot;%3&quot; tot &quot;%4&quot; koos</translation>
     <name>kernel/role</name>
     <message>
         <source>Role list</source>
-        <translation type="obsolete">Rollenlijst</translation>
+        <translation type="unfinished">Rollenlijst</translation>
     </message>
     <message>
         <source>Editing policy</source>
-        <translation type="obsolete">Regels voor bewerken</translation>
+        <translation type="unfinished">Regels voor bewerken</translation>
     </message>
     <message>
         <source>Limit on section</source>
-        <translation type="obsolete">Beperking op sectie</translation>
+        <translation type="unfinished">Beperking op sectie</translation>
     </message>
     <message>
         <source>Create new policy, step 2: select function</source>
-        <translation type="obsolete">Maak een nieuwe regel, stap twee: selecteer functie</translation>
+        <translation type="unfinished">Maak een nieuwe regel, stap twee: selecteer functie</translation>
     </message>
     <message>
         <source>Create new policy, step three: set function limitations</source>
-        <translation type="obsolete">Maak een nieuwe regel, stap drie: limiteer per functie</translation>
+        <translation type="unfinished">Maak een nieuwe regel, stap drie: limiteer per functie</translation>
     </message>
     <message>
         <source>Create new policy, step two: select function</source>
-        <translation type="obsolete">Maak een nieuwe regel, stap twee: selecteer functie</translation>
+        <translation type="unfinished">Maak een nieuwe regel, stap twee: selecteer functie</translation>
     </message>
     <message>
         <source>Create new policy, step one: select module</source>
-        <translation type="obsolete">Maak een nieuwe regel, stap één: selecteer modules</translation>
+        <translation type="unfinished">Maak een nieuwe regel, stap één: selecteer modules</translation>
     </message>
 </context>
 <context>
     <name>kernel/role/edit</name>
     <message>
         <source>New role</source>
-        <translation type="obsolete">Nieuwe rol</translation>
+        <translation type="unfinished">Nieuwe rol</translation>
     </message>
     <message>
         <source>Copy of %rolename</source>
-        <translation type="obsolete">Kopie van %rolename</translation>
+        <translation type="unfinished">Kopie van %rolename</translation>
     </message>
 </context>
 <context>
     <name>kernel/rss</name>
     <message>
         <source>Really Simple Syndication</source>
-        <translation type="obsolete">Really Simple Syndication</translation>
+        <translation type="unfinished">Really Simple Syndication</translation>
     </message>
     <message>
         <source>New RSS Export</source>
-        <translation type="obsolete">Nieuwe RSS-export</translation>
+        <translation type="unfinished">Nieuwe RSS-export</translation>
     </message>
     <message>
         <source>New RSS Import</source>
-        <translation type="obsolete">Nieuwe RSS-import</translation>
+        <translation type="unfinished">Nieuwe RSS-import</translation>
     </message>
 </context>
 <context>
     <name>kernel/rss/edit_export</name>
     <message>
         <source>Invalid selection for title class %1 does not have attribute &quot;%2&quot;</source>
-        <translation type="obsolete">Ongeldige selectie voor titelklasse %1 heeft geen kenmerk &quot;%2&quot;</translation>
+        <translation type="unfinished">Ongeldige selectie voor titelklasse %1 heeft geen kenmerk &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Invalid selection for description class %1 does not have attribute &quot;%2&quot;</source>
-        <translation type="obsolete">Ongeldige selectie voor omschrijvingsklasse %1 heeft geen kenmerk &quot;%2&quot;</translation>
+        <translation type="unfinished">Ongeldige selectie voor omschrijvingsklasse %1 heeft geen kenmerk &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Selected class does not exist</source>
-        <translation type="obsolete">Geselecteerde klasse bestaat niet</translation>
+        <translation type="unfinished">Geselecteerde klasse bestaat niet</translation>
     </message>
     <message>
         <source>Invalid selection for category class %1 does not have attribute &quot;%2&quot;</source>
-        <translation type="obsolete">Ongeldige selectie voor categorieklasse %1 heeft geen kenmerk &quot;%2&quot;</translation>
+        <translation type="unfinished">Ongeldige selectie voor categorieklasse %1 heeft geen kenmerk &quot;%2&quot;</translation>
     </message>
 </context>
 <context>
     <name>kernel/search</name>
     <message>
         <source>Search stats</source>
-        <translation type="obsolete">Zoek statistieken</translation>
+        <translation type="unfinished">Zoek statistieken</translation>
     </message>
 </context>
 <context>
@@ -27154,7 +27490,7 @@ indien u optie &quot;%3&quot; tot &quot;%4&quot; koos</translation>
     </message>
     <message>
         <source>Sections</source>
-        <translation type="obsolete">Secties</translation>
+        <translation type="unfinished">Secties</translation>
     </message>
     <message>
         <source>View section</source>
@@ -27162,570 +27498,625 @@ indien u optie &quot;%3&quot; tot &quot;%4&quot; koos</translation>
     </message>
     <message>
         <source>New section</source>
-        <translation type="obsolete">Nieuwe sectie</translation>
+        <translation type="unfinished">Nieuwe sectie</translation>
     </message>
     <message>
         <source>Assign section</source>
-        <translation type="obsolete">Sectie toewijzen</translation>
+        <translation type="unfinished">Sectie toewijzen</translation>
     </message>
 </context>
 <context>
     <name>kernel/setup</name>
     <message>
         <source>Cache admin</source>
-        <translation type="obsolete">Cache management</translation>
+        <translation type="unfinished">Cache management</translation>
     </message>
     <message>
         <source>Template operator wizard</source>
-        <translation type="obsolete">Template operator wizard</translation>
+        <translation type="unfinished">Template operator wizard</translation>
     </message>
     <message>
         <source>Extension configuration</source>
-        <translation type="obsolete">Extensie administratie</translation>
+        <translation type="unfinished">Extensie administratie</translation>
     </message>
     <message>
         <source>System information</source>
-        <translation type="obsolete">Systeeminformatie</translation>
+        <translation type="unfinished">Systeeminformatie</translation>
     </message>
     <message>
         <source>Rapid Application Development</source>
-        <translation type="obsolete">Rapid Application Development</translation>
+        <translation type="unfinished">Rapid Application Development</translation>
     </message>
     <message>
         <source>Setup menu</source>
-        <translation type="obsolete">Configuratiemenu</translation>
+        <translation type="unfinished">Configuratiemenu</translation>
     </message>
     <message>
         <source>System Upgrade</source>
-        <translation type="obsolete">Systeem Upgrade</translation>
+        <translation type="unfinished">Systeem Upgrade</translation>
     </message>
     <message>
         <source>Session admin</source>
-        <translation type="obsolete">Sessie administratie</translation>
+        <translation type="unfinished">Sessie administratie</translation>
     </message>
     <message>
         <source>File %1 does not exist. You should copy it from the recent eZ Publish distribution.</source>
-        <translation type="obsolete">Het bestand %1 bestaat niet. U dient het te kopieren van een recente eZ publish distributie.</translation>
+        <translation type="unfinished">Het bestand %1 bestaat niet. U dient het te kopieren van een recente eZ publish distributie.</translation>
     </message>
     <message>
         <source>Datatype wizard</source>
-        <translation type="obsolete">Gegevenstype-wizard</translation>
+        <translation type="unfinished">Gegevenstype-wizard</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop</name>
     <message>
         <source>Basket</source>
-        <translation type="obsolete">Boodschappenmandje</translation>
+        <translation type="unfinished">Boodschappenmandje</translation>
     </message>
     <message>
         <source>Confirm order</source>
-        <translation type="obsolete">Bevestig bestelling</translation>
+        <translation type="unfinished">Bevestig bestelling</translation>
     </message>
     <message>
         <source>Discount group</source>
-        <translation type="obsolete">Kortingsgroep</translation>
+        <translation type="unfinished">Kortingsgroep</translation>
     </message>
     <message>
         <source>Group view of discount rule</source>
-        <translation type="obsolete">Groepsweergave van koritngsregel</translation>
+        <translation type="unfinished">Groepsweergave van koritngsregel</translation>
     </message>
     <message>
         <source>Editing rule</source>
-        <translation type="obsolete">Regel wordt bewerkt</translation>
+        <translation type="unfinished">Regel wordt bewerkt</translation>
     </message>
     <message>
         <source>Order list</source>
-        <translation type="obsolete">Bestellijst</translation>
+        <translation type="unfinished">Bestellijst</translation>
     </message>
     <message>
         <source>Enter account information</source>
-        <translation type="obsolete">Voer uw accountinformatie in</translation>
+        <translation type="unfinished">Voer uw accountinformatie in</translation>
     </message>
     <message>
         <source>VAT types</source>
-        <translation type="obsolete">BTW soorten</translation>
+        <translation type="unfinished">BTW soorten</translation>
     </message>
     <message>
         <source>Checkout</source>
-        <translation type="obsolete">Checkout</translation>
+        <translation type="unfinished">Checkout</translation>
     </message>
     <message>
         <source>Customer list</source>
-        <translation type="obsolete">Klanten lijst</translation>
+        <translation type="unfinished">Klanten lijst</translation>
     </message>
     <message>
         <source>Remove order</source>
-        <translation type="obsolete">Order verwijderen</translation>
+        <translation type="unfinished">Order verwijderen</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="obsolete">Statistieken</translation>
+        <translation type="unfinished">Statistieken</translation>
     </message>
     <message>
         <source>VAT type</source>
-        <translation type="obsolete">Soort BTW</translation>
+        <translation type="unfinished">Soort BTW</translation>
     </message>
     <message>
         <source>Classes</source>
-        <translation type="obsolete">Klassen</translation>
+        <translation type="unfinished">Klassen</translation>
     </message>
     <message>
         <source>Any class</source>
-        <translation type="obsolete">Alle klassen</translation>
+        <translation type="unfinished">Alle klassen</translation>
     </message>
     <message>
         <source>in sections</source>
-        <translation type="obsolete">in secties</translation>
+        <translation type="unfinished">in secties</translation>
     </message>
     <message>
         <source>in any section</source>
-        <translation type="obsolete">in om het even welke sectie</translation>
+        <translation type="unfinished">in om het even welke sectie</translation>
     </message>
     <message>
         <source>Products</source>
-        <translation type="obsolete">Producten</translation>
+        <translation type="unfinished">Producten</translation>
     </message>
     <message>
         <source>Any product</source>
-        <translation type="obsolete">Om het even welk product</translation>
+        <translation type="unfinished">Om het even welk product</translation>
     </message>
     <message>
         <source>Order status</source>
-        <translation type="obsolete">Orderstatus</translation>
+        <translation type="unfinished">Orderstatus</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation type="obsolete">Niet-gedefinieerd</translation>
+        <translation type="unfinished">Niet-gedefinieerd</translation>
     </message>
     <message>
         <source>The confirm order operation was canceled. Try to checkout again.</source>
-        <translation type="obsolete">De operatie om de order te bevestigen was geannuleerd. Probeer het ophalen opnieuw.</translation>
+        <translation type="unfinished">De operatie om de order te bevestigen was geannuleerd. Probeer het ophalen opnieuw.</translation>
     </message>
     <message>
         <source>Order #%order_id</source>
-        <translation type="obsolete">Bestelling nr. %order_id</translation>
+        <translation type="unfinished">Bestelling nr. %order_id</translation>
     </message>
     <message>
         <source>New order status was successfully added.</source>
-        <translation type="obsolete">Nieuw orderstatus werd succesvol toegevoegd.</translation>
+        <translation type="unfinished">Nieuw orderstatus werd succesvol toegevoegd.</translation>
     </message>
     <message>
         <source>Changes to order status were successfully stored.</source>
-        <translation type="obsolete">Wijzigingen aan de orderstatus werden succesvol opgeslagen.</translation>
+        <translation type="unfinished">Wijzigingen aan de orderstatus werden succesvol opgeslagen.</translation>
     </message>
     <message>
         <source>Selected order statuses were successfully removed.</source>
-        <translation type="obsolete">De geselecteerde orderstatussen werden succesvol verwijderd.</translation>
+        <translation type="unfinished">De geselecteerde orderstatussen werden succesvol verwijderd.</translation>
     </message>
     <message>
         <source>Internal orders cannot be removed.</source>
-        <translation type="obsolete">Interne orders kunnen niet verwijderd worden.</translation>
+        <translation type="unfinished">Interne orders kunnen niet verwijderd worden.</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">Status</translation>
+        <translation type="unfinished">Status</translation>
     </message>
     <message>
         <source>Customer order view</source>
-        <translation type="obsolete">Weergave van klantorder</translation>
+        <translation type="unfinished">Weergave van klantorder</translation>
     </message>
     <message>
         <source>Any</source>
-        <translation type="obsolete">Alle</translation>
+        <translation type="unfinished">Alle</translation>
     </message>
     <message>
         <source>Available currency list</source>
-        <translation type="obsolete">Beschikbare valutalijst</translation>
+        <translation type="unfinished">Beschikbare valutalijst</translation>
     </message>
     <message>
         <source>Edit currency</source>
-        <translation type="obsolete">Valuta bewerken</translation>
+        <translation type="unfinished">Valuta bewerken</translation>
     </message>
     <message>
         <source>Create new currency</source>
-        <translation type="obsolete">Nieuwe valuta aanmaken</translation>
+        <translation type="unfinished">Nieuwe valuta aanmaken</translation>
     </message>
     <message>
         <source>Preferred currency</source>
-        <translation type="obsolete">Voorkeursvaluta</translation>
+        <translation type="unfinished">Voorkeursvaluta</translation>
     </message>
     <message>
         <source>Products overview</source>
-        <translation type="obsolete">Productenoverzicht</translation>
+        <translation type="unfinished">Productenoverzicht</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="obsolete">Geen</translation>
+        <translation type="unfinished">Geen</translation>
     </message>
     <message>
         <source>Error checking out</source>
-        <translation type="obsolete">Fout bij ophalen</translation>
+        <translation type="unfinished">Fout bij ophalen</translation>
     </message>
     <message>
         <source>Unable to calculate VAT percentage because your country is unknown. You can either fill country manually in your account information (if you are a registered user) or contact site administrator.</source>
-        <translation type="obsolete">Niet in staat om het btw-percentage te berekenen omdat het land onbekend is. U kunt ofwel het land handmatig in uw accountinformatie invullen (indien u een geregistreerde gebruiker bent) of de sitebeheerder contacteren.</translation>
+        <translation type="unfinished">Niet in staat om het btw-percentage te berekenen omdat het land onbekend is. U kunt ofwel het land handmatig in uw accountinformatie invullen (indien u een geregistreerde gebruiker bent) of de sitebeheerder contacteren.</translation>
     </message>
     <message>
         <source>Wishlist</source>
-        <translation type="obsolete">Wenslijst</translation>
+        <translation type="unfinished">Wenslijst</translation>
     </message>
     <message>
         <source>&apos;Autorates&apos; were retrieved successfully</source>
-        <translation type="obsolete">&apos;Autotarieven&apos; werden succesvol opgehaald</translation>
+        <translation type="unfinished">&apos;Autotarieven&apos; werden succesvol opgehaald</translation>
     </message>
     <message>
         <source>Unknown body format in HTTP response. Expected &apos;text/xml&apos;</source>
-        <translation type="obsolete">Onbekend hoofdtekstformaat in HTTP-antwoord. Verwacht &apos;text/xml&apos;</translation>
+        <translation type="unfinished">Onbekend hoofdtekstformaat in HTTP-antwoord. Verwacht &apos;text/xml&apos;</translation>
     </message>
     <message>
         <source>Invalid HTTP response</source>
-        <translation type="obsolete">Ongeldig HTTP-antwoord</translation>
+        <translation type="unfinished">Ongeldig HTTP-antwoord</translation>
     </message>
     <message>
         <source>Unable to send http request: %1:%2/%3</source>
-        <translation type="obsolete">Niet in staat om de http-aanvraag: %1:%2/%3 te verzenden</translation>
+        <translation type="unfinished">Niet in staat om de http-aanvraag: %1:%2/%3 te verzenden</translation>
     </message>
     <message>
         <source>eZExchangeRatesUpdateHandler: you should reimplement &apos;requestRates&apos; method</source>
-        <translation type="obsolete">eZExchangeRatesUpdateHandler: u moet de &apos;requestRates&apos; methode opnieuw implementeren</translation>
+        <translation type="unfinished">eZExchangeRatesUpdateHandler: u moet de &apos;requestRates&apos; methode opnieuw implementeren</translation>
     </message>
     <message>
         <source>&apos;Auto&apos; prices were updated successfully.</source>
-        <translation type="obsolete">&apos;Auto&apos; prijzen werden succesvol geüpdated.</translation>
+        <translation type="unfinished">&apos;Auto&apos; prijzen werden succesvol geüpdated.</translation>
     </message>
     <message>
         <source>&apos;Auto&apos; rates were updated successfully.</source>
-        <translation type="obsolete">&apos;Auto&apos; tarieven werden succesvol geüpdated.</translation>
+        <translation type="unfinished">&apos;Auto&apos; tarieven werden succesvol geüpdated.</translation>
     </message>
     <message>
         <source>Unable to calculate cross-rate for currency-pair &apos;%1&apos;/&apos;%2&apos;</source>
-        <translation type="obsolete">Niet in staat om cross-tarief voor valutapaar &apos;%1&apos;/&apos;%2&apos; te berekenen</translation>
+        <translation type="unfinished">Niet in staat om cross-tarief voor valutapaar &apos;%1&apos;/&apos;%2&apos; te berekenen</translation>
     </message>
     <message>
         <source>Unable to determine currency for retrieved rates.</source>
-        <translation type="obsolete">Niet in staat om de valuta voor opgehaalde tarieven te bepalen.</translation>
+        <translation type="unfinished">Niet in staat om de valuta voor opgehaalde tarieven te bepalen.</translation>
     </message>
     <message>
         <source>Retrieved empty list of rates.</source>
-        <translation type="obsolete">Opgehaalde lege lijst met tarieven.</translation>
+        <translation type="unfinished">Opgehaalde lege lijst met tarieven.</translation>
     </message>
     <message>
         <source>Unable to create handler to update auto rates.</source>
-        <translation type="obsolete">Niet in staat om een handler aan te maken om de auto-tarieven bij te werken.</translation>
+        <translation type="unfinished">Niet in staat om een handler aan te maken om de auto-tarieven bij te werken.</translation>
     </message>
     <message>
         <source>Changes were stored successfully.</source>
-        <translation type="obsolete">De wijzigingen werden succesvol opgeslagen.</translation>
+        <translation type="unfinished">De wijzigingen werden succesvol opgeslagen.</translation>
+    </message>
+    <message>
+        <source>&apos;%value&apos; is not a valid custom rate value (positive number expected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;%value&apos; is not a valid rate_factor value (positive number expected)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/classes/ezcurrencydata</name>
     <message>
         <source>Invalid characters in currency code.</source>
-        <translation type="obsolete">Ongeldige tekens in het huidig knooppunt.</translation>
+        <translation type="unfinished">Ongeldige tekens in het huidig knooppunt.</translation>
     </message>
     <message>
         <source>Currency already exists.</source>
-        <translation type="obsolete">De valuta bestaat reeds.</translation>
+        <translation type="unfinished">De valuta bestaat reeds.</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="obsolete">Onbekende fout.</translation>
+        <translation type="unfinished">Onbekende fout.</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/discountgroup</name>
     <message>
         <source>New discount group</source>
-        <translation type="obsolete">Nieuwe kortingsgroep</translation>
+        <translation type="unfinished">Nieuwe kortingsgroep</translation>
     </message>
     <message>
         <source>New Discount Rule</source>
-        <translation type="obsolete">Niewe kortingsregel</translation>
+        <translation type="unfinished">Niewe kortingsregel</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/editvatrule</name>
     <message>
         <source>Choose a country.</source>
-        <translation type="obsolete">Kies een land.</translation>
+        <translation type="unfinished">Kies een land.</translation>
     </message>
     <message>
         <source>Choose a VAT type.</source>
-        <translation type="obsolete">Kies een btw-type.</translation>
+        <translation type="unfinished">Kies een btw-type.</translation>
     </message>
     <message>
         <source>Rule not found</source>
-        <translation type="obsolete">Regel niet gevonden</translation>
+        <translation type="unfinished">Regel niet gevonden</translation>
     </message>
     <message>
         <source>Edit VAT charging rule</source>
-        <translation type="obsolete">Wijzig regel voor btw in rekening brengen</translation>
+        <translation type="unfinished">Wijzig regel voor btw in rekening brengen</translation>
     </message>
     <message>
         <source>Create new VAT charging rule</source>
-        <translation type="obsolete">Maak een nieuwe regel voor btw in rekening brengen aan</translation>
+        <translation type="unfinished">Maak een nieuwe regel voor btw in rekening brengen aan</translation>
     </message>
     <message>
         <source>Invalid data entered</source>
-        <translation type="obsolete">Ongeldige gevens ingevoerd</translation>
+        <translation type="unfinished">Ongeldige gevens ingevoerd</translation>
     </message>
     <message>
         <source>Conflicting rule</source>
-        <translation type="obsolete">Conflicterende regel</translation>
+        <translation type="unfinished">Conflicterende regel</translation>
     </message>
     <message>
         <source>Default rule for any country already exists.</source>
-        <translation type="obsolete">Standaardregel voor om het even welk land dat reeds bestaat.</translation>
+        <translation type="unfinished">Standaardregel voor om het even welk land dat reeds bestaat.</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/productcategories</name>
     <message>
         <source>Product categories</source>
-        <translation type="obsolete">Productcategorieën</translation>
+        <translation type="unfinished">Productcategorieën</translation>
     </message>
     <message>
         <source>Product category</source>
-        <translation type="obsolete">Productcategorie</translation>
+        <translation type="unfinished">Productcategorie</translation>
     </message>
     <message>
         <source>Empty category names are not allowed (corrected).</source>
-        <translation type="obsolete">Lege categorienamen zijn niet toegestaan (verbeterd).</translation>
+        <translation type="unfinished">Lege categorienamen zijn niet toegestaan (verbeterd).</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/vatrules</name>
     <message>
         <source>No default rule found. Please add rule having &quot;Any&quot; country and &quot;Any&quot; category.</source>
-        <translation type="obsolete">Geen standaardregel gevonden. Gelieve de regel  &quot;Om het even welk&quot; land en &quot;Om het even welke&quot; categorie toe te voegen.</translation>
+        <translation type="unfinished">Geen standaardregel gevonden. Gelieve de regel  &quot;Om het even welk&quot; land en &quot;Om het even welke&quot; categorie toe te voegen.</translation>
     </message>
     <message>
         <source>VAT rules</source>
-        <translation type="obsolete">Btw-regels</translation>
+        <translation type="unfinished">Btw-regels</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/vattype</name>
     <message>
         <source>Empty VAT type names are not allowed (corrected).</source>
-        <translation type="obsolete">Lege btw-typenamen zijn niet toegestaan (verbeterd).</translation>
+        <translation type="unfinished">Lege btw-typenamen zijn niet toegestaan (verbeterd).</translation>
     </message>
     <message>
         <source>Wrong VAT percentage (corrected).</source>
-        <translation type="obsolete">Verkeerde btw-percentage (verbeterd).</translation>
+        <translation type="unfinished">Verkeerde btw-percentage (verbeterd).</translation>
     </message>
 </context>
 <context>
     <name>kernel/state</name>
     <message>
         <source>State</source>
-        <translation type="obsolete">Staat</translation>
+        <translation type="unfinished">Staat</translation>
     </message>
     <message>
         <source>Assign</source>
-        <translation type="obsolete">Toewijzen</translation>
+        <translation type="unfinished">Toewijzen</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">Bewerken</translation>
+        <translation type="unfinished">Bewerken</translation>
     </message>
     <message>
         <source>Groups</source>
-        <translation type="obsolete">Groepen</translation>
+        <translation type="unfinished">Groepen</translation>
     </message>
     <message>
         <source>New group</source>
-        <translation type="obsolete">Nieuwe groep</translation>
+        <translation type="unfinished">Nieuwe groep</translation>
     </message>
     <message>
         <source>Group edit</source>
-        <translation type="obsolete">Bewerk groep</translation>
+        <translation type="unfinished">Bewerk groep</translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kernel/state/edit</name>
+    <message>
+        <source>Identifier: input required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: invalid, it can only consist of characters in the range a-z, 0-9 and underscore.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: invalid, maximum %max characters allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: a content object state group with this identifier already exists, please give another identifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%language_name: this language is the default but neither name or description were provided for this language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations: you need to add at least one localization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations: there are multiple localizations but you did not specify which is the default one</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: identifiers starting with &quot;ez&quot; are reserved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name in %language_name is too long. Maximum 45 characters allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name in %language_name: input required</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/trigger</name>
     <message>
         <source>Trigger</source>
-        <translation type="obsolete">Trigger</translation>
+        <translation type="unfinished">Trigger</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">Lijst</translation>
+        <translation type="unfinished">Lijst</translation>
     </message>
 </context>
 <context>
     <name>kernel/url</name>
     <message>
         <source>URL</source>
-        <translation type="obsolete">URL </translation>
+        <translation type="unfinished">URL </translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">Lijst</translation>
+        <translation type="unfinished">Lijst</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">Bekijken</translation>
+        <translation type="unfinished">Bekijken</translation>
     </message>
     <message>
         <source>URL edit</source>
-        <translation type="obsolete">URL bewerking</translation>
+        <translation type="unfinished">URL bewerking</translation>
     </message>
 </context>
 <context>
     <name>kernel/user</name>
     <message>
         <source>User</source>
-        <translation type="obsolete">Gebruiker</translation>
+        <translation type="unfinished">Gebruiker</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="obsolete">Login</translation>
+        <translation type="unfinished">Login</translation>
     </message>
     <message>
         <source>Change password</source>
-        <translation type="obsolete">Wachtwoord veranderen</translation>
+        <translation type="unfinished">Wachtwoord veranderen</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="obsolete">Registreren</translation>
+        <translation type="unfinished">Registreren</translation>
     </message>
     <message>
         <source>Forgot password</source>
-        <translation type="obsolete">Wachwoord vergeten</translation>
+        <translation type="unfinished">Wachwoord vergeten</translation>
     </message>
     <message>
         <source>User profile</source>
-        <translation type="obsolete">Gebruikersprofiel</translation>
+        <translation type="unfinished">Gebruikersprofiel</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="obsolete">Instelling</translation>
+        <translation type="unfinished">Instelling</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="obsolete">Activeer</translation>
+        <translation type="unfinished">Activeer</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="obsolete">Succes</translation>
+        <translation type="unfinished">Succes</translation>
     </message>
 </context>
 <context>
     <name>kernel/user/register</name>
     <message>
         <source>Registration info</source>
-        <translation type="obsolete">Registratieinformatie</translation>
+        <translation type="unfinished">Registratieinformatie</translation>
     </message>
     <message>
         <source>New user registered</source>
-        <translation type="obsolete">Nieuwe gebruiker geregistreerd</translation>
+        <translation type="unfinished">Nieuwe gebruiker geregistreerd</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow</name>
     <message>
         <source>Edit workflow</source>
-        <translation type="obsolete">Bewerk workflow</translation>
+        <translation type="unfinished">Bewerk workflow</translation>
     </message>
     <message>
         <source>Workflow</source>
-        <translation type="obsolete">Workflow</translation>
+        <translation type="unfinished">Workflow</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">Bewerken</translation>
+        <translation type="unfinished">Bewerken</translation>
     </message>
     <message>
         <source>Edit workflow group</source>
-        <translation type="obsolete">Bewerk workflowgroep</translation>
+        <translation type="unfinished">Bewerk workflowgroep</translation>
     </message>
     <message>
         <source>Group edit</source>
-        <translation type="obsolete">Bewerk groep</translation>
+        <translation type="unfinished">Bewerk groep</translation>
     </message>
     <message>
         <source>Workflow group list</source>
-        <translation type="obsolete">Workflow groepslijst</translation>
+        <translation type="unfinished">Workflow groepslijst</translation>
     </message>
     <message>
         <source>Group list</source>
-        <translation type="obsolete">Groepenlijst</translation>
+        <translation type="unfinished">Groepenlijst</translation>
     </message>
     <message>
         <source>Workflow list</source>
-        <translation type="obsolete">Workflowlijst</translation>
+        <translation type="unfinished">Workflowlijst</translation>
     </message>
     <message>
         <source>Workflow list of group</source>
-        <translation type="obsolete">Workflow groepslijst</translation>
+        <translation type="unfinished">Workflow groepslijst</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">Bekijken</translation>
+        <translation type="unfinished">Bekijken</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">Bekijken
+        <translation type="unfinished">Bekijken
 </translation>
     </message>
     <message>
         <source>You have to have at least one group that the workflow belongs to!</source>
-        <translation type="obsolete">U dient in ieder geval de workflow in één groep te plaatsen!</translation>
+        <translation type="unfinished">U dient in ieder geval de workflow in één groep te plaatsen!</translation>
     </message>
     <message>
         <source>Process list</source>
-        <translation type="obsolete">Proceslijst</translation>
+        <translation type="unfinished">Proceslijst</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/edit</name>
     <message>
         <source>New Workflow</source>
-        <translation type="obsolete">Nieuwe workflow</translation>
+        <translation type="unfinished">Nieuwe workflow</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/event</name>
     <message>
         <source>Event</source>
-        <translation type="obsolete">Event</translation>
+        <translation type="unfinished">Event</translation>
     </message>
     <message>
         <source>Approve</source>
-        <translation type="obsolete">Goedkeuren</translation>
+        <translation type="unfinished">Goedkeuren</translation>
     </message>
     <message>
         <source>Multiplexer</source>
-        <translation type="obsolete">Mutliplexer</translation>
+        <translation type="unfinished">Mutliplexer</translation>
     </message>
     <message>
         <source>Simple shipping</source>
-        <translation type="obsolete">Eenvoudige verzending</translation>
+        <translation type="unfinished">Eenvoudige verzending</translation>
     </message>
     <message>
         <source>Wait until date</source>
-        <translation type="obsolete">Wacht tot datum</translation>
+        <translation type="unfinished">Wacht tot datum</translation>
     </message>
     <message>
         <source>Payment Gateway</source>
-        <translation type="obsolete">Betaal gateway</translation>
+        <translation type="unfinished">Betaal gateway</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/group</name>
     <message>
         <source>Group</source>
-        <translation type="obsolete">Groep</translation>
+        <translation type="unfinished">Groep</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/groupedit</name>
     <message>
         <source>New WorkflowGroup</source>
-        <translation type="obsolete">Nieuwe workflowgroep</translation>
+        <translation type="unfinished">Nieuwe workflowgroep</translation>
     </message>
 </context>
 <context>
@@ -27733,62 +28124,62 @@ indien u optie &quot;%3&quot; tot &quot;%4&quot; koos</translation>
     <message>
         <source>Contents</source>
         <comment>Table of contents</comment>
-        <translation type="obsolete">Inhoudsopgave</translation>
+        <translation type="unfinished">Inhoudsopgave</translation>
     </message>
     <message>
         <source>Index</source>
         <comment>Keyword index name</comment>
-        <translation type="obsolete">Index</translation>
+        <translation type="unfinished">Index</translation>
     </message>
 </context>
 <context>
     <name>lib/eztemplate</name>
     <message>
         <source>Some template errors occurred, see debug for more information.</source>
-        <translation type="obsolete">Enkele sjabloonfouten traden op. Zie fouten opsporen voor meer informatie.</translation>
+        <translation type="unfinished">Enkele sjabloonfouten traden op. Zie fouten opsporen voor meer informatie.</translation>
     </message>
 </context>
 <context>
     <name>lib/template</name>
     <message>
         <source>The maximum nesting level of %max has been reached. The execution is stopped to avoid infinite recursion.</source>
-        <translation type="obsolete">Het maximum nestingniveau van %max werd bereikt. De uitvoering werd gestopt om een oneindige recursie te vermijden.</translation>
+        <translation type="unfinished">Het maximum nestingniveau van %max werd bereikt. De uitvoering werd gestopt om een oneindige recursie te vermijden.</translation>
     </message>
 </context>
 <context>
     <name>pdf/edit</name>
     <message>
         <source>PDF Export</source>
-        <translation type="obsolete">Exporteer PDF</translation>
+        <translation type="unfinished">Exporteer PDF</translation>
     </message>
 </context>
 <context>
     <name>settings/edit</name>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">Instellingen</translation>
+        <translation type="unfinished">Instellingen</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">Bewerken</translation>
+        <translation type="unfinished">Bewerken</translation>
     </message>
 </context>
 <context>
     <name>settings/view</name>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">Instellingen</translation>
+        <translation type="unfinished">Instellingen</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">Bekijken</translation>
+        <translation type="unfinished">Bekijken</translation>
     </message>
 </context>
 <context>
     <name>shop</name>
     <message>
         <source>Remove orders</source>
-        <translation type="obsolete">Orders verwijderen</translation>
+        <translation type="unfinished">Orders verwijderen</translation>
     </message>
 </context>
 <context>

@@ -1,4 +1,6 @@
-<!DOCTYPE TS><TS>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0">
 <context>
     <name>contentstructuremenu/show_content_structure</name>
     <message>
@@ -10,15 +12,15 @@
     <name>design</name>
     <message>
         <source>%group_name [Content object state group]</source>
-        <translation>%group_name [Grupo de estado de conteúdo]</translation>
+        <translation type="unfinished">%group_name [Grupo de estado de conteúdo]</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Editar</translation>
+        <translation type="unfinished">Editar</translation>
     </message>
     <message>
         <source>%state_name [Content object state]</source>
-        <translation>%state_name [Estado de conteúdo]</translation>
+        <translation type="unfinished">%state_name [Estado de conteúdo]</translation>
     </message>
 </context>
 <context>
@@ -116,8 +118,8 @@
         <translation>Criar uma nova classe dentro do grupo de classes &lt;%class_group_name&gt;.</translation>
     </message>
     <message>
-        <source>Use this menu to select the language you to want use then click the &quot;New class&quot; button. The item will be created within the current location.</source>
-        <translation>Use esse menu para selecionar o idioma que você deseja utilizar, em seguida, clique no botão &quot;Novo tipo de conteúdo&quot;. O item será criado dentro da localização atual.</translation>
+        <source>Use this menu to select the language you want use and click the &quot;New class&quot; button. The item will be created within the current location.</source>
+        <translation type="obsolete">Use esse menu para selecionar o idioma que você deseja utilizar, em seguida, clique no botão &quot;Nova classe&quot;. O item será criado dentro da localização atual.</translation>
     </message>
     <message>
         <source>List of classes inside %group_name class group [%class_count]</source>
@@ -139,6 +141,10 @@
         <translation>Escolha o nó para seleção padrão</translation>
     </message>
     <message>
+        <source>Select the item that you want to be the default selection and click &quot;OK&quot;.</source>
+        <translation type="obsolete">Selecione o item que se você deseja ser a seleção padrão e clique &quot;OK&quot;.</translation>
+    </message>
+    <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
         <translation>Navegue utilizando as abas (acima), o menu em árvore (esquerda) e a lista de conteúdo (meio).</translation>
     </message>
@@ -152,6 +158,10 @@
     <message>
         <source>Choose initial location</source>
         <translation>Escolha o local de início</translation>
+    </message>
+    <message>
+        <source>Select the location that should be the default location and click &quot;OK&quot;.</source>
+        <translation type="obsolete">Selecione o local que deve ser o local padrão e clique &quot;OK&quot;.</translation>
     </message>
     <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
@@ -250,7 +260,23 @@
     </message>
     <message>
         <source>Use this field to set the informal name of the class. The name field can contain whitespaces and special characters.</source>
-        <translation>Use este campo para definir o nome informal do tipo de conteúdo. O campo nome pode conter espaços em branco e caracteres especiais.</translation>
+        <translation>Use este campo para definir o nome informal da classe. O campo nome pode conter espaços em branco e caracteres especiais.</translation>
+    </message>
+    <message>
+        <source>Use this field to set the internal name of the class. The identifier will be used in templates and in PHP code. Allowed characters: letters, numbers and underscore.</source>
+        <translation type="obsolete">Use este campo para definir o nome interno da classe. O identificador será utilizado em modelos e no código PHP. Caracteres permitidos: letras, números e sublinhado.</translation>
+    </message>
+    <message>
+        <source>Use this field to configure how the name of the objects are generated (also applies to nice URLs). Type in the identifiers of the attributes that should be used. The identifiers must be enclosed in angle brackets. Text outside angle brackets will be included as is.</source>
+        <translation type="obsolete">Use este campo para configurar como o nome dos objetos são gerados (também se aplica às URLs elegantes). Digite os identificadores dos atributos que devem ser usados. Os identificadors devem estar entre os sinais menor que e maior que. O texto fora destes sinais é incluído como se encontra.</translation>
+    </message>
+    <message>
+        <source>Use this checkbox to allow instances of the class to have sub items. If checked, it will be possible to create new sub-items. If not checked, the sub items will not be displayed.</source>
+        <translation type="obsolete">Use esta caixa de seleção para permitir às instâncias da classe terem sub-itens. Quando marcado, é possível criar sub-itens. Se não estiver marcado, os sub-itens não serão mostrados.</translation>
+    </message>
+    <message>
+        <source>Select attribute for removal. Click the &quot;Remove selected attributes&quot; button to actually remove the selected attributes.</source>
+        <translation type="obsolete">Selecione os atributos a serem removidos. Clique no botão &quot;Remover os atributos selecionados&quot; para remover realmente os atributos selecionados.</translation>
     </message>
     <message>
         <source>Use the order buttons to set the order of the class attributes. The up arrow moves the attribute one place up. The down arrow moves the attribute one place down.</source>
@@ -261,8 +287,28 @@
         <translation>Use este campo para definir o nome informal do atributo. Este campo pode conter espaços em branco e caracteres especiais.</translation>
     </message>
     <message>
+        <source>Use this field to set the internal name of the attribute. The identifier will be used in templates and in PHP code. Allowed characters: letters, numbers and underscore.</source>
+        <translation type="obsolete">Use este campo para definir o nome interno do atributo. O identificador será utilizado em modelos e no código PHP. Caracteres permitidos: letras, números e sublinhado.</translation>
+    </message>
+    <message>
+        <source>Use this checkbox to control if the user should be forced to enter information into the attribute.</source>
+        <translation type="obsolete">Use esta caixa de seleção para controlar se o usuário é obrigado a fornecer informação para o atributo.</translation>
+    </message>
+    <message>
+        <source>Use this checkbox to control if the contents of the attribute should be indexed by the search engine.</source>
+        <translation type="obsolete">Use esta caixa de seleção para controlar se o conteúdo do atributo deve ser indexado pela sistema de pesquisa.</translation>
+    </message>
+    <message>
         <source>The &lt;%datatype_name&gt; datatype does not support search indexing.</source>
         <translation>O tipo de dado &lt;%datatype_name&gt; não suporta indexação de pesquisa.</translation>
+    </message>
+    <message>
+        <source>Use this checkbox to control if the attribute should collect input from users.</source>
+        <translation type="obsolete">Use esta caixa de seleção para controlar se o atributo deve coletar modificações feitas por usuários.</translation>
+    </message>
+    <message>
+        <source>The &lt;%datatype_name&gt; datatype can not be used as an information collector.</source>
+        <translation type="obsolete">O tipo de dado &lt;%datatype_name&gt; não pode ser utilizado como um coletor de informações.</translation>
     </message>
     <message>
         <source>Use this checkbox for attributes that contain non-translatable content.</source>
@@ -287,6 +333,10 @@
     <message>
         <source>Discard all changes and exit from edit mode.</source>
         <translation>Rejeitar todas as modificações e sair do modo de edição.</translation>
+    </message>
+    <message>
+        <source>The class definition contains the following errors:</source>
+        <translation type="obsolete">A definição da classe contém os seguintes erros:</translation>
     </message>
     <message>
         <source>The class definition contains the following errors</source>
@@ -400,6 +450,10 @@
         <source>Edit &lt;%class_name&gt; (%object_count)</source>
         <translation>Editar &lt;%class_name&gt; (%object_count)</translation>
     </message>
+    <message>
+        <source>The draft of the class definition was successfully stored.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/class/edit_denied</name>
@@ -410,6 +464,10 @@
     <message>
         <source>This class is already being edited by someone else.</source>
         <translation>Este tipo de conteúdo está sendo editado por outra pessoa.</translation>
+    </message>
+    <message>
+        <source>The class is temporarly locked and thus it can not be edited by you.</source>
+        <translation type="obsolete">A classe está temporariamente bloqueada e, portanto, não pode ser editada por você.</translation>
     </message>
     <message>
         <source>Possible actions</source>
@@ -438,6 +496,10 @@
     <message>
         <source>Unlock time</source>
         <translation>Tempo de desbloqueio</translation>
+    </message>
+    <message>
+        <source>The class will be available for editing once it has been stored by the current modifier or when it is unlocked by the system.</source>
+        <translation type="obsolete">A classe estará disponível para edição assim que for salva por quem está modificando atualmente, ou quando for desbloqueada pelo sistema.</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -546,7 +608,11 @@
     </message>
     <message>
         <source>Edit the &lt;%class_name&gt; class.</source>
-        <translation>Editar tipo de conteúdo &lt;%class_name&gt;.</translation>
+        <translation>Editar a classe &lt;%class_name&gt;.</translation>
+    </message>
+    <message>
+        <source>Class groups (%group_count)</source>
+        <translation>Grupos de classes (%group_count)</translation>
     </message>
     <message>
         <source>List of class groups</source>
@@ -588,12 +654,24 @@
         <translation>Tem certeza que deseja remover os tipos de conteúdo?</translation>
     </message>
     <message>
+        <source>You do not have permissions to remove classes.</source>
+        <translation type="obsolete">Você não tem permissão para remover classes.</translation>
+    </message>
+    <message>
         <source>The %1 class was already removed from the group but still exists in other groups.</source>
         <translation>O tipo de conteúdo %1 já foi removido do grupo mas ainda existe em outros grupos.</translation>
     </message>
     <message>
         <source>The %1 classes were already removed from the group but still exist in other groups.</source>
-        <translation>Os tipos de conteúdo %1 já foram removidos do grupo mas ainda existem em outros grupos.</translation>
+        <translation>As classes %1 já foram removidas do grupo mas ainda existem em outros grupos.</translation>
+    </message>
+    <message>
+        <source>Removing class &lt;%1&gt; will result in the removal of %2 object.</source>
+        <translation type="obsolete">A remoção da classe &lt;%1&gt; resultará na remoção do objeto %2.</translation>
+    </message>
+    <message>
+        <source>Removing class &lt;%1&gt; will result in the removal of %2 objects.</source>
+        <translation type="obsolete">A remoção da classe &lt;%1&gt; resultará na remoção dos objetos %2.</translation>
     </message>
     <message>
         <source>You do not have permission to remove classes.</source>
@@ -824,7 +902,11 @@
     </message>
     <message>
         <source>Remove the &lt;%class_name&gt; class from the selected class groups.</source>
-        <translation>Remover o tipo de conteúdo &lt;%class_name&gt; dos grupos selecionados.</translation>
+        <translation>Remover a classe &lt;%class_name&gt; dos grupos de classes selecionados.</translation>
+    </message>
+    <message>
+        <source>Select a group which the &lt;%class_name&gt; class should be added to.</source>
+        <translation type="obsolete">Selecione o grupo que a classe &lt;%class_name&gt; deve ser adicionada.</translation>
     </message>
     <message>
         <source>Add to class group</source>
@@ -1022,6 +1104,14 @@
         <source>Translations (%translations)</source>
         <translation>Traduções (%translations)</translation>
     </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Descrição</translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/collaboration</name>
@@ -1063,6 +1153,10 @@
         <translation>O objeto de conteúdo %1 aguarda aprovação antes que possa ser publicado.</translation>
     </message>
     <message>
+        <source>If you wish you may send a message to the person approving it?</source>
+        <translation type="obsolete">Deseja enviar uma mensagem à pessoa responsável pela aprovação?</translation>
+    </message>
+    <message>
         <source>The content object %1 needs your approval before it can be published.</source>
         <translation>O objeto de conteúdo %1 necessita da sua aprovação antes que possa ser publicado.</translation>
     </message>
@@ -1071,12 +1165,28 @@
         <translation>Você aprova o objeto de conteúdo sendo publicado?</translation>
     </message>
     <message>
+        <source>The content object %1 was approved and will be published once the publishing workflow continues.</source>
+        <translation type="obsolete">O objeto de conteúdo %1 foi aprovado e será publicado assim que o workflow de publicação continuar.</translation>
+    </message>
+    <message>
+        <source>The content object %1 was not accepted but is available as a draft again.</source>
+        <translation type="obsolete">O objeto de conteúdo %1 não foi aceito mas encontra-se disponível novamente como rascunho.</translation>
+    </message>
+    <message>
+        <source>You may reedit the draft and publish it, in which case an approval is required again.</source>
+        <translation type="obsolete">Você pode editar novamente o rascunho e publicá-lo. Neste caso é necessária uma nova aprovação.</translation>
+    </message>
+    <message>
         <source>Edit the object</source>
         <translation>Editar o objeto</translation>
     </message>
     <message>
         <source>The content object %1 was not accepted but will be available as a draft for the author.</source>
         <translation>O objeto de conteúdo %1 não foi aceito mas ficará disponível como rascunho para o autor.</translation>
+    </message>
+    <message>
+        <source>The author can reedit the draft and publish it again, in which a new approval item is made.</source>
+        <translation type="obsolete">O autor pode reeditar o rascunho e publicá-lo novamente. Neste caso um novo item para aprovação é criado.</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -1193,6 +1303,13 @@
     </message>
 </context>
 <context>
+    <name>design/admin/collaboration/view/list</name>
+    <message>
+        <source>Group tree for &apos;%1&apos;</source>
+        <translation type="obsolete">Árvore de grupos para &apos;%1&apos;</translation>
+    </message>
+</context>
+<context>
     <name>design/admin/collaboration/view/summary</name>
     <message>
         <source>Item list</source>
@@ -1250,6 +1367,10 @@
         <translation>Editar &lt;%bookmark_name&gt;.</translation>
     </message>
     <message>
+        <source>You do not have permissions to edit the contents of &lt;%bookmark_name&gt;.</source>
+        <translation type="obsolete">Você não tem permissão para editar o conteúdo de &lt;%bookmark_name&gt;.</translation>
+    </message>
+    <message>
         <source>Remove selected bookmarks.</source>
         <translation>Remover os favoritos selecionados.</translation>
     </message>
@@ -1285,6 +1406,14 @@
         <translation>Nível superior</translation>
     </message>
     <message>
+        <source>To select objects, choose the appropriate radiobutton or checkbox(es), and click the &quot;Choose&quot; button.</source>
+        <translation type="obsolete">Para selecionar objetos, escolha os botão de opção ou caixas de seleção apropriadas, e clique no botão &quot;Escolher&quot;.</translation>
+    </message>
+    <message>
+        <source>To select an object that is a child of one of the displayed objects, click the object name and you will get a list of the children of the object.</source>
+        <translation type="obsolete">Para selecionar um objeto que é filho de um dos objetos mostrados, clique no nome do objeto e será mostrada uma lista dos filhos do objeto.</translation>
+    </message>
+    <message>
         <source>Back</source>
         <translation>Voltar</translation>
     </message>
@@ -1295,6 +1424,10 @@
     <message>
         <source>Type</source>
         <translation>Tipo</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="obsolete">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1348,6 +1481,10 @@
         <translation>Escolha os itens para adicionar aos favoritos</translation>
     </message>
     <message>
+        <source>Select the items that you want to bookmark using the checkboxes and click &quot;OK&quot;.</source>
+        <translation type="obsolete">Escolha os itens que deseja colocar nos favoritos usando as caixas de seleção e clique &quot;OK&quot;.</translation>
+    </message>
+    <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
         <translation>Navegue utilizando as abas (acima), o menu em árvore (esquerda) e a lista de conteúdo (meio).</translation>
     </message>
@@ -1358,6 +1495,14 @@
 </context>
 <context>
     <name>design/admin/content/browse_copy_node</name>
+    <message>
+        <source>Choose location for copy of &lt;%object_name&gt;</source>
+        <translation type="obsolete">Escolha o local para a cópia de &lt;%object_name&gt;</translation>
+    </message>
+    <message>
+        <source>Choose a new location the copy of &lt;%object_name&gt; using the radio buttons and click &quot;OK&quot;.</source>
+        <translation type="obsolete">Escolha um novo local para a cópia de &lt;%object_name&gt; usando os botões de opção e clique &quot;OK&quot;.</translation>
+    </message>
     <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
         <translation>Navegue utilizando as abas (acima), o menu em árvore (esquerda) e a lista de conteúdo (meio).</translation>
@@ -1386,6 +1531,10 @@
         <translation>Escolha o nó de exportação</translation>
     </message>
     <message>
+        <source>Select the item that you want to export using the checkboxes and click &quot;OK&quot;.</source>
+        <translation type="obsolete">Escolha o item que deseja exportar usando as caixas de seleção e clique &quot;OK&quot;.</translation>
+    </message>
+    <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
         <translation>Navegue utilizando as abas (acima), o menu em árvore (esquerda) e a lista de conteúdo (meio).</translation>
     </message>
@@ -1398,7 +1547,11 @@
     <name>design/admin/content/browse_first_placement</name>
     <message>
         <source>Choose location for new &lt;%classname&gt;</source>
-        <translation>Escolha o local para o novo tipo de conteúdo &lt;%classname&gt;</translation>
+        <translation>Escolha o local para a nova classe &lt;%classname&gt;</translation>
+    </message>
+    <message>
+        <source>Choose a location for the new &lt;%classname&gt; using the radiobuttons and click &quot;OK&quot;.</source>
+        <translation type="obsolete">Escolha o local para a nova classe &lt;%classname&gt; usando os botões de opção e clique &quot;OK&quot;.</translation>
     </message>
     <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
@@ -1412,12 +1565,24 @@
 <context>
     <name>design/admin/content/browse_move_node</name>
     <message>
+        <source>Choose location for copy of &lt;%object_name&gt;</source>
+        <translation type="obsolete">Escolha o local para a cópia de &lt;%object_name&gt;</translation>
+    </message>
+    <message>
+        <source>Choose a new location the copy of &lt;%object_name&gt; using the radio buttons and click &quot;OK&quot;.</source>
+        <translation type="obsolete">Escolha o local para a cópia de &lt;%object_name&gt; usando os botões de opção e clique &quot;OK&quot;.</translation>
+    </message>
+    <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
         <translation>Navegue utilizando as abas (acima), o menu em árvore (esquerda) e a lista de conteúdo (meio).</translation>
     </message>
     <message>
         <source>Choose a new location for &lt;%object_name&gt;</source>
         <translation>Escolha o novo local para &lt;%object_name&gt;</translation>
+    </message>
+    <message>
+        <source>Choose a new location for &lt;%object_name&gt; using the radio buttons and click &quot;OK&quot;.</source>
+        <translation type="obsolete">Escolha o novo local para &lt;%object_name&gt; usando os botões de opção e clique &quot;OK&quot;.</translation>
     </message>
     <message>
         <source>Choose a new location for &lt;%object_name&gt; using the radio buttons then click &quot;Select&quot;.</source>
@@ -1429,6 +1594,10 @@
     <message>
         <source>Choose a new location for &lt;%version_name&gt;</source>
         <translation>Escolha o novo local para &lt;%version_name&gt;</translation>
+    </message>
+    <message>
+        <source>Choose a new location for &lt;%version_name&gt; using the radio buttons and click &quot;OK&quot;.</source>
+        <translation type="obsolete">Escolha o novo local para &lt;%version_name&gt; usando os botões de opção e clique &quot;OK&quot;.</translation>
     </message>
     <message>
         <source>The previous location was &lt;%previous_location&gt;.</source>
@@ -1450,6 +1619,10 @@
         <translation>Escolha os locais para &lt;%version_name&gt;</translation>
     </message>
     <message>
+        <source>Choose locations for &lt;%version_name&gt; using the checkboxes and click &quot;OK&quot;.</source>
+        <translation type="obsolete">Escolha os locais para &lt;%version_name&gt;  usando os botões de opção e clique &quot;OK&quot;.</translation>
+    </message>
+    <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
         <translation>Navegue utilizando as abas (acima), o menu em árvore (esquerda) e a lista de conteúdo (meio).</translation>
     </message>
@@ -1460,6 +1633,14 @@
 </context>
 <context>
     <name>design/admin/content/browse_related</name>
+    <message>
+        <source>Choose objects that you wish to relate to &lt;%version_name&gt;</source>
+        <translation type="obsolete">Escolha os objetos que deseja relacionar com &lt;%version_name&gt;</translation>
+    </message>
+    <message>
+        <source>Use the checkboxes to choose the objects that you wish to relate to &lt;%version_name&gt;.</source>
+        <translation type="obsolete">Use as caixas de seleção para escolher os objetos que deseja relacionar com &lt;%version_name&gt;.</translation>
+    </message>
     <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
         <translation>Navegue utilizando as abas (acima), o menu em árvore (esquerda) e a lista de conteúdo (meio).</translation>
@@ -1475,6 +1656,14 @@
 </context>
 <context>
     <name>design/admin/content/browse_swap_node</name>
+    <message>
+        <source>Choose the exchanging node for &lt;%object_name&gt;</source>
+        <translation type="obsolete">Escolha a modificação de nó para &lt;%object_name&gt; </translation>
+    </message>
+    <message>
+        <source>Use the radio buttons to choose the node with which you want to swap &lt;%object_name&gt;.</source>
+        <translation type="obsolete">Use os botões de opção para escolher o nó com o qual você quer trocar &lt;%object_name&gt;.</translation>
+    </message>
     <message>
         <source>Navigate using the available tabs (above), the tree menu (left) and the content list (middle).</source>
         <translation>Navegue utilizando as abas (acima), o menu em árvore (esquerda) e a lista de conteúdo (meio).</translation>
@@ -1506,6 +1695,14 @@
         <translation>Feedback para %feedbackname</translation>
     </message>
     <message>
+        <source>You have already submitted data to this feedback. The previously submitted data was the following.</source>
+        <translation type="obsolete">Você já submeteu os dados para este feedback. Os dados submetidos anteriormente foram os seguintes.</translation>
+    </message>
+    <message>
+        <source>Thanks for your feedback, the following information was collected.</source>
+        <translation type="obsolete">Obrigada por seu feedback, a informação seguinte foi coletada.</translation>
+    </message>
+    <message>
         <source>Return to site</source>
         <translation>Voltar ao site</translation>
     </message>
@@ -1529,6 +1726,10 @@
         <translation>Informação coletada</translation>
     </message>
     <message>
+        <source>You have already submitted data to this form. The previously submitted data was the following.</source>
+        <translation type="obsolete">Você já submeteu os dados deste formulário. Os dados submetidos anteriormente foram os seguintes.</translation>
+    </message>
+    <message>
         <source>Back</source>
         <translation>Voltar</translation>
     </message>
@@ -1542,6 +1743,14 @@
     <message>
         <source>Poll %pollname</source>
         <translation>Enquete %pollname</translation>
+    </message>
+    <message>
+        <source>Anonymous users are not allowed to vote on this poll, please login.</source>
+        <translation type="obsolete">Não é permitido aos usuários anônimos votarem nesta enquete, por favor se conecte.</translation>
+    </message>
+    <message>
+        <source>You have already voted for this poll.</source>
+        <translation type="obsolete">Você já votou nesta enquete.</translation>
     </message>
     <message>
         <source>Poll results</source>
@@ -1623,9 +1832,41 @@
         <source>No media file is available.</source>
         <translation>Nenhum arquivo de mídia disponível.</translation>
     </message>
+    <message>
+        <source>Year</source>
+        <translation type="unfinished">Ano</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation type="unfinished">Mês</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation type="unfinished">Dia</translation>
+    </message>
+    <message>
+        <source>Hour</source>
+        <translation type="unfinished">Hora</translation>
+    </message>
+    <message>
+        <source>Minute</source>
+        <translation type="unfinished">Minuto</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/content/datatype/ezuser</name>
+    <message>
+        <source>User ID</source>
+        <translation type="obsolete">ID de usuário</translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation type="obsolete">Nome de usuário</translation>
+    </message>
+    <message>
+        <source>E-mail</source>
+        <translation type="obsolete">E-Mail</translation>
+    </message>
     <message>
         <source>Account status</source>
         <translation>Status da conta</translation>
@@ -1800,6 +2041,10 @@
         <translation>Enviar para publicação</translation>
     </message>
     <message>
+        <source>Publish the contents of the draft that is being edited. The draft will thus become the published version of the object.</source>
+        <translation type="obsolete">Publicar o conteúdo do rascunho que está sendo editado. O rascunho, portanto, se tornará versão publicada do objeto.</translation>
+    </message>
+    <message>
         <source>Store draft</source>
         <translation>Salvar o rascunho</translation>
     </message>
@@ -1830,6 +2075,14 @@
     <message>
         <source>Name</source>
         <translation>Nome</translation>
+    </message>
+    <message>
+        <source>Class Identifier</source>
+        <translation type="obsolete">Identificador de classe</translation>
+    </message>
+    <message>
+        <source>Class Name</source>
+        <translation type="obsolete">Nome de classe</translation>
     </message>
     <message>
         <source>Priority</source>
@@ -1868,8 +2121,20 @@
         <translation>Princ.</translation>
     </message>
     <message>
+        <source>You do not have permissions to remove this location.</source>
+        <translation type="obsolete">Você não tem permissão para remover este local.</translation>
+    </message>
+    <message>
         <source>Select location for removal.</source>
         <translation>Selecione o local a ser removido.</translation>
+    </message>
+    <message>
+        <source>Use this menu to set the sorting method for the sub items of the respective location.</source>
+        <translation type="obsolete">Use este menu para definir o método de classificação para os sub-itens do respectivo local.</translation>
+    </message>
+    <message>
+        <source>Use this menu to set the sorting direction for the sub items of the respective location.</source>
+        <translation type="obsolete">Use este menu para definir a direção de classificação dos sub-itens do respectivo local.</translation>
     </message>
     <message>
         <source>Desc.</source>
@@ -1920,6 +2185,10 @@
         <translation>Adicionar um ou mais locais para o objeto sendo editado.</translation>
     </message>
     <message>
+        <source>You can not add or remove locations because the object being edited belongs to a top node.</source>
+        <translation type="obsolete">Não é possível adicionar ou remover locais porque o objeto sendo editado pertence ao nó superior.</translation>
+    </message>
+    <message>
         <source>Object information</source>
         <translation>Informações do objeto</translation>
     </message>
@@ -1948,6 +2217,10 @@
         <translation>Visualizar e gerenciar (copiar, excluir, etc.) as versões deste objeto.</translation>
     </message>
     <message>
+        <source>You can not manage the versions of this object because there is only one version available (the one that is being edited).</source>
+        <translation type="obsolete">Não é possível gerenciar as versões deste objeto porque somente existe uma versão disponível (a que está sendo editada).</translation>
+    </message>
+    <message>
         <source>Current draft</source>
         <translation>Rascunho atual</translation>
     </message>
@@ -1972,8 +2245,40 @@
         <translation>Salvar o rascunho que está sendo editado e sair do modo de edição.</translation>
     </message>
     <message>
+        <source>Translations [%translation_count]</source>
+        <translation type="obsolete">Traduções [%translation_count]</translation>
+    </message>
+    <message>
+        <source>%1 (No locale information available)</source>
+        <translation type="obsolete">%1 (Nenhuma informação de localização disponível)</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="obsolete">Editar</translation>
+    </message>
+    <message>
+        <source>Edit the selected translation of the draft that is being edited.</source>
+        <translation type="obsolete">Editar a tradução selecionada do rascunho que está sendo editado.</translation>
+    </message>
+    <message>
         <source>Translate</source>
         <translation>Traduzir</translation>
+    </message>
+    <message>
+        <source>Edit the selected translation of the draft using the content being edited as a reference.</source>
+        <translation type="obsolete">Editar a tradução selecionada do rascunho usando o conteúdo sendo editado como referência.</translation>
+    </message>
+    <message>
+        <source>The draft that is being edited only exists in one language; thus this button is disabled.</source>
+        <translation type="obsolete">O rascunho que está sendo editado somente existe em uma linguagem; portanto o botão está desabilitado.</translation>
+    </message>
+    <message>
+        <source>Manage translations</source>
+        <translation type="obsolete">Gerenciar traduções</translation>
+    </message>
+    <message>
+        <source>View and manage (add/remove) translations for the draft that is being edited.</source>
+        <translation type="obsolete">Visualizar e gerenciar (adicionar/remover) traduções para o rascunho que está sendo editado.</translation>
     </message>
     <message>
         <source>Related objects [%related_objects]</source>
@@ -1982,6 +2287,10 @@
     <message>
         <source>Related images [%related_images]</source>
         <translation>Imagens relacionadas [%related_images]</translation>
+    </message>
+    <message>
+        <source>Copy this code and paste it into an XML field.</source>
+        <translation type="obsolete">Copiar este código e colar em um campo XML.</translation>
     </message>
     <message>
         <source>Related files [%related_files]</source>
@@ -2196,6 +2505,10 @@
         <translation>Locais (%locations)</translation>
     </message>
     <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Existing translations</source>
         <translation>Traduções existentes</translation>
     </message>
@@ -2330,6 +2643,14 @@
         <translation>Selecione a versão de rascunho #%version para editar.</translation>
     </message>
     <message>
+        <source>You can not select draft version #%version for editing because it belongs to another user. Please select a draft that belongs to you or create a new draft and then edit it.</source>
+        <translation type="obsolete">Você não pode selecionar a versão de rascunho #%version para editar porque esta pertence a outro autor. Por favor selecione um rascunho que lhe pertença ou crie um novo rascunho e edite-o.</translation>
+    </message>
+    <message>
+        <source>View the contents of version #%version. Default translation: %default_translation.</source>
+        <translation type="obsolete">Visualizar o conteúdo da versão #%version. Tradução padrão: %default_translation.</translation>
+    </message>
+    <message>
         <source>View the contents of version #%version_number. Translation: %translation.</source>
         <translation>Visualizar o conteúdo da versão #%version_number. Tradução: %translation.</translation>
     </message>
@@ -2342,8 +2663,16 @@
         <translation>Editar o rascunho selecionado.</translation>
     </message>
     <message>
+        <source>You can not edit any of the drafts because none of them belong to you. Hint: Create a new draft, select it and edit it.</source>
+        <translation type="obsolete">Você não pode editar nenhum dos rascunhos porque nenhum deles pertence a você. Dica: Crie um novo rascunho, selecione e edite-o.</translation>
+    </message>
+    <message>
         <source>New draft</source>
         <translation>Novo rascunho</translation>
+    </message>
+    <message>
+        <source>Create a new draft. The contents of the new draft will copied from the published version.</source>
+        <translation type="obsolete">Criar um novo rascunho. O conteúdo do novo rascunho será copiado da versão publicada.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2524,6 +2853,22 @@
         <translation>Versão publicada</translation>
     </message>
     <message>
+        <source>Version not a draft</source>
+        <translation type="obsolete">A versão não é rascunho</translation>
+    </message>
+    <message>
+        <source>Version %1 is not available for editing anymore, only drafts can be edited.</source>
+        <translation type="obsolete">A versão %1 não se encontra mais disponível para edição, apenas os rascunhos podem ser editados.</translation>
+    </message>
+    <message>
+        <source>To edit this version create a copy of it.</source>
+        <translation type="obsolete">Para editar esta versão crie uma cópia dela.</translation>
+    </message>
+    <message>
+        <source>Version not yours</source>
+        <translation type="obsolete">A versão não é sua</translation>
+    </message>
+    <message>
         <source>Unable to create new version</source>
         <translation>Não foi possível criar uma nova versão</translation>
     </message>
@@ -2554,6 +2899,10 @@
     <message>
         <source>Select version #%version_number for removal.</source>
         <translation>Selecione a versão #%version_number para ser removida.</translation>
+    </message>
+    <message>
+        <source>Version #%version_number can not be removed because it is either the published version of the object or because you do not have permissions to remove it.</source>
+        <translation type="obsolete">A versão #%version_number não pode ser removida porque é a versão publicada do objeto ou porque você não tem permissão para removê-la.</translation>
     </message>
     <message>
         <source>View the contents of version #%version_number. Translation: %translation.</source>
@@ -2588,8 +2937,16 @@
         <translation>Criar uma cópia da versão #%version_number.</translation>
     </message>
     <message>
+        <source>You can not make copies of versions because you do not have permissions to edit the object.</source>
+        <translation type="obsolete">Você não pode fazer cópias das versões porque não tem permissão para editar o objeto.</translation>
+    </message>
+    <message>
         <source>Edit the contents of version #%version_number.</source>
         <translation>Editar o conteúdo da versão #%version_number.</translation>
+    </message>
+    <message>
+        <source>You can not edit the contents of version #%version_number either because it is not a draft or because you do not have permissions to edit the object.</source>
+        <translation type="obsolete">Você não pode editar o conteúdo da versão #%version_number, porque não é um rascunho ou porque você não tem permissão para editar o objeto.</translation>
     </message>
     <message>
         <source>This object does not have any versions.</source>
@@ -2794,6 +3151,10 @@
         <translation>Tem certeza que deseja remover os locais juntamente com seus conteúdos?</translation>
     </message>
     <message>
+        <source>The locations marked with red contain items that you do not have permissions to remove.</source>
+        <translation type="obsolete">Os locais marcados em vermelho possuem itens que você não tem permissão para remover.</translation>
+    </message>
+    <message>
         <source>Click the &quot;Cancel&quot; button and try removing only the locations that you are allowed to remove.</source>
         <translation>Clique no botão &quot;Cancelar&quot; e tente remover apenas os locais que você tem permissão para remover.</translation>
     </message>
@@ -2819,7 +3180,11 @@
     </message>
     <message>
         <source>Remove the locations along with all the sub items.</source>
-        <translation>Remover os locais juntamente com os subitens.</translation>
+        <translation>Remover os locais juntamente com os sub-itens.</translation>
+    </message>
+    <message>
+        <source>You can not continue because you do not have permissions to remove some of the selected locations.</source>
+        <translation type="obsolete">Você não pode continuar porque não possui permissão para remover alguns dos locais selecionados.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3030,6 +3395,10 @@
         <translation>Tente palavras mais genéricas.</translation>
     </message>
     <message>
+        <source>Fewer keywords gives more results, try reducing keywords until you get a result.</source>
+        <translation type="obsolete">Poucas palavras fornecem mais resultados, tente reduzir as palavras até obter um resultado.</translation>
+    </message>
+    <message>
         <source>Search for &lt;%1&gt; returned %2 matches</source>
         <translation>A pesquisa por &lt;%1&gt; obteve &lt;%2&gt; resultados</translation>
     </message>
@@ -3138,12 +3507,151 @@
         <translation>As seguintes palavras foram excluídas da pesquisa</translation>
     </message>
     <message>
+        <source>Try changing some keywords e.g. car instead of cars.</source>
+        <translation type="obsolete">Tente modificar algumas palavras ex: carro em vez de carros.</translation>
+    </message>
+    <message>
         <source>Try changing some keywords e.g. &amp;quot;car&amp;quot; instead of &amp;quot;cars&amp;quot;.</source>
         <translation>Tente alterar algumas palavras-chave ex: &quot;carro&quot; em vez de &quot;carros&quot;.</translation>
     </message>
     <message>
         <source>Fewer keywords result in more matches. Try reducing keywords until you get a result.</source>
-        <translation>Menos palavras-chave obtêm mais resultados. Tente reduzir o número de palavras-chave até chegar a um resultado.</translation>
+        <translation>Menos palavras-chave resultam em mais correspondências. Tente reduzir o número de palavras-chave até chegar a um resultado.</translation>
+    </message>
+</context>
+<context>
+    <name>design/admin/content/translate</name>
+    <message>
+        <source>Object information</source>
+        <translation type="obsolete">Informações do objeto</translation>
+    </message>
+    <message>
+        <source>ID</source>
+        <translation type="obsolete">ID</translation>
+    </message>
+    <message>
+        <source>Created</source>
+        <translation type="obsolete">Criado</translation>
+    </message>
+    <message>
+        <source>Not yet published</source>
+        <translation type="obsolete">Ainda não publicado</translation>
+    </message>
+    <message>
+        <source>Modified</source>
+        <translation type="obsolete">Modificado</translation>
+    </message>
+    <message>
+        <source>Published version</source>
+        <translation type="obsolete">Versão publicada</translation>
+    </message>
+    <message>
+        <source>Manage versions</source>
+        <translation type="obsolete">Gerenciar versões</translation>
+    </message>
+    <message>
+        <source>Current draft</source>
+        <translation type="obsolete">Rascunho corrente</translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation type="obsolete">Versão</translation>
+    </message>
+    <message>
+        <source>Confirm translation removal</source>
+        <translation type="obsolete">Confirme a remoção da tradução</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove the translation?</source>
+        <translation type="obsolete">Tem certeza de que deseja remover esta tradução?</translation>
+    </message>
+    <message>
+        <source>The following translation (along with translated content) will be removed from the draft</source>
+        <translation type="obsolete">A seguinte tradução (juntamente com o conteúdo traduzido) será removida do rascunho</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove the translations?</source>
+        <translation type="obsolete">Tem certeza de que deseja remover estas traduções?</translation>
+    </message>
+    <message>
+        <source>The following translations (along with translated content) will be removed from the draft</source>
+        <translation type="obsolete">A seguinte tradução (juntamente com o conteúdo traduzido) será removida do rascunho</translation>
+    </message>
+    <message>
+        <source>(No locale information available.)</source>
+        <translation type="obsolete">(Nenhuma informação de localização disponível)</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation type="obsolete">Sim</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation type="obsolete">Não</translation>
+    </message>
+    <message>
+        <source>Translations for &lt;%object_name&gt; [%translation_count]</source>
+        <translation type="obsolete">Traduções para &lt;%object_name&gt; [%translation_count]</translation>
+    </message>
+    <message>
+        <source>Invert selection.</source>
+        <translation type="obsolete">Inverter seleção.</translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="obsolete">Idioma</translation>
+    </message>
+    <message>
+        <source>Locale</source>
+        <translation type="obsolete">Localização</translation>
+    </message>
+    <message>
+        <source>Select translation for removal.</source>
+        <translation type="obsolete">Selecione a tradução a ser removida.</translation>
+    </message>
+    <message>
+        <source>(Unable to display because of unknown locale!)</source>
+        <translation type="obsolete">(Impossível mostrar porque a localização é desconhecida)</translation>
+    </message>
+    <message>
+        <source>There are no translations available.</source>
+        <translation type="obsolete">Não existem traduções disponíveis.</translation>
+    </message>
+    <message>
+        <source>Remove selected</source>
+        <translation type="obsolete">Remover selecionados</translation>
+    </message>
+    <message>
+        <source>Remove the selected translations from the draft that is being edited.</source>
+        <translation type="obsolete">Remover as traduções selecionadas do rascunho que está sendo editado.</translation>
+    </message>
+    <message>
+        <source>Select a translation you wish to add to the draft that is being edited.</source>
+        <translation type="obsolete">Selecione a tradução que deseja adicionar ao rascunho que está sendo editado.</translation>
+    </message>
+    <message>
+        <source>All available translations have been added to the draft that is being edited.</source>
+        <translation type="obsolete">Todas as traduções disponíveis foram adicionadas ao rascunho que está sendo editado.</translation>
+    </message>
+    <message>
+        <source>No languages</source>
+        <translation type="obsolete">Nenhum idioma</translation>
+    </message>
+    <message>
+        <source>Add translation</source>
+        <translation type="obsolete">Adicionar tradução</translation>
+    </message>
+    <message>
+        <source>Add the selected translation to the draft that is being edited.</source>
+        <translation type="obsolete">Adicionar a tradução selecionada ao rascunho que está sendo editado.</translation>
+    </message>
+    <message>
+        <source>Back to edit mode</source>
+        <translation type="obsolete">Voltar ao modo de edição</translation>
+    </message>
+    <message>
+        <source>Go back to edit mode.</source>
+        <translation type="obsolete">Voltar ao modo de edição.</translation>
     </message>
 </context>
 <context>
@@ -3184,6 +3692,10 @@
         <translation>Idioma</translation>
     </message>
     <message>
+        <source>Country</source>
+        <translation type="obsolete">País</translation>
+    </message>
+    <message>
         <source>Locale</source>
         <translation>Localidade</translation>
     </message>
@@ -3210,6 +3722,10 @@
     <message>
         <source>Select language for removal.</source>
         <translation>Selecione o idioma a ser removido.</translation>
+    </message>
+    <message>
+        <source>The default language can not be removed.</source>
+        <translation type="obsolete">O idioma padrão não pode ser removido.</translation>
     </message>
     <message>
         <source>Remove selected languages.</source>
@@ -3273,6 +3789,22 @@
     <message>
         <source>Allowed charsets</source>
         <translation>Conjuntos de caracteres permitidos</translation>
+    </message>
+    <message>
+        <source>Country name</source>
+        <translation type="obsolete">Nome do país</translation>
+    </message>
+    <message>
+        <source>Country comment</source>
+        <translation type="obsolete">Comentário sobre o país</translation>
+    </message>
+    <message>
+        <source>Country code</source>
+        <translation type="obsolete">Código do país</translation>
+    </message>
+    <message>
+        <source>Country variation</source>
+        <translation type="obsolete">Variação do país</translation>
     </message>
     <message>
         <source>Language name</source>
@@ -3402,6 +3934,10 @@
         <translation>Inverter seleção.</translation>
     </message>
     <message>
+        <source>Use these checkboxes to mark items for removal. Click the &quot;Remove selected&quot; button to actually remove the selected items.</source>
+        <translation type="obsolete">Use estas caixas de seleção para marcar os itens a serem removidos. Clique no botão &quot;Remover selecionados&quot; para remover realmente os itens selecionados.</translation>
+    </message>
+    <message>
         <source>Remove selected</source>
         <translation>Remover selecionados</translation>
     </message>
@@ -3428,6 +3964,10 @@
     <message>
         <source>Section</source>
         <translation>Seção</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="obsolete">Editar</translation>
     </message>
     <message>
         <source>Permanently remove all items from the trash.</source>
@@ -3505,6 +4045,10 @@
         <translation>Carga de arquivo</translation>
     </message>
     <message>
+        <source>Choose a file from your local machine and click the &quot;Upload&quot; button. An object will be created according to file type and placed in your chosen location.</source>
+        <translation type="obsolete">Escolha um arquivo na máquina local e clique no botão &quot;Carregar&quot;. Será criado um objeto de acordo com o tipo do arquivo e colocado no local escolhido.</translation>
+    </message>
+    <message>
         <source>Upload file</source>
         <translation>Carregar arquivo</translation>
     </message>
@@ -3525,6 +4069,10 @@
         <translation>Arquivo</translation>
     </message>
     <message>
+        <source>Select the file that you wish to upload.</source>
+        <translation type="obsolete">Selecione o arquivo que deseja carregar.</translation>
+    </message>
+    <message>
         <source>Upload</source>
         <translation>Carregar</translation>
     </message>
@@ -3535,6 +4083,10 @@
     <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>Abort the upload operation and go back to where you came from.</source>
+        <translation type="obsolete">Cancelar a operação de carregamento e voltar para onde veio.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -3568,8 +4120,16 @@
         <translation>Quando o arquivo é carregado, é criado um objeto de acordo com o tipo do arquivo.</translation>
     </message>
     <message>
+        <source>The newly created object will be placed within the chosen location.</source>
+        <translation type="obsolete">O novo objeto criado será colocado dentro do local escolhido.</translation>
+    </message>
+    <message>
         <source>The newly created object will be automatically related to the draft being edited (&lt;%version_name&gt;).</source>
         <translation>O novo objeto criado será relacionado automaticamente com o rascunho que está sendo editado (&lt;%version_name&gt;).</translation>
+    </message>
+    <message>
+        <source>Select the file you wish to upload and click the &quot;Upload&quot; button.</source>
+        <translation type="obsolete">Selecione o arquivo que deseja carregar e clique no botão &quot;Carregar&quot;.</translation>
     </message>
     <message>
         <source>The newly created object will be placed within the specified location.</source>
@@ -3623,6 +4183,10 @@
         <translation>Inverter seleção.</translation>
     </message>
     <message>
+        <source>Path</source>
+        <translation type="obsolete">Trajeto</translation>
+    </message>
+    <message>
         <source>Language</source>
         <translation>Idioma</translation>
     </message>
@@ -3667,6 +4231,18 @@
         <translation>Digite a URL para o novo apelido. Use barras (/) para criar sub entradas.</translation>
     </message>
     <message>
+        <source>Relative to parent</source>
+        <translation type="obsolete">Relativo ao pai</translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation type="obsolete">Criar</translation>
+    </message>
+    <message>
+        <source>Create a new URL alias for this node.</source>
+        <translation type="obsolete">Criar um novo apelido de URL para esse nó.</translation>
+    </message>
+    <message>
         <source>Generated aliases [%count]</source>
         <translation>Apelidos gerados [%count]</translation>
     </message>
@@ -3701,6 +4277,10 @@
     <message>
         <source>You cannot remove any aliases because you do not have permission to edit the current item.</source>
         <translation>Você não pode remover quaisquer apelidos porque você não tem permissão para editar o item atual.</translation>
+    </message>
+    <message>
+        <source>Relative aliases start from the parent of the current node while non-relative aliases start from the root of the site.</source>
+        <translation type="obsolete">Apelidos relativos iniciam a partir do pai do nó atual enquanto apelidos não relativos iniciam partir da raiz do site.</translation>
     </message>
     <message>
         <source>Note that these entries are automatically generated from the name of the object. To change these names you must edit the object in the specific language and publish the changes.</source>
@@ -3839,6 +4419,10 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
         <translation>Inverter seleção.</translation>
     </message>
     <message>
+        <source>Path</source>
+        <translation type="obsolete">Trajeto</translation>
+    </message>
+    <message>
         <source>Destination</source>
         <translation>Destino</translation>
     </message>
@@ -3901,6 +4485,10 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
     <message>
         <source>New URL alias</source>
         <translation>Novo apelido de URL</translation>
+    </message>
+    <message>
+        <source>Destination (path to existing funtionality or resource)</source>
+        <translation type="obsolete">Destino (caminho para uma funcionalidade ou recurso existente)</translation>
     </message>
     <message>
         <source>Enter text in the input box to create a new alias.</source>
@@ -4068,6 +4656,14 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
     <message>
         <source>New URL wildcard</source>
         <translation>Nova URL com coringa</translation>
+    </message>
+    <message>
+        <source>Enter the URL for the new wildcard. Example: /developer/*</source>
+        <translation type="obsolete">Digite a URL para o novo coringa. Exemplo: /desenvolvedor/*</translation>
+    </message>
+    <message>
+        <source>Enter the destination URL for the new wildcard. Example: /dev/{1}</source>
+        <translation type="obsolete">Digite a URL de destino para o novo coringa. Exemplo: /des/{1}</translation>
     </message>
     <message>
         <source>Perform redirecting.</source>
@@ -4489,8 +5085,8 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
 <context>
     <name>design/admin/dashboard/drafts</name>
     <message>
-        <source>Your drafts</source>
-        <translation>Seus rascunhos</translation>
+        <source>My drafts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Name</source>
@@ -4528,8 +5124,8 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
 <context>
     <name>design/admin/dashboard/latest_content</name>
     <message>
-        <source>Your latest content</source>
-        <translation>Seus últimos conteúdos</translation>
+        <source>My latest content</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Name</source>
@@ -4590,8 +5186,8 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
 <context>
     <name>design/admin/dashboard/pending_list</name>
     <message>
-        <source>Your pending items</source>
-        <translation>Seus itens pendentes</translation>
+        <source>My pending items</source>
+        <translation type="unfinished">Meus itens pendentes</translation>
     </message>
     <message>
         <source>Name</source>
@@ -5178,6 +5774,14 @@ Tem certeza de que deseja remover a informação coletada?</translation>
     <message>
         <source>The lines marked with red contain more than the maximum possible nodes for subtree removal and will not be deleted. You can remove this subtree using the ezsubtreeremove.php script.</source>
         <translation> As linhas marcadas em vermelho contem mais do que o máximo de nós para remoção de subárvore possível  e não serão excluídos. Você pode remover esta subárvore usando o script ezsubtreeremove..</translation>
+    </message>
+    <message>
+        <source>Pending sub-object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removal failed because there is pending sub object under the node. Please finish the relevant process then redo the removal.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5987,6 +6591,10 @@ Tem certeza de que deseja remover a informação coletada?</translation>
     <message>
         <source>Locations (aka Nodes) for current object.</source>
         <translation>Locais (Nós) do objeto atual.</translation>
+    </message>
+    <message>
+        <source>New translation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Policy list and the Role that are assignet to current node.</source>
@@ -7032,12 +7640,12 @@ Nota: Os pacotes não serão desinstalados.</translation>
         <translation>Painel</translation>
     </message>
     <message>
-        <source>Preview tab</source>
-        <translation>Aba de pré-visualização</translation>
+        <source>Enable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Disable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
-        <translation>Desabilita a aba &amp;quot;Pré-visualizar&amp;quot; ao navegar pelo conteúdo.</translation>
+        <source>Disable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
@@ -7601,6 +8209,14 @@ Nota: Os pacotes não serão desinstalados.</translation>
     <message>
         <source>New translation</source>
         <translation>Nova tradução</translation>
+    </message>
+    <message>
+        <source>Sitemap for subtree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9004,6 +9620,22 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     <message>
         <source>Navigation part</source>
         <translation>Parte de navegação</translation>
+    </message>
+    <message>
+        <source>Identifier can not be empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier should consist of letters, numbers or &apos;_&apos; with letter prefix.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The identifier has been used in another section.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section edit error</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12049,6 +12681,10 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
         <source>Description:</source>
         <translation>Descrição</translation>
     </message>
+    <message>
+        <source>Save changes to this state.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/state/group</name>
@@ -14909,6 +15545,14 @@ your account.</source>
         <translation>Tag pré-determinada</translation>
     </message>
     <message>
+        <source>Html5 Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Html5 Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>seconds(s)</source>
         <translation>segundo(s)</translation>
     </message>
@@ -16383,8 +17027,42 @@ Se quiser enviar comentários ao aprovador ou ver o status do processo, use a UR
         <translation>Encontrar objeto</translation>
     </message>
     <message>
-        <source>Find objects</source>
-        <translation>Encontrar objetos</translation>
+        <source>The related objects will be edited in the same language as this object. If such translations do not exist they will be created, based on the source language of your choice.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation base</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This object is already translated, the existing translation will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This object is not translated, please select the language the new translation will be based on.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your browser does not support html5 video.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your browser does not support html5 audio.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>design/standard/content/datatype </name>
+    <message>
+        <source>Yes</source>
+        <translation type="obsolete">Sim</translation>
+    </message>
+</context>
+<context>
+    <name>design/standard/content/datatype/</name>
+    <message>
+        <source>Configure user account settings</source>
+        <translation type="obsolete">Configurar ajustes na conta do usuário</translation>
     </message>
 </context>
 <context>
@@ -22515,6 +23193,21 @@ Esta funcionalidade também está disponível após a configuração inicial na 
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
         <translation>Instalar a limpeza de sessão via cronjob &apos;session_gc.php&apos; para ser executada no período noturno (ver cronjob.ini ou o doc de como fazer)</translation>
     </message>
+    <message>
+        <source>The operation was cut short in order to avoid execution timeout.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your current session handler does not support session administration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>design/standard/setup/session </name>
+    <message>
+        <source>Remove</source>
+        <translation type="obsolete">Remover</translation>
+    </message>
 </context>
 <context>
     <name>design/standard/setup/tests</name>
@@ -25454,8 +26147,12 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
         <translation>Cache de conversão de texto para imagem</translation>
     </message>
     <message>
-        <source>Design base cache</source>
-        <translation>Cache de design</translation>
+        <source>Active extensions cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TS Translation cache</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -26558,6 +27255,10 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
         <source>Successfully DONE.</source>
         <translation>FEITO com sucesso.</translation>
     </message>
+    <message>
+        <source>Cannot publish object (Name: %1, ID: %2).</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/content/removenode</name>
@@ -26656,6 +27357,10 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
         <translation>O tamanho do arquivo carregado excede o limite para este site: %1 bytes.</translation>
+    </message>
+    <message>
+        <source>Permission denied</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -26915,6 +27620,14 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
         <translation>Local</translation>
     </message>
     <message>
+        <source>Styles</source>
+        <translation type="obsolete">Estilos</translation>
+    </message>
+    <message>
+        <source>Addons</source>
+        <translation type="obsolete">Complementos</translation>
+    </message>
+    <message>
         <source>The version must only contain numbers (optionally followed by text) and must be delimited by dots (.), e.g. 1.0, 3.4.0beta1</source>
         <translation>A versão deve conter somente números (opcionalmente seguido por texto) e deve ser separado por pontos (.), por exemplo </translation>
     </message>
@@ -27000,11 +27713,23 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     </message>
     <message>
         <source>The package name %packagename is not valid, it can only contain characters in the range a-z, 0-9 and underscore.</source>
-        <translation>O nome do pacote %packagename é inválido, ele pode conter somente caráteres na escala a-z, 0-9 e underscore.</translation>
+        <translation type="unfinished">O nome do pacote %packagename é inválido, ele pode conter somente caráteres na escala a-z, 0-9 e underscore.</translation>
+    </message>
+    <message>
+        <source>Select an extension to be exported</source>
+        <translation type="obsolete">Selecione uma extensão para ser exportada</translation>
     </message>
     <message>
         <source>Extension export</source>
         <translation>Exportação de extensões</translation>
+    </message>
+    <message>
+        <source>Extension:</source>
+        <translation type="obsolete">Extensão:</translation>
+    </message>
+    <message>
+        <source>You must select an extension</source>
+        <translation type="obsolete">Você deve selecionar uma extensão</translation>
     </message>
     <message>
         <source>%number content objects</source>
@@ -27130,7 +27855,14 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     <name>kernel/pdfexport</name>
     <message>
         <source>New PDF Export</source>
-        <translation>Nova exportação de PDF</translation>
+        <translation type="unfinished">Nova exportação de PDF</translation>
+    </message>
+</context>
+<context>
+    <name>kernel/reference</name>
+    <message>
+        <source>Reference documentation</source>
+        <translation type="obsolete">Documentação de referência</translation>
     </message>
 </context>
 <context>
@@ -27262,6 +27994,10 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
         <translation>Configuração de extensões</translation>
     </message>
     <message>
+        <source>Activate extensions</source>
+        <translation type="obsolete">Ativar extensões</translation>
+    </message>
+    <message>
         <source>Setup menu</source>
         <translation>Menu de configuração</translation>
     </message>
@@ -27313,6 +28049,10 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
         <translation>Lista de pedidos</translation>
     </message>
     <message>
+        <source>Order view</source>
+        <translation type="obsolete">Visualização dos pedidos</translation>
+    </message>
+    <message>
         <source>Enter account information</source>
         <translation>Entre com as informações de sua conta</translation>
     </message>
@@ -27323,6 +28063,10 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     <message>
         <source>Customer list</source>
         <translation>Lista de clientes</translation>
+    </message>
+    <message>
+        <source> Customer order view</source>
+        <translation type="obsolete">Visualização do pedido do cliente</translation>
     </message>
     <message>
         <source>Remove order</source>
@@ -27906,6 +28650,21 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     <message>
         <source>View</source>
         <translation>Visualizar</translation>
+    </message>
+</context>
+<context>
+    <name>setup/templateadmin</name>
+    <message>
+        <source>Template edit</source>
+        <translation type="obsolete">Editar modelo</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="obsolete">Salvar</translation>
+    </message>
+    <message>
+        <source>Discard</source>
+        <translation type="obsolete">Rejeitar</translation>
     </message>
 </context>
 <context>

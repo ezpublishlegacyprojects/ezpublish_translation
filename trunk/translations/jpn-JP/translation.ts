@@ -360,7 +360,7 @@
     </message>
     <message>
         <source>Edit &lt;%class_name&gt; (%object_count)</source>
-        <translation type="unfinished">&lt;%class_name&gt;編集(%object_count)</translation>
+        <translation type="obsolete">&lt;%class_name&gt;編集(%object_count)</translation>
     </message>
     <message>
         <source>Description</source>
@@ -393,6 +393,14 @@
     <message>
         <source>Category</source>
         <translation type="unfinished">カテゴリ</translation>
+    </message>
+    <message>
+        <source>Edit &lt;%class_name&gt; (%object_count objects)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The draft of the class definition was successfully stored.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1618,6 +1626,26 @@
     <message>
         <source>No media file is available.</source>
         <translation>利用可能なメディアファイルがありません。</translation>
+    </message>
+    <message>
+        <source>Year</source>
+        <translation type="unfinished">年</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation type="unfinished">月</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation type="unfinished">日</translation>
+    </message>
+    <message>
+        <source>Hour</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minute</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5170,6 +5198,14 @@
         <source>The system will let you restore the object &lt;%name&gt;. Specify where you wish to restore it.</source>
         <translation>&lt;%name&gt;オブジェクトを復元します。復元する配置先を指定してください。</translation>
     </message>
+    <message>
+        <source>Pending sub-object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removal failed because there is pending sub object under the node. Please finish the relevant process then redo the removal.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/node/view</name>
@@ -5917,7 +5953,7 @@
     </message>
     <message>
         <source>Tab is disabled, enable on dashboard.</source>
-        <translation type="unfinished">タブは無効となっています、ダッシュボードで有効にしてください。</translation>
+        <translation type="obsolete">タブは無効となっています、ダッシュボードで有効にしてください。</translation>
     </message>
     <message>
         <source>Translations (%count)</source>
@@ -5945,15 +5981,15 @@
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished">作成</translation>
+        <translation type="obsolete">作成</translation>
     </message>
     <message>
         <source>in</source>
-        <translation type="unfinished">言語</translation>
+        <translation type="obsolete">言語</translation>
     </message>
     <message>
         <source>Here</source>
-        <translation type="unfinished">ここ</translation>
+        <translation type="obsolete">ここ</translation>
     </message>
     <message>
         <source>Published order</source>
@@ -5961,7 +5997,7 @@
     </message>
     <message>
         <source>List of sub items of current node, with controlls to edit, remove and move them directly.</source>
-        <translation type="unfinished">現在のノードのサブアイテムのリストを表示します。直接編集、削除と移動をすることができます。</translation>
+        <translation type="obsolete">現在のノードのサブアイテムのリストを表示します。直接編集、削除と移動をすることができます。</translation>
     </message>
     <message>
         <source>Node and object details like creator, when it was created, section it belongs to, number of versions and translations, Node ID and Object ID.</source>
@@ -6034,6 +6070,90 @@
     <message>
         <source>Language list of translations for current object.</source>
         <translation type="unfinished">現在のオブジェクト翻訳の言語リスト。</translation>
+    </message>
+    <message>
+        <source>Tab is disabled, enable with toggler to the left of these tabs.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show simplified view of content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ordering</source>
+        <translation type="unfinished">ソート順</translation>
+    </message>
+    <message>
+        <source>Show published ordering overview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Node remote ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object remote ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of items per page:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visible table columns:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished">選択</translation>
+    </message>
+    <message>
+        <source>Select all visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select none</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use the checkboxes to select one or more items.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>prev</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>last</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6651,27 +6771,27 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Content structure</source>
-        <translation type="obsolete">コンテンツツリー</translation>
+        <translation type="unfinished">コンテンツツリー</translation>
     </message>
     <message>
         <source>Media library</source>
-        <translation type="obsolete">メディアリソース</translation>
+        <translation type="unfinished">メディアリソース</translation>
     </message>
     <message>
         <source>User accounts</source>
-        <translation type="obsolete">ユーザ管理</translation>
+        <translation type="unfinished">ユーザ管理</translation>
     </message>
     <message>
         <source>Webshop</source>
-        <translation type="obsolete">ウエブショップ</translation>
+        <translation type="unfinished">ウエブショップ</translation>
     </message>
     <message>
         <source>Setup</source>
-        <translation type="obsolete">システム設定</translation>
+        <translation type="unfinished">システム設定</translation>
     </message>
     <message>
         <source>Design</source>
-        <translation type="obsolete">デザイン</translation>
+        <translation type="unfinished">デザイン</translation>
     </message>
     <message>
         <source>My account</source>
@@ -6715,31 +6835,31 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Manage the main content structure of the site.</source>
-        <translation type="obsolete">サイトコンテンツの管理</translation>
+        <translation type="unfinished">サイトコンテンツの管理</translation>
     </message>
     <message>
         <source>Manage images, files, documents, etc.</source>
-        <translation type="obsolete">画像やメディアファイルの管理</translation>
+        <translation type="unfinished">画像やメディアファイルの管理</translation>
     </message>
     <message>
         <source>Manage users, user groups and permission settings.</source>
-        <translation type="obsolete">ユーザとグループ、その権限設定の管理</translation>
+        <translation type="unfinished">ユーザとグループ、その権限設定の管理</translation>
     </message>
     <message>
         <source>Manage customers, orders, discounts and VAT types; view sales statistics.</source>
-        <translation type="obsolete">顧客、注文、割引設定、消費税の管理と売上統計の管理。</translation>
+        <translation type="unfinished">顧客、注文、割引設定、消費税の管理と売上統計の管理。</translation>
     </message>
     <message>
         <source>Manage templates, menus, toolbars and other things related to appearence.</source>
-        <translation type="obsolete">テンプレート、メニュー、ツールバー、その他表示に関連する事項の管理.</translation>
+        <translation type="unfinished">テンプレート、メニュー、ツールバー、その他表示に関連する事項の管理.</translation>
     </message>
     <message>
         <source>Configure settings and manage advanced functionality.</source>
-        <translation type="obsolete">システム構成の設定、エクステンションの管理</translation>
+        <translation type="unfinished">システム構成の設定、エクステンションの管理</translation>
     </message>
     <message>
         <source>Manage items and settings that belong to your account.</source>
-        <translation type="obsolete">ログインユーザの関係アイテムの管理と設定</translation>
+        <translation type="unfinished">ログインユーザの関係アイテムの管理と設定</translation>
     </message>
     <message>
         <source>Change password for &lt;%username&gt;.</source>
@@ -6823,7 +6943,15 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>User perferences</source>
-        <translation type="unfinished">ユーザ設定</translation>
+        <translation type="obsolete">ユーザ設定</translation>
+    </message>
+    <message>
+        <source>Dashboard</source>
+        <translation type="unfinished">ダッシュボード</translation>
+    </message>
+    <message>
+        <source>User preferences</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7018,15 +7146,31 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Preview tab</source>
-        <translation type="unfinished">プレビュー達部</translation>
+        <translation type="obsolete">プレビュー達部</translation>
     </message>
     <message>
         <source>Disable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
-        <translation type="unfinished">コンテントブラウスの際に&amp;quot;プレビュータブ&amp;quot;を無効にします。</translation>
+        <translation type="obsolete">コンテントブラウスの際に&amp;quot;プレビュータブ&amp;quot;を無効にします。</translation>
     </message>
     <message>
         <source>Enable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
-        <translation type="unfinished">コンテントブラウスの際に&amp;quot;プレビュータブ&amp;quot;を有効にします。</translation>
+        <translation type="obsolete">コンテントブラウスの際に&amp;quot;プレビュータブ&amp;quot;を有効にします。</translation>
+    </message>
+    <message>
+        <source>Enable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &amp;quot;Tabs&amp;quot; by default while browsing content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable &amp;quot;Tabs&amp;quot; by default while browsing content.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7587,6 +7731,14 @@ Note: The packages will not be uninstalled.</source>
         <source>New translation</source>
         <translation type="unfinished">新規翻訳</translation>
     </message>
+    <message>
+        <source>Sitemap for subtree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">プレビュー</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/preview/article</name>
@@ -7639,6 +7791,10 @@ Note: The packages will not be uninstalled.</source>
     <message>
         <source>Your email address</source>
         <translation>e-mail</translation>
+    </message>
+    <message>
+        <source>Your name</source>
+        <translation type="unfinished">お名前</translation>
     </message>
 </context>
 <context>
@@ -8988,6 +9144,26 @@ Note: The packages will not be uninstalled.</source>
         <source>Navigation part</source>
         <translation>ナビゲーションパート</translation>
     </message>
+    <message>
+        <source>Identifier can not be empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier should consist of letters, numbers or &apos;_&apos; with letter prefix.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The identifier has been used in another section.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section edit error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation type="unfinished">識別子</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/section/list</name>
@@ -9058,6 +9234,10 @@ Note: The packages will not be uninstalled.</source>
     <message>
         <source>Assign a subtree to the &lt;%section_name&gt; section.</source>
         <translation type="unfinished">&lt;%section_name&gt;セクションにサブツリーを割り当てます。</translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation type="unfinished">識別子</translation>
     </message>
 </context>
 <context>
@@ -9141,6 +9321,10 @@ Note: The packages will not be uninstalled.</source>
     <message>
         <source>Assign subtree of objects to this section</source>
         <translation type="unfinished">オブジェクトのサブツリーをこのセクションに割り当てます</translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation type="unfinished">識別子</translation>
     </message>
 </context>
 <context>
@@ -9557,7 +9741,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source></source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -9619,7 +9803,15 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished">有効にする</translation>
+        <translation type="obsolete">有効にする</translation>
+    </message>
+    <message>
+        <source>Activate or deactivate extension. Use the &quot;Update&quot; button to apply the changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished">更新</translation>
     </message>
 </context>
 <context>
@@ -9803,7 +9995,7 @@ Note: The packages will not be uninstalled.</source>
     <message>
         <source>SVN revision</source>
         <comment>eZ Publish version</comment>
-        <translation>サブバージョン 
+        <translation type="obsolete">サブバージョン 
 リビジョン番号</translation>
     </message>
     <message>
@@ -10202,7 +10394,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished">タイムアウトを起こさない様にオペレーションが中止されました。</translation>
+        <translation type="obsolete">タイムアウトを起こさない様にオペレーションが中止されました。</translation>
     </message>
     <message>
         <source>Your alternatives are to:</source>
@@ -10219,6 +10411,10 @@ Note: The packages will not be uninstalled.</source>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
         <translation type="unfinished">&apos;session_gc.php&apos;セッションをクリアするクロンジョブをインストールする（cronjob.iniに説明があります）</translation>
+    </message>
+    <message>
+        <source>The operation was cut short in order to avoid execution timeout.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10993,7 +11189,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>New discount rule</source>
-        <translation type="obsolete">新規のディスカウント・ルール</translation>
+        <translation type="unfinished">新規のディスカウント・ルール</translation>
     </message>
     <message>
         <source>Product types</source>
@@ -12012,7 +12208,7 @@ Note: The packages will not be uninstalled.</source>
     </message>
     <message>
         <source>Save changes to this states.</source>
-        <translation>このステートへの変更を保存する。</translation>
+        <translation type="obsolete">このステートへの変更を保存する。</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12037,6 +12233,10 @@ Note: The packages will not be uninstalled.</source>
     <message>
         <source>Description:</source>
         <translation type="unfinished">概要:</translation>
+    </message>
+    <message>
+        <source>Save changes to this state.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14212,6 +14412,21 @@ your account.</source>
     </message>
 </context>
 <context>
+    <name>design/ezwebin/content/datatype</name>
+    <message>
+        <source>Year</source>
+        <translation type="obsolete">年</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation type="obsolete">月</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation type="obsolete">日</translation>
+    </message>
+</context>
+<context>
     <name>design/plain/layout</name>
     <message>
         <source>Advanced search</source>
@@ -14898,7 +15113,19 @@ your account.</source>
     </message>
     <message>
         <source>seconds(s)</source>
-        <translation>秒</translation>
+        <translation type="obsolete">秒</translation>
+    </message>
+    <message>
+        <source>Html5 Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Html5 Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>second(s)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16373,6 +16600,30 @@ If you want to send comments to the approver or view the status use the URL belo
     <message>
         <source>Find objects</source>
         <translation type="unfinished">オブジェクトを探す</translation>
+    </message>
+    <message>
+        <source>The related objects will be edited in the same language as this object. If such translations do not exist they will be created, based on the source language of your choice.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation base</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This object is already translated, the existing translation will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This object is not translated, please select the language the new translation will be based on.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your browser does not support html5 video.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your browser does not support html5 audio.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -20742,7 +20993,7 @@ By using %operatorname you can ...</source>
     <message>
         <source>SVN revision</source>
         <comment>eZ Publish version</comment>
-        <translation>サブバージョン リビジョン番号</translation>
+        <translation type="obsolete">サブバージョン リビジョン番号</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -21292,23 +21543,23 @@ The default code was made from the basic parameters you chose.</source>
     </message>
     <message>
         <source>The database would not accept the connection, please review your settings and try again.</source>
-        <translation type="obsolete">データベースの接続に失敗しました。設定内容を確認して再実行してください。</translation>
+        <translation type="unfinished">データベースの接続に失敗しました。設定内容を確認して再実行してください。</translation>
     </message>
     <message>
         <source>Password entries did not match.</source>
-        <translation type="obsolete">パスワードが一致しません。</translation>
+        <translation type="unfinished">パスワードが一致しません。</translation>
     </message>
     <message>
         <source>The selected database was not empty, please choose from the alternatives below.</source>
-        <translation type="obsolete">選択したデータベースは空ではありません。以下から別のデータベースを選択してください。</translation>
+        <translation type="unfinished">選択したデータベースは空ではありません。以下から別のデータベースを選択してください。</translation>
     </message>
     <message>
         <source>Database initalization</source>
-        <translation type="obsolete">データベースの接続設定</translation>
+        <translation type="unfinished">データベースの接続設定</translation>
     </message>
     <message>
         <source>Email settings</source>
-        <translation type="obsolete">メール送信設定</translation>
+        <translation type="unfinished">メール送信設定</translation>
     </message>
     <message>
         <source>Finished</source>
@@ -21316,19 +21567,19 @@ The default code was made from the basic parameters you chose.</source>
     </message>
     <message>
         <source>Language options</source>
-        <translation type="obsolete">言語の選択</translation>
+        <translation type="unfinished">言語の選択</translation>
     </message>
     <message>
         <source>Registration</source>
-        <translation type="obsolete">サイトの登録</translation>
+        <translation type="unfinished">サイトの登録</translation>
     </message>
     <message>
         <source>Securing site</source>
-        <translation type="obsolete">サイトのセキュリティ対策</translation>
+        <translation type="unfinished">サイトのセキュリティ対策</translation>
     </message>
     <message>
         <source>Site access</source>
-        <translation type="obsolete">サイトアクセス構成</translation>
+        <translation type="unfinished">サイトアクセス構成</translation>
     </message>
     <message>
         <source>Site details</source>
@@ -21336,7 +21587,7 @@ The default code was made from the basic parameters you chose.</source>
     </message>
     <message>
         <source>Site template selection</source>
-        <translation type="obsolete">サイトテンプレートの選択</translation>
+        <translation type="unfinished">サイトテンプレートの選択</translation>
     </message>
     <message>
         <source>System check</source>
@@ -21752,7 +22003,7 @@ To fix this problem you must do one of the following:</source>
     </message>
     <message>
         <source>Site selection</source>
-        <translation type="obsolete">サイトパッケージ</translation>
+        <translation type="unfinished">サイトパッケージ</translation>
     </message>
     <message>
         <source>You need to fill in the first name.</source>
@@ -21842,11 +22093,11 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>Please make sure that the username and the password is correct. Verify that your PostgreSQL database is configured correctly.&lt;br&gt;See the PHP documentation for more information about this.&lt;br&gt;Remember to start postmaster with the -i option.&lt;br&gt;Note that PostgreSQL 7.2 is not supported.</source>
-        <translation type="obsolete">ユーザ名とパスワードが間違っていないか確認してください。PostgreSQL データベースが適性に構成されているか確認してください。&lt;br&gt;これらの問題の詳細については、PHP ドキュメントを参照してください。&lt;br&gt;postmaster の起動時には、必ず i オプションを指定してください。&lt;br&gt; 注意: PostgreSQL 7.2 はサポートしていません。</translation>
+        <translation type="unfinished">ユーザ名とパスワードが間違っていないか確認してください。PostgreSQL データベースが適性に構成されているか確認してください。&lt;br&gt;これらの問題の詳細については、PHP ドキュメントを参照してください。&lt;br&gt;postmaster の起動時には、必ず i オプションを指定してください。&lt;br&gt; 注意: PostgreSQL 7.2 はサポートしていません。</translation>
     </message>
     <message>
         <source>Your database version %version does not fit the minimum requirement which is %req_version.</source>
-        <translation type="obsolete">データベースのバージョンが %version です。必要条件のバージョン %req_version を満たしていません。</translation>
+        <translation type="unfinished">データベースのバージョンが %version です。必要条件のバージョン %req_version を満たしていません。</translation>
     </message>
     <message>
         <source>The setup wizard was not able to complete the creation of your selected sites.</source>
@@ -21879,23 +22130,23 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>Cannot write to file</source>
-        <translation type="obsolete">ファイルへの書き込みができません</translation>
+        <translation type="unfinished">ファイルへの書き込みができません</translation>
     </message>
     <message>
         <source>Download of package &apos;%pkg&apos; failed. You may upload the package manually.</source>
-        <translation type="obsolete">パッケージ &apos;%pkg&apos; のダウンロードに失敗しました。代替として手動でパッケージをアップロードしてください。</translation>
+        <translation type="unfinished">パッケージ &apos;%pkg&apos; のダウンロードに失敗しました。代替として手動でパッケージをアップロードしてください。</translation>
     </message>
     <message>
         <source>Invalid package</source>
-        <translation type="obsolete">無効なパッケージ</translation>
+        <translation type="unfinished">無効なパッケージ</translation>
     </message>
     <message>
         <source>No package selected for upload</source>
-        <translation type="obsolete">アップロードするパッケージが選択されていません</translation>
+        <translation type="unfinished">アップロードするパッケージが選択されていません</translation>
     </message>
     <message>
         <source>Failed fetching upload package file</source>
-        <translation type="obsolete">アップロードするパッケージファイルの取得に失敗しました</translation>
+        <translation type="unfinished">アップロードするパッケージファイルの取得に失敗しました</translation>
     </message>
     <message>
         <source>Site package</source>
@@ -21919,11 +22170,11 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>The database [%database_name] cannot be used, the setup wizard wants to create the site in [%req_charset] but the database has been created using character set [%charset]. You will have to choose a database having support for [%req_charset] or modify [%database_name] .</source>
-        <translation type="obsolete">データベース [%database_name] が使用できません。セットアップウィザードは文字セット [%req_charset] を使用してサイト作成を試みましたが、データベースは文字セット [%charset] により作成されています。 文字セット [%req_charset] をサポートするデータベースを選択し直すか、データベース [%database_name] の文字セットを変更してください。</translation>
+        <translation type="unfinished">データベース [%database_name] が使用できません。セットアップウィザードは文字セット [%req_charset] を使用してサイト作成を試みましたが、データベースは文字セット [%charset] により作成されています。 文字セット [%req_charset] をサポートするデータベースを選択し直すか、データベース [%database_name] の文字セットを変更してください。</translation>
     </message>
     <message>
         <source>Failed to copy %url to local file %filename</source>
-        <translation type="obsolete">%url をローカルファイル %filename にコピーすることに失敗しました</translation>
+        <translation type="unfinished">%url をローカルファイル %filename にコピーすることに失敗しました</translation>
     </message>
     <message>
         <source>Access method</source>
@@ -21947,7 +22198,7 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>Package &apos;%packageName&apos; and it&apos;s dependencies have been downloaded successfully. Press &apos;Next&apos; to continue.</source>
-        <translation type="obsolete">パッケージ &apos;%packageName&apos; とその依存ファイルのダウンロードに成功しました。 &apos;次へ&apos; をクリックしてください。</translation>
+        <translation type="unfinished">パッケージ &apos;%packageName&apos; とその依存ファイルのダウンロードに成功しました。 &apos;次へ&apos; をクリックしてください。</translation>
     </message>
     <message>
         <source>Use the radio buttons to choose the default language, and the checkboxes to choose additional languages. You will be able to use any of the selected languages for translating your content. The default language will determine the locale settings and will be used as the most prioritized language for your site.</source>
@@ -22019,7 +22270,7 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>The selected user has not got access to any databases. Change user or create a database for the user.</source>
-        <translation type="obsolete">選択されたユーザはデータベースにアクセス権限をもっていません。ユーザを変更するかユーザがアクセス出来るデータベースを作ってください。</translation>
+        <translation type="unfinished">選択されたユーザはデータベースにアクセス権限をもっていません。ユーザを変更するかユーザがアクセス出来るデータベースを作ってください。</translation>
     </message>
     <message>
         <source>The &apos;digest&apos; procedure is not available in your database, you cannot run eZ Publish without this. Visit the FAQ for more information.</source>
@@ -22031,27 +22282,27 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>No packages chosen.</source>
-        <translation type="obsolete">パッケージが選択されていません。</translation>
+        <translation type="unfinished">パッケージが選択されていません。</translation>
     </message>
     <message>
         <source>No templates chosen.</source>
-        <translation type="obsolete">テンプレートが選択されていません。</translation>
+        <translation type="unfinished">テンプレートが選択されていません。</translation>
     </message>
     <message>
         <source>Uploaded file is not an eZ Publish package</source>
-        <translation type="obsolete">アップロードされたファイルはeZ Publishのパッケージではありません</translation>
+        <translation type="unfinished">アップロードされたファイルはeZ Publishのパッケージではありません</translation>
     </message>
     <message>
         <source>No site package chosen.</source>
-        <translation type="obsolete">サイトパッケージが選択されていません。</translation>
+        <translation type="unfinished">サイトパッケージが選択されていません。</translation>
     </message>
     <message>
         <source>Retrieving remote site packages list failed. You may upload packages manually.</source>
-        <translation type="obsolete">サイトのパッケージリストの自動取得に失敗しました。パッケージのアップロードを手動で行う必要があります。</translation>
+        <translation type="unfinished">サイトのパッケージリストの自動取得に失敗しました。パッケージのアップロードを手動で行う必要があります。</translation>
     </message>
     <message>
         <source>Welcome to eZ Publish</source>
-        <translation type="obsolete">eZ Publishへようこそ</translation>
+        <translation type="unfinished">eZ Publishへようこそ</translation>
     </message>
     <message>
         <source>If you think you have fixed the errors you can try then click the &quot;Retry&quot; button.</source>
@@ -22296,7 +22547,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>The &apos;digest&apos; function is not available in your database, you cannot run eZ Publish without this. See the documentation for more information.</source>
-        <translation type="obsolete">データベースに&apos;ダイジェスト&apos;機能がついていません。この機能なしではeZ Publishを作動できません。</translation>
+        <translation type="unfinished">データベースに&apos;ダイジェスト&apos;機能がついていません。この機能なしではeZ Publishを作動できません。</translation>
     </message>
     <message>
         <source>MySQL support was detected on your system. Please choose the database driver you would like to use.</source>
@@ -22438,7 +22689,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished">タイムアウトを起こさない様にオペレーションが中止されました。</translation>
+        <translation type="obsolete">タイムアウトを起こさない様にオペレーションが中止されました。</translation>
     </message>
     <message>
         <source>Your alternatives are to:</source>
@@ -22455,6 +22706,14 @@ This functionality is also available at a later time from the Administration Int
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
         <translation type="unfinished">&apos;session_gc.php&apos;セッションをクリアするクロンジョブをインストールする（cronjob.iniに説明があります）</translation>
+    </message>
+    <message>
+        <source>The operation was cut short in order to avoid execution timeout.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your current session handler does not support session administration.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -23988,7 +24247,7 @@ Webサーバのユーザとグループを知っている場合は、ファイ�
     <name>design/standard/toolbar</name>
     <message>
         <source>Toolbar management</source>
-        <translation type="obsolete">ツールバー管理</translation>
+        <translation type="unfinished">ツールバー管理</translation>
     </message>
     <message>
         <source>There are %logged_in_count registered and %anonymous_count anonymous users online.</source>
@@ -24458,7 +24717,7 @@ Webサーバのユーザとグループを知っている場合は、ファイ�
     </message>
     <message>
         <source>The node (%1) specified in [UserSettings].DefaultUserPlacement setting in site.ini does not exist!</source>
-        <translation type="obsolete">ノード (%1) は[UserSettings] の中に示されています。 site.ini の中にデフォルトのユーザ設定は存在しません!</translation>
+        <translation type="unfinished">ノード (%1) は[UserSettings] の中に示されています。 site.ini の中にデフォルトのユーザ設定は存在しません!</translation>
     </message>
     <message>
         <source>Email</source>
@@ -25326,82 +25585,98 @@ your account.</source>
     <name>kernel/cache</name>
     <message>
         <source>Content view cache</source>
-        <translation type="obsolete">コンテンツ表示キャッシュ</translation>
+        <translation type="unfinished">コンテンツ表示キャッシュ</translation>
     </message>
     <message>
         <source>Global INI cache</source>
-        <translation type="obsolete">共通設定INI（構成）キャッシュ</translation>
+        <translation type="unfinished">共通設定INI（構成）キャッシュ</translation>
     </message>
     <message>
         <source>INI cache</source>
-        <translation type="obsolete">INIファイル（構成）キャッシュ</translation>
+        <translation type="unfinished">INIファイル（構成）キャッシュ</translation>
     </message>
     <message>
         <source>Codepage cache</source>
-        <translation type="obsolete">コードページキャッシュ</translation>
+        <translation type="unfinished">コードページキャッシュ</translation>
     </message>
     <message>
         <source>Class identifier cache</source>
-        <translation type="obsolete">クラス識別子キャッシュ</translation>
+        <translation type="unfinished">クラス識別子キャッシュ</translation>
     </message>
     <message>
         <source>Sort key cache</source>
-        <translation type="obsolete">ソート索引キャッシュ</translation>
+        <translation type="unfinished">ソート索引キャッシュ</translation>
     </message>
     <message>
         <source>URL alias cache</source>
-        <translation type="obsolete">URLエイリアスキャッシュ</translation>
+        <translation type="unfinished">URLエイリアスキャッシュ</translation>
     </message>
     <message>
         <source>Image alias</source>
-        <translation type="obsolete">画像別名</translation>
+        <translation type="unfinished">画像別名</translation>
     </message>
     <message>
         <source>Template cache</source>
-        <translation type="obsolete">テンプレートキャッシュ</translation>
+        <translation type="unfinished">テンプレートキャッシュ</translation>
     </message>
     <message>
         <source>Template block cache</source>
-        <translation type="obsolete">テンプレートブロックキャッシュ</translation>
+        <translation type="unfinished">テンプレートブロックキャッシュ</translation>
     </message>
     <message>
         <source>Template override cache</source>
-        <translation type="obsolete">テンプレートオーバーライドキャッシュ</translation>
+        <translation type="unfinished">テンプレートオーバーライドキャッシュ</translation>
     </message>
     <message>
         <source>RSS cache</source>
-        <translation type="obsolete">RSSキャッシュ</translation>
+        <translation type="unfinished">RSSキャッシュ</translation>
     </message>
     <message>
         <source>Character transformation cache</source>
-        <translation type="obsolete">システム文字置換キャッシュ</translation>
+        <translation type="unfinished">システム文字置換キャッシュ</translation>
     </message>
     <message>
         <source>User info cache</source>
-        <translation type="obsolete">ユーザ情報キャッシュ</translation>
+        <translation type="unfinished">ユーザ情報キャッシュ</translation>
     </message>
     <message>
         <source>Content tree menu (browser cache)</source>
-        <translation type="obsolete">コンテンツツリーメニュー（ブラウザキャッシュ）</translation>
+        <translation type="unfinished">コンテンツツリーメニュー（ブラウザキャッシュ）</translation>
     </message>
     <message>
         <source>State limitations cache</source>
-        <translation type="obsolete">ステート制限キャッシュ</translation>
+        <translation type="unfinished">ステート制限キャッシュ</translation>
+    </message>
+    <message>
+        <source>Text to image cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Design base cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Active extensions cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TS Translation cache</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/class</name>
     <message>
         <source>Class list of group</source>
-        <translation type="obsolete">クラスカテゴリのクラス一覧</translation>
+        <translation type="unfinished">クラスカテゴリのクラス一覧</translation>
     </message>
     <message>
         <source>Class group list</source>
-        <translation type="obsolete">クラスカテゴリ一覧</translation>
+        <translation type="unfinished">クラスカテゴリ一覧</translation>
     </message>
     <message>
         <source>Remove class</source>
-        <translation type="obsolete">クラスの削除</translation>
+        <translation type="unfinished">クラスの削除</translation>
     </message>
     <message>
         <source>Class edit</source>
@@ -25413,1015 +25688,1040 @@ your account.</source>
     </message>
     <message>
         <source>Class list</source>
-        <translation type="obsolete">クラス一覧</translation>
+        <translation type="unfinished">クラス一覧</translation>
     </message>
     <message>
         <source>(no classes)</source>
-        <translation type="obsolete">（クラスなし）</translation>
+        <translation type="unfinished">（クラスなし）</translation>
     </message>
     <message>
         <source>Remove class groups</source>
-        <translation type="obsolete">クラスカテゴリの削除</translation>
+        <translation type="unfinished">クラスカテゴリの削除</translation>
     </message>
     <message>
         <source>You have to have at least one group that the class belongs to!</source>
-        <translation type="obsolete">クラスは最低一つのクラスカテゴリに所属する必要があります!</translation>
+        <translation type="unfinished">クラスは最低一つのクラスカテゴリに所属する必要があります!</translation>
     </message>
     <message>
         <source>Remove classes %class_id</source>
-        <translation type="obsolete">クラス %class_id の削除</translation>
+        <translation type="unfinished">クラス %class_id の削除</translation>
     </message>
     <message>
         <source>Copy of %class_name</source>
-        <translation type="obsolete">%class_name の複製</translation>
+        <translation type="unfinished">%class_name の複製</translation>
     </message>
     <message>
         <source>The class should have nonempty &apos;Name&apos; attribute.</source>
-        <translation type="obsolete">クラスには入力必須の &apos;Name&apos; 属性が必要です。</translation>
+        <translation type="unfinished">クラスには入力必須の &apos;Name&apos; 属性が必要です。</translation>
     </message>
     <message>
         <source>The class should have at least one attribute.</source>
-        <translation type="obsolete">クラスには属性が一つ以上必要です。</translation>
+        <translation type="unfinished">クラスには属性が一つ以上必要です。</translation>
     </message>
     <message>
         <source>There is a class already having the same identifier.</source>
-        <translation type="obsolete">同じ識別子のクラスがすでに存在します。</translation>
+        <translation type="unfinished">同じ識別子のクラスがすでに存在します。</translation>
     </message>
     <message>
         <source>Remove translation</source>
-        <translation type="obsolete">翻訳を削除</translation>
+        <translation type="unfinished">翻訳を削除</translation>
     </message>
     <message>
         <source>Could not load datatype: </source>
-        <translation type="obsolete">データタイプをロードできません:</translation>
+        <translation type="unfinished">データタイプをロードできません:</translation>
     </message>
     <message>
         <source>Editing this content class may cause data corruption in your system.</source>
-        <translation type="obsolete">このコンテンツクラスを編集すると、データ損失の恐れがあります。</translation>
+        <translation type="unfinished">このコンテンツクラスを編集すると、データ損失の恐れがあります。</translation>
     </message>
     <message>
         <source>duplicate attribute placement</source>
-        <translation type="obsolete">属性の配置が不正です。</translation>
+        <translation type="unfinished">属性の配置が不正です。</translation>
     </message>
     <message>
         <source>duplicate attribute identifier</source>
-        <translation type="obsolete">属性の識別子が不正です。</translation>
+        <translation type="unfinished">属性の識別子が不正です。</translation>
     </message>
     <message>
         <source>Press &quot;Cancel&quot; to safely exit this operation.</source>
-        <translation type="obsolete">このオペレーションを安全に止めたい場合は、キャンセルをクリックして下さい。</translation>
+        <translation type="unfinished">このオペレーションを安全に止めたい場合は、キャンセルをクリックして下さい。</translation>
     </message>
     <message>
         <source>Please contact your eZ Publish administrator to solve this problem.</source>
-        <translation type="obsolete">この問題を解決するには、eZ Publish管理者へ連絡してください。</translation>
+        <translation type="unfinished">この問題を解決するには、eZ Publish管理者へ連絡してください。</translation>
+    </message>
+    <message>
+        <source>Class groups</source>
+        <translation type="unfinished">クラスカテゴリ</translation>
+    </message>
+    <message>
+        <source>Remove classes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/class/edit</name>
     <message>
         <source>New Class</source>
-        <translation type="obsolete">新規クラス</translation>
+        <translation type="unfinished">新規クラス</translation>
     </message>
     <message>
         <source>new attribute</source>
-        <translation type="obsolete">新規属性</translation>
+        <translation type="unfinished">新規属性</translation>
     </message>
 </context>
 <context>
     <name>kernel/class/groupedit</name>
     <message>
         <source>New Group</source>
-        <translation type="obsolete">新規クラスカテゴリ</translation>
+        <translation type="unfinished">新規クラスカテゴリ</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes</name>
     <message>
         <source>Approval</source>
-        <translation type="obsolete">承認状況</translation>
+        <translation type="unfinished">承認状況</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="obsolete">標準</translation>
+        <translation type="unfinished">標準</translation>
     </message>
     <message>
         <source>Observer</source>
-        <translation type="obsolete">オブザーバ</translation>
+        <translation type="unfinished">オブザーバ</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="obsolete">所有者</translation>
+        <translation type="unfinished">所有者</translation>
     </message>
     <message>
         <source>Approver</source>
-        <translation type="obsolete">承認者</translation>
+        <translation type="unfinished">承認者</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation type="obsolete">作成者</translation>
+        <translation type="unfinished">作成者</translation>
     </message>
     <message>
         <source>Inbox</source>
-        <translation type="obsolete">受信Box</translation>
+        <translation type="unfinished">受信Box</translation>
     </message>
     <message>
         <source>No state yet</source>
-        <translation type="obsolete">未ステータス</translation>
+        <translation type="unfinished">未ステータス</translation>
     </message>
     <message>
         <source>Workflow running</source>
-        <translation type="obsolete">ワークフローは実行中です</translation>
+        <translation type="unfinished">ワークフローは実行中です</translation>
     </message>
     <message>
         <source>Workflow done</source>
-        <translation type="obsolete">ワークフローは終了しました</translation>
+        <translation type="unfinished">ワークフローは終了しました</translation>
     </message>
     <message>
         <source>Workflow failed an event</source>
-        <translation type="obsolete">ワークフローはイベントでエラーが発生しました</translation>
+        <translation type="unfinished">ワークフローはイベントでエラーが発生しました</translation>
     </message>
     <message>
         <source>Workflow event deferred to cron job</source>
-        <translation type="obsolete">ワークフローイベントはクーロンジョブで延期されています</translation>
+        <translation type="unfinished">ワークフローイベントはクーロンジョブで延期されています</translation>
     </message>
     <message>
         <source>Workflow was reset for reuse</source>
-        <translation type="obsolete">ワークフローは再使用のためにリセットされました</translation>
+        <translation type="unfinished">ワークフローは再使用のためにリセットされました</translation>
     </message>
     <message>
         <source>Accepted event</source>
-        <translation type="obsolete">承認されたイベント</translation>
+        <translation type="unfinished">承認されたイベント</translation>
     </message>
     <message>
         <source>Rejected event</source>
-        <translation type="obsolete">否認されたイベント</translation>
+        <translation type="unfinished">否認されたイベント</translation>
     </message>
     <message>
         <source>Event deferred to cron job</source>
-        <translation type="obsolete">イベントはクーロンジョブで延期されています</translation>
+        <translation type="unfinished">イベントはクーロンジョブで延期されています</translation>
     </message>
     <message>
         <source>Event deferred to cron job, event will be rerun</source>
-        <translation type="obsolete">ワークフローイベントはクーロンジョブで延期されています。イベントは再実行されます。</translation>
+        <translation type="unfinished">ワークフローイベントはクーロンジョブで延期されています。イベントは再実行されます。</translation>
     </message>
     <message>
         <source>Event runs a sub event</source>
-        <translation type="obsolete">イベントは子イベントを実行中です</translation>
+        <translation type="unfinished">イベントは子イベントを実行中です</translation>
     </message>
     <message>
         <source>Workflow fetches template</source>
-        <translation type="obsolete">ワークフローはテンプレートを取得します</translation>
+        <translation type="unfinished">ワークフローはテンプレートを取得します</translation>
     </message>
     <message>
         <source>Workflow redirects user view</source>
-        <translation type="obsolete">ワークフローはユーザビューにリダイレクトします</translation>
+        <translation type="unfinished">ワークフローはユーザビューにリダイレクトします</translation>
     </message>
     <message>
         <source>New RSS Export</source>
-        <translation type="obsolete">新規RSSエクスポート</translation>
+        <translation type="unfinished">新規RSSエクスポート</translation>
     </message>
     <message>
         <source>Workflow was canceled</source>
-        <translation type="obsolete">ワークフローを中止しました</translation>
+        <translation type="unfinished">ワークフローを中止しました</translation>
     </message>
     <message>
         <source>Canceled whole workflow</source>
-        <translation type="obsolete">ワークフローを全体的に中止しました</translation>
+        <translation type="unfinished">ワークフローを全体的に中止しました</translation>
     </message>
     <message>
         <source>Replace existing object</source>
-        <translation type="obsolete">既存オブジェクトに上書きする</translation>
+        <translation type="unfinished">既存オブジェクトに上書きする</translation>
     </message>
     <message>
         <source>Skip object</source>
-        <translation type="obsolete">オブジェクトをスキップ</translation>
+        <translation type="unfinished">オブジェクトをスキップ</translation>
     </message>
     <message>
         <source>Keep existing and create a new one</source>
-        <translation type="obsolete">既存のものを残し、新たに作成する</translation>
+        <translation type="unfinished">既存のものを残し、新たに作成する</translation>
     </message>
     <message>
         <source>Update existing object</source>
-        <translation type="obsolete">既存オブジェクトを更新</translation>
+        <translation type="unfinished">既存オブジェクトを更新</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes</name>
     <message>
         <source>Missing date input.</source>
-        <translation type="obsolete">日付が未入力です。</translation>
+        <translation type="unfinished">日付が未入力です。</translation>
     </message>
     <message>
         <source>Missing datetime input.</source>
-        <translation type="obsolete">日付と時刻が未入力です。</translation>
+        <translation type="unfinished">日付と時刻が未入力です。</translation>
     </message>
     <message>
         <source>At least one author is required.</source>
-        <translation type="obsolete">作成者が一名以上必要です。</translation>
+        <translation type="unfinished">作成者が一名以上必要です。</translation>
     </message>
     <message>
         <source>A valid file is required.</source>
-        <translation type="obsolete">有効なファイルが必要です。</translation>
+        <translation type="unfinished">有効なファイルが必要です。</translation>
     </message>
     <message>
         <source>Checkbox</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">チェックボックス</translation>
+        <translation type="unfinished">チェックボックス</translation>
     </message>
     <message>
         <source>Enum</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">リスト</translation>
+        <translation type="unfinished">リスト</translation>
     </message>
     <message>
         <source>At least one field should be chosen.</source>
-        <translation type="obsolete">一つ以上フィールドを選択してください。</translation>
+        <translation type="unfinished">一つ以上フィールドを選択してください。</translation>
     </message>
     <message>
         <source>Float</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">浮動小数点数</translation>
+        <translation type="unfinished">浮動小数点数</translation>
     </message>
     <message>
         <source>Image</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">画像</translation>
+        <translation type="unfinished">画像</translation>
     </message>
     <message>
         <source>Integer</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">整数</translation>
+        <translation type="unfinished">整数</translation>
     </message>
     <message>
         <source>ISBN</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">ISBN</translation>
+        <translation type="unfinished">ISBN</translation>
     </message>
     <message>
         <source>Matrix</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">行列</translation>
+        <translation type="unfinished">行列</translation>
     </message>
     <message>
         <source>Media</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">メディア</translation>
+        <translation type="unfinished">メディア</translation>
     </message>
     <message>
         <source>Object relation</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">関連オブジェクト</translation>
+        <translation type="unfinished">関連オブジェクト</translation>
     </message>
     <message>
         <source>Option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">オプションリスト</translation>
+        <translation type="unfinished">オプションリスト</translation>
     </message>
     <message>
         <source>At least one option is required.</source>
-        <translation type="obsolete">一つ以上のオプションが必要です。</translation>
+        <translation type="unfinished">一つ以上のオプションが必要です。</translation>
     </message>
     <message>
         <source>Price</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">価格</translation>
+        <translation type="unfinished">価格</translation>
     </message>
     <message>
         <source>Add to basket</source>
-        <translation type="obsolete">買い物かごに追加</translation>
+        <translation type="unfinished">買い物かごに追加</translation>
     </message>
     <message>
         <source>Add to wish list</source>
-        <translation type="obsolete">ウイッシュリストに追加</translation>
+        <translation type="unfinished">ウイッシュリストに追加</translation>
     </message>
     <message>
         <source>Range option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">数値範囲</translation>
+        <translation type="unfinished">数値範囲</translation>
     </message>
     <message>
         <source>Selection</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">選択リスト</translation>
+        <translation type="unfinished">選択リスト</translation>
     </message>
     <message>
         <source>Text line</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">テキスト</translation>
+        <translation type="unfinished">テキスト</translation>
     </message>
     <message>
         <source>Subtree subscription</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">サブツリーサブクスクリプション</translation>
+        <translation type="unfinished">サブツリーサブクスクリプション</translation>
     </message>
     <message>
         <source>URL</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">URL</translation>
+        <translation type="unfinished">URL</translation>
     </message>
     <message>
         <source>User account</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">ユーザ</translation>
+        <translation type="unfinished">ユーザ</translation>
     </message>
     <message>
         <source>A user with this email already exists.</source>
-        <translation type="obsolete">このメールアドレスはすでに登録されています。</translation>
+        <translation type="unfinished">このメールアドレスはすでに登録されています。</translation>
     </message>
     <message>
         <source>Identifier</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">識別子</translation>
+        <translation type="unfinished">識別子</translation>
     </message>
     <message>
         <source>image</source>
         <comment>Default image name</comment>
-        <translation type="obsolete">画像</translation>
+        <translation type="unfinished">画像</translation>
     </message>
     <message>
         <source>Ini Setting</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">INI設定</translation>
+        <translation type="unfinished">INI設定</translation>
     </message>
     <message>
         <source>Package</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">パッケージ</translation>
+        <translation type="unfinished">パッケージ</translation>
     </message>
     <message>
         <source>Send</source>
         <comment>Datatype information collector action</comment>
-        <translation type="obsolete">送信</translation>
+        <translation type="unfinished">送信</translation>
     </message>
     <message>
         <source>Content required</source>
-        <translation type="obsolete">コンテンツは必須項目です</translation>
+        <translation type="unfinished">コンテンツは必須項目です</translation>
     </message>
     <message>
         <source>Missing objectrelation input.</source>
-        <translation type="obsolete">オブジェクトリレーションが未入力です。</translation>
+        <translation type="unfinished">オブジェクトリレーションが未入力です。</translation>
     </message>
     <message>
         <source>Invalid time.</source>
-        <translation type="obsolete">時刻が無効です。</translation>
+        <translation type="unfinished">時刻が無効です。</translation>
     </message>
     <message>
         <source>The author name must be provided.</source>
-        <translation type="obsolete">作成者名が必要です。</translation>
+        <translation type="unfinished">作成者名が必要です。</translation>
     </message>
     <message>
         <source>The email address is not valid.</source>
-        <translation type="obsolete">メールアドレスが正しくありません。</translation>
+        <translation type="unfinished">メールアドレスが正しくありません。</translation>
     </message>
     <message>
         <source>File uploading is not enabled. Please contact the site administrator to enable it.</source>
-        <translation type="obsolete">ファイルアップロードができません。サイト管理者に連絡してください。</translation>
+        <translation type="unfinished">ファイルアップロードができません。サイト管理者に連絡してください。</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set by the upload_max_filesize directive in php.ini.</source>
-        <translation type="obsolete">アップロードした画像のサイズは、php.iniのupload_max_filesizeディレクティブで設定された制限を越えています。</translation>
+        <translation type="unfinished">アップロードした画像のサイズは、php.iniのupload_max_filesizeディレクティブで設定された制限を越えています。</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the maximum upload size: %1 bytes.</source>
-        <translation type="obsolete">アップロードしたサイズはこのサイトの制限である %1 バイトを超えています。</translation>
+        <translation type="unfinished">アップロードしたサイズはこのサイトの制限である %1 バイトを超えています。</translation>
     </message>
     <message>
         <source>The email address is empty.</source>
-        <translation type="obsolete">メールアドレスが未入力です。</translation>
+        <translation type="unfinished">メールアドレスが未入力です。</translation>
     </message>
     <message>
         <source>The given input is not a floating point number.</source>
-        <translation type="obsolete">入力は浮動小数点数ではありません。</translation>
+        <translation type="unfinished">入力は浮動小数点数ではありません。</translation>
     </message>
     <message>
         <source>The input must be greater than %1</source>
-        <translation type="obsolete">入力値は %1 より大きい数値が必要です</translation>
+        <translation type="unfinished">入力値は %1 より大きい数値が必要です</translation>
     </message>
     <message>
         <source>The input must be less than %1</source>
-        <translation type="obsolete">入力値は %1 より小さい数値が必要です</translation>
+        <translation type="unfinished">入力値は %1 より小さい数値が必要です</translation>
     </message>
     <message>
         <source>The input is not in defined range %1 - %2</source>
-        <translation type="obsolete">入力値が定義範囲（ %1 - %2 ）外です</translation>
+        <translation type="unfinished">入力値が定義範囲（ %1 - %2 ）外です</translation>
     </message>
     <message>
         <source>A valid image file is required.</source>
-        <translation type="obsolete">有効な画像ファイルが必要です。</translation>
+        <translation type="unfinished">有効な画像ファイルが必要です。</translation>
     </message>
     <message>
         <source>The size of the uploaded image exceeds limit set by upload_max_filesize directive in php.ini. Please contact the site administrator.</source>
-        <translation type="obsolete">アップロードした画像のサイズは、php.ini の upload_max_filesize ディレクティブで設定された制限を超えています。サイト管理者に連絡してください。</translation>
+        <translation type="unfinished">アップロードした画像のサイズは、php.ini の upload_max_filesize ディレクティブで設定された制限を超えています。サイト管理者に連絡してください。</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
-        <translation type="obsolete">アップロードしたファイルはこのサイトの制限である %1 バイトを超えています。</translation>
+        <translation type="unfinished">アップロードしたファイルはこのサイトの制限である %1 バイトを超えています。</translation>
     </message>
     <message>
         <source>Could not locate the ini file.</source>
-        <translation type="obsolete">INIファイルを配置できません。</translation>
+        <translation type="unfinished">INIファイルを配置できません。</translation>
     </message>
     <message>
         <source>The input is not a valid integer.</source>
-        <translation type="obsolete">入力は有効な整数ではありません。</translation>
+        <translation type="unfinished">入力は有効な整数ではありません。</translation>
     </message>
     <message>
         <source>The number must be greater than %1</source>
-        <translation type="obsolete">数値は %1 より大きい必要があります</translation>
+        <translation type="unfinished">数値は %1 より大きい必要があります</translation>
     </message>
     <message>
         <source>The number must be less than %1</source>
-        <translation type="obsolete">数値は %1 より小さい必要があります</translation>
+        <translation type="unfinished">数値は %1 より小さい必要があります</translation>
     </message>
     <message>
         <source>The number is not within the required range %1 - %2</source>
-        <translation type="obsolete">数値が定義範囲（ %1 - %2 ）外です</translation>
+        <translation type="unfinished">数値が定義範囲（ %1 - %2 ）外です</translation>
     </message>
     <message>
         <source>The ISBN number is not correct. Please check the input for mistakes.</source>
-        <translation type="obsolete">ISBN番号が正しくありません。誤りを確認してください。</translation>
+        <translation type="unfinished">ISBN番号が正しくありません。誤りを確認してください。</translation>
     </message>
     <message>
         <source>A valid media file is required.</source>
-        <translation type="obsolete">有効なメディアファイルが必要です。</translation>
+        <translation type="unfinished">有効なメディアファイルが必要です。</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set by upload_max_filesize directive in php.ini. Please contact the site administrator.</source>
-        <translation type="obsolete">アップロードした画像のサイズは、php.ini の upload_max_filesize ディレクティブで設定された制限を超えています。サイト管理者に連絡してください。</translation>
+        <translation type="unfinished">アップロードした画像のサイズは、php.ini の upload_max_filesize ディレクティブで設定された制限を超えています。サイト管理者に連絡してください。</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds site maximum: %1 bytes.</source>
-        <translation type="obsolete">アップロードしたファイルは最大サイズ%1バイトを超えています。</translation>
+        <translation type="unfinished">アップロードしたファイルは最大サイズ%1バイトを超えています。</translation>
     </message>
     <message>
         <source>The option value must be provided.</source>
-        <translation type="obsolete">オプションは必ず設定してください。</translation>
+        <translation type="unfinished">オプションは必ず設定してください。</translation>
     </message>
     <message>
         <source>The additional price for the multioption value is not valid.</source>
-        <translation type="obsolete">マルチオプションの価格設定が無効です。</translation>
+        <translation type="unfinished">マルチオプションの価格設定が無効です。</translation>
     </message>
     <message>
         <source>The Additional price value is not valid.</source>
-        <translation type="obsolete">価格設定が無効です。</translation>
+        <translation type="unfinished">価格設定が無効です。</translation>
     </message>
     <message>
         <source>Input required.</source>
-        <translation type="obsolete">入力必須項目です。</translation>
+        <translation type="unfinished">入力必須項目です。</translation>
     </message>
     <message>
         <source>The input text is too long. The maximum number of characters allowed is %1.</source>
-        <translation type="obsolete">入力したテキストが長すぎます。最大文字数は %1 文字です。</translation>
+        <translation type="unfinished">入力したテキストが長すぎます。最大文字数は %1 文字です。</translation>
     </message>
     <message>
         <source>Time input required.</source>
-        <translation type="obsolete">時刻は入力必須です。</translation>
+        <translation type="unfinished">時刻は入力必須です。</translation>
     </message>
     <message>
         <source>The username must be specified.</source>
-        <translation type="obsolete">ユーザ名を必ず指定してください。</translation>
+        <translation type="unfinished">ユーザ名を必ず指定してください。</translation>
     </message>
     <message>
         <source>The username already exists, please choose another one.</source>
-        <translation type="obsolete">このユーザ名は既に使用されています。異なるユーザ名を選んで下さい。</translation>
+        <translation type="unfinished">このユーザ名は既に使用されています。異なるユーザ名を選んで下さい。</translation>
     </message>
     <message>
         <source>The passwords do not match.</source>
         <comment>eZUserType</comment>
-        <translation type="obsolete">パスワードが一致しません。</translation>
+        <translation type="unfinished">パスワードが一致しません。</translation>
     </message>
     <message>
         <source>Cannot remove the account:</source>
-        <translation type="obsolete">ユーザを削除できません:</translation>
+        <translation type="unfinished">ユーザを削除できません:</translation>
     </message>
     <message>
         <source>The account owner is currently logged in.</source>
-        <translation type="obsolete">所有者は現在ログイン中です。</translation>
+        <translation type="unfinished">所有者は現在ログイン中です。</translation>
     </message>
     <message>
         <source>The account is currently used by the anonymous user.</source>
-        <translation type="obsolete">現在匿名ユーザにより使用されています。</translation>
+        <translation type="unfinished">現在匿名ユーザにより使用されています。</translation>
     </message>
     <message>
         <source>Multi-option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">マルチオプションリスト</translation>
+        <translation type="unfinished">マルチオプションリスト</translation>
     </message>
     <message>
         <source>Authors</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">作成者</translation>
+        <translation type="unfinished">作成者</translation>
     </message>
     <message>
         <source>File</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">ファイル</translation>
+        <translation type="unfinished">ファイル</translation>
     </message>
     <message>
         <source>Date</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">日付</translation>
+        <translation type="unfinished">日付</translation>
     </message>
     <message>
         <source>Date and time</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">日付と時刻</translation>
+        <translation type="unfinished">日付と時刻</translation>
     </message>
     <message>
         <source>Keywords</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">キーワード</translation>
+        <translation type="unfinished">キーワード</translation>
     </message>
     <message>
         <source>Object relations</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">関連オブジェクト（複数）</translation>
+        <translation type="unfinished">関連オブジェクト（複数）</translation>
     </message>
     <message>
         <source>Text block</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">テキストボックス</translation>
+        <translation type="unfinished">テキストボックス</translation>
     </message>
     <message>
         <source>Time</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">時刻</translation>
+        <translation type="unfinished">時刻</translation>
     </message>
     <message>
         <source>XML block</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">XMLタグ</translation>
+        <translation type="unfinished">XMLタグ</translation>
     </message>
     <message>
         <source>Object %1 can not be embeded to itself.</source>
-        <translation type="obsolete">オブジェクト %1 を自身に埋め込むことはできません。</translation>
+        <translation type="unfinished">オブジェクト %1 を自身に埋め込むことはできません。</translation>
     </message>
     <message>
         <source>Country</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">国名</translation>
+        <translation type="unfinished">国名</translation>
     </message>
     <message>
         <source>Date is not valid.</source>
-        <translation type="obsolete">日付が無効です。</translation>
+        <translation type="unfinished">日付が無効です。</translation>
     </message>
     <message>
         <source>Time is not valid.</source>
-        <translation type="obsolete">時刻が無効です。</translation>
+        <translation type="unfinished">時刻が無効です。</translation>
     </message>
     <message>
         <source>The image file must have non-zero size.</source>
-        <translation type="obsolete">画像ファイルにゼロサイズは指定できません。</translation>
+        <translation type="unfinished">画像ファイルにゼロサイズは指定できません。</translation>
     </message>
     <message>
         <source>Wrong text field value.</source>
-        <translation type="obsolete">テキストボックス値に誤りがあります。</translation>
+        <translation type="unfinished">テキストボックス値に誤りがあります。</translation>
     </message>
     <message>
         <source>Missing matrix input.</source>
-        <translation type="obsolete">マトリックス入力が未入力です。</translation>
+        <translation type="unfinished">マトリックス入力が未入力です。</translation>
     </message>
     <message>
         <source>Multi-price</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">複数価格</translation>
+        <translation type="unfinished">複数価格</translation>
     </message>
     <message>
         <source>Invalid price for &apos;%currencyCode&apos; currency </source>
-        <translation type="obsolete">&apos;%currencyCode&apos; 通貨で無効な価格です</translation>
+        <translation type="unfinished">&apos;%currencyCode&apos; 通貨で無効な価格です</translation>
     </message>
     <message>
         <source>Missing objectrelation list input.</source>
-        <translation type="obsolete">オブジェクトリレーションが未入力です。</translation>
+        <translation type="unfinished">オブジェクトリレーションが未入力です。</translation>
     </message>
     <message>
         <source>NAME is required.</source>
-        <translation type="obsolete">名前は入力必須です。</translation>
+        <translation type="unfinished">名前は入力必須です。</translation>
     </message>
     <message>
         <source>Invalid price.</source>
-        <translation type="obsolete">不正な価格です。</translation>
+        <translation type="unfinished">不正な価格です。</translation>
     </message>
     <message>
         <source>Product category</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">商品カテゴリ</translation>
+        <translation type="unfinished">商品カテゴリ</translation>
     </message>
     <message>
         <source>Dynamic VAT cannot be included.</source>
-        <translation type="obsolete">ダイナミック課税方法を含めることはできません。</translation>
+        <translation type="unfinished">ダイナミック課税方法を含めることはできません。</translation>
     </message>
     <message>
         <source>Missing range option input.</source>
-        <translation type="obsolete">数値範囲が未入力です。</translation>
+        <translation type="unfinished">数値範囲が未入力です。</translation>
     </message>
     <message>
         <source>Option set name is required.</source>
-        <translation type="obsolete">オプションセット名が必要です。</translation>
+        <translation type="unfinished">オプションセット名が必要です。</translation>
     </message>
     <message>
         <source>The password must be at least %1 characters long.</source>
-        <translation type="obsolete">パスワードは最低%1文字必要です。</translation>
+        <translation type="unfinished">パスワードは最低%1文字必要です。</translation>
     </message>
     <message>
         <source>Invalid reference in &amp;lt;embed&amp;gt; tag. Note that &lt;embed&gt; tag supports only &apos;eznode&apos; and &apos;ezobject&apos; protocols.</source>
-        <translation type="obsolete">&amp;lt;embed&amp;gt; タグの参照先が無効です。&lt;embed&gt; タグは &apos;eznode&apos; と &apos;ezobject&apos; プロトコルのみをサポートします。</translation>
+        <translation type="unfinished">&amp;lt;embed&amp;gt; タグの参照先が無効です。&lt;embed&gt; タグは &apos;eznode&apos; と &apos;ezobject&apos; プロトコルのみをサポートします。</translation>
     </message>
     <message>
         <source>The ISBN number is not correct. </source>
-        <translation type="obsolete">ISBN番号が正しくありません。</translation>
+        <translation type="unfinished">ISBN番号が正しくありません。</translation>
     </message>
     <message>
         <source>13 digit ISBN must start with 978 or 979</source>
-        <translation type="obsolete">13桁のISBN番号は978または979で始まるはずです</translation>
+        <translation type="unfinished">13桁のISBN番号は978または979で始まるはずです</translation>
     </message>
     <message>
         <source>ISBN length is invalid</source>
-        <translation type="obsolete">ISBN番号の長さが正しくありません。</translation>
+        <translation type="unfinished">ISBN番号の長さが正しくありません。</translation>
     </message>
     <message>
         <source>Email</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">e-mail</translation>
+        <translation type="unfinished">e-mail</translation>
     </message>
     <message>
         <source>The registrant element of the ISBN number does not exist.</source>
-        <translation type="obsolete">ISBN番号の登録要素は存在しません。</translation>
+        <translation type="unfinished">ISBN番号の登録要素は存在しません。</translation>
     </message>
     <message>
         <source>The ISBN number has a incorrect registration group number.</source>
-        <translation type="obsolete">ISBN番号の登録グループナンバーが正しく有りません。</translation>
+        <translation type="unfinished">ISBN番号の登録グループナンバーが正しく有りません。</translation>
     </message>
     <message>
         <source>The group element of the ISBN number does not exist.</source>
-        <translation type="obsolete">ISBN番号のグループ要素は存在しません。</translation>
+        <translation type="unfinished">ISBN番号のグループ要素は存在しません。</translation>
     </message>
     <message>
         <source>%1 is not a valid prefix of the ISBN number.</source>
-        <translation type="obsolete">%1は有効なISBN番号の数字ではありません。</translation>
+        <translation type="unfinished">%1は有効なISBN番号の数字ではありません。</translation>
     </message>
     <message>
         <source>All ISBN 13 characters need to be numeric</source>
-        <translation type="obsolete">すべてのISBN文字は数字である必要があります</translation>
+        <translation type="unfinished">すべてのISBN文字は数字である必要があります</translation>
     </message>
     <message>
         <source>Bad checksum, last digit should be %1</source>
-        <translation type="obsolete">チェックサムが正しくありません。最後の数字は%1になるはずです。</translation>
+        <translation type="unfinished">チェックサムが正しくありません。最後の数字は%1になるはずです。</translation>
     </message>
     <message>
         <source>The ISBN number should be ISBN13, but seems to be ISBN10.</source>
-        <translation type="obsolete">ISBN番号はISBN13である必要がありますが、入力されたものはISBN10のようです。</translation>
+        <translation type="unfinished">ISBN番号はISBN13である必要がありますが、入力されたものはISBN10のようです。</translation>
     </message>
     <message>
         <source>Multi-option2</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">マルチオプションリスト2</translation>
+        <translation type="unfinished">マルチオプションリスト2</translation>
     </message>
     <message>
         <source>You cannot choose option value &quot;%1&quot; from &quot;%2&quot; because it is unselectable </source>
-        <translation type="obsolete">選択不可能であるため、&quot;%2&quot;から&quot;%1&quot;オプションを選択することはできません  </translation>
+        <translation type="unfinished">選択不可能であるため、&quot;%2&quot;から&quot;%1&quot;オプションを選択することはできません  </translation>
     </message>
     <message>
         <source>You cannot choose option value &quot;%1&quot; from &quot;%2&quot;  
  if you selected option &quot;%3&quot; from &quot;%4&quot; </source>
-        <translation type="obsolete">&quot;%4&quot;からオプション&quot;%3&quot;を選択した場合、&quot;%2&quot;からオプション&quot;%1&quot;を選択することはできません  </translation>
+        <translation type="unfinished">&quot;%4&quot;からオプション&quot;%3&quot;を選択した場合、&quot;%2&quot;からオプション&quot;%1&quot;を選択することはできません  </translation>
     </message>
     <message>
         <source>The password must not be &quot;password&quot;.</source>
-        <translation type="obsolete">”password”をパスワードには設定出来ません。</translation>
+        <translation type="unfinished">”password”をパスワードには設定出来ません。</translation>
     </message>
     <message>
         <source>The account is currently used the administrator user.</source>
-        <translation type="obsolete">このアカウントは現在、管理者ユーザに使われてます。</translation>
+        <translation type="unfinished">このアカウントは現在、管理者ユーザに使われてます。</translation>
     </message>
     <message>
         <source>You cannot remove the last class holding user accounts.</source>
-        <translation type="obsolete">ユーザアカウントを持っている最後のクラスは削除できません。</translation>
+        <translation type="unfinished">ユーザアカウントを持っている最後のクラスは削除できません。</translation>
     </message>
     <message>
         <source>Missing email input.</source>
-        <translation type="obsolete">メールアドレスが未入力です。</translation>
+        <translation type="unfinished">メールアドレスが未入力です。</translation>
     </message>
     <message>
         <source>Input required</source>
-        <translation type="obsolete">入力必須項目</translation>
+        <translation type="unfinished">入力必須項目</translation>
+    </message>
+    <message>
+        <source>The password cannot be empty.</source>
+        <comment>eZUserType</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezbinaryfile</name>
     <message>
         <source>Failed to store file %filename. Please contact the site administrator.</source>
-        <translation type="obsolete">%filename ファイルの保存に失敗しました。サイト管理者に連絡してください。</translation>
+        <translation type="unfinished">%filename ファイルの保存に失敗しました。サイト管理者に連絡してください。</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezimage</name>
     <message>
         <source>Failed to fetch Image Handler. Please contact the site administrator.</source>
-        <translation type="obsolete">画像ハンドラの取得に失敗しました。サイト管理者に連絡してください。</translation>
+        <translation type="unfinished">画像ハンドラの取得に失敗しました。サイト管理者に連絡してください。</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezmedia</name>
     <message>
         <source>Failed to store media file %filename. Please contact the site administrator.</source>
-        <translation type="obsolete">%filename メディアファイルの保存に失敗しました。サイト管理者に連絡してください。</translation>
+        <translation type="unfinished">%filename メディアファイルの保存に失敗しました。サイト管理者に連絡してください。</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezxmltext</name>
     <message>
         <source>Wrong closing tag</source>
-        <translation type="obsolete">終了タグが間違っています</translation>
+        <translation type="unfinished">終了タグが間違っています</translation>
     </message>
     <message>
         <source>Wrong closing tag : &amp;lt;/%1&amp;gt;.</source>
-        <translation type="obsolete">終了タグが間違っています: &amp;lt;/%1&amp;gt;</translation>
+        <translation type="unfinished">終了タグが間違っています: &amp;lt;/%1&amp;gt;</translation>
     </message>
     <message>
         <source>Wrong opening tag</source>
-        <translation type="obsolete">開始タグが間違っています</translation>
+        <translation type="unfinished">開始タグが間違っています</translation>
     </message>
     <message>
         <source>Unknown tag: &amp;lt;%1&amp;gt;.</source>
-        <translation type="obsolete">不明なタグ: &amp;lt;%1&amp;gt;</translation>
+        <translation type="unfinished">不明なタグ: &amp;lt;%1&amp;gt;</translation>
     </message>
     <message>
         <source>Can&apos;t convert tag&apos;s name: &amp;lt;%1&amp;gt;.</source>
-        <translation type="obsolete">タグ名を変換できません: &amp;lt;%1&amp;gt;</translation>
+        <translation type="unfinished">タグ名を変換できません: &amp;lt;%1&amp;gt;</translation>
     </message>
     <message>
         <source>Class &apos;%1&apos; is not allowed for element &amp;lt;%2&amp;gt; (check content.ini).</source>
-        <translation type="obsolete">&amp;lt;%2&amp;gt; では&apos;%1&apos;クラスは利用出来ません (content.iniを確認してください)。</translation>
+        <translation type="unfinished">&amp;lt;%2&amp;gt; では&apos;%1&apos;クラスは利用出来ません (content.iniを確認してください)。</translation>
     </message>
     <message>
         <source>Required attribute &apos;%1&apos; is not presented in tag &amp;lt;%2&amp;gt;.</source>
-        <translation type="obsolete">&amp;lt;%2&amp;gt;に必要な&apos;%1&apos;属性が存在しません。</translation>
+        <translation type="unfinished">&amp;lt;%2&amp;gt;に必要な&apos;%1&apos;属性が存在しません。</translation>
     </message>
     <message>
         <source>Custom tag &apos;%1&apos; is not allowed.</source>
-        <translation type="obsolete">&apos;%1&apos;カスタムタグは許可されていません。</translation>
+        <translation type="unfinished">&apos;%1&apos;カスタムタグは許可されていません。</translation>
     </message>
     <message>
         <source>&amp;lt;%1&amp;gt; tag can&apos;t be empty.</source>
-        <translation type="obsolete">&amp;lt;%1&amp;gt;は空にすることはできません。</translation>
+        <translation type="unfinished">&amp;lt;%1&amp;gt;は空にすることはできません。</translation>
     </message>
     <message>
         <source>%1 is not allowed to be a child of &amp;lt;%2&amp;gt;.</source>
-        <translation type="obsolete">%1は&amp;lt;%2&amp;gt;に含まれることはできません。</translation>
+        <translation type="unfinished">%1は&amp;lt;%2&amp;gt;に含まれることはできません。</translation>
     </message>
     <message>
         <source>Attribute &apos;%1&apos; is not allowed in &amp;lt;%2&amp;gt; element.</source>
-        <translation type="obsolete">&amp;lt;%2&amp;gt;要素には&apos;%1&apos;属性は使用できません。</translation>
+        <translation type="unfinished">&amp;lt;%2&amp;gt;要素には&apos;%1&apos;属性は使用できません。</translation>
     </message>
     <message>
         <source>Incorrect headers nesting</source>
-        <translation type="obsolete">不正なヘッダー入れ子</translation>
+        <translation type="unfinished">不正なヘッダー入れ子</translation>
     </message>
     <message>
         <source>Node &apos;%1&apos; does not exist.</source>
-        <translation type="obsolete">&apos;%1&apos;ノードは存在しません。</translation>
+        <translation type="unfinished">&apos;%1&apos;ノードは存在しません。</translation>
     </message>
     <message>
         <source>Using scripts in links is not allowed, link &apos;%1&apos; has been removed</source>
-        <translation type="obsolete">リンク内でのスクリプトの使用は出来ません。&apos;%1&apos;リンクは削除されました。</translation>
+        <translation type="unfinished">リンク内でのスクリプトの使用は出来ません。&apos;%1&apos;リンクは削除されました。</translation>
     </message>
     <message>
         <source>Invalid e-mail address: &apos;%1&apos;</source>
-        <translation type="obsolete">不正なe-mailアドレス: &apos;%1&apos;</translation>
+        <translation type="unfinished">不正なe-mailアドレス: &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Object %1 can not be embeded to itself.</source>
-        <translation type="obsolete">オブジェクト %1 を自身に埋め込むことはできません。</translation>
+        <translation type="unfinished">オブジェクト %1 を自身に埋め込むことはできません。</translation>
     </message>
 </context>
 <context>
     <name>kernel/collaboration</name>
     <message>
         <source>Collaboration custom action</source>
-        <translation type="obsolete">カスタム協同作業</translation>
+        <translation type="unfinished">カスタム協同作業</translation>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation type="obsolete">協同作業</translation>
+        <translation type="unfinished">協同作業</translation>
     </message>
 </context>
 <context>
     <name>kernel/content</name>
     <message>
         <source>Search</source>
-        <translation type="obsolete">検索</translation>
+        <translation type="unfinished">検索</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="obsolete">検索オプション</translation>
+        <translation type="unfinished">検索オプション</translation>
     </message>
     <message>
         <source>No main node selected, please select one.</source>
-        <translation type="obsolete">主ノードが選択されていません。選択してください。</translation>
+        <translation type="unfinished">主ノードが選択されていません。選択してください。</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation type="obsolete">コンテンツ</translation>
+        <translation type="unfinished">コンテンツ</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">編集</translation>
+        <translation type="unfinished">編集</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="obsolete">複製</translation>
+        <translation type="unfinished">複製</translation>
     </message>
     <message>
         <source>My drafts</source>
-        <translation type="obsolete">下書き</translation>
+        <translation type="unfinished">下書き</translation>
     </message>
     <message>
         <source>Remove editing version</source>
-        <translation type="obsolete">編集中バージョンの削除</translation>
+        <translation type="unfinished">編集中バージョンの削除</translation>
     </message>
     <message>
         <source>Remove object</source>
-        <translation type="obsolete">オブジェクトの削除</translation>
+        <translation type="unfinished">オブジェクトの削除</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="obsolete">翻訳</translation>
+        <translation type="unfinished">翻訳</translation>
     </message>
     <message>
         <source>Content translations</source>
-        <translation type="obsolete">コンテンツ翻訳</translation>
+        <translation type="unfinished">コンテンツ翻訳</translation>
     </message>
     <message>
         <source>Trash</source>
-        <translation type="obsolete">ゴミ箱</translation>
+        <translation type="unfinished">ゴミ箱</translation>
     </message>
     <message>
         <source>Versions</source>
-        <translation type="obsolete">バージョン一覧</translation>
+        <translation type="unfinished">バージョン一覧</translation>
     </message>
     <message>
         <source>My bookmarks</source>
-        <translation type="obsolete">ブックマーク</translation>
+        <translation type="unfinished">ブックマーク</translation>
     </message>
     <message>
         <source>Tip from %1: %2</source>
-        <translation type="obsolete">%1 からの紹介: %2</translation>
+        <translation type="unfinished">%1 からの紹介: %2</translation>
     </message>
     <message>
         <source>The email address of the sender is not valid</source>
-        <translation type="obsolete">送信者のメールアドレスが不正です</translation>
+        <translation type="unfinished">送信者のメールアドレスが不正です</translation>
     </message>
     <message>
         <source>The email address of the receiver is not valid</source>
-        <translation type="obsolete">受信者のメールアドレスが不正です</translation>
+        <translation type="unfinished">受信者のメールアドレスが不正です</translation>
     </message>
     <message>
         <source>Tip a friend</source>
-        <translation type="obsolete">友達に教える</translation>
+        <translation type="unfinished">友達に教える</translation>
     </message>
     <message>
         <source>My pending list</source>
-        <translation type="obsolete">保留アイテム</translation>
+        <translation type="unfinished">保留アイテム</translation>
     </message>
     <message>
         <source>Keywords</source>
-        <translation type="obsolete">キーワード</translation>
+        <translation type="unfinished">キーワード</translation>
     </message>
     <message>
         <source>Top Level Nodes</source>
-        <translation type="obsolete">トップレベルノード</translation>
+        <translation type="unfinished">トップレベルノード</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="obsolete">非表示</translation>
+        <translation type="unfinished">非表示</translation>
     </message>
     <message>
         <source>Hidden by superior</source>
-        <translation type="obsolete">権限を持つユーザによる非表示</translation>
+        <translation type="unfinished">権限を持つユーザによる非表示</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="obsolete">表示</translation>
+        <translation type="unfinished">表示</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation type="obsolete">メディア</translation>
+        <translation type="unfinished">メディア</translation>
     </message>
     <message>
         <source>A node in the node assignment list has been deleted.</source>
-        <translation type="obsolete">ノード割当リストのノードが削除されました。</translation>
+        <translation type="unfinished">ノード割当リストのノードが削除されました。</translation>
     </message>
     <message>
         <source>Copy subtree</source>
-        <translation type="obsolete">サブツリーを複製</translation>
+        <translation type="unfinished">サブツリーを複製</translation>
     </message>
     <message>
         <source>Differences</source>
-        <translation type="obsolete">違い</translation>
+        <translation type="unfinished">違い</translation>
     </message>
     <message>
         <source>Class identifier</source>
-        <translation type="obsolete">クラス識別子</translation>
+        <translation type="unfinished">クラス識別子</translation>
     </message>
     <message>
         <source>Class name</source>
-        <translation type="obsolete">クラス名</translation>
+        <translation type="unfinished">クラス名</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="obsolete">階層</translation>
+        <translation type="unfinished">階層</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="obsolete">修正日時</translation>
+        <translation type="unfinished">修正日時</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">名前</translation>
+        <translation type="unfinished">名前</translation>
     </message>
     <message>
         <source>Path String</source>
-        <translation type="obsolete">パスストリング</translation>
+        <translation type="unfinished">パスストリング</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation type="obsolete">優先度</translation>
+        <translation type="unfinished">優先度</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation type="obsolete">公開日時</translation>
+        <translation type="unfinished">公開日時</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="obsolete">セクション</translation>
+        <translation type="unfinished">セクション</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="obsolete">履歴</translation>
+        <translation type="unfinished">履歴</translation>
     </message>
     <message>
         <source>New content</source>
-        <translation type="obsolete">新規コンテンツ</translation>
+        <translation type="unfinished">新規コンテンツ</translation>
     </message>
     <message>
         <source>You are not allowed to place this object under: %1</source>
-        <translation type="obsolete">このオブジェクトを次のオブジェクトの下に置くことは出来ません: </translation>
+        <translation type="unfinished">このオブジェクトを次のオブジェクトの下に置くことは出来ません: </translation>
     </message>
     <message>
         <source>Remove location</source>
-        <translation type="obsolete">配置先の削除</translation>
+        <translation type="unfinished">配置先の削除</translation>
     </message>
     <message>
         <source>&quot;$contentObjectName&quot;: Sub items that are used by other objects</source>
-        <translation type="obsolete">&quot;$contentObjectName&quot; : 他のオブジェクトによって使用されているサブアイテム</translation>
+        <translation type="unfinished">&quot;$contentObjectName&quot; : 他のオブジェクトによって使用されているサブアイテム</translation>
     </message>
     <message>
         <source>The receiver has already received the maximum number of tipafriend mails the last hours</source>
-        <translation type="obsolete">指定の受信者は、既に最大限の「友達に教える」メールを受信しています。</translation>
+        <translation type="unfinished">指定の受信者は、既に最大限の「友達に教える」メールを受信しています。</translation>
     </message>
     <message>
         <source>Remove translation</source>
-        <translation type="obsolete">翻訳を削除</translation>
+        <translation type="unfinished">翻訳を削除</translation>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="obsolete">言語</translation>
+        <translation type="unfinished">言語</translation>
     </message>
     <message>
         <source>You do not have enough rights to access the requested node</source>
-        <translation type="obsolete">リクエストされたノードにアクセスする権限を持っていません。</translation>
+        <translation type="unfinished">リクエストされたノードにアクセスする権限を持っていません。</translation>
     </message>
     <message>
         <source>Version preview</source>
-        <translation type="obsolete">バージョンプレビュー</translation>
+        <translation type="unfinished">バージョンプレビュー</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">エラー</translation>
+        <translation type="unfinished">エラー</translation>
+    </message>
+    <message>
+        <source>The request sent to the server was too big to be accepted. This probably means that you uploaded a file which was too big. The maximum allowed request size is %max_size_string.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dashboard</source>
+        <translation type="unfinished">ダッシュボード</translation>
+    </message>
+    <message>
+        <source>You have already sent a tipafriend mail to this receiver regarding &apos;%1&apos; content</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/content/copysubtree</name>
     <message>
         <source>Object (ID = %1) was not copied: you do not have permission to read the object.</source>
-        <translation type="obsolete">オブジェクト(ID = %1)は複製されませんでした。このオブジェクトを表示する権限を持っていません。</translation>
+        <translation type="unfinished">オブジェクト(ID = %1)は複製されませんでした。このオブジェクトを表示する権限を持っていません。</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: you do not have permission to read object (ID = %2).</source>
-        <translation type="obsolete">オブジェクト(ID = %1)は複製されませんでした。オブジェクト(ID = %2)を表示する権限を持っていません。</translation>
+        <translation type="unfinished">オブジェクト(ID = %1)は複製されませんでした。オブジェクト(ID = %2)を表示する権限を持っていません。</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: parent node (ID = %2) was not copied.</source>
-        <translation type="obsolete">オブジェクト(ID = %1)は複製されませんでした。親ノード(ID = %2)が複製されていません。</translation>
+        <translation type="unfinished">オブジェクト(ID = %1)は複製されませんでした。親ノード(ID = %2)が複製されていません。</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: you do not have permission to create.</source>
-        <translation type="obsolete">オブジェクト(ID = %1)は複製されませんでした。作成する権限を持っていません。</translation>
+        <translation type="unfinished">オブジェクト(ID = %1)は複製されませんでした。作成する権限を持っていません。</translation>
     </message>
     <message>
         <source>Object (ID = %1) was not copied: no one nodes of object was not copied.</source>
-        <translation type="obsolete">オブジェクト(ID = %1)は複製されませんでした。オブジェクトのノードはどれも複製されていません。</translation>
+        <translation type="unfinished">オブジェクト(ID = %1)は複製されませんでした。オブジェクトのノードはどれも複製されていません。</translation>
     </message>
     <message>
         <source>Cannot publish object (ID = %1).</source>
@@ -26429,39 +26729,43 @@ your account.</source>
     </message>
     <message>
         <source>Fatal error: cannot get subtree main node (ID = %1).</source>
-        <translation type="obsolete">致命的なエラー: サブツリーのメインノード (ID = %1)を取得出来ません。</translation>
+        <translation type="unfinished">致命的なエラー: サブツリーのメインノード (ID = %1)を取得出来ません。</translation>
     </message>
     <message>
         <source>Fatal error: cannot get destination node (ID = %1).</source>
-        <translation type="obsolete">致命的なエラー: 対象ノード(ID = %1)を取得出来ません。</translation>
+        <translation type="unfinished">致命的なエラー: 対象ノード(ID = %1)を取得出来ません。</translation>
     </message>
     <message>
         <source>Number of nodes of source subtree - %1</source>
-        <translation type="obsolete">ソースサブツリーのノードの数 - %1</translation>
+        <translation type="unfinished">ソースサブツリーのノードの数 - %1</translation>
     </message>
     <message>
         <source>Subtree was not copied.</source>
-        <translation type="obsolete">サブツリーは複製されませんでした。</translation>
+        <translation type="unfinished">サブツリーは複製されませんでした。</translation>
     </message>
     <message>
         <source>Number of copied nodes - %1</source>
-        <translation type="obsolete">複製されたノードの数 - %1</translation>
+        <translation type="unfinished">複製されたノードの数 - %1</translation>
     </message>
     <message>
         <source>Number of copied contentobjects - %1</source>
-        <translation type="obsolete">複製されたコンテンツオブジェクトの数 - %1</translation>
+        <translation type="unfinished">複製されたコンテンツオブジェクトの数 - %1</translation>
     </message>
     <message>
         <source>Cannot create instance of eZDB to fix local links (related objects).</source>
-        <translation type="obsolete">内部リンク（関連オブジェクト）を修正するeZDB のインスタンス生成ができません。</translation>
+        <translation type="unfinished">内部リンク（関連オブジェクト）を修正するeZDB のインスタンス生成ができません。</translation>
     </message>
     <message>
         <source>Successfully DONE.</source>
-        <translation type="obsolete">無事完了</translation>
+        <translation type="unfinished">無事完了</translation>
     </message>
     <message>
         <source>You are trying to copy a subtree that contains more than the maximum possible nodes for subtree copying. You can copy this subtree using Subtree Copy script.</source>
-        <translation type="obsolete">サブツリーの複製で許容されている最大限のノード数を超えるノードを持つサブツリーを複製しようとしています。このサブツリーは、Subtree Copyスクリプトを利用して複製することが出来ます。</translation>
+        <translation type="unfinished">サブツリーの複製で許容されている最大限のノード数を超えるノードを持つサブツリーを複製しようとしています。このサブツリーは、Subtree Copyスクリプトを利用して複製することが出来ます。</translation>
+    </message>
+    <message>
+        <source>Cannot publish object (Name: %1, ID: %2).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -26469,172 +26773,172 @@ your account.</source>
     <message>
         <source>child</source>
         <comment>1 child</comment>
-        <translation type="obsolete">子アイテム</translation>
+        <translation type="unfinished">子アイテム</translation>
     </message>
     <message>
         <source>children</source>
         <comment>several children</comment>
-        <translation type="obsolete">子アイテム</translation>
+        <translation type="unfinished">子アイテム</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/restore</name>
     <message>
         <source>Restore object</source>
-        <translation type="obsolete">オブジェクトを復元する</translation>
+        <translation type="unfinished">オブジェクトを復元する</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/upload</name>
     <message>
         <source>The file %filename does not exist, cannot insert file.</source>
-        <translation type="obsolete">ファイル %filenameは存在しません。ファイルを挿入出来ません。</translation>
+        <translation type="unfinished">ファイル %filenameは存在しません。ファイルを挿入出来ません。</translation>
     </message>
     <message>
         <source>There was an error trying to instantiate content upload handler.</source>
-        <translation type="obsolete">コンテンツアップロードハンドラのインスタンス化時にエラーが発生しました. </translation>
+        <translation type="unfinished">コンテンツアップロードハンドラのインスタンス化時にエラーが発生しました. </translation>
     </message>
     <message>
         <source>No matching class identifier found.</source>
-        <translation type="obsolete">一致するクラス識別子は見つかりませんでした。</translation>
+        <translation type="unfinished">一致するクラス識別子は見つかりませんでした。</translation>
     </message>
     <message>
         <source>The class %class_identifier does not exist.</source>
-        <translation type="obsolete">クラス%class_identifierは存在しません。</translation>
+        <translation type="unfinished">クラス%class_identifierは存在しません。</translation>
     </message>
     <message>
         <source>Was not able to figure out placement of object.</source>
-        <translation type="obsolete">オブジェクトの配置先を見つけることが出来ませんでした。</translation>
+        <translation type="unfinished">オブジェクトの配置先を見つけることが出来ませんでした。</translation>
     </message>
     <message>
         <source>Permission denied</source>
-        <translation type="obsolete">承認は拒否されました。</translation>
+        <translation type="unfinished">承認は拒否されました。</translation>
     </message>
     <message>
         <source>No configuration group in upload.ini for class identifier %class_identifier.</source>
-        <translation type="obsolete">upload.iniにクラス識別子%class_identifierの設定グループが見つかりません。</translation>
+        <translation type="unfinished">upload.iniにクラス識別子%class_identifierの設定グループが見つかりません。</translation>
     </message>
     <message>
         <source>No matching file attribute found, cannot create content object without this.</source>
-        <translation type="obsolete">一致するファイル属性が見つかりません。コンテンツオブジェクトを作成することは出来ません。</translation>
+        <translation type="unfinished">一致するファイル属性が見つかりません。コンテンツオブジェクトを作成することは出来ません。</translation>
     </message>
     <message>
         <source>No matching name attribute found, cannot create content object without this.</source>
-        <translation type="obsolete">一致する名前属性が見つかりません。コンテンツオブジェクトを作成することは出来ません。</translation>
+        <translation type="unfinished">一致する名前属性が見つかりません。コンテンツオブジェクトを作成することは出来ません。</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support regular file storage.</source>
-        <translation type="obsolete">属性%class_identifierは通常のファイルストレージをサポートしません。</translation>
+        <translation type="unfinished">属性%class_identifierは通常のファイルストレージをサポートしません。</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support simple string storage.</source>
-        <translation type="obsolete">属性%class_identifierは単純文字列ストレージをサポートしていません。</translation>
+        <translation type="unfinished">属性%class_identifierは単純文字列ストレージをサポートしていません。</translation>
     </message>
     <message>
         <source>No HTTP file found, cannot fetch uploaded file.</source>
-        <translation type="obsolete">HTTPファイルが見つかりません。アップロードされたファイルを取得することが出来ません。</translation>
+        <translation type="unfinished">HTTPファイルが見つかりません。アップロードされたファイルを取得することが出来ません。</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
-        <translation type="obsolete">アップロードしたファイルはこのサイトの制限である %1 バイトを超えています。</translation>
+        <translation type="unfinished">アップロードしたファイルはこのサイトの制限である %1 バイトを超えています。</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support HTTP file storage.</source>
-        <translation type="obsolete">属性%class_identifierはHTTPファイルストレージをサポートしていません。</translation>
+        <translation type="unfinished">属性%class_identifierはHTTPファイルストレージをサポートしていません。</translation>
     </message>
     <message>
         <source>Publishing of content object was halted.</source>
-        <translation type="obsolete">コンテンツオブジェクトの公開は停止されました。</translation>
+        <translation type="unfinished">コンテンツオブジェクトの公開は停止されました。</translation>
     </message>
     <message>
         <source>Publish process was cancelled.</source>
-        <translation type="obsolete">公開プロセスはキャンセルされました。</translation>
+        <translation type="unfinished">公開プロセスはキャンセルされました。</translation>
     </message>
     <message>
         <source>A file is required for upload, no file were found.</source>
-        <translation type="obsolete">アップロードにはファイルが必要です。ファイルが見つかりません。</translation>
+        <translation type="unfinished">アップロードにはファイルが必要です。ファイルが見つかりません。</translation>
     </message>
     <message>
         <source>Expected a eZHTTPFile object but got nothing.</source>
-        <translation type="obsolete">eZHTTPFileオブジェクトを期待しましたが、何も見つかりませんでした。</translation>
+        <translation type="unfinished">eZHTTPFileオブジェクトを期待しましたが、何も見つかりませんでした。</translation>
     </message>
     <message>
         <source>Could not find content upload handler &apos;%handler_name&apos;</source>
-        <translation type="obsolete">コンテンツアップロードハンドラ &apos;%handler_name&apos; が見つかりません</translation>
+        <translation type="unfinished">コンテンツアップロードハンドラ &apos;%handler_name&apos; が見つかりません</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/urlalias_global</name>
     <message>
         <source>Global URL aliases</source>
-        <translation type="obsolete">グローバルURLエイリアス</translation>
+        <translation type="unfinished">グローバルURLエイリアス</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/urlalias_wildcard</name>
     <message>
         <source>URL wildcard aliases</source>
-        <translation type="obsolete">URLエイリアスのワイルドカード</translation>
+        <translation type="unfinished">URLエイリアスのワイルドカード</translation>
     </message>
 </context>
 <context>
     <name>kernel/contentclass</name>
     <message>
         <source>New %1</source>
-        <translation type="obsolete">新規%1</translation>
+        <translation type="unfinished">新規%1</translation>
     </message>
     <message>
         <source>Cannot remove class &apos;%class_name&apos;:</source>
-        <translation type="obsolete">クラス&apos;%class_name&apos;を削除出来ません: </translation>
+        <translation type="unfinished">クラス&apos;%class_name&apos;を削除出来ません: </translation>
     </message>
     <message>
         <source>The class is used by a top-level node and cannot be removed.</source>
-        <translation type="obsolete">このクラスはトップレベルノードによって使用されているため削除出来ません。</translation>
+        <translation type="unfinished">このクラスはトップレベルノードによって使用されているため削除出来ません。</translation>
     </message>
 </context>
 <context>
     <name>kernel/design</name>
     <message>
         <source>Template list</source>
-        <translation type="obsolete">テンプレートリスト</translation>
+        <translation type="unfinished">テンプレートリスト</translation>
     </message>
     <message>
         <source>Template view</source>
-        <translation type="obsolete">テンプレート概要</translation>
+        <translation type="unfinished">テンプレート概要</translation>
     </message>
     <message>
         <source>Create new template</source>
-        <translation type="obsolete">新規テンプレートの作成</translation>
+        <translation type="unfinished">新規テンプレートの作成</translation>
     </message>
     <message>
         <source>Template edit</source>
-        <translation type="obsolete">テンプレートの編集</translation>
+        <translation type="unfinished">テンプレートの編集</translation>
     </message>
     <message>
         <source>Toolbar list</source>
-        <translation type="obsolete">ツールバーリスト</translation>
+        <translation type="unfinished">ツールバーリスト</translation>
     </message>
 </context>
 <context>
     <name>kernel/error</name>
     <message>
         <source>Error</source>
-        <translation type="obsolete">エラー</translation>
+        <translation type="unfinished">エラー</translation>
     </message>
 </context>
 <context>
     <name>kernel/ezinfo</name>
     <message>
         <source>Info</source>
-        <translation type="obsolete">Info</translation>
+        <translation type="unfinished">Info</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="obsolete">About</translation>
+        <translation type="unfinished">About</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="obsolete">Copyright</translation>
+        <translation type="unfinished">Copyright</translation>
     </message>
 </context>
 <context>
@@ -26648,7 +26952,7 @@ your account.</source>
     <name>kernel/infocollector</name>
     <message>
         <source>Collected information</source>
-        <translation type="obsolete">収集された情報</translation>
+        <translation type="unfinished">収集された情報</translation>
     </message>
 </context>
 <context>
@@ -26656,483 +26960,483 @@ your account.</source>
     <message>
         <source>Content structure</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">コンテンツツリー</translation>
+        <translation type="unfinished">コンテンツツリー</translation>
     </message>
     <message>
         <source>Media library</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">メディアリソース</translation>
+        <translation type="unfinished">メディアリソース</translation>
     </message>
     <message>
         <source>User accounts</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">ユーザ管理</translation>
+        <translation type="unfinished">ユーザ管理</translation>
     </message>
     <message>
         <source>Webshop</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">ウエブショップ</translation>
+        <translation type="unfinished">ウエブショップ</translation>
     </message>
     <message>
         <source>Design</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">デザイン</translation>
+        <translation type="unfinished">デザイン</translation>
     </message>
     <message>
         <source>Setup</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">システム設定</translation>
+        <translation type="unfinished">システム設定</translation>
     </message>
     <message>
         <source>My account</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Myデスク</translation>
+        <translation type="unfinished">Myデスク</translation>
     </message>
 </context>
 <context>
     <name>kernel/notification</name>
     <message>
         <source>Notification settings</source>
-        <translation type="obsolete">通知設定</translation>
+        <translation type="unfinished">通知設定</translation>
     </message>
 </context>
 <context>
     <name>kernel/package</name>
     <message>
         <source>Lead</source>
-        <translation type="obsolete">リード</translation>
+        <translation type="unfinished">リード</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="obsolete">ディベロッパー</translation>
+        <translation type="unfinished">ディベロッパー</translation>
     </message>
     <message>
         <source>Designer</source>
-        <translation type="obsolete">デザイナー</translation>
+        <translation type="unfinished">デザイナー</translation>
     </message>
     <message>
         <source>Contributor</source>
-        <translation type="obsolete">コントリビュータ</translation>
+        <translation type="unfinished">コントリビュータ</translation>
     </message>
     <message>
         <source>Tester</source>
-        <translation type="obsolete">テスター</translation>
+        <translation type="unfinished">テスター</translation>
     </message>
     <message>
         <source>Local</source>
-        <translation type="obsolete">ローカル</translation>
+        <translation type="unfinished">ローカル</translation>
     </message>
     <message>
         <source>Package information</source>
-        <translation type="obsolete">パッケージプロパティ</translation>
+        <translation type="unfinished">パッケージプロパティ</translation>
     </message>
     <message>
         <source>Package maintainer</source>
-        <translation type="obsolete">パッケージ保守管理者</translation>
+        <translation type="unfinished">パッケージ保守管理者</translation>
     </message>
     <message>
         <source>Package changelog</source>
-        <translation type="obsolete">パッケージ変更履歴</translation>
+        <translation type="unfinished">パッケージ変更履歴</translation>
     </message>
     <message>
         <source>Package thumbnail</source>
-        <translation type="obsolete">パッケージのサムネール画像</translation>
+        <translation type="unfinished">パッケージのサムネール画像</translation>
     </message>
     <message>
         <source>Package name</source>
-        <translation type="obsolete">パッケージ名</translation>
+        <translation type="unfinished">パッケージ名</translation>
     </message>
     <message>
         <source>Package name is missing</source>
-        <translation type="obsolete">パッケージ名が未入力です</translation>
+        <translation type="unfinished">パッケージ名が未入力です</translation>
     </message>
     <message>
         <source>A package named %packagename already exists, please give another name</source>
-        <translation type="obsolete"> %packagenameというパッケージ名は既に利用されています。他の名前を選択して下さい。</translation>
+        <translation type="unfinished"> %packagenameというパッケージ名は既に利用されています。他の名前を選択して下さい。</translation>
     </message>
     <message>
         <source>The package name %packagename is not valid, it can only contain characters in the range a-z, 0-9 and underscore.</source>
-        <translation type="obsolete">パッケージ名、%packagenameは不正です。パッケージ名にはアルファベット、数字、アンダースコアのみ利用出来ます。</translation>
+        <translation type="unfinished">パッケージ名、%packagenameは不正です。パッケージ名にはアルファベット、数字、アンダースコアのみ利用出来ます。</translation>
     </message>
     <message>
         <source>Summary</source>
-        <translation type="obsolete">サマリ</translation>
+        <translation type="unfinished">サマリ</translation>
     </message>
     <message>
         <source>Summary is missing</source>
-        <translation type="obsolete">サマリが未入力です</translation>
+        <translation type="unfinished">サマリが未入力です</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="obsolete">バージョン</translation>
+        <translation type="unfinished">バージョン</translation>
     </message>
     <message>
         <source>The version must only contain numbers (optionally followed by text) and must be delimited by dots (.), e.g. 1.0, 3.4.0beta1</source>
-        <translation type="obsolete">バージョンは数字（末尾のテキストは許される）とドットのみで構成しなければなりません。例えば: 1.0や3.4.0beta1</translation>
+        <translation type="unfinished">バージョンは数字（末尾のテキストは許される）とドットのみで構成しなければなりません。例えば: 1.0や3.4.0beta1</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">名前</translation>
+        <translation type="unfinished">名前</translation>
     </message>
     <message>
         <source>You must enter a name for the changelog</source>
-        <translation type="obsolete">変更履歴の名前（作成者）は必須入力です</translation>
+        <translation type="unfinished">変更履歴の名前（作成者）は必須入力です</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="obsolete">e-mail</translation>
+        <translation type="unfinished">e-mail</translation>
     </message>
     <message>
         <source>You must enter an email for the changelog</source>
-        <translation type="obsolete">変更履歴のe-mail（作成者）は必須入力です</translation>
+        <translation type="unfinished">変更履歴のe-mail（作成者）は必須入力です</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="obsolete">変更履歴</translation>
+        <translation type="unfinished">変更履歴</translation>
     </message>
     <message>
         <source>You must supply some text for the changelog entry</source>
-        <translation type="obsolete">変更点は必須入力です</translation>
+        <translation type="unfinished">変更点は必須入力です</translation>
     </message>
     <message>
         <source>You must enter a name of the maintainer</source>
-        <translation type="obsolete">保守管理者の名前は必須入力です。</translation>
+        <translation type="unfinished">保守管理者の名前は必須入力です。</translation>
     </message>
     <message>
         <source>You must enter an email address of the maintainer</source>
-        <translation type="obsolete">保守管理者のeメールアドレスは必須入力です</translation>
+        <translation type="unfinished">保守管理者のeメールアドレスは必須入力です</translation>
     </message>
     <message>
         <source>Content classes to include</source>
-        <translation type="obsolete">対象クラス</translation>
+        <translation type="unfinished">対象クラス</translation>
     </message>
     <message>
         <source>Content class export</source>
-        <translation type="obsolete">コンテンツクラスエクスポート</translation>
+        <translation type="unfinished">コンテンツクラスエクスポート</translation>
     </message>
     <message>
         <source>Class list</source>
-        <translation type="obsolete">クラス一覧</translation>
+        <translation type="unfinished">クラス一覧</translation>
     </message>
     <message>
         <source>You must select at least one class for inclusion</source>
-        <translation type="obsolete">エクスポートするクラスを一つ以上選択して下さい</translation>
+        <translation type="unfinished">エクスポートするクラスを一つ以上選択して下さい</translation>
     </message>
     <message>
         <source>Content objects to include</source>
-        <translation type="obsolete">対象コンテンツオブジェクト</translation>
+        <translation type="unfinished">対象コンテンツオブジェクト</translation>
     </message>
     <message>
         <source>Content object limits</source>
-        <translation type="obsolete">コンテンツオブジェクトの制限</translation>
+        <translation type="unfinished">コンテンツオブジェクトの制限</translation>
     </message>
     <message>
         <source>Content object export</source>
-        <translation type="obsolete">コンテンツオブジェクトエクスポート</translation>
+        <translation type="unfinished">コンテンツオブジェクトエクスポート</translation>
     </message>
     <message>
         <source>Selected nodes</source>
-        <translation type="obsolete">選択済みノード</translation>
+        <translation type="unfinished">選択済みノード</translation>
     </message>
     <message>
         <source>You must select one or more node(s)/subtree(s) for export.</source>
-        <translation type="obsolete">エクスポートするノード/サブツリーを一つ以上選択してください。</translation>
+        <translation type="unfinished">エクスポートするノード/サブツリーを一つ以上選択してください。</translation>
     </message>
     <message>
         <source>You must choose one or more languages.</source>
-        <translation type="obsolete">一つ以上の言語を選択してください。</translation>
+        <translation type="unfinished">一つ以上の言語を選択してください。</translation>
     </message>
     <message>
         <source>You must choose one or more site access.</source>
-        <translation type="obsolete">一つ以上のサイトアクセスを選択して下さい。</translation>
+        <translation type="unfinished">一つ以上のサイトアクセスを選択して下さい。</translation>
     </message>
     <message>
         <source>Extensions to include</source>
-        <translation type="obsolete">対象エクステンション</translation>
+        <translation type="unfinished">対象エクステンション</translation>
     </message>
     <message>
         <source>Extension export</source>
-        <translation type="obsolete">エクステンションエクスポート</translation>
+        <translation type="unfinished">エクステンションエクスポート</translation>
     </message>
     <message>
         <source>Extension list</source>
-        <translation type="obsolete">エクステンションリスト</translation>
+        <translation type="unfinished">エクステンションリスト</translation>
     </message>
     <message>
         <source>You must select at least one extension</source>
-        <translation type="obsolete">一つ以上のエクステンションを選択して下さい</translation>
+        <translation type="unfinished">一つ以上のエクステンションを選択して下さい</translation>
     </message>
     <message>
         <source>CSS files</source>
-        <translation type="obsolete">CSSファイル</translation>
+        <translation type="unfinished">CSSファイル</translation>
     </message>
     <message>
         <source>Image files</source>
-        <translation type="obsolete">画像ファイル</translation>
+        <translation type="unfinished">画像ファイル</translation>
     </message>
     <message>
         <source>Site style</source>
-        <translation type="obsolete">サイトスタイル</translation>
+        <translation type="unfinished">サイトスタイル</translation>
     </message>
     <message>
         <source>CSS file</source>
-        <translation type="obsolete">CSSファイル</translation>
+        <translation type="unfinished">CSSファイル</translation>
     </message>
     <message>
         <source>You must upload both CSS files</source>
-        <translation type="obsolete">両種のCSSファイルのアップロードが必要です</translation>
+        <translation type="unfinished">両種のCSSファイルのアップロードが必要です</translation>
     </message>
     <message>
         <source>File did not have a .css suffix, this is most likely not a CSS file</source>
-        <translation type="obsolete">ファイルの拡張子が .css とは異なります。CSSファイルではないようです。</translation>
+        <translation type="unfinished">ファイルの拡張子が .css とは異なります。CSSファイルではないようです。</translation>
     </message>
     <message>
         <source>Content class &apos;%classname&apos; (%classidentifier)</source>
-        <translation type="obsolete">コンテンツクラス&apos;%classname&apos; (%classidentifier)</translation>
+        <translation type="unfinished">コンテンツクラス&apos;%classname&apos; (%classidentifier)</translation>
     </message>
     <message>
         <source>Removing class &apos;%classname&apos; will result in the removal of %objectscount object(s) of this class and all their sub-items. Are you sure you want to uninstall it?</source>
-        <translation type="obsolete"> クラス&apos;%classname&apos; を削除すると、このクラスに属する%objectscount個のオブジェクトがそのサブアイテムと共に削除されます。削除しますか？</translation>
+        <translation type="unfinished"> クラス&apos;%classname&apos; を削除すると、このクラスに属する%objectscount個のオブジェクトがそのサブアイテムと共に削除されます。削除しますか？</translation>
     </message>
     <message>
         <source>Class &apos;%classname&apos; already exists.</source>
-        <translation type="obsolete">クラス &apos;%classname&apos; は既に存在します。</translation>
+        <translation type="unfinished">クラス &apos;%classname&apos; は既に存在します。</translation>
     </message>
     <message>
         <source>Replace existing class</source>
-        <translation type="obsolete">既存のクラスに上書きする</translation>
+        <translation type="unfinished">既存のクラスに上書きする</translation>
     </message>
     <message>
         <source>(Warning! $objectsCount content object(s) and their sub-items will be removed)</source>
-        <translation type="obsolete">（警告！ $objectsCount個のコンテンツオブジェクトとそのサブアイテムは削除されます）</translation>
+        <translation type="unfinished">（警告！ $objectsCount個のコンテンツオブジェクトとそのサブアイテムは削除されます）</translation>
     </message>
     <message>
         <source>Skip installing this class</source>
-        <translation type="obsolete">このクラスのインストールをスキップ</translation>
+        <translation type="unfinished">このクラスのインストールをスキップ</translation>
     </message>
     <message>
         <source>Keep existing and create a new one</source>
-        <translation type="obsolete">既存のものを残し、新たに作成する</translation>
+        <translation type="unfinished">既存のものを残し、新たに作成する</translation>
     </message>
     <message>
         <source>%number content objects</source>
-        <translation type="obsolete">%number 個のコンテンツ・オブジェクト</translation>
+        <translation type="unfinished">%number 個のコンテンツ・オブジェクト</translation>
     </message>
     <message>
         <source>Content object %objectname</source>
-        <translation type="obsolete">コンテンツオブジェクト %objectname</translation>
+        <translation type="unfinished">コンテンツオブジェクト %objectname</translation>
     </message>
     <message>
         <source>Object &apos;%objectname&apos; has been modified since installation. Are you sure you want to remove it?</source>
-        <translation type="obsolete">オブジェクト  &apos;%objectname&apos; はインストール以来修正されています。削除してもよろしいですか?</translation>
+        <translation type="unfinished">オブジェクト  &apos;%objectname&apos; はインストール以来修正されています。削除してもよろしいですか?</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="obsolete">削除</translation>
+        <translation type="unfinished">削除</translation>
     </message>
     <message>
         <source>Keep object</source>
-        <translation type="obsolete">オブジェクトを保持する</translation>
+        <translation type="unfinished">オブジェクトを保持する</translation>
     </message>
     <message>
         <source>Object &apos;%objectname&apos; has %childrencount sub-item(s) that will be removed.</source>
-        <translation type="obsolete">オブジェクト&apos;%objectname&apos; には 削除される %childrencount個のサブアイテムがあります。</translation>
+        <translation type="unfinished">オブジェクト&apos;%objectname&apos; には 削除される %childrencount個のサブアイテムがあります。</translation>
     </message>
     <message>
         <source>Remove object and its sub-item(s)</source>
-        <translation type="obsolete">オブジェクトとそのサブアイテムを削除する。</translation>
+        <translation type="unfinished">オブジェクトとそのサブアイテムを削除する。</translation>
     </message>
     <message>
         <source>Extension &apos;%extensionname&apos;</source>
-        <translation type="obsolete">エクステンション &apos;%extensionname&apos;</translation>
+        <translation type="unfinished">エクステンション &apos;%extensionname&apos;</translation>
     </message>
     <message>
         <source>Package contains an invalid extension name: %extensionname</source>
-        <translation type="obsolete">パッケージに不正なエクステンション名が含まれています:  %extensionname</translation>
+        <translation type="unfinished">パッケージに不正なエクステンション名が含まれています:  %extensionname</translation>
     </message>
     <message>
         <source>Extension &apos;%extensionname&apos; already exists.</source>
-        <translation type="obsolete">エクステンション名 &apos;%extensionname&apos;は既に存在します。</translation>
+        <translation type="unfinished">エクステンション名 &apos;%extensionname&apos;は既に存在します。</translation>
     </message>
     <message>
         <source>Replace extension</source>
-        <translation type="obsolete">既存のエクステンションに上書きする。</translation>
+        <translation type="unfinished">既存のエクステンションに上書きする。</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="obsolete">スキップする</translation>
+        <translation type="unfinished">スキップする</translation>
     </message>
     <message>
         <source>Install script: %description</source>
-        <translation type="obsolete">インストールスクリプト: %description</translation>
+        <translation type="unfinished">インストールスクリプト: %description</translation>
     </message>
     <message>
         <source>Site access mapping</source>
-        <translation type="obsolete">サイトアクセスの割り当て</translation>
+        <translation type="unfinished">サイトアクセスの割り当て</translation>
     </message>
     <message>
         <source>Top node placements</source>
-        <translation type="obsolete">トップノードの配置</translation>
+        <translation type="unfinished">トップノードの配置</translation>
     </message>
     <message>
         <source>Advanced options</source>
-        <translation type="obsolete">その他のオプション</translation>
+        <translation type="unfinished">その他のオプション</translation>
     </message>
     <message>
         <source>Content object import</source>
-        <translation type="obsolete">コンテンツオブジェクトインポート</translation>
+        <translation type="unfinished">コンテンツオブジェクトインポート</translation>
     </message>
     <message>
         <source>Select parent nodes</source>
-        <translation type="obsolete">親ノードの選択</translation>
+        <translation type="unfinished">親ノードの選択</translation>
     </message>
     <message>
         <source>You must assign all nodes to new parent nodes.</source>
-        <translation type="obsolete">すべてのノードを新しい親ノードに割り当てる必要があります。</translation>
+        <translation type="unfinished">すべてのノードを新しい親ノードに割り当てる必要があります。</translation>
     </message>
     <message>
         <source>Create package</source>
-        <translation type="obsolete">パッケージの作成</translation>
+        <translation type="unfinished">パッケージの作成</translation>
     </message>
     <message>
         <source>Packages</source>
-        <translation type="obsolete">パッケージ</translation>
+        <translation type="unfinished">パッケージ</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="obsolete">インストール</translation>
+        <translation type="unfinished">インストール</translation>
     </message>
     <message>
         <source>Uninstall</source>
-        <translation type="obsolete">アンインストール</translation>
+        <translation type="unfinished">アンインストール</translation>
     </message>
     <message>
         <source>Package %packagename already exists, cannot import the package</source>
-        <translation type="obsolete">パッケージ %packagename はすでにインストール済みのためインポートできません</translation>
+        <translation type="unfinished">パッケージ %packagename はすでにインストール済みのためインポートできません</translation>
     </message>
     <message>
         <source>The package name %packagename is invalid, cannot import the package</source>
-        <translation type="obsolete">パッケージ名 %packagenameは不正であるためパッケージをインポートすることは出来ません。</translation>
+        <translation type="unfinished">パッケージ名 %packagenameは不正であるためパッケージをインポートすることは出来ません。</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="obsolete">アップロード</translation>
+        <translation type="unfinished">アップロード</translation>
     </message>
 </context>
 <context>
     <name>kernel/pdf</name>
     <message>
         <source>An export with such filename already exists.</source>
-        <translation type="obsolete">このファイル名は既に存在します。</translation>
+        <translation type="unfinished">このファイル名は既に存在します。</translation>
     </message>
     <message>
         <source>PDF Export</source>
-        <translation type="obsolete">PDF出力</translation>
+        <translation type="unfinished">PDF出力</translation>
     </message>
 </context>
 <context>
     <name>kernel/pdfexport</name>
     <message>
         <source>New PDF Export</source>
-        <translation type="obsolete">新規PDF出力</translation>
+        <translation type="unfinished">新規PDF出力</translation>
     </message>
 </context>
 <context>
     <name>kernel/role</name>
     <message>
         <source>Limit on section</source>
-        <translation type="obsolete">セクションの制限</translation>
+        <translation type="unfinished">セクションの制限</translation>
     </message>
     <message>
         <source>Create new policy, step 2: select function</source>
-        <translation type="obsolete">新規ポリシーの作成　ステップ 2: ファンクションの選択</translation>
+        <translation type="unfinished">新規ポリシーの作成　ステップ 2: ファンクションの選択</translation>
     </message>
     <message>
         <source>Create new policy, step three: set function limitations</source>
-        <translation type="obsolete">新規ポリシーの作成　ステップ 3: ファンクション制限の設定</translation>
+        <translation type="unfinished">新規ポリシーの作成　ステップ 3: ファンクション制限の設定</translation>
     </message>
     <message>
         <source>Create new policy, step two: select function</source>
-        <translation type="obsolete">新規ポリシーの作成　ステップ 2: ファンクションの選択</translation>
+        <translation type="unfinished">新規ポリシーの作成　ステップ 2: ファンクションの選択</translation>
     </message>
     <message>
         <source>Create new policy, step one: select module</source>
-        <translation type="obsolete">新規ポリシーの作成　ステップ 1: モジュールの選択</translation>
+        <translation type="unfinished">新規ポリシーの作成　ステップ 1: モジュールの選択</translation>
     </message>
     <message>
         <source>Role list</source>
-        <translation type="obsolete">ロール一覧</translation>
+        <translation type="unfinished">ロール一覧</translation>
     </message>
     <message>
         <source>Editing policy</source>
-        <translation type="obsolete">ポリシーの編集中</translation>
+        <translation type="unfinished">ポリシーの編集中</translation>
     </message>
 </context>
 <context>
     <name>kernel/role/edit</name>
     <message>
         <source>Copy of %rolename</source>
-        <translation type="obsolete">%rolenameの複製</translation>
+        <translation type="unfinished">%rolenameの複製</translation>
     </message>
     <message>
         <source>New role</source>
-        <translation type="obsolete">新規ロール</translation>
+        <translation type="unfinished">新規ロール</translation>
     </message>
 </context>
 <context>
     <name>kernel/rss</name>
     <message>
         <source>New RSS Export</source>
-        <translation type="obsolete">新規RSSエクスポート</translation>
+        <translation type="unfinished">新規RSSエクスポート</translation>
     </message>
     <message>
         <source>New RSS Import</source>
-        <translation type="obsolete">新規RSSインポート</translation>
+        <translation type="unfinished">新規RSSインポート</translation>
     </message>
     <message>
         <source>Really Simple Syndication</source>
-        <translation type="obsolete">RSS</translation>
+        <translation type="unfinished">RSS</translation>
     </message>
 </context>
 <context>
     <name>kernel/rss/edit_export</name>
     <message>
         <source>Selected class does not exist</source>
-        <translation type="obsolete">選択されたクラスは存在しません</translation>
+        <translation type="unfinished">選択されたクラスは存在しません</translation>
     </message>
     <message>
         <source>Invalid selection for title class %1 does not have attribute &quot;%2&quot;</source>
-        <translation type="obsolete">タイトルの選択が不正です。クラス %1は属性&quot;%2&quot;を持ちません。</translation>
+        <translation type="unfinished">タイトルの選択が不正です。クラス %1は属性&quot;%2&quot;を持ちません。</translation>
     </message>
     <message>
         <source>Invalid selection for description class %1 does not have attribute &quot;%2&quot;</source>
-        <translation type="obsolete">説明の選択が不正です。クラス%1は属性&quot;%2&quot;を持ちません。</translation>
+        <translation type="unfinished">説明の選択が不正です。クラス%1は属性&quot;%2&quot;を持ちません。</translation>
     </message>
     <message>
         <source>Invalid selection for category class %1 does not have attribute &quot;%2&quot;</source>
-        <translation type="obsolete">カテゴリーの選択が不正です。クラス%1は属性&quot;%2&quot;を持ちません。</translation>
+        <translation type="unfinished">カテゴリーの選択が不正です。クラス%1は属性&quot;%2&quot;を持ちません。</translation>
     </message>
 </context>
 <context>
     <name>kernel/search</name>
     <message>
         <source>Search stats</source>
-        <translation type="obsolete">検索統計</translation>
+        <translation type="unfinished">検索統計</translation>
     </message>
 </context>
 <context>
     <name>kernel/section</name>
     <message>
         <source>Sections</source>
-        <translation type="obsolete">セクション</translation>
+        <translation type="unfinished">セクション</translation>
     </message>
     <message>
         <source>Assign section</source>
-        <translation type="obsolete">セクションの割り当て</translation>
+        <translation type="unfinished">セクションの割り当て</translation>
     </message>
     <message>
         <source>New section</source>
-        <translation type="obsolete">新規セクション</translation>
+        <translation type="unfinished">新規セクション</translation>
     </message>
     <message>
         <source>Edit Section</source>
@@ -27147,605 +27451,613 @@ your account.</source>
     <name>kernel/setup</name>
     <message>
         <source>Cache admin</source>
-        <translation type="obsolete">キャッシュ</translation>
+        <translation type="unfinished">キャッシュ</translation>
     </message>
     <message>
         <source>Datatype wizard</source>
-        <translation type="obsolete">データタイプウイザード</translation>
+        <translation type="unfinished">データタイプウイザード</translation>
     </message>
     <message>
         <source>Extension configuration</source>
-        <translation type="obsolete">エクステンション設定</translation>
+        <translation type="unfinished">エクステンション設定</translation>
     </message>
     <message>
         <source>System information</source>
-        <translation type="obsolete">システム情報</translation>
+        <translation type="unfinished">システム情報</translation>
     </message>
     <message>
         <source>Rapid Application Development</source>
-        <translation type="obsolete">高速アプリケーション開発</translation>
+        <translation type="unfinished">高速アプリケーション開発</translation>
     </message>
     <message>
         <source>Session admin</source>
-        <translation type="obsolete">ユーザセッション管理</translation>
+        <translation type="unfinished">ユーザセッション管理</translation>
     </message>
     <message>
         <source>Setup menu</source>
-        <translation type="obsolete">セットアップ・メニュー</translation>
+        <translation type="unfinished">セットアップ・メニュー</translation>
     </message>
     <message>
         <source>File %1 does not exist. You should copy it from the recent eZ Publish distribution.</source>
-        <translation type="obsolete">ファイル%1が見つかりません。最新のeZ Publishパッケージからコピーして下さい。</translation>
+        <translation type="unfinished">ファイル%1が見つかりません。最新のeZ Publishパッケージからコピーして下さい。</translation>
     </message>
     <message>
         <source>System Upgrade</source>
-        <translation type="obsolete">システムアップグレード</translation>
+        <translation type="unfinished">システムアップグレード</translation>
     </message>
     <message>
         <source>Template operator wizard</source>
-        <translation type="obsolete">テンプレートオペレータウイザード</translation>
+        <translation type="unfinished">テンプレートオペレータウイザード</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop</name>
     <message>
         <source>Order status</source>
-        <translation type="obsolete">注文ステータス</translation>
+        <translation type="unfinished">注文ステータス</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation type="obsolete">未定義</translation>
+        <translation type="unfinished">未定義</translation>
     </message>
     <message>
         <source>Any</source>
-        <translation type="obsolete">指定なし</translation>
+        <translation type="unfinished">指定なし</translation>
     </message>
     <message>
         <source>VAT type</source>
-        <translation type="obsolete">課税方式</translation>
+        <translation type="unfinished">課税方式</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="obsolete">なし</translation>
+        <translation type="unfinished">なし</translation>
     </message>
     <message>
         <source>Order list</source>
-        <translation type="obsolete">ご注文一覧</translation>
+        <translation type="unfinished">ご注文一覧</translation>
     </message>
     <message>
         <source>Basket</source>
-        <translation type="obsolete">買い物かご</translation>
+        <translation type="unfinished">買い物かご</translation>
     </message>
     <message>
         <source>Checkout</source>
-        <translation type="obsolete">レジに進む</translation>
+        <translation type="unfinished">レジに進む</translation>
     </message>
     <message>
         <source>&apos;Autorates&apos; were retrieved successfully</source>
-        <translation type="obsolete">&quot;為替レート&quot;の取得に成功しました</translation>
+        <translation type="unfinished">&quot;為替レート&quot;の取得に成功しました</translation>
     </message>
     <message>
         <source>Unknown body format in HTTP response. Expected &apos;text/xml&apos;</source>
-        <translation type="obsolete">HTTPレスポンスのbody内容が不正。&apos;text/xml&apos;が指定されています。</translation>
+        <translation type="unfinished">HTTPレスポンスのbody内容が不正。&apos;text/xml&apos;が指定されています。</translation>
     </message>
     <message>
         <source>Invalid HTTP response</source>
-        <translation type="obsolete">無効なHTTPレスポンス</translation>
+        <translation type="unfinished">無効なHTTPレスポンス</translation>
     </message>
     <message>
         <source>Unable to send http request: %1:%2/%3</source>
-        <translation type="obsolete">httpリクエスト: %1:%2/%3 を送信することができません</translation>
+        <translation type="unfinished">httpリクエスト: %1:%2/%3 を送信することができません</translation>
     </message>
     <message>
         <source>eZExchangeRatesUpdateHandler: you should reimplement &apos;requestRates&apos; method</source>
-        <translation type="obsolete">eZExchangeRatesUpdateHandler: &quot;requestRates&quot; 方法を再実行してください</translation>
+        <translation type="unfinished">eZExchangeRatesUpdateHandler: &quot;requestRates&quot; 方法を再実行してください</translation>
     </message>
     <message>
         <source>&apos;Auto&apos; prices were updated successfully.</source>
-        <translation type="obsolete">&apos;自動&apos;価格の更新に成功しました。</translation>
+        <translation type="unfinished">&apos;自動&apos;価格の更新に成功しました。</translation>
     </message>
     <message>
         <source>&apos;Auto&apos; rates were updated successfully.</source>
-        <translation type="obsolete">&apos;為替レート&apos;の更新に成功しました。</translation>
+        <translation type="unfinished">&apos;為替レート&apos;の更新に成功しました。</translation>
     </message>
     <message>
         <source>Unable to calculate cross-rate for currency-pair &apos;%1&apos;/&apos;%2&apos;</source>
-        <translation type="obsolete">通貨 &apos;%1&apos;/&apos;%2&apos; のペアではクロス・レート計算はできません</translation>
+        <translation type="unfinished">通貨 &apos;%1&apos;/&apos;%2&apos; のペアではクロス・レート計算はできません</translation>
     </message>
     <message>
         <source>Unable to determine currency for retrieved rates.</source>
-        <translation type="obsolete">為替レートの取得ができません。</translation>
+        <translation type="unfinished">為替レートの取得ができません。</translation>
     </message>
     <message>
         <source>Retrieved empty list of rates.</source>
-        <translation type="obsolete">替レートの空リストを取得しました。</translation>
+        <translation type="unfinished">替レートの空リストを取得しました。</translation>
     </message>
     <message>
         <source>Unable to create handler to update auto rates.</source>
-        <translation type="obsolete">為替レートを更新するハンドラを作成できません。</translation>
+        <translation type="unfinished">為替レートを更新するハンドラを作成できません。</translation>
     </message>
     <message>
         <source>Confirm order</source>
-        <translation type="obsolete">注文内容の確認</translation>
+        <translation type="unfinished">注文内容の確認</translation>
     </message>
     <message>
         <source>The confirm order operation was canceled. Try to checkout again.</source>
-        <translation type="obsolete">注文の確認処理はキャンセルされました。もう一度実行してください。</translation>
+        <translation type="unfinished">注文の確認処理はキャンセルされました。もう一度実行してください。</translation>
     </message>
     <message>
         <source>Changes were stored successfully.</source>
-        <translation type="obsolete">変更は保存されました。</translation>
+        <translation type="unfinished">変更は保存されました。</translation>
     </message>
     <message>
         <source>Available currency list</source>
-        <translation type="obsolete">利用可能な通貨リスト</translation>
+        <translation type="unfinished">利用可能な通貨リスト</translation>
     </message>
     <message>
         <source>Customer list</source>
-        <translation type="obsolete">顧客一覧</translation>
+        <translation type="unfinished">顧客一覧</translation>
     </message>
     <message>
         <source>Customer order view</source>
-        <translation type="obsolete">注文リスト</translation>
+        <translation type="unfinished">注文リスト</translation>
     </message>
     <message>
         <source>Discount group</source>
-        <translation type="obsolete">ディスカウント・グループ</translation>
+        <translation type="unfinished">ディスカウント・グループ</translation>
     </message>
     <message>
         <source>Classes</source>
-        <translation type="obsolete">クラス</translation>
+        <translation type="unfinished">クラス</translation>
     </message>
     <message>
         <source>Any class</source>
-        <translation type="obsolete">指定なし</translation>
+        <translation type="unfinished">指定なし</translation>
     </message>
     <message>
         <source>in sections</source>
-        <translation type="obsolete">セクション</translation>
+        <translation type="unfinished">セクション</translation>
     </message>
     <message>
         <source>in any section</source>
-        <translation type="obsolete">指定なし</translation>
+        <translation type="unfinished">指定なし</translation>
     </message>
     <message>
         <source>Products</source>
-        <translation type="obsolete">商品</translation>
+        <translation type="unfinished">商品</translation>
     </message>
     <message>
         <source>Any product</source>
-        <translation type="obsolete">指定なし</translation>
+        <translation type="unfinished">指定なし</translation>
     </message>
     <message>
         <source>Group view of discount rule</source>
-        <translation type="obsolete">割引設定のグループ表示</translation>
+        <translation type="unfinished">割引設定のグループ表示</translation>
     </message>
     <message>
         <source>Editing rule</source>
-        <translation type="obsolete">割引設定の編集</translation>
+        <translation type="unfinished">割引設定の編集</translation>
     </message>
     <message>
         <source>Edit currency</source>
-        <translation type="obsolete">通貨の編集</translation>
+        <translation type="unfinished">通貨の編集</translation>
     </message>
     <message>
         <source>Create new currency</source>
-        <translation type="obsolete">新規通貨の作成</translation>
+        <translation type="unfinished">新規通貨の作成</translation>
     </message>
     <message>
         <source>Error checking out</source>
-        <translation type="obsolete">チェックアウトエラー</translation>
+        <translation type="unfinished">チェックアウトエラー</translation>
     </message>
     <message>
         <source>Unable to calculate VAT percentage because your country is unknown. You can either fill country manually in your account information (if you are a registered user) or contact site administrator.</source>
-        <translation type="obsolete">国名が不明のため税率の計算ができません。(登録済みのユーザである場合)ご自分のアカウント情報に国名を入力するか、サイト管理者に連絡してください。</translation>
+        <translation type="unfinished">国名が不明のため税率の計算ができません。(登録済みのユーザである場合)ご自分のアカウント情報に国名を入力するか、サイト管理者に連絡してください。</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="obsolete">統計</translation>
+        <translation type="unfinished">統計</translation>
     </message>
     <message>
         <source>Order #%order_id</source>
-        <translation type="obsolete">注文 #%order_id</translation>
+        <translation type="unfinished">注文 #%order_id</translation>
     </message>
     <message>
         <source>Preferred currency</source>
-        <translation type="obsolete">デフォルト通貨</translation>
+        <translation type="unfinished">デフォルト通貨</translation>
     </message>
     <message>
         <source>Products overview</source>
-        <translation type="obsolete">商品一覧</translation>
+        <translation type="unfinished">商品一覧</translation>
     </message>
     <message>
         <source>Enter account information</source>
-        <translation type="obsolete">お客様情報の入力</translation>
+        <translation type="unfinished">お客様情報の入力</translation>
     </message>
     <message>
         <source>Remove order</source>
-        <translation type="obsolete">注文の削除</translation>
+        <translation type="unfinished">注文の削除</translation>
     </message>
     <message>
         <source>New order status was successfully added.</source>
-        <translation type="obsolete">新しい注文ステータスの追加に成功しました。</translation>
+        <translation type="unfinished">新しい注文ステータスの追加に成功しました。</translation>
     </message>
     <message>
         <source>Changes to order status were successfully stored.</source>
-        <translation type="obsolete">注文ステータスの変更を保存しました。</translation>
+        <translation type="unfinished">注文ステータスの変更を保存しました。</translation>
     </message>
     <message>
         <source>Selected order statuses were successfully removed.</source>
-        <translation type="obsolete">選択した注文ステータスの削除に成功しました。</translation>
+        <translation type="unfinished">選択した注文ステータスの削除に成功しました。</translation>
     </message>
     <message>
         <source>Internal orders cannot be removed.</source>
-        <translation type="obsolete">内部の注文は削除できません。</translation>
+        <translation type="unfinished">内部の注文は削除できません。</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">ステータス</translation>
+        <translation type="unfinished">ステータス</translation>
     </message>
     <message>
         <source>VAT types</source>
-        <translation type="obsolete">課税方法</translation>
+        <translation type="unfinished">課税方法</translation>
     </message>
     <message>
         <source>Wishlist</source>
-        <translation type="obsolete">ウイッシュリスト</translation>
+        <translation type="unfinished">ウイッシュリスト</translation>
+    </message>
+    <message>
+        <source>&apos;%value&apos; is not a valid custom rate value (positive number expected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;%value&apos; is not a valid rate_factor value (positive number expected)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/classes/ezcurrencydata</name>
     <message>
         <source>Invalid characters in currency code.</source>
-        <translation type="obsolete">通貨記号に不正な文字が含まれています。</translation>
+        <translation type="unfinished">通貨記号に不正な文字が含まれています。</translation>
     </message>
     <message>
         <source>Currency already exists.</source>
-        <translation type="obsolete">通貨はすでに使用中です。</translation>
+        <translation type="unfinished">通貨はすでに使用中です。</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="obsolete">不明なエラー。</translation>
+        <translation type="unfinished">不明なエラー。</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/discountgroup</name>
     <message>
         <source>New discount group</source>
-        <translation type="obsolete">新規のディスカウント・グループ</translation>
+        <translation type="unfinished">新規のディスカウント・グループ</translation>
     </message>
     <message>
         <source>New Discount Rule</source>
-        <translation type="obsolete">新規のディスカウント・ルール</translation>
+        <translation type="unfinished">新規のディスカウント・ルール</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/editvatrule</name>
     <message>
         <source>Invalid data entered</source>
-        <translation type="obsolete">無効なデータが入力されました</translation>
+        <translation type="unfinished">無効なデータが入力されました</translation>
     </message>
     <message>
         <source>Choose a country.</source>
-        <translation type="obsolete">国を選択して下さい。</translation>
+        <translation type="unfinished">国を選択して下さい。</translation>
     </message>
     <message>
         <source>Choose a VAT type.</source>
-        <translation type="obsolete">課税方式を選択して下さい。</translation>
+        <translation type="unfinished">課税方式を選択して下さい。</translation>
     </message>
     <message>
         <source>Conflicting rule</source>
-        <translation type="obsolete">矛盾したルール</translation>
+        <translation type="unfinished">矛盾したルール</translation>
     </message>
     <message>
         <source>Default rule for any country already exists.</source>
-        <translation type="obsolete">すでに登録済みの国に対するデフォルト・ルール</translation>
+        <translation type="unfinished">すでに登録済みの国に対するデフォルト・ルール</translation>
     </message>
     <message>
         <source>Rule not found</source>
-        <translation type="obsolete">ルールが見つかりません</translation>
+        <translation type="unfinished">ルールが見つかりません</translation>
     </message>
     <message>
         <source>Edit VAT charging rule</source>
-        <translation type="obsolete">課税ルールの編集</translation>
+        <translation type="unfinished">課税ルールの編集</translation>
     </message>
     <message>
         <source>Create new VAT charging rule</source>
-        <translation type="obsolete">新規の課税ルール作成</translation>
+        <translation type="unfinished">新規の課税ルール作成</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/productcategories</name>
     <message>
         <source>Product category</source>
-        <translation type="obsolete">商品カテゴリ</translation>
+        <translation type="unfinished">商品カテゴリ</translation>
     </message>
     <message>
         <source>Empty category names are not allowed (corrected).</source>
-        <translation type="obsolete">空のカテゴリ名は使用できません</translation>
+        <translation type="unfinished">空のカテゴリ名は使用できません</translation>
     </message>
     <message>
         <source>Product categories</source>
-        <translation type="obsolete">商品カテゴリ</translation>
+        <translation type="unfinished">商品カテゴリ</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/vatrules</name>
     <message>
         <source>No default rule found. Please add rule having &quot;Any&quot; country and &quot;Any&quot; category.</source>
-        <translation type="obsolete">デフォルトのルールが見つかりません。国名 &apos;指定なし&apos; やカテゴリー &apos;指定なし&apos; を選択出来るルールを追加してください。</translation>
+        <translation type="unfinished">デフォルトのルールが見つかりません。国名 &apos;指定なし&apos; やカテゴリー &apos;指定なし&apos; を選択出来るルールを追加してください。</translation>
     </message>
     <message>
         <source>VAT rules</source>
-        <translation type="obsolete">課税ルール</translation>
+        <translation type="unfinished">課税ルール</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/vattype</name>
     <message>
         <source>Empty VAT type names are not allowed (corrected).</source>
-        <translation type="obsolete">課税方法の名前を空にすることは出来ません。</translation>
+        <translation type="unfinished">課税方法の名前を空にすることは出来ません。</translation>
     </message>
     <message>
         <source>Wrong VAT percentage (corrected).</source>
-        <translation type="obsolete">誤った税率です。</translation>
+        <translation type="unfinished">誤った税率です。</translation>
     </message>
 </context>
 <context>
     <name>kernel/state</name>
     <message>
         <source>State</source>
-        <translation type="obsolete">ステート</translation>
+        <translation type="unfinished">ステート</translation>
     </message>
     <message>
         <source>Assign</source>
-        <translation type="obsolete">割り当て</translation>
+        <translation type="unfinished">割り当て</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="obsolete">新規</translation>
+        <translation type="unfinished">新規</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">編集</translation>
+        <translation type="unfinished">編集</translation>
     </message>
     <message>
         <source>Groups</source>
-        <translation type="obsolete">グループ</translation>
+        <translation type="unfinished">グループ</translation>
     </message>
     <message>
         <source>New group</source>
-        <translation type="obsolete">新グループ</translation>
+        <translation type="unfinished">新グループ</translation>
     </message>
     <message>
         <source>Group edit</source>
-        <translation type="obsolete">グループ編集</translation>
+        <translation type="unfinished">グループ編集</translation>
     </message>
 </context>
 <context>
     <name>kernel/state/edit</name>
     <message>
         <source>Identifier: input required</source>
-        <translation type="obsolete">識別子: 入力が必要です</translation>
+        <translation type="unfinished">識別子: 入力が必要です</translation>
     </message>
     <message>
         <source>Identifier: invalid, it can only consist of characters in the range a-z, 0-9 and underscore.</source>
-        <translation type="obsolete">識別子: 不正。使用できる文字は英小文字と数字およびアンダースコアです。</translation>
+        <translation type="unfinished">識別子: 不正。使用できる文字は英小文字と数字およびアンダースコアです。</translation>
     </message>
     <message>
         <source>Identifier: invalid, maximum %max characters allowed.</source>
-        <translation type="obsolete">識別子: 不正。最大で%max文字利用出来ます。</translation>
+        <translation type="unfinished">識別子: 不正。最大で%max文字利用出来ます。</translation>
     </message>
     <message>
         <source>Identifier: a content object state group with this identifier already exists, please give another identifier</source>
-        <translation type="obsolete">識別子: この識別子を利用するコンテンツオブジェクトステートグループは既に存在します。他の識別子を選択して下さい。</translation>
+        <translation type="unfinished">識別子: この識別子を利用するコンテンツオブジェクトステートグループは既に存在します。他の識別子を選択して下さい。</translation>
     </message>
     <message>
         <source>%language_name: this language is the default but neither name or description were provided for this language</source>
-        <translation type="obsolete">%language_name: この言語がデフォルトに設定されていますが、名前も説明文も入力されていません。</translation>
+        <translation type="unfinished">%language_name: この言語がデフォルトに設定されていますが、名前も説明文も入力されていません。</translation>
     </message>
     <message>
         <source>Translations: you need to add at least one localization</source>
-        <translation type="obsolete">翻訳: 一つ以上の翻訳を追加する必要があります。</translation>
+        <translation type="unfinished">翻訳: 一つ以上の翻訳を追加する必要があります。</translation>
     </message>
     <message>
         <source>Translations: there are multiple localizations but you did not specify which is the default one</source>
-        <translation type="obsolete">翻訳: 複数の翻訳が存在しますが、デフォルトが指定されていません。</translation>
+        <translation type="unfinished">翻訳: 複数の翻訳が存在しますが、デフォルトが指定されていません。</translation>
     </message>
     <message>
         <source>Identifier: identifiers starting with &quot;ez&quot; are reserved.</source>
-        <translation type="obsolete">識別子: &quot;ez&quot;で始まる識別子は利用出来ません。</translation>
+        <translation type="unfinished">識別子: &quot;ez&quot;で始まる識別子は利用出来ません。</translation>
     </message>
     <message>
         <source>Name in %language_name is too long. Maximum 45 characters allowed.</source>
-        <translation type="obsolete">%language_nameでの名前が長すぎます。最大で45文字までです。</translation>
+        <translation type="unfinished">%language_nameでの名前が長すぎます。最大で45文字までです。</translation>
     </message>
     <message>
         <source>Name in %language_name: input required</source>
-        <translation type="obsolete">%language_nameでの名前: 入力が必要です。</translation>
+        <translation type="unfinished">%language_nameでの名前: 入力が必要です。</translation>
     </message>
 </context>
 <context>
     <name>kernel/trigger</name>
     <message>
         <source>Trigger</source>
-        <translation type="obsolete">トリガー</translation>
+        <translation type="unfinished">トリガー</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">一覧</translation>
+        <translation type="unfinished">一覧</translation>
     </message>
 </context>
 <context>
     <name>kernel/url</name>
     <message>
         <source>URL edit</source>
-        <translation type="obsolete">URLの編集</translation>
+        <translation type="unfinished">URLの編集</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation type="obsolete">URL</translation>
+        <translation type="unfinished">URL</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">一覧</translation>
+        <translation type="unfinished">一覧</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">表示</translation>
+        <translation type="unfinished">表示</translation>
     </message>
 </context>
 <context>
     <name>kernel/user</name>
     <message>
         <source>User</source>
-        <translation type="obsolete">ユーザ</translation>
+        <translation type="unfinished">ユーザ</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="obsolete">有効にする</translation>
+        <translation type="unfinished">有効にする</translation>
     </message>
     <message>
         <source>User profile</source>
-        <translation type="obsolete">ユーザ・プロフィール</translation>
+        <translation type="unfinished">ユーザ・プロフィール</translation>
     </message>
     <message>
         <source>Forgot password</source>
-        <translation type="obsolete">パスワードを忘れましたか?</translation>
+        <translation type="unfinished">パスワードを忘れましたか?</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="obsolete">ログイン</translation>
+        <translation type="unfinished">ログイン</translation>
     </message>
     <message>
         <source>Change password</source>
-        <translation type="obsolete">パスワード変更</translation>
+        <translation type="unfinished">パスワード変更</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="obsolete">新規登録</translation>
+        <translation type="unfinished">新規登録</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="obsolete">設定</translation>
+        <translation type="unfinished">設定</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="obsolete">成功</translation>
+        <translation type="unfinished">成功</translation>
     </message>
 </context>
 <context>
     <name>kernel/user/register</name>
     <message>
         <source>Registration info</source>
-        <translation type="obsolete">登録情報</translation>
+        <translation type="unfinished">登録情報</translation>
     </message>
     <message>
         <source>New user registered</source>
-        <translation type="obsolete">新規に登録されたユーザ</translation>
+        <translation type="unfinished">新規に登録されたユーザ</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow</name>
     <message>
         <source>You have to have at least one group that the workflow belongs to!</source>
-        <translation type="obsolete">ワークフローは最低一つのワークグループに所属する必要があります!</translation>
+        <translation type="unfinished">ワークフローは最低一つのワークグループに所属する必要があります!</translation>
     </message>
     <message>
         <source>Edit workflow</source>
-        <translation type="obsolete">ワークフローの編集</translation>
+        <translation type="unfinished">ワークフローの編集</translation>
     </message>
     <message>
         <source>Workflow</source>
-        <translation type="obsolete">ワークフロー</translation>
+        <translation type="unfinished">ワークフロー</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">編集</translation>
+        <translation type="unfinished">編集</translation>
     </message>
     <message>
         <source>Edit workflow group</source>
-        <translation type="obsolete">ワークフローグループの編集</translation>
+        <translation type="unfinished">ワークフローグループの編集</translation>
     </message>
     <message>
         <source>Group edit</source>
-        <translation type="obsolete">グループ編集</translation>
+        <translation type="unfinished">グループ編集</translation>
     </message>
     <message>
         <source>Workflow group list</source>
-        <translation type="obsolete">ワークフローグループ一覧</translation>
+        <translation type="unfinished">ワークフローグループ一覧</translation>
     </message>
     <message>
         <source>Group list</source>
-        <translation type="obsolete">グループ一覧</translation>
+        <translation type="unfinished">グループ一覧</translation>
     </message>
     <message>
         <source>Workflow list</source>
-        <translation type="obsolete">ワークフロー一覧</translation>
+        <translation type="unfinished">ワークフロー一覧</translation>
     </message>
     <message>
         <source>Process list</source>
-        <translation type="obsolete">プロセス一覧</translation>
+        <translation type="unfinished">プロセス一覧</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">表示</translation>
+        <translation type="unfinished">表示</translation>
     </message>
     <message>
         <source>Workflow list of group</source>
-        <translation type="obsolete">ワークグループのワークフロー一覧</translation>
+        <translation type="unfinished">ワークグループのワークフロー一覧</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">一覧</translation>
+        <translation type="unfinished">一覧</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/edit</name>
     <message>
         <source>New Workflow</source>
-        <translation type="obsolete">新規ワークフロー</translation>
+        <translation type="unfinished">新規ワークフロー</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/event</name>
     <message>
         <source>Event</source>
-        <translation type="obsolete">イベント</translation>
+        <translation type="unfinished">イベント</translation>
     </message>
     <message>
         <source>Approve</source>
-        <translation type="obsolete">承認</translation>
+        <translation type="unfinished">承認</translation>
     </message>
     <message>
         <source>Multiplexer</source>
-        <translation type="obsolete">他のワークフローを実行</translation>
+        <translation type="unfinished">他のワークフローを実行</translation>
     </message>
     <message>
         <source>Payment Gateway</source>
-        <translation type="obsolete">決済連携機能</translation>
+        <translation type="unfinished">決済連携機能</translation>
     </message>
     <message>
         <source>Simple shipping</source>
-        <translation type="obsolete">シンプル配送</translation>
+        <translation type="unfinished">シンプル配送</translation>
     </message>
     <message>
         <source>Wait until date</source>
-        <translation type="obsolete">指定期日まで待機</translation>
+        <translation type="unfinished">指定期日まで待機</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/group</name>
     <message>
         <source>Group</source>
-        <translation type="obsolete">グループ</translation>
+        <translation type="unfinished">グループ</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/groupedit</name>
     <message>
         <source>New WorkflowGroup</source>
-        <translation type="obsolete">新規ワークフローグループ</translation>
+        <translation type="unfinished">新規ワークフローグループ</translation>
     </message>
 </context>
 <context>
@@ -27753,62 +28065,62 @@ your account.</source>
     <message>
         <source>Contents</source>
         <comment>Table of contents</comment>
-        <translation type="obsolete">目次</translation>
+        <translation type="unfinished">目次</translation>
     </message>
     <message>
         <source>Index</source>
         <comment>Keyword index name</comment>
-        <translation type="obsolete">索引</translation>
+        <translation type="unfinished">索引</translation>
     </message>
 </context>
 <context>
     <name>lib/eztemplate</name>
     <message>
         <source>Some template errors occurred, see debug for more information.</source>
-        <translation type="obsolete">テンプレートでエラーが発生しました. 詳細はデバッグ情報を参照してください。</translation>
+        <translation type="unfinished">テンプレートでエラーが発生しました. 詳細はデバッグ情報を参照してください。</translation>
     </message>
 </context>
 <context>
     <name>lib/template</name>
     <message>
         <source>The maximum nesting level of %max has been reached. The execution is stopped to avoid infinite recursion.</source>
-        <translation type="obsolete">最大ネストレベルの%maxに達しました。無限ループを抑止するために実行を終了しました。</translation>
+        <translation type="unfinished">最大ネストレベルの%maxに達しました。無限ループを抑止するために実行を終了しました。</translation>
     </message>
 </context>
 <context>
     <name>pdf/edit</name>
     <message>
         <source>PDF Export</source>
-        <translation type="obsolete">PDF出力</translation>
+        <translation type="unfinished">PDF出力</translation>
     </message>
 </context>
 <context>
     <name>settings/edit</name>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">設定</translation>
+        <translation type="unfinished">設定</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">編集</translation>
+        <translation type="unfinished">編集</translation>
     </message>
 </context>
 <context>
     <name>settings/view</name>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">設定</translation>
+        <translation type="unfinished">設定</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">表示</translation>
+        <translation type="unfinished">表示</translation>
     </message>
 </context>
 <context>
     <name>shop</name>
     <message>
         <source>Remove orders</source>
-        <translation type="obsolete">注文の削除</translation>
+        <translation type="unfinished">注文の削除</translation>
     </message>
 </context>
 <context>

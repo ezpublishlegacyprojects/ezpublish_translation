@@ -1,4 +1,6 @@
-<!DOCTYPE TS><TS>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0">
 <context>
     <name>contentstructuremenu/show_content_structure</name>
     <message>
@@ -357,10 +359,6 @@
         <translation>&lt;%datatype_name&gt; datatype nemůže být použit jako sběrač informací.</translation>
     </message>
     <message>
-        <source>Edit &lt;%class_name&gt; (%object_count)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Description</source>
         <translation type="unfinished">Popis</translation>
     </message>
@@ -391,6 +389,14 @@
     <message>
         <source>Category</source>
         <translation type="unfinished">Kategorie</translation>
+    </message>
+    <message>
+        <source>Edit &lt;%class_name&gt; (%object_count objects)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The draft of the class definition was successfully stored.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1614,6 +1620,26 @@
     <message>
         <source>No media file is available.</source>
         <translation>Není dostupný žádný mediální soubor.</translation>
+    </message>
+    <message>
+        <source>Year</source>
+        <translation type="unfinished">Rok</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation type="unfinished">Měsíc</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation type="unfinished">Den</translation>
+    </message>
+    <message>
+        <source>Hour</source>
+        <translation type="unfinished">Hodina</translation>
+    </message>
+    <message>
+        <source>Minute</source>
+        <translation type="unfinished">Minuta</translation>
     </message>
 </context>
 <context>
@@ -5162,6 +5188,14 @@ Parametry jsou pojeny počátečními a koncovými tags.</translation>
         <source>The system will let you restore the object &lt;%name&gt;. Specify where you wish to restore it.</source>
         <translation>Systém Vám umožní obnovit objekt &lt;%name&gt;. Upřesněte, kde si jej přejete obnovit.</translation>
     </message>
+    <message>
+        <source>Pending sub-object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removal failed because there is pending sub object under the node. Please finish the relevant process then redo the removal.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/node/view</name>
@@ -5908,10 +5942,6 @@ Parametry jsou pojeny počátečními a koncovými tags.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tab is disabled, enable on dashboard.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Translations (%count)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5937,22 +5967,14 @@ Parametry jsou pojeny počátečními a koncovými tags.</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished">Vytvořit</translation>
+        <translation type="obsolete">Vytvořit</translation>
     </message>
     <message>
         <source>in</source>
-        <translation type="unfinished">v</translation>
-    </message>
-    <message>
-        <source>Here</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">v</translation>
     </message>
     <message>
         <source>Published order</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>List of sub items of current node, with controlls to edit, remove and move them directly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6025,6 +6047,90 @@ Parametry jsou pojeny počátečními a koncovými tags.</translation>
     </message>
     <message>
         <source>Language list of translations for current object.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tab is disabled, enable with toggler to the left of these tabs.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show simplified view of content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ordering</source>
+        <translation type="unfinished">Třídění</translation>
+    </message>
+    <message>
+        <source>Show published ordering overview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Node remote ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object remote ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of items per page:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visible table columns:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished">Vybrat</translation>
+    </message>
+    <message>
+        <source>Select all visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select none</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new</source>
+        <translation type="unfinished">Vytvořit nový</translation>
+    </message>
+    <message>
+        <source>More actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use the checkboxes to select one or more items.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>prev</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>last</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6642,27 +6748,27 @@ Poznámka: Soubory programů nebudou odinstalovány.</translation>
     </message>
     <message>
         <source>Content structure</source>
-        <translation type="obsolete">Obsahová struktura</translation>
+        <translation type="unfinished">Obsahová struktura</translation>
     </message>
     <message>
         <source>Media library</source>
-        <translation type="obsolete">Mediální knihovna</translation>
+        <translation type="unfinished">Mediální knihovna</translation>
     </message>
     <message>
         <source>User accounts</source>
-        <translation type="obsolete">Uživatelské účty</translation>
+        <translation type="unfinished">Uživatelské účty</translation>
     </message>
     <message>
         <source>Webshop</source>
-        <translation type="obsolete">Internetový obchod</translation>
+        <translation type="unfinished">Internetový obchod</translation>
     </message>
     <message>
         <source>Setup</source>
-        <translation type="obsolete">Nastavení</translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message>
         <source>Design</source>
-        <translation type="obsolete">Design</translation>
+        <translation type="unfinished">Design</translation>
     </message>
     <message>
         <source>My account</source>
@@ -6706,31 +6812,31 @@ Poznámka: Soubory programů nebudou odinstalovány.</translation>
     </message>
     <message>
         <source>Manage the main content structure of the site.</source>
-        <translation type="obsolete">Ovládat hlavní obsah struktury umístění.</translation>
+        <translation type="unfinished">Ovládat hlavní obsah struktury umístění.</translation>
     </message>
     <message>
         <source>Manage images, files, documents, etc.</source>
-        <translation type="obsolete">Ovládat obrázky, soubory, dokumenty, atd.</translation>
+        <translation type="unfinished">Ovládat obrázky, soubory, dokumenty, atd.</translation>
     </message>
     <message>
         <source>Manage users, user groups and permission settings.</source>
-        <translation type="obsolete">Ovládat uživatele, uživatelské skupiny a povolení nastavení.</translation>
+        <translation type="unfinished">Ovládat uživatele, uživatelské skupiny a povolení nastavení.</translation>
     </message>
     <message>
         <source>Manage customers, orders, discounts and VAT types; view sales statistics.</source>
-        <translation type="obsolete">Ovládat zákazníky, objednávky, slevy a typy DPH; zobrazit statistiky odbytu.</translation>
+        <translation type="unfinished">Ovládat zákazníky, objednávky, slevy a typy DPH; zobrazit statistiky odbytu.</translation>
     </message>
     <message>
         <source>Manage templates, menus, toolbars and other things related to appearence.</source>
-        <translation type="obsolete">Ovládat šablony, seznamy nabídek programu, lišty s nástroji a ostatní věci související se vzhledem.</translation>
+        <translation type="unfinished">Ovládat šablony, seznamy nabídek programu, lišty s nástroji a ostatní věci související se vzhledem.</translation>
     </message>
     <message>
         <source>Configure settings and manage advanced functionality.</source>
-        <translation type="obsolete">Konfigurovat nastavení a ovládat pokročilou funkčnost.</translation>
+        <translation type="unfinished">Konfigurovat nastavení a ovládat pokročilou funkčnost.</translation>
     </message>
     <message>
         <source>Manage items and settings that belong to your account.</source>
-        <translation type="obsolete">Ovládat položky a nastavení, které patří Vašemu účtu.</translation>
+        <translation type="unfinished">Ovládat položky a nastavení, které patří Vašemu účtu.</translation>
     </message>
     <message>
         <source>Change password for &lt;%username&gt;.</source>
@@ -6813,7 +6919,11 @@ Poznámka: Soubory programů nebudou odinstalovány.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>User perferences</source>
+        <source>Dashboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User preferences</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7008,15 +7118,19 @@ Poznámka: Soubory programů nebudou odinstalovány.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preview tab</source>
+        <source>Enable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Disable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
+        <source>Disable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
+        <source>Enable &amp;quot;Tabs&amp;quot; by default while browsing content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable &amp;quot;Tabs&amp;quot; by default while browsing content.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7579,6 +7693,14 @@ Poznámka: Soubory programů nebudou odinstalovány.</translation>
         <source>New translation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Sitemap for subtree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">Náhled</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/preview/article</name>
@@ -7631,6 +7753,10 @@ Poznámka: Soubory programů nebudou odinstalovány.</translation>
     <message>
         <source>Your email address</source>
         <translation>Váše emailová adresa</translation>
+    </message>
+    <message>
+        <source>Your name</source>
+        <translation type="unfinished">Vaše jméno</translation>
     </message>
 </context>
 <context>
@@ -8976,6 +9102,26 @@ Poznámka: Soubory programů nebudou odinstalovány.</translation>
         <source>Navigation part</source>
         <translation>Navigační část</translation>
     </message>
+    <message>
+        <source>Identifier can not be empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier should consist of letters, numbers or &apos;_&apos; with letter prefix.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The identifier has been used in another section.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section edit error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation type="unfinished">Identifikátor</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/section/list</name>
@@ -9046,6 +9192,10 @@ Poznámka: Soubory programů nebudou odinstalovány.</translation>
     <message>
         <source>Assign a subtree to the &lt;%section_name&gt; section.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation type="unfinished">Identifikátor</translation>
     </message>
 </context>
 <context>
@@ -9129,6 +9279,10 @@ Poznámka: Soubory programů nebudou odinstalovány.</translation>
     <message>
         <source>Assign subtree of objects to this section</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation type="unfinished">Identifikátor</translation>
     </message>
 </context>
 <context>
@@ -9546,7 +9700,7 @@ Poznámka: Soubory programů nebudou odinstalovány.</translation>
     </message>
     <message>
         <source></source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -9608,7 +9762,15 @@ Poznámka: Soubory programů nebudou odinstalovány.</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished">Aktivovat</translation>
+        <translation type="obsolete">Aktivovat</translation>
+    </message>
+    <message>
+        <source>Activate or deactivate extension. Use the &quot;Update&quot; button to apply the changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9805,7 +9967,7 @@ eZ Publish verze</translation>
     <message>
         <source>SVN revision</source>
         <comment>eZ Publish version</comment>
-        <translation>SVN revize
+        <translation type="obsolete">SVN revize
 
 eZ Publish verze</translation>
     </message>
@@ -10217,10 +10379,6 @@ Moduly webového serveru nemohou být detekovány.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your alternatives are to:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10234,6 +10392,10 @@ Moduly webového serveru nemohou být detekovány.
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The operation was cut short in order to avoid execution timeout.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11009,7 +11171,7 @@ Moduly webového serveru nemohou být detekovány.
     </message>
     <message>
         <source>New discount rule</source>
-        <translation type="obsolete">Nové pravidlo slevy</translation>
+        <translation type="unfinished">Nové pravidlo slevy</translation>
     </message>
     <message>
         <source>Product types</source>
@@ -12043,15 +12205,15 @@ Moduly webového serveru nemohou být detekovány.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save changes to this states.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation type="unfinished">Zrušit</translation>
     </message>
     <message>
         <source>Cancel saving any changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save changes to this state.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14233,6 +14395,29 @@ Tlačítko registrovat</translation>
     </message>
 </context>
 <context>
+    <name>design/ezwebin/content/datatype</name>
+    <message>
+        <source>Year</source>
+        <translation type="obsolete">Rok</translation>
+    </message>
+    <message>
+        <source>Month</source>
+        <translation type="obsolete">Měsíc</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation type="obsolete">Den</translation>
+    </message>
+    <message>
+        <source>Hour</source>
+        <translation type="obsolete">Hodina</translation>
+    </message>
+    <message>
+        <source>Minute</source>
+        <translation type="obsolete">Minuta</translation>
+    </message>
+</context>
+<context>
     <name>design/plain/layout</name>
     <message>
         <source>Advanced search</source>
@@ -14897,7 +15082,7 @@ Tlačítko registrovat</translation>
     </message>
     <message>
         <source>seconds(s)</source>
-        <translation>sekundy(s)</translation>
+        <translation type="obsolete">sekundy(s)</translation>
     </message>
     <message>
         <source>Drop-down menu / multi select</source>
@@ -14917,6 +15102,18 @@ Tlačítko registrovat</translation>
     </message>
     <message>
         <source>Tag preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Html5 Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Html5 Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>second(s)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16393,6 +16590,30 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>Find objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The related objects will be edited in the same language as this object. If such translations do not exist they will be created, based on the source language of your choice.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation base</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This object is already translated, the existing translation will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This object is not translated, please select the language the new translation will be based on.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your browser does not support html5 video.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your browser does not support html5 audio.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -20819,7 +21040,7 @@ eZ Publish verze</translation>
     <message>
         <source>SVN revision</source>
         <comment>eZ Publish version</comment>
-        <translation>SVN revize
+        <translation type="obsolete">SVN revize
 
 eZ Publish verze
 
@@ -21369,23 +21590,23 @@ Standardní kód byl vytvořen ze základních parametrů, které jste vybrali.
     </message>
     <message>
         <source>The database would not accept the connection, please review your settings and try again.</source>
-        <translation type="obsolete">Nezdařilo se spojení do databáze, prosím zkontrolujte nastavení.</translation>
+        <translation type="unfinished">Nezdařilo se spojení do databáze, prosím zkontrolujte nastavení.</translation>
     </message>
     <message>
         <source>Password entries did not match.</source>
-        <translation type="obsolete">Zadaná hesla se neshodují.</translation>
+        <translation type="unfinished">Zadaná hesla se neshodují.</translation>
     </message>
     <message>
         <source>The selected database was not empty, please choose from the alternatives below.</source>
-        <translation type="obsolete">Zvolená databáze již obsahuje data, zvolte prosím jednu z nabízených alternativ.</translation>
+        <translation type="unfinished">Zvolená databáze již obsahuje data, zvolte prosím jednu z nabízených alternativ.</translation>
     </message>
     <message>
         <source>Database initalization</source>
-        <translation type="obsolete">Inicializace databáze</translation>
+        <translation type="unfinished">Inicializace databáze</translation>
     </message>
     <message>
         <source>Email settings</source>
-        <translation type="obsolete">Nastavení emailu</translation>
+        <translation type="unfinished">Nastavení emailu</translation>
     </message>
     <message>
         <source>Finished</source>
@@ -21393,19 +21614,19 @@ Standardní kód byl vytvořen ze základních parametrů, které jste vybrali.
     </message>
     <message>
         <source>Language options</source>
-        <translation type="obsolete">Výběr jazyka(ů)</translation>
+        <translation type="unfinished">Výběr jazyka(ů)</translation>
     </message>
     <message>
         <source>Registration</source>
-        <translation type="obsolete">Registrace</translation>
+        <translation type="unfinished">Registrace</translation>
     </message>
     <message>
         <source>Securing site</source>
-        <translation type="obsolete">Zabezbečení</translation>
+        <translation type="unfinished">Zabezbečení</translation>
     </message>
     <message>
         <source>Site access</source>
-        <translation type="obsolete">Přístup na stránku
+        <translation type="unfinished">Přístup na stránku
 </translation>
     </message>
     <message>
@@ -21414,7 +21635,7 @@ Standardní kód byl vytvořen ze základních parametrů, které jste vybrali.
     </message>
     <message>
         <source>Site template selection</source>
-        <translation type="obsolete">Výběr šablony WWW</translation>
+        <translation type="unfinished">Výběr šablony WWW</translation>
     </message>
     <message>
         <source>System check</source>
@@ -21838,7 +22059,7 @@ Pro vyřešení tohoto problému musíte udělat něco z následujících možno
     </message>
     <message>
         <source>Site selection</source>
-        <translation type="obsolete">Výběr stránky</translation>
+        <translation type="unfinished">Výběr stránky</translation>
     </message>
     <message>
         <source>You need to fill in the first name.</source>
@@ -21932,11 +22153,11 @@ Tyto nastavení je možné změnit později.</translation>
     </message>
     <message>
         <source>Please make sure that the username and the password is correct. Verify that your PostgreSQL database is configured correctly.&lt;br&gt;See the PHP documentation for more information about this.&lt;br&gt;Remember to start postmaster with the -i option.&lt;br&gt;Note that PostgreSQL 7.2 is not supported.</source>
-        <translation type="obsolete">Prosím, ujistěte se, že uživatelské jméno a heslo je platné. Ověřte si, že Vaše PostgreSQL databáze je správně nakonfigurována. &lt;br&gt; Pro více informací se podívejte na dokumentaci PHP. &lt;br&gt;Nezapomeňte spustit postmaster s možnotí -i.&lt;br&gt;Všimněte si, že není podporována PostgreSQL 7.2.</translation>
+        <translation type="unfinished">Prosím, ujistěte se, že uživatelské jméno a heslo je platné. Ověřte si, že Vaše PostgreSQL databáze je správně nakonfigurována. &lt;br&gt; Pro více informací se podívejte na dokumentaci PHP. &lt;br&gt;Nezapomeňte spustit postmaster s možnotí -i.&lt;br&gt;Všimněte si, že není podporována PostgreSQL 7.2.</translation>
     </message>
     <message>
         <source>Your database version %version does not fit the minimum requirement which is %req_version.</source>
-        <translation type="obsolete">Vaše databázová verze %version není vhodná pro minimální požadavek, kterým je %req-version.</translation>
+        <translation type="unfinished">Vaše databázová verze %version není vhodná pro minimální požadavek, kterým je %req-version.</translation>
     </message>
     <message>
         <source>The setup wizard was not able to complete the creation of your selected sites.</source>
@@ -21971,23 +22192,23 @@ Instaluje se tlačítko Obnovit</translation>
     </message>
     <message>
         <source>Cannot write to file</source>
-        <translation type="obsolete">Nemůže zapisovat do souboru</translation>
+        <translation type="unfinished">Nemůže zapisovat do souboru</translation>
     </message>
     <message>
         <source>Download of package &apos;%pkg&apos; failed. You may upload the package manually.</source>
-        <translation type="obsolete">Selhalo stahování balíčku &apos;%pkg&apos;. Můžete stáhnout balíček ručně.</translation>
+        <translation type="unfinished">Selhalo stahování balíčku &apos;%pkg&apos;. Můžete stáhnout balíček ručně.</translation>
     </message>
     <message>
         <source>Invalid package</source>
-        <translation type="obsolete">Neplatný balíček</translation>
+        <translation type="unfinished">Neplatný balíček</translation>
     </message>
     <message>
         <source>No package selected for upload</source>
-        <translation type="obsolete">Není vybrán žádný balíček pro načtení</translation>
+        <translation type="unfinished">Není vybrán žádný balíček pro načtení</translation>
     </message>
     <message>
         <source>Failed fetching upload package file</source>
-        <translation type="obsolete">Selhalo vyvolávání načtení balíčku souboru</translation>
+        <translation type="unfinished">Selhalo vyvolávání načtení balíčku souboru</translation>
     </message>
     <message>
         <source>Site package</source>
@@ -22011,11 +22232,11 @@ Instaluje se tlačítko Obnovit</translation>
     </message>
     <message>
         <source>The database [%database_name] cannot be used, the setup wizard wants to create the site in [%req_charset] but the database has been created using character set [%charset]. You will have to choose a database having support for [%req_charset] or modify [%database_name] .</source>
-        <translation type="obsolete">Databáze [%database_name] nemůže být použita, průvodce nastavením chce vytvořit stránku v [%req_charset], ale databáze byla vytvořena s použitím znakové sady [%charset]. Budete muset vybrat databázi, která podporuje [%req_charset] nebo upravuje [%database_name].</translation>
+        <translation type="unfinished">Databáze [%database_name] nemůže být použita, průvodce nastavením chce vytvořit stránku v [%req_charset], ale databáze byla vytvořena s použitím znakové sady [%charset]. Budete muset vybrat databázi, která podporuje [%req_charset] nebo upravuje [%database_name].</translation>
     </message>
     <message>
         <source>Failed to copy %url to local file %filename</source>
-        <translation type="obsolete">Selhalo kopírování %url do místního souboru %filename</translation>
+        <translation type="unfinished">Selhalo kopírování %url do místního souboru %filename</translation>
     </message>
     <message>
         <source>Access method</source>
@@ -22039,7 +22260,7 @@ Instaluje se tlačítko Obnovit</translation>
     </message>
     <message>
         <source>Package &apos;%packageName&apos; and it&apos;s dependencies have been downloaded successfully. Press &apos;Next&apos; to continue.</source>
-        <translation type="obsolete">Byl úspěšně nahrán balíček &apos;%packageName&apos; včetně jeho závislostí. Pro pokračování stiskněte &apos;Další&apos;. </translation>
+        <translation type="unfinished">Byl úspěšně nahrán balíček &apos;%packageName&apos; včetně jeho závislostí. Pro pokračování stiskněte &apos;Další&apos;. </translation>
     </message>
     <message>
         <source>Use the radio buttons to choose the default language, and the checkboxes to choose additional languages. You will be able to use any of the selected languages for translating your content. The default language will determine the locale settings and will be used as the most prioritized language for your site.</source>
@@ -22111,11 +22332,11 @@ Instaluje se tlačítko Obnovit</translation>
     </message>
     <message>
         <source>The selected user has not got access to any databases. Change user or create a database for the user.</source>
-        <translation type="obsolete">Vybraný uživatel nemá přístup do žádné databáze. Změňte uživatele nebo pro něj vytvořte databázi.</translation>
+        <translation type="unfinished">Vybraný uživatel nemá přístup do žádné databáze. Změňte uživatele nebo pro něj vytvořte databázi.</translation>
     </message>
     <message>
         <source>The &apos;digest&apos; function is not available in your database, you cannot run eZ Publish without this. See the documentation for more information.</source>
-        <translation type="obsolete">Funkce &apos;přehled&apos; není dostupná ve Vaší databázi, není možné spustit eZ Publish. Pro více informací si prosím prohlédněte dokumentaci.</translation>
+        <translation type="unfinished">Funkce &apos;přehled&apos; není dostupná ve Vaší databázi, není možné spustit eZ Publish. Pro více informací si prosím prohlédněte dokumentaci.</translation>
     </message>
     <message>
         <source>Package language options</source>
@@ -22123,27 +22344,27 @@ Instaluje se tlačítko Obnovit</translation>
     </message>
     <message>
         <source>No packages chosen.</source>
-        <translation type="obsolete">Nejsou vybrány žádné balíčky.</translation>
+        <translation type="unfinished">Nejsou vybrány žádné balíčky.</translation>
     </message>
     <message>
         <source>No templates chosen.</source>
-        <translation type="obsolete">Nejsou vybrány žádné šablony.</translation>
+        <translation type="unfinished">Nejsou vybrány žádné šablony.</translation>
     </message>
     <message>
         <source>Uploaded file is not an eZ Publish package</source>
-        <translation type="obsolete">Nahraný souboru není balíček eZ Publish</translation>
+        <translation type="unfinished">Nahraný souboru není balíček eZ Publish</translation>
     </message>
     <message>
         <source>No site package chosen.</source>
-        <translation type="obsolete">Není vybrán žádný balíček stránky.</translation>
+        <translation type="unfinished">Není vybrán žádný balíček stránky.</translation>
     </message>
     <message>
         <source>Retrieving remote site packages list failed. You may upload packages manually.</source>
-        <translation type="obsolete">Opětovné načtení vzdáleného seznamu balíčků stránek selhalo. Můžete nahrát balíčky ručně.</translation>
+        <translation type="unfinished">Opětovné načtení vzdáleného seznamu balíčků stránek selhalo. Můžete nahrát balíčky ručně.</translation>
     </message>
     <message>
         <source>Welcome to eZ Publish</source>
-        <translation type="obsolete">Vítejte v eZ Publish</translation>
+        <translation type="unfinished">Vítejte v eZ Publish</translation>
     </message>
     <message>
         <source>If you think you have fixed the errors you can try then click the &quot;Retry&quot; button.</source>
@@ -22531,10 +22752,6 @@ Tato funkčnost je také dostupná později v administračním rozhraní.</trans
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your alternatives are to:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22548,6 +22765,14 @@ Tato funkčnost je také dostupná později v administračním rozhraní.</trans
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The operation was cut short in order to avoid execution timeout.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your current session handler does not support session administration.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -24089,7 +24314,7 @@ Klikněte na ména objektů pro změnu procházení.</translation>
     <name>design/standard/toolbar</name>
     <message>
         <source>Toolbar management</source>
-        <translation type="obsolete">Management nástrojové lišty</translation>
+        <translation type="unfinished">Management nástrojové lišty</translation>
     </message>
     <message>
         <source>There are %logged_in_count registered and %anonymous_count anonymous users online.</source>
@@ -24559,7 +24784,7 @@ Klikněte na ména objektů pro změnu procházení.</translation>
     </message>
     <message>
         <source>The node (%1) specified in [UserSettings].DefaultUserPlacement setting in site.ini does not exist!</source>
-        <translation type="obsolete">Uzel (%1) specifikovaný v [UserSettings]. DefaultUserPlacement nastavení v soubru site.ini neexistuje!</translation>
+        <translation type="unfinished">Uzel (%1) specifikovaný v [UserSettings]. DefaultUserPlacement nastavení v soubru site.ini neexistuje!</translation>
     </message>
     <message>
         <source>Email</source>
@@ -25423,78 +25648,98 @@ Následujte instrukce v tomto e-mailu pro aktivaci Vašeho účtu.</translation>
     <name>kernel/cache</name>
     <message>
         <source>Content view cache</source>
-        <translation type="obsolete">Cache zobrazení obsahu</translation>
+        <translation type="unfinished">Cache zobrazení obsahu</translation>
     </message>
     <message>
         <source>Global INI cache</source>
-        <translation type="obsolete">Globální INI cache</translation>
+        <translation type="unfinished">Globální INI cache</translation>
     </message>
     <message>
         <source>INI cache</source>
-        <translation type="obsolete">INI cache</translation>
+        <translation type="unfinished">INI cache</translation>
     </message>
     <message>
         <source>Codepage cache</source>
-        <translation type="obsolete">Cache kódování</translation>
+        <translation type="unfinished">Cache kódování</translation>
     </message>
     <message>
         <source>Class identifier cache</source>
-        <translation type="obsolete">Cache  identifikátoru tříd</translation>
+        <translation type="unfinished">Cache  identifikátoru tříd</translation>
     </message>
     <message>
         <source>Sort key cache</source>
-        <translation type="obsolete">Cache tříění klíčů</translation>
+        <translation type="unfinished">Cache tříění klíčů</translation>
     </message>
     <message>
         <source>URL alias cache</source>
-        <translation type="obsolete">URL aliasová cache</translation>
+        <translation type="unfinished">URL aliasová cache</translation>
     </message>
     <message>
         <source>Image alias</source>
-        <translation type="obsolete">Alias obrázku</translation>
+        <translation type="unfinished">Alias obrázku</translation>
     </message>
     <message>
         <source>Template cache</source>
-        <translation type="obsolete">Cache pro šablony</translation>
+        <translation type="unfinished">Cache pro šablony</translation>
     </message>
     <message>
         <source>Template block cache</source>
-        <translation type="obsolete">Cache zablokování šablon</translation>
+        <translation type="unfinished">Cache zablokování šablon</translation>
     </message>
     <message>
         <source>Template override cache</source>
-        <translation type="obsolete">Cache šablon přepisu</translation>
+        <translation type="unfinished">Cache šablon přepisu</translation>
     </message>
     <message>
         <source>RSS cache</source>
-        <translation type="obsolete">RSS-cache</translation>
+        <translation type="unfinished">RSS-cache</translation>
     </message>
     <message>
         <source>Character transformation cache</source>
-        <translation type="obsolete">Cache transformace znaků</translation>
+        <translation type="unfinished">Cache transformace znaků</translation>
     </message>
     <message>
         <source>User info cache</source>
-        <translation type="obsolete">Uživatelská informační cache</translation>
+        <translation type="unfinished">Uživatelská informační cache</translation>
     </message>
     <message>
         <source>Content tree menu (browser cache)</source>
-        <translation type="obsolete">Obsahové menu (browser cache)</translation>
+        <translation type="unfinished">Obsahové menu (browser cache)</translation>
+    </message>
+    <message>
+        <source>Text to image cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>State limitations cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Design base cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Active extensions cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TS Translation cache</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/class</name>
     <message>
         <source>Class list of group</source>
-        <translation type="obsolete">Seznam tříd ve skupině</translation>
+        <translation type="unfinished">Seznam tříd ve skupině</translation>
     </message>
     <message>
         <source>Class group list</source>
-        <translation type="obsolete">Seznam skupin tříd</translation>
+        <translation type="unfinished">Seznam skupin tříd</translation>
     </message>
     <message>
         <source>Remove class</source>
-        <translation type="obsolete">Odstranit třídu</translation>
+        <translation type="unfinished">Odstranit třídu</translation>
     </message>
     <message>
         <source>Class edit</source>
@@ -25506,973 +25751,1018 @@ Následujte instrukce v tomto e-mailu pro aktivaci Vašeho účtu.</translation>
     </message>
     <message>
         <source>Class list</source>
-        <translation type="obsolete">Seznam tříd</translation>
+        <translation type="unfinished">Seznam tříd</translation>
     </message>
     <message>
         <source>(no classes)</source>
-        <translation type="obsolete">(nejsou žádné třídy)</translation>
+        <translation type="unfinished">(nejsou žádné třídy)</translation>
     </message>
     <message>
         <source>Remove class groups</source>
-        <translation type="obsolete">Odstranit třídu skupin</translation>
+        <translation type="unfinished">Odstranit třídu skupin</translation>
     </message>
     <message>
         <source>You have to have at least one group that the class belongs to!</source>
-        <translation type="obsolete">Musíte mít alespoň jednu skupinu, které patří třída!</translation>
+        <translation type="unfinished">Musíte mít alespoň jednu skupinu, které patří třída!</translation>
     </message>
     <message>
         <source>Remove classes %class_id</source>
-        <translation type="obsolete">Odstranit třídy %class_id</translation>
+        <translation type="unfinished">Odstranit třídy %class_id</translation>
     </message>
     <message>
         <source>Copy of %class_name</source>
-        <translation type="obsolete">Kopie %class_id</translation>
+        <translation type="unfinished">Kopie %class_id</translation>
     </message>
     <message>
         <source>The class should have nonempty &apos;Name&apos; attribute.</source>
-        <translation type="obsolete">Třída by neměla mít prázdný &quot;Name(Jmenný)&quot; atribut.</translation>
+        <translation type="unfinished">Třída by neměla mít prázdný &quot;Name(Jmenný)&quot; atribut.</translation>
     </message>
     <message>
         <source>The class should have at least one attribute.</source>
-        <translation type="obsolete">Třída by měla mít alespoň jeden atribut.</translation>
+        <translation type="unfinished">Třída by měla mít alespoň jeden atribut.</translation>
     </message>
     <message>
         <source>There is a class already having the same identifier.</source>
-        <translation type="obsolete">Již existuje třída mající ten samý identifikátor.</translation>
+        <translation type="unfinished">Již existuje třída mající ten samý identifikátor.</translation>
     </message>
     <message>
         <source>Remove translation</source>
-        <translation type="obsolete">Odstranit překlad</translation>
+        <translation type="unfinished">Odstranit překlad</translation>
     </message>
     <message>
         <source>Could not load datatype: </source>
-        <translation type="obsolete">Nemohu načíst typ dat:</translation>
+        <translation type="unfinished">Nemohu načíst typ dat:</translation>
     </message>
     <message>
         <source>Editing this content class may cause data corruption in your system.</source>
-        <translation type="obsolete">Editování této obsahové třídy může způsobit deformaci dat ve vašem systému.</translation>
+        <translation type="unfinished">Editování této obsahové třídy může způsobit deformaci dat ve vašem systému.</translation>
     </message>
     <message>
         <source>duplicate attribute placement</source>
-        <translation type="obsolete">duplicitní umístění atributu</translation>
+        <translation type="unfinished">duplicitní umístění atributu</translation>
     </message>
     <message>
         <source>duplicate attribute identifier</source>
-        <translation type="obsolete">duplicitní identifikátor atributu</translation>
+        <translation type="unfinished">duplicitní identifikátor atributu</translation>
     </message>
     <message>
         <source>Press &quot;Cancel&quot; to safely exit this operation.</source>
-        <translation type="obsolete">Stiskněte &quot;Zrušit&quot; pro bezpečné opuštění této operace.</translation>
+        <translation type="unfinished">Stiskněte &quot;Zrušit&quot; pro bezpečné opuštění této operace.</translation>
     </message>
     <message>
         <source>Please contact your eZ Publish administrator to solve this problem.</source>
-        <translation type="obsolete">Prosím kontaktujte Vašeho eZ Puvblish administrátora pro vyřešení tohoto problému.</translation>
+        <translation type="unfinished">Prosím kontaktujte Vašeho eZ Puvblish administrátora pro vyřešení tohoto problému.</translation>
+    </message>
+    <message>
+        <source>Class groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove classes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/class/edit</name>
     <message>
         <source>New Class</source>
-        <translation type="obsolete">Nová třída</translation>
+        <translation type="unfinished">Nová třída</translation>
     </message>
     <message>
         <source>new attribute</source>
-        <translation type="obsolete">nový atribut</translation>
+        <translation type="unfinished">nový atribut</translation>
     </message>
 </context>
 <context>
     <name>kernel/class/groupedit</name>
     <message>
         <source>New Group</source>
-        <translation type="obsolete">Nová skupina</translation>
+        <translation type="unfinished">Nová skupina</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes</name>
     <message>
         <source>Approval</source>
-        <translation type="obsolete">Schválit</translation>
+        <translation type="unfinished">Schválit</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="obsolete">Standard</translation>
+        <translation type="unfinished">Standard</translation>
     </message>
     <message>
         <source>Observer</source>
-        <translation type="obsolete">Pozorovatel</translation>
+        <translation type="unfinished">Pozorovatel</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="obsolete">Vlastník</translation>
+        <translation type="unfinished">Vlastník</translation>
     </message>
     <message>
         <source>Approver</source>
-        <translation type="obsolete">Schvalovatel</translation>
+        <translation type="unfinished">Schvalovatel</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation type="obsolete">Autor</translation>
+        <translation type="unfinished">Autor</translation>
     </message>
     <message>
         <source>Inbox</source>
-        <translation type="obsolete">Přijaté</translation>
+        <translation type="unfinished">Přijaté</translation>
     </message>
     <message>
         <source>No state yet</source>
-        <translation type="obsolete">Bez stavu</translation>
+        <translation type="unfinished">Bez stavu</translation>
     </message>
     <message>
         <source>Workflow running</source>
-        <translation type="obsolete">Tok akcí právě probíhá</translation>
+        <translation type="unfinished">Tok akcí právě probíhá</translation>
     </message>
     <message>
         <source>Workflow done</source>
-        <translation type="obsolete">Tok akcí ukončen</translation>
+        <translation type="unfinished">Tok akcí ukončen</translation>
     </message>
     <message>
         <source>Workflow failed an event</source>
-        <translation type="obsolete">Tok akcí selhal na události</translation>
+        <translation type="unfinished">Tok akcí selhal na události</translation>
     </message>
     <message>
         <source>Workflow event deferred to cron job</source>
-        <translation type="obsolete">Událost toku akcí byla odložena na pozdější vykonání</translation>
+        <translation type="unfinished">Událost toku akcí byla odložena na pozdější vykonání</translation>
     </message>
     <message>
         <source>Workflow was reset for reuse</source>
-        <translation type="obsolete">Tok akcí byl vynulován pro znovupoužití</translation>
+        <translation type="unfinished">Tok akcí byl vynulován pro znovupoužití</translation>
     </message>
     <message>
         <source>Accepted event</source>
-        <translation type="obsolete">Přijatá událost</translation>
+        <translation type="unfinished">Přijatá událost</translation>
     </message>
     <message>
         <source>Rejected event</source>
-        <translation type="obsolete">Odmítnutá událost</translation>
+        <translation type="unfinished">Odmítnutá událost</translation>
     </message>
     <message>
         <source>Event deferred to cron job</source>
-        <translation type="obsolete">Událost byla odložena na pozdější vykonání</translation>
+        <translation type="unfinished">Událost byla odložena na pozdější vykonání</translation>
     </message>
     <message>
         <source>Event deferred to cron job, event will be rerun</source>
-        <translation type="obsolete">Událost toku akcí byla odložena na pozdější vykonání, událost bude vykonána znovu</translation>
+        <translation type="unfinished">Událost toku akcí byla odložena na pozdější vykonání, událost bude vykonána znovu</translation>
     </message>
     <message>
         <source>Event runs a sub event</source>
-        <translation type="obsolete">Událost je vykonávána jako podudálost</translation>
+        <translation type="unfinished">Událost je vykonávána jako podudálost</translation>
     </message>
     <message>
         <source>Workflow fetches template</source>
-        <translation type="obsolete">Tok akcí čte šablonu</translation>
+        <translation type="unfinished">Tok akcí čte šablonu</translation>
     </message>
     <message>
         <source>Workflow redirects user view</source>
-        <translation type="obsolete">Tok akcí přesměrovává</translation>
+        <translation type="unfinished">Tok akcí přesměrovává</translation>
     </message>
     <message>
         <source>New RSS Export</source>
-        <translation type="obsolete">Nový RSS export</translation>
+        <translation type="unfinished">Nový RSS export</translation>
     </message>
     <message>
         <source>Workflow was canceled</source>
-        <translation type="obsolete">Pracovní tok byl přerušen</translation>
+        <translation type="unfinished">Pracovní tok byl přerušen</translation>
     </message>
     <message>
         <source>Canceled whole workflow</source>
-        <translation type="obsolete">Zrušený celý pracovní tok</translation>
+        <translation type="unfinished">Zrušený celý pracovní tok</translation>
     </message>
     <message>
         <source>Keep existing and create a new one</source>
-        <translation type="obsolete">Zachovat existující a vytvořit nový</translation>
+        <translation type="unfinished">Zachovat existující a vytvořit nový</translation>
+    </message>
+    <message>
+        <source>Replace existing object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update existing object</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes</name>
     <message>
         <source>Missing date input.</source>
-        <translation type="obsolete">Chybí datum.</translation>
+        <translation type="unfinished">Chybí datum.</translation>
     </message>
     <message>
         <source>Missing datetime input.</source>
-        <translation type="obsolete">Chybí datum a čas.</translation>
+        <translation type="unfinished">Chybí datum a čas.</translation>
     </message>
     <message>
         <source>At least one author is required.</source>
-        <translation type="obsolete">Je vyžadován alespoň jeden autor.</translation>
+        <translation type="unfinished">Je vyžadován alespoň jeden autor.</translation>
     </message>
     <message>
         <source>A valid file is required.</source>
-        <translation type="obsolete">Je požadován existující soubor.</translation>
+        <translation type="unfinished">Je požadován existující soubor.</translation>
     </message>
     <message>
         <source>Checkbox</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Checkbox</translation>
+        <translation type="unfinished">Checkbox</translation>
     </message>
     <message>
         <source>Email</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Email</translation>
+        <translation type="unfinished">Email</translation>
     </message>
     <message>
         <source>Enum</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Výčtový typ</translation>
+        <translation type="unfinished">Výčtový typ</translation>
     </message>
     <message>
         <source>At least one field should be chosen.</source>
-        <translation type="obsolete">Mělo by být vybráno alespoň jedno pole.</translation>
+        <translation type="unfinished">Mělo by být vybráno alespoň jedno pole.</translation>
     </message>
     <message>
         <source>Float</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Čísla s desetinnou částí</translation>
+        <translation type="unfinished">Čísla s desetinnou částí</translation>
     </message>
     <message>
         <source>Image</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Obrázek</translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>Integer</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Číslo bez desetinné části</translation>
+        <translation type="unfinished">Číslo bez desetinné části</translation>
     </message>
     <message>
         <source>ISBN</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">ISBN</translation>
+        <translation type="unfinished">ISBN</translation>
     </message>
     <message>
         <source>Matrix</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Matice</translation>
+        <translation type="unfinished">Matice</translation>
     </message>
     <message>
         <source>Media</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Media</translation>
+        <translation type="unfinished">Media</translation>
     </message>
     <message>
         <source>Object relation</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Relace objektů</translation>
+        <translation type="unfinished">Relace objektů</translation>
     </message>
     <message>
         <source>Option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Volba</translation>
+        <translation type="unfinished">Volba</translation>
     </message>
     <message>
         <source>At least one option is required.</source>
-        <translation type="obsolete">Je vyžadována alespoň jedna volba.</translation>
+        <translation type="unfinished">Je vyžadována alespoň jedna volba.</translation>
     </message>
     <message>
         <source>Price</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Cena</translation>
+        <translation type="unfinished">Cena</translation>
     </message>
     <message>
         <source>Add to basket</source>
-        <translation type="obsolete">Přidat do nákupního koše</translation>
+        <translation type="unfinished">Přidat do nákupního koše</translation>
     </message>
     <message>
         <source>Add to wish list</source>
-        <translation type="obsolete">Přidat na seznam přání</translation>
+        <translation type="unfinished">Přidat na seznam přání</translation>
     </message>
     <message>
         <source>Range option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Volba rozsahu</translation>
+        <translation type="unfinished">Volba rozsahu</translation>
     </message>
     <message>
         <source>Selection</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Výběr</translation>
+        <translation type="unfinished">Výběr</translation>
     </message>
     <message>
         <source>Text line</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Textová řádka</translation>
+        <translation type="unfinished">Textová řádka</translation>
     </message>
     <message>
         <source>Subtree subscription</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Přihlášení pod-stromu</translation>
+        <translation type="unfinished">Přihlášení pod-stromu</translation>
     </message>
     <message>
         <source>URL</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">URL</translation>
+        <translation type="unfinished">URL</translation>
     </message>
     <message>
         <source>User account</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Uživatelský účet</translation>
+        <translation type="unfinished">Uživatelský účet</translation>
     </message>
     <message>
         <source>A user with this email already exists.</source>
-        <translation type="obsolete">Uživatel s tímto Emailem již existuje.</translation>
+        <translation type="unfinished">Uživatel s tímto Emailem již existuje.</translation>
     </message>
     <message>
         <source>Identifier</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Identifikátor</translation>
+        <translation type="unfinished">Identifikátor</translation>
     </message>
     <message>
         <source>image</source>
         <comment>Default image name</comment>
-        <translation type="obsolete">Obrázek</translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>Ini Setting</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Ini Nastavení</translation>
+        <translation type="unfinished">Ini Nastavení</translation>
     </message>
     <message>
         <source>Package</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Balíček</translation>
+        <translation type="unfinished">Balíček</translation>
     </message>
     <message>
         <source>Send</source>
         <comment>Datatype information collector action</comment>
-        <translation type="obsolete">Odeslat</translation>
+        <translation type="unfinished">Odeslat</translation>
     </message>
     <message>
         <source>Content required</source>
-        <translation type="obsolete">Obsah požadován</translation>
+        <translation type="unfinished">Obsah požadován</translation>
     </message>
     <message>
         <source>Missing objectrelation input.</source>
-        <translation type="obsolete">Chybějící vstup objektových relací.</translation>
+        <translation type="unfinished">Chybějící vstup objektových relací.</translation>
     </message>
     <message>
         <source>Invalid time.</source>
-        <translation type="obsolete">Chybný čas.</translation>
+        <translation type="unfinished">Chybný čas.</translation>
     </message>
     <message>
         <source>The author name must be provided.</source>
-        <translation type="obsolete">Jméno autora musí být uvedeno.</translation>
+        <translation type="unfinished">Jméno autora musí být uvedeno.</translation>
     </message>
     <message>
         <source>The email address is not valid.</source>
-        <translation type="obsolete">Emailová adresa nemá správný tvar.</translation>
+        <translation type="unfinished">Emailová adresa nemá správný tvar.</translation>
     </message>
     <message>
         <source>File uploading is not enabled. Please contact the site administrator to enable it.</source>
-        <translation type="obsolete">Upload souborů není zapnutý. Prosím kontaktujte administrátora pro zapnutí.</translation>
+        <translation type="unfinished">Upload souborů není zapnutý. Prosím kontaktujte administrátora pro zapnutí.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set by the upload_max_filesize directive in php.ini.</source>
-        <translation type="obsolete">Velikost uploadovaného souboru překračuje limit nastaven  upload_max_filesize direktivou v php.ini.</translation>
+        <translation type="unfinished">Velikost uploadovaného souboru překračuje limit nastaven  upload_max_filesize direktivou v php.ini.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the maximum upload size: %1 bytes.</source>
-        <translation type="obsolete">Velikost uploadovaného souboru překračuje maximální velikost uploadu %1 bajtů.</translation>
+        <translation type="unfinished">Velikost uploadovaného souboru překračuje maximální velikost uploadu %1 bajtů.</translation>
     </message>
     <message>
         <source>The email address is empty.</source>
-        <translation type="obsolete">Emailová adresa je prázdná.</translation>
+        <translation type="unfinished">Emailová adresa je prázdná.</translation>
     </message>
     <message>
         <source>The given input is not a floating point number.</source>
-        <translation type="obsolete">Vstup není číslo s plovoucí čárkou.</translation>
+        <translation type="unfinished">Vstup není číslo s plovoucí čárkou.</translation>
     </message>
     <message>
         <source>The input must be greater than %1</source>
-        <translation type="obsolete">Vstup musí být větší než %1</translation>
+        <translation type="unfinished">Vstup musí být větší než %1</translation>
     </message>
     <message>
         <source>The input must be less than %1</source>
-        <translation type="obsolete">Vstup musí být méně než %1</translation>
+        <translation type="unfinished">Vstup musí být méně než %1</translation>
     </message>
     <message>
         <source>The input is not in defined range %1 - %2</source>
-        <translation type="obsolete">Vstup není v definovaném rozsahu %1 - %2</translation>
+        <translation type="unfinished">Vstup není v definovaném rozsahu %1 - %2</translation>
     </message>
     <message>
         <source>A valid image file is required.</source>
-        <translation type="obsolete">SPrávný obrázkový soubor je požadován.</translation>
+        <translation type="unfinished">SPrávný obrázkový soubor je požadován.</translation>
     </message>
     <message>
         <source>The size of the uploaded image exceeds limit set by upload_max_filesize directive in php.ini. Please contact the site administrator.</source>
-        <translation type="obsolete">Velikost uploadovaného obrázku překračuje limit nastavený upload_max_filesize direktivou v php.ini. Prosím, kontaktujte administrátora.</translation>
+        <translation type="unfinished">Velikost uploadovaného obrázku překračuje limit nastavený upload_max_filesize direktivou v php.ini. Prosím, kontaktujte administrátora.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
-        <translation type="obsolete">Velikost uploadovaného souboru překračuje limit pro tuto stránku %1 bajtů.</translation>
+        <translation type="unfinished">Velikost uploadovaného souboru překračuje limit pro tuto stránku %1 bajtů.</translation>
     </message>
     <message>
         <source>Could not locate the ini file.</source>
-        <translation type="obsolete">Nemohu zalokovat ini soubor.</translation>
+        <translation type="unfinished">Nemohu zalokovat ini soubor.</translation>
     </message>
     <message>
         <source>The input is not a valid integer.</source>
-        <translation type="obsolete">Vstup není platné celé číslo.</translation>
+        <translation type="unfinished">Vstup není platné celé číslo.</translation>
     </message>
     <message>
         <source>The number must be greater than %1</source>
-        <translation type="obsolete">Číslo musí být větší než %1</translation>
+        <translation type="unfinished">Číslo musí být větší než %1</translation>
     </message>
     <message>
         <source>The number must be less than %1</source>
-        <translation type="obsolete">Číslo musí být menší než %1</translation>
+        <translation type="unfinished">Číslo musí být menší než %1</translation>
     </message>
     <message>
         <source>The number is not within the required range %1 - %2</source>
-        <translation type="obsolete">Číslo neni v platném rozsahu %1 - %2</translation>
+        <translation type="unfinished">Číslo neni v platném rozsahu %1 - %2</translation>
     </message>
     <message>
         <source>The ISBN number is not correct. Please check the input for mistakes.</source>
-        <translation type="obsolete">ISBN číslo není správné. Prosím ověřte vstupní data.</translation>
+        <translation type="unfinished">ISBN číslo není správné. Prosím ověřte vstupní data.</translation>
     </message>
     <message>
         <source>A valid media file is required.</source>
-        <translation type="obsolete">Správný mediální soubor je požadován.</translation>
+        <translation type="unfinished">Správný mediální soubor je požadován.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set by upload_max_filesize directive in php.ini. Please contact the site administrator.</source>
-        <translation type="obsolete">Velikost uploadovaného souboru překračuje limit nastaven  upload_max_filesize direktivou v php.ini. Prosím kontaktujte administrátora.</translation>
+        <translation type="unfinished">Velikost uploadovaného souboru překračuje limit nastaven  upload_max_filesize direktivou v php.ini. Prosím kontaktujte administrátora.</translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds site maximum: %1 bytes.</source>
-        <translation type="obsolete">Velikost uploadovaného souboru překračuje maximum pro stránku %1 bajtů..</translation>
+        <translation type="unfinished">Velikost uploadovaného souboru překračuje maximum pro stránku %1 bajtů..</translation>
     </message>
     <message>
         <source>The option value must be provided.</source>
-        <translation type="obsolete">Hodnota volby musí být uvedena.</translation>
+        <translation type="unfinished">Hodnota volby musí být uvedena.</translation>
     </message>
     <message>
         <source>The additional price for the multioption value is not valid.</source>
-        <translation type="obsolete">Dodatečná cena pro multioptionální hodnotu není ve správném formátu.</translation>
+        <translation type="unfinished">Dodatečná cena pro multioptionální hodnotu není ve správném formátu.</translation>
     </message>
     <message>
         <source>The Additional price value is not valid.</source>
-        <translation type="obsolete">Dodatečná cena není  ve správném formátu.</translation>
+        <translation type="unfinished">Dodatečná cena není  ve správném formátu.</translation>
     </message>
     <message>
         <source>Input required.</source>
-        <translation type="obsolete">Vstup požadován.</translation>
+        <translation type="unfinished">Vstup požadován.</translation>
     </message>
     <message>
         <source>The input text is too long. The maximum number of characters allowed is %1.</source>
-        <translation type="obsolete">Vložený text je příliš dlouhý. Maximální povolený počet znaků je %1.  </translation>
+        <translation type="unfinished">Vložený text je příliš dlouhý. Maximální povolený počet znaků je %1.  </translation>
     </message>
     <message>
         <source>Time input required.</source>
-        <translation type="obsolete">Časový vstup požadován.</translation>
+        <translation type="unfinished">Časový vstup požadován.</translation>
     </message>
     <message>
         <source>The username must be specified.</source>
-        <translation type="obsolete">Uživatelské jméno musí být specifikováno.</translation>
+        <translation type="unfinished">Uživatelské jméno musí být specifikováno.</translation>
     </message>
     <message>
         <source>The username already exists, please choose another one.</source>
-        <translation type="obsolete">Uživatelské jméno již existuje, prosím zvolte jiné.</translation>
+        <translation type="unfinished">Uživatelské jméno již existuje, prosím zvolte jiné.</translation>
     </message>
     <message>
         <source>The passwords do not match.</source>
         <comment>eZUserType</comment>
-        <translation type="obsolete">Hesla se neshodují.</translation>
+        <translation type="unfinished">Hesla se neshodují.</translation>
     </message>
     <message>
         <source>Cannot remove the account:</source>
-        <translation type="obsolete">Nemohu odstranit účet:</translation>
+        <translation type="unfinished">Nemohu odstranit účet:</translation>
     </message>
     <message>
         <source>The account owner is currently logged in.</source>
-        <translation type="obsolete">Vlastník účtu je právě přihlíšen.</translation>
+        <translation type="unfinished">Vlastník účtu je právě přihlíšen.</translation>
     </message>
     <message>
         <source>The account is currently used by the anonymous user.</source>
-        <translation type="obsolete">Účet je momentálně používán anonymním uživatelem.</translation>
+        <translation type="unfinished">Účet je momentálně používán anonymním uživatelem.</translation>
     </message>
     <message>
         <source>Multi-option</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Multi-volba</translation>
+        <translation type="unfinished">Multi-volba</translation>
     </message>
     <message>
         <source>Authors</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Autoři</translation>
+        <translation type="unfinished">Autoři</translation>
     </message>
     <message>
         <source>File</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Soubor</translation>
+        <translation type="unfinished">Soubor</translation>
     </message>
     <message>
         <source>Date</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Datum</translation>
+        <translation type="unfinished">Datum</translation>
     </message>
     <message>
         <source>Date and time</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Datum a čas</translation>
+        <translation type="unfinished">Datum a čas</translation>
     </message>
     <message>
         <source>Keywords</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Klíčová slova</translation>
+        <translation type="unfinished">Klíčová slova</translation>
     </message>
     <message>
         <source>Object relations</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Relace objektů</translation>
+        <translation type="unfinished">Relace objektů</translation>
     </message>
     <message>
         <source>Text block</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Textový blok</translation>
+        <translation type="unfinished">Textový blok</translation>
     </message>
     <message>
         <source>Time</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Čas</translation>
+        <translation type="unfinished">Čas</translation>
     </message>
     <message>
         <source>XML block</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">XML blok</translation>
+        <translation type="unfinished">XML blok</translation>
     </message>
     <message>
         <source>Object %1 can not be embeded to itself.</source>
-        <translation type="obsolete">Objekt %1 nemůže být vložen sám do sebe.</translation>
+        <translation type="unfinished">Objekt %1 nemůže být vložen sám do sebe.</translation>
     </message>
     <message>
         <source>Country</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Země</translation>
+        <translation type="unfinished">Země</translation>
     </message>
     <message>
         <source>Date is not valid.</source>
-        <translation type="obsolete">Datum má chybný formát.</translation>
+        <translation type="unfinished">Datum má chybný formát.</translation>
     </message>
     <message>
         <source>Time is not valid.</source>
-        <translation type="obsolete">Čas není ve správném formátu.</translation>
+        <translation type="unfinished">Čas není ve správném formátu.</translation>
     </message>
     <message>
         <source>The image file must have non-zero size.</source>
-        <translation type="obsolete">Obrázkový soubor nesmí mít nulovou velikost.</translation>
+        <translation type="unfinished">Obrázkový soubor nesmí mít nulovou velikost.</translation>
     </message>
     <message>
         <source>Wrong text field value.</source>
-        <translation type="obsolete">Špatná hodnota textového pole.</translation>
+        <translation type="unfinished">Špatná hodnota textového pole.</translation>
     </message>
     <message>
         <source>Missing matrix input.</source>
-        <translation type="obsolete">Chybějící  vstupní matrice.</translation>
+        <translation type="unfinished">Chybějící  vstupní matrice.</translation>
     </message>
     <message>
         <source>Multi-price</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Multi-cena</translation>
+        <translation type="unfinished">Multi-cena</translation>
     </message>
     <message>
         <source>Invalid price for &apos;%currencyCode&apos; currency </source>
-        <translation type="obsolete">Nesprávná cena pro &quot;%currencyCode&apos; měnu </translation>
+        <translation type="unfinished">Nesprávná cena pro &quot;%currencyCode&apos; měnu </translation>
     </message>
     <message>
         <source>Missing objectrelation list input.</source>
-        <translation type="obsolete">Chybějící seznam vstupních objektových relací.</translation>
+        <translation type="unfinished">Chybějící seznam vstupních objektových relací.</translation>
     </message>
     <message>
         <source>NAME is required.</source>
-        <translation type="obsolete">NAME (meno) je požadováno.</translation>
+        <translation type="unfinished">NAME (meno) je požadováno.</translation>
     </message>
     <message>
         <source>Invalid price.</source>
-        <translation type="obsolete">Nesprávná cena.</translation>
+        <translation type="unfinished">Nesprávná cena.</translation>
     </message>
     <message>
         <source>Product category</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Kategorie produktů</translation>
+        <translation type="unfinished">Kategorie produktů</translation>
     </message>
     <message>
         <source>Dynamic VAT cannot be included.</source>
-        <translation type="obsolete">Dynamické DPH nemůže být vloženo.</translation>
+        <translation type="unfinished">Dynamické DPH nemůže být vloženo.</translation>
     </message>
     <message>
         <source>Missing range option input.</source>
-        <translation type="obsolete">Chybějící  rozsah vstupu volby.</translation>
+        <translation type="unfinished">Chybějící  rozsah vstupu volby.</translation>
     </message>
     <message>
         <source>Option set name is required.</source>
-        <translation type="obsolete">Jméno volbeb ze požadováno.</translation>
+        <translation type="unfinished">Jméno volbeb ze požadováno.</translation>
     </message>
     <message>
         <source>The password must be at least %1 characters long.</source>
-        <translation type="obsolete">Heslo musí být minimálně %1 znaků dlouhé.</translation>
+        <translation type="unfinished">Heslo musí být minimálně %1 znaků dlouhé.</translation>
     </message>
     <message>
         <source>Invalid reference in &amp;lt;embed&amp;gt; tag. Note that &lt;embed&gt; tag supports only &apos;eznode&apos; and &apos;ezobject&apos; protocols.</source>
-        <translation type="obsolete">Nesprávná reference v &amp;lt;embed&amp;gt; tagu. Poznamenejte si, že &lt;embed&gt; tag poporuje pouze &quot;eznode&quot; a &quot;ezobject&quot; protokoly.</translation>
+        <translation type="unfinished">Nesprávná reference v &amp;lt;embed&amp;gt; tagu. Poznamenejte si, že &lt;embed&gt; tag poporuje pouze &quot;eznode&quot; a &quot;ezobject&quot; protokoly.</translation>
     </message>
     <message>
         <source>The ISBN number is not correct. </source>
-        <translation type="obsolete">ISBN číslo není správné.</translation>
+        <translation type="unfinished">ISBN číslo není správné.</translation>
     </message>
     <message>
         <source>13 digit ISBN must start with 978 or 979</source>
-        <translation type="obsolete">13 číselné ISBN musí začínat s 978 nebo 979</translation>
+        <translation type="unfinished">13 číselné ISBN musí začínat s 978 nebo 979</translation>
     </message>
     <message>
         <source>ISBN length is invalid</source>
-        <translation type="obsolete">ISBN délka není platná</translation>
+        <translation type="unfinished">ISBN délka není platná</translation>
     </message>
     <message>
         <source>The registrant element of the ISBN number does not exist.</source>
-        <translation type="obsolete">Registrační element ISBN čísla neexistuje.</translation>
+        <translation type="unfinished">Registrační element ISBN čísla neexistuje.</translation>
     </message>
     <message>
         <source>The ISBN number has a incorrect registration group number.</source>
-        <translation type="obsolete">ISBN číslo má nekorektní číslo registrační skupiny.</translation>
+        <translation type="unfinished">ISBN číslo má nekorektní číslo registrační skupiny.</translation>
     </message>
     <message>
         <source>The group element of the ISBN number does not exist.</source>
-        <translation type="obsolete">Skupinový element ISBN čísla neexistuje.</translation>
+        <translation type="unfinished">Skupinový element ISBN čísla neexistuje.</translation>
     </message>
     <message>
         <source>%1 is not a valid prefix of the ISBN number.</source>
-        <translation type="obsolete">%1 není správný prefix (předpona) ISBN čísla.</translation>
+        <translation type="unfinished">%1 není správný prefix (předpona) ISBN čísla.</translation>
     </message>
     <message>
         <source>All ISBN 13 characters need to be numeric</source>
-        <translation type="obsolete">AII ISBN 13 znaké musí být numerické</translation>
+        <translation type="unfinished">AII ISBN 13 znaké musí být numerické</translation>
     </message>
     <message>
         <source>Bad checksum, last digit should be %1</source>
-        <translation type="obsolete">Špatný kontrolní součet , poslení číslo by mělo být %1</translation>
+        <translation type="unfinished">Špatný kontrolní součet , poslení číslo by mělo být %1</translation>
     </message>
     <message>
         <source>The ISBN number should be ISBN13, but seems to be ISBN10.</source>
-        <translation type="obsolete">ISBN číslo by mělo být ISBN13, ale vypadá jako ISBN10.</translation>
+        <translation type="unfinished">ISBN číslo by mělo být ISBN13, ale vypadá jako ISBN10.</translation>
     </message>
     <message>
         <source>Multi-option2</source>
         <comment>Datatype name</comment>
-        <translation type="obsolete">Multi-volba2</translation>
+        <translation type="unfinished">Multi-volba2</translation>
     </message>
     <message>
         <source>You cannot choose option value &quot;%1&quot; from &quot;%2&quot; because it is unselectable </source>
-        <translation type="obsolete">Nemůžete vybrat  hodnotu volby &quot;%1&quot; z &quot;%2&quot; protože je nezvolitelná</translation>
+        <translation type="unfinished">Nemůžete vybrat  hodnotu volby &quot;%1&quot; z &quot;%2&quot; protože je nezvolitelná</translation>
     </message>
     <message>
         <source>You cannot choose option value &quot;%1&quot; from &quot;%2&quot;  
  if you selected option &quot;%3&quot; from &quot;%4&quot; </source>
-        <translation type="obsolete">Nemůžete vybrat volbu  &quot;%1&quot; od &quot;%2&quot;
+        <translation type="unfinished">Nemůžete vybrat volbu  &quot;%1&quot; od &quot;%2&quot;
 pokud jste vybrali volbu &quot;%3&quot; od &quot;%4&quot;</translation>
     </message>
     <message>
         <source>The password must not be &quot;password&quot;.</source>
-        <translation type="obsolete">Heslo nesmí být &quot;heslo&quot; ani &quot;password&quot;.</translation>
+        <translation type="unfinished">Heslo nesmí být &quot;heslo&quot; ani &quot;password&quot;.</translation>
     </message>
     <message>
         <source>The account is currently used the administrator user.</source>
-        <translation type="obsolete">Účet je momentálně používaný administrátorem.</translation>
+        <translation type="unfinished">Účet je momentálně používaný administrátorem.</translation>
     </message>
     <message>
         <source>You cannot remove the last class holding user accounts.</source>
-        <translation type="obsolete">Nemůžete odstranit poslední jištěné uživatelské účty.</translation>
+        <translation type="unfinished">Nemůžete odstranit poslední jištěné uživatelské účty.</translation>
+    </message>
+    <message>
+        <source>Missing email input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The password cannot be empty.</source>
+        <comment>eZUserType</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezbinaryfile</name>
     <message>
         <source>Failed to store file %filename. Please contact the site administrator.</source>
-        <translation type="obsolete">Selhalo uložení souboru %filename. Prosím kontaktujte administrátora.</translation>
+        <translation type="unfinished">Selhalo uložení souboru %filename. Prosím kontaktujte administrátora.</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezimage</name>
     <message>
         <source>Failed to fetch Image Handler. Please contact the site administrator.</source>
-        <translation type="obsolete">Selhala úprava obrázku (fetch image handler). Prosím kontaktujte administrátora.</translation>
+        <translation type="unfinished">Selhala úprava obrázku (fetch image handler). Prosím kontaktujte administrátora.</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezmedia</name>
     <message>
         <source>Failed to store media file %filename. Please contact the site administrator.</source>
-        <translation type="obsolete">Selhalo uložení mediálního souboru %filename. Prosím, kontaktujte administrátora.</translation>
+        <translation type="unfinished">Selhalo uložení mediálního souboru %filename. Prosím, kontaktujte administrátora.</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezxmltext</name>
     <message>
         <source>Wrong closing tag : &amp;lt;/%1&amp;gt;.</source>
-        <translation type="obsolete">Chyba uzavírání tagu: &amp;lt;/%1&amp;gt;.</translation>
+        <translation type="unfinished">Chyba uzavírání tagu: &amp;lt;/%1&amp;gt;.</translation>
     </message>
     <message>
         <source>Unknown tag: &amp;lt;%1&amp;gt;.</source>
-        <translation type="obsolete">Nezámý tag: &amp;lt;%1&amp;gt;.</translation>
+        <translation type="unfinished">Nezámý tag: &amp;lt;%1&amp;gt;.</translation>
     </message>
     <message>
         <source>Can&apos;t convert tag&apos;s name: &amp;lt;%1&amp;gt;.</source>
-        <translation type="obsolete">Nemohu zkonvertovat jméno tagu &amp;lt;%1&amp;gt;.</translation>
+        <translation type="unfinished">Nemohu zkonvertovat jméno tagu &amp;lt;%1&amp;gt;.</translation>
     </message>
     <message>
         <source>Required attribute &apos;%1&apos; is not presented in tag &amp;lt;%2&amp;gt;.</source>
-        <translation type="obsolete">Požadovaný atribut &apos;%1&apos; není prezentován v tagu &amp;lt;%2&amp;gt;.</translation>
+        <translation type="unfinished">Požadovaný atribut &apos;%1&apos; není prezentován v tagu &amp;lt;%2&amp;gt;.</translation>
     </message>
     <message>
         <source>%1 is not allowed to be a child of &amp;lt;%2&amp;gt;.</source>
-        <translation type="obsolete">%1 není povoleno, aby byl podřízeným prvkem &amp;lt;%2&amp;gt;. </translation>
+        <translation type="unfinished">%1 není povoleno, aby byl podřízeným prvkem &amp;lt;%2&amp;gt;. </translation>
     </message>
     <message>
         <source>Attribute &apos;%1&apos; is not allowed in &amp;lt;%2&amp;gt; element.</source>
-        <translation type="obsolete">Atribut &apos;%1&apos; není povolen v &amp;lt;%2&amp;gt; elementu.</translation>
+        <translation type="unfinished">Atribut &apos;%1&apos; není povolen v &amp;lt;%2&amp;gt; elementu.</translation>
     </message>
     <message>
         <source>Class &apos;%1&apos; is not allowed for element &amp;lt;%2&amp;gt; (check content.ini).</source>
-        <translation type="obsolete">Třída &apos;%1&apos; není povolena pro element &amp;lt;%2&amp;gt; (zkontrolujte content.ini).</translation>
+        <translation type="unfinished">Třída &apos;%1&apos; není povolena pro element &amp;lt;%2&amp;gt; (zkontrolujte content.ini).</translation>
     </message>
     <message>
         <source>Wrong closing tag</source>
-        <translation type="obsolete">Chyba uzavírání tagu</translation>
+        <translation type="unfinished">Chyba uzavírání tagu</translation>
     </message>
     <message>
         <source>Wrong opening tag</source>
-        <translation type="obsolete">Chyba otevírání tagu</translation>
+        <translation type="unfinished">Chyba otevírání tagu</translation>
     </message>
     <message>
         <source>Custom tag &apos;%1&apos; is not allowed.</source>
-        <translation type="obsolete">Uživatelský tag &apos;%1&apos; není povolen.</translation>
+        <translation type="unfinished">Uživatelský tag &apos;%1&apos; není povolen.</translation>
     </message>
     <message>
         <source>&amp;lt;%1&amp;gt; tag can&apos;t be empty.</source>
-        <translation type="obsolete">&amp;lt;%1&amp;gt; tag nemůže být prázdný.</translation>
+        <translation type="unfinished">&amp;lt;%1&amp;gt; tag nemůže být prázdný.</translation>
     </message>
     <message>
         <source>Incorrect headers nesting</source>
-        <translation type="obsolete">Nesprávné vnoření hlavičky (headeru)</translation>
+        <translation type="unfinished">Nesprávné vnoření hlavičky (headeru)</translation>
     </message>
     <message>
         <source>Node &apos;%1&apos; does not exist.</source>
-        <translation type="obsolete">Uzel &apos;%1&apos; neexistuje.</translation>
+        <translation type="unfinished">Uzel &apos;%1&apos; neexistuje.</translation>
     </message>
     <message>
         <source>Using scripts in links is not allowed, link &apos;%1&apos; has been removed</source>
-        <translation type="obsolete">Používání skriptů v lincích není povoleno, link  &apos;%1&apos;  byl odstraněn</translation>
+        <translation type="unfinished">Používání skriptů v lincích není povoleno, link  &apos;%1&apos;  byl odstraněn</translation>
     </message>
     <message>
         <source>Invalid e-mail address: &apos;%1&apos;</source>
-        <translation type="obsolete">Nesprávná emailová adresa  &apos;%1&apos;</translation>
+        <translation type="unfinished">Nesprávná emailová adresa  &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Object %1 can not be embeded to itself.</source>
-        <translation type="obsolete">Objekt %1 nemůže být vložen sám do sebe.</translation>
+        <translation type="unfinished">Objekt %1 nemůže být vložen sám do sebe.</translation>
     </message>
 </context>
 <context>
     <name>kernel/collaboration</name>
     <message>
         <source>Collaboration custom action</source>
-        <translation type="obsolete">Vlastní akce ve spolupráci</translation>
+        <translation type="unfinished">Vlastní akce ve spolupráci</translation>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation type="obsolete">Spolupráce</translation>
+        <translation type="unfinished">Spolupráce</translation>
     </message>
 </context>
 <context>
     <name>kernel/content</name>
     <message>
         <source>Search</source>
-        <translation type="obsolete">Hledat</translation>
+        <translation type="unfinished">Hledat</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="obsolete">Pokročilé</translation>
+        <translation type="unfinished">Pokročilé</translation>
     </message>
     <message>
         <source>No main node selected, please select one.</source>
-        <translation type="obsolete">Není vybrán hlavní uzel, prosím vyberte jej.</translation>
+        <translation type="unfinished">Není vybrán hlavní uzel, prosím vyberte jej.</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation type="obsolete">Obsah</translation>
+        <translation type="unfinished">Obsah</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">Editovat</translation>
+        <translation type="unfinished">Editovat</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="obsolete">Kopírovat</translation>
+        <translation type="unfinished">Kopírovat</translation>
     </message>
     <message>
         <source>My drafts</source>
-        <translation type="obsolete">Koncepty</translation>
+        <translation type="unfinished">Koncepty</translation>
     </message>
     <message>
         <source>Remove editing version</source>
-        <translation type="obsolete">Odstranit editační verzi</translation>
+        <translation type="unfinished">Odstranit editační verzi</translation>
     </message>
     <message>
         <source>Remove object</source>
-        <translation type="obsolete">Odstranit objekt</translation>
+        <translation type="unfinished">Odstranit objekt</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="obsolete">Překlad</translation>
+        <translation type="unfinished">Překlad</translation>
     </message>
     <message>
         <source>Content translations</source>
-        <translation type="obsolete">Překlady obsahu</translation>
+        <translation type="unfinished">Překlady obsahu</translation>
     </message>
     <message>
         <source>Trash</source>
-        <translation type="obsolete">Koš</translation>
+        <translation type="unfinished">Koš</translation>
     </message>
     <message>
         <source>Versions</source>
-        <translation type="obsolete">Verze</translation>
+        <translation type="unfinished">Verze</translation>
     </message>
     <message>
         <source>Tip from %1: %2</source>
-        <translation type="obsolete">Doporučeno od %1: %2</translation>
+        <translation type="unfinished">Doporučeno od %1: %2</translation>
     </message>
     <message>
         <source>The email address of the sender is not valid</source>
-        <translation type="obsolete">Emailová adresa odesílatele není platná</translation>
+        <translation type="unfinished">Emailová adresa odesílatele není platná</translation>
     </message>
     <message>
         <source>The email address of the receiver is not valid</source>
-        <translation type="obsolete">Emailová adresa příjemce není platná</translation>
+        <translation type="unfinished">Emailová adresa příjemce není platná</translation>
     </message>
     <message>
         <source>Tip a friend</source>
-        <translation type="obsolete">Doporučit příteli</translation>
+        <translation type="unfinished">Doporučit příteli</translation>
     </message>
     <message>
         <source>My bookmarks</source>
-        <translation type="obsolete">Moje záložky</translation>
+        <translation type="unfinished">Moje záložky</translation>
     </message>
     <message>
         <source>My pending list</source>
-        <translation type="obsolete">Co mám udělat</translation>
+        <translation type="unfinished">Co mám udělat</translation>
     </message>
     <message>
         <source>Keywords</source>
-        <translation type="obsolete">Klíčová slova</translation>
+        <translation type="unfinished">Klíčová slova</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation type="obsolete">Media</translation>
+        <translation type="unfinished">Media</translation>
     </message>
     <message>
         <source>New content</source>
-        <translation type="obsolete">Nový obsah</translation>
+        <translation type="unfinished">Nový obsah</translation>
     </message>
     <message>
         <source>Remove location</source>
-        <translation type="obsolete">Odstranit lokaci</translation>
+        <translation type="unfinished">Odstranit lokaci</translation>
     </message>
     <message>
         <source>You are not allowed to place this object under: %1</source>
-        <translation type="obsolete">Nejste oprávněn umístit tento objekt pod %1</translation>
+        <translation type="unfinished">Nejste oprávněn umístit tento objekt pod %1</translation>
     </message>
     <message>
         <source>Top Level Nodes</source>
-        <translation type="obsolete">Uzly nejvyššího stupně (Top Level Nodes)</translation>
+        <translation type="unfinished">Uzly nejvyššího stupně (Top Level Nodes)</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="obsolete">Sktryt</translation>
+        <translation type="unfinished">Sktryt</translation>
     </message>
     <message>
         <source>Hidden by superior</source>
-        <translation type="obsolete">Skryto nadřízeným</translation>
+        <translation type="unfinished">Skryto nadřízeným</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="obsolete">Viditelný</translation>
+        <translation type="unfinished">Viditelný</translation>
     </message>
     <message>
         <source>A node in the node assignment list has been deleted.</source>
-        <translation type="obsolete">Seznam přižazení uzlů (node in the node) byl smazán.</translation>
+        <translation type="unfinished">Seznam přižazení uzlů (node in the node) byl smazán.</translation>
     </message>
     <message>
         <source>&quot;$contentObjectName&quot;: Sub items that are used by other objects</source>
-        <translation type="obsolete">&quot;$contentObjectName&quot; Podpoložky, které jsou používány jinými objekty</translation>
+        <translation type="unfinished">&quot;$contentObjectName&quot; Podpoložky, které jsou používány jinými objekty</translation>
     </message>
     <message>
         <source>Differences</source>
-        <translation type="obsolete">Rozdíly</translation>
+        <translation type="unfinished">Rozdíly</translation>
     </message>
     <message>
         <source>Remove translation</source>
-        <translation type="obsolete">Odstranit překlad</translation>
+        <translation type="unfinished">Odstranit překlad</translation>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="obsolete">Jazyky</translation>
+        <translation type="unfinished">Jazyky</translation>
     </message>
     <message>
         <source>Class identifier</source>
-        <translation type="obsolete">Identifikátor třídy</translation>
+        <translation type="unfinished">Identifikátor třídy</translation>
     </message>
     <message>
         <source>Class name</source>
-        <translation type="obsolete">Jméno třídy</translation>
+        <translation type="unfinished">Jméno třídy</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="obsolete">Hloubka</translation>
+        <translation type="unfinished">Hloubka</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="obsolete">Změněno</translation>
+        <translation type="unfinished">Změněno</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">Jméno</translation>
+        <translation type="unfinished">Jméno</translation>
     </message>
     <message>
         <source>Path String</source>
-        <translation type="obsolete">Řetězec cesty</translation>
+        <translation type="unfinished">Řetězec cesty</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation type="obsolete">Priorita</translation>
+        <translation type="unfinished">Priorita</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation type="obsolete">Publikováno</translation>
+        <translation type="unfinished">Publikováno</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="obsolete">Sekce</translation>
+        <translation type="unfinished">Sekce</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="obsolete">Historie</translation>
+        <translation type="unfinished">Historie</translation>
     </message>
     <message>
         <source>Version preview</source>
-        <translation type="obsolete">Náhledová verze</translation>
+        <translation type="unfinished">Náhledová verze</translation>
     </message>
     <message>
         <source>Copy subtree</source>
-        <translation type="obsolete">Kopie podstromu</translation>
+        <translation type="unfinished">Kopie podstromu</translation>
     </message>
     <message>
         <source>The receiver has already received the maximum number of tipafriend mails the last hours</source>
-        <translation type="obsolete">Přijímač již přijmul maximální číslo &quot;Doporučit příteli&quot; emailů posledních hodin</translation>
+        <translation type="unfinished">Přijímač již přijmul maximální číslo &quot;Doporučit příteli&quot; emailů posledních hodin</translation>
     </message>
     <message>
         <source>You do not have enough rights to access the requested node</source>
-        <translation type="obsolete">Nemáte dostatečná práva pro přístup k požadovanému uzlu</translation>
+        <translation type="unfinished">Nemáte dostatečná práva pro přístup k požadovanému uzlu</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">Chyba</translation>
+        <translation type="unfinished">Chyba</translation>
+    </message>
+    <message>
+        <source>The request sent to the server was too big to be accepted. This probably means that you uploaded a file which was too big. The maximum allowed request size is %max_size_string.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dashboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have already sent a tipafriend mail to this receiver regarding &apos;%1&apos; content</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -26483,59 +26773,63 @@ pokud jste vybrali volbu &quot;%3&quot; od &quot;%4&quot;</translation>
     </message>
     <message>
         <source>Fatal error: cannot get subtree main node (ID = %1).</source>
-        <translation type="obsolete">Fatální chyba: není možné získat hlavní uzel (ID = %1). podstromu. </translation>
+        <translation type="unfinished">Fatální chyba: není možné získat hlavní uzel (ID = %1). podstromu. </translation>
     </message>
     <message>
         <source>Fatal error: cannot get destination node (ID = %1).</source>
-        <translation type="obsolete">Fatální chyba: není možné dosáhnout cílového uzle (ID = %1).</translation>
+        <translation type="unfinished">Fatální chyba: není možné dosáhnout cílového uzle (ID = %1).</translation>
     </message>
     <message>
         <source>Number of nodes of source subtree - %1</source>
-        <translation type="obsolete">Počet uzlů zdrojového podstromu - %1</translation>
+        <translation type="unfinished">Počet uzlů zdrojového podstromu - %1</translation>
     </message>
     <message>
         <source>Subtree was not copied.</source>
-        <translation type="obsolete">Podstrom nebyl zkopírován.</translation>
+        <translation type="unfinished">Podstrom nebyl zkopírován.</translation>
     </message>
     <message>
         <source>Number of copied nodes - %1</source>
-        <translation type="obsolete">Počet zkopírovaných uzlů - %1</translation>
+        <translation type="unfinished">Počet zkopírovaných uzlů - %1</translation>
     </message>
     <message>
         <source>Number of copied contentobjects - %1</source>
-        <translation type="obsolete">Počet zkopírovaných obsahových objektů - %1</translation>
+        <translation type="unfinished">Počet zkopírovaných obsahových objektů - %1</translation>
     </message>
     <message>
         <source>Cannot create instance of eZDB to fix local links (related objects).</source>
-        <translation type="obsolete">Nemohu vytvořit instanci eZDB pro fix lokálních linků (souvisejících objektů).</translation>
+        <translation type="unfinished">Nemohu vytvořit instanci eZDB pro fix lokálních linků (souvisejících objektů).</translation>
     </message>
     <message>
         <source>You are trying to copy a subtree that contains more than the maximum possible nodes for subtree copying. You can copy this subtree using Subtree Copy script.</source>
-        <translation type="obsolete">Pokoušíte se kopírovat podstrom, který obsahuje více než možné maximum uzlů pro tento typ kopírování. Můžete to provést použitím skriptu &quot;Subtree Copy script&quot;.</translation>
+        <translation type="unfinished">Pokoušíte se kopírovat podstrom, který obsahuje více než možné maximum uzlů pro tento typ kopírování. Můžete to provést použitím skriptu &quot;Subtree Copy script&quot;.</translation>
     </message>
     <message>
         <source>Object (ID = %1) was not copied: you do not have permission to read the object.</source>
-        <translation type="obsolete">Objekt (ID = %1) nebyl zkopírován, nemáte práva pro čtení tohoto objektu.</translation>
+        <translation type="unfinished">Objekt (ID = %1) nebyl zkopírován, nemáte práva pro čtení tohoto objektu.</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: you do not have permission to read object (ID = %2).</source>
-        <translation type="obsolete">Uzel (ID = %1) nebyl zkopírován. Nemáte práva ke čtení tohoto objektu (ID = %2).</translation>
+        <translation type="unfinished">Uzel (ID = %1) nebyl zkopírován. Nemáte práva ke čtení tohoto objektu (ID = %2).</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: parent node (ID = %2) was not copied.</source>
-        <translation type="obsolete">Uzel (ID = %1) nebyl zkopírován. Nadřazený uzel (ID = %2) nebyl zkopírován.</translation>
+        <translation type="unfinished">Uzel (ID = %1) nebyl zkopírován. Nadřazený uzel (ID = %2) nebyl zkopírován.</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: you do not have permission to create.</source>
-        <translation type="obsolete">Uzel (ID = %1) nebyl zkopírován. Nemáte práva k vytvoření.</translation>
+        <translation type="unfinished">Uzel (ID = %1) nebyl zkopírován. Nemáte práva k vytvoření.</translation>
     </message>
     <message>
         <source>Object (ID = %1) was not copied: no one nodes of object was not copied.</source>
-        <translation type="obsolete">Objekt (ID = %1) nebyl zkopírován, žádný uzel tohoto objektu nebyl zkopírován.</translation>
+        <translation type="unfinished">Objekt (ID = %1) nebyl zkopírován, žádný uzel tohoto objektu nebyl zkopírován.</translation>
     </message>
     <message>
         <source>Successfully DONE.</source>
-        <translation type="obsolete">Úspěšně dokončeno.</translation>
+        <translation type="unfinished">Úspěšně dokončeno.</translation>
+    </message>
+    <message>
+        <source>Cannot publish object (Name: %1, ID: %2).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -26543,172 +26837,172 @@ pokud jste vybrali volbu &quot;%3&quot; od &quot;%4&quot;</translation>
     <message>
         <source>child</source>
         <comment>1 child</comment>
-        <translation type="obsolete">potomka</translation>
+        <translation type="unfinished">potomka</translation>
     </message>
     <message>
         <source>children</source>
         <comment>several children</comment>
-        <translation type="obsolete">potomků</translation>
+        <translation type="unfinished">potomků</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/restore</name>
     <message>
         <source>Restore object</source>
-        <translation type="obsolete">Obnovit objekt</translation>
+        <translation type="unfinished">Obnovit objekt</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/upload</name>
     <message>
         <source>The file %filename does not exist, cannot insert file.</source>
-        <translation type="obsolete">Soubor %filename neexistuje, nemohu vložit soubor.</translation>
+        <translation type="unfinished">Soubor %filename neexistuje, nemohu vložit soubor.</translation>
     </message>
     <message>
         <source>No matching class identifier found.</source>
-        <translation type="obsolete">Nenalezena shoda identifikátoru tříd.</translation>
+        <translation type="unfinished">Nenalezena shoda identifikátoru tříd.</translation>
     </message>
     <message>
         <source>The class %class_identifier does not exist.</source>
-        <translation type="obsolete">Třída %class_identifier neexistuje.</translation>
+        <translation type="unfinished">Třída %class_identifier neexistuje.</translation>
     </message>
     <message>
         <source>Was not able to figure out placement of object.</source>
-        <translation type="obsolete">Nebylo možné vypočítat umístění objektu.</translation>
+        <translation type="unfinished">Nebylo možné vypočítat umístění objektu.</translation>
     </message>
     <message>
         <source>No configuration group in upload.ini for class identifier %class_identifier.</source>
-        <translation type="obsolete">Žádná konfigurační skupina v upload.ini pro identifikátor třídy %class_identifier.</translation>
+        <translation type="unfinished">Žádná konfigurační skupina v upload.ini pro identifikátor třídy %class_identifier.</translation>
     </message>
     <message>
         <source>No matching file attribute found, cannot create content object without this.</source>
-        <translation type="obsolete">Nenalezena shoda souborových atributů, nemohu vytvořit obsahovy objekt bez tohoto.</translation>
+        <translation type="unfinished">Nenalezena shoda souborových atributů, nemohu vytvořit obsahovy objekt bez tohoto.</translation>
     </message>
     <message>
         <source>No matching name attribute found, cannot create content object without this.</source>
-        <translation type="obsolete">Nenalezena shoda jmén atributů, není možné vytvořit obsahový objekt bez tohoto.</translation>
+        <translation type="unfinished">Nenalezena shoda jmén atributů, není možné vytvořit obsahový objekt bez tohoto.</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support regular file storage.</source>
-        <translation type="obsolete">Atribut %class_identifier nepodporuje regulérní ukládání souborů.</translation>
+        <translation type="unfinished">Atribut %class_identifier nepodporuje regulérní ukládání souborů.</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support simple string storage.</source>
-        <translation type="obsolete">Atribut %class_identifier nepodporuje jednoduché řetězcové ukládání (simple string storage).</translation>
+        <translation type="unfinished">Atribut %class_identifier nepodporuje jednoduché řetězcové ukládání (simple string storage).</translation>
     </message>
     <message>
         <source>The attribute %class_identifier does not support HTTP file storage.</source>
-        <translation type="obsolete">Atribut %class_identifier nepodporuje HTTP ukládání souborů.</translation>
+        <translation type="unfinished">Atribut %class_identifier nepodporuje HTTP ukládání souborů.</translation>
     </message>
     <message>
         <source>Publishing of content object was halted.</source>
-        <translation type="obsolete">Publikování obsahu objektu bylo zastaveno.</translation>
+        <translation type="unfinished">Publikování obsahu objektu bylo zastaveno.</translation>
     </message>
     <message>
         <source>Publish process was cancelled.</source>
-        <translation type="obsolete">Publikační proces byl zrušen.</translation>
+        <translation type="unfinished">Publikační proces byl zrušen.</translation>
     </message>
     <message>
         <source>A file is required for upload, no file were found.</source>
-        <translation type="obsolete">Soubor je požadovaný pro upload, žádný soubor nebyl nalezen.</translation>
+        <translation type="unfinished">Soubor je požadovaný pro upload, žádný soubor nebyl nalezen.</translation>
     </message>
     <message>
         <source>Expected a eZHTTPFile object but got nothing.</source>
-        <translation type="obsolete">Očekávaný eZHTTP souborový objekt, ale nic neobdrženo.</translation>
+        <translation type="unfinished">Očekávaný eZHTTP souborový objekt, ale nic neobdrženo.</translation>
     </message>
     <message>
         <source>No HTTP file found, cannot fetch uploaded file.</source>
-        <translation type="obsolete">Nebyl nalezen HTTP soubor, nemohu nahrát uploadovaný soubor.</translation>
+        <translation type="unfinished">Nebyl nalezen HTTP soubor, nemohu nahrát uploadovaný soubor.</translation>
     </message>
     <message>
         <source>Permission denied</source>
-        <translation type="obsolete">Povolení zakázáno</translation>
+        <translation type="unfinished">Povolení zakázáno</translation>
     </message>
     <message>
         <source>There was an error trying to instantiate content upload handler.</source>
-        <translation type="obsolete">Chyba doložení obsahu uploadovým ovladačem.</translation>
+        <translation type="unfinished">Chyba doložení obsahu uploadovým ovladačem.</translation>
     </message>
     <message>
         <source>Could not find content upload handler &apos;%handler_name&apos;</source>
-        <translation type="obsolete">Není možno nalézt obsahový uploadový ovladač &apos;%handler_name&apos; </translation>
+        <translation type="unfinished">Není možno nalézt obsahový uploadový ovladač &apos;%handler_name&apos; </translation>
     </message>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
-        <translation type="obsolete">Velikost uploadovaného souboru překračuje limit nastavený pro tuto stránku: %1 bajtů.</translation>
+        <translation type="unfinished">Velikost uploadovaného souboru překračuje limit nastavený pro tuto stránku: %1 bajtů.</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/urlalias_global</name>
     <message>
         <source>Global URL aliases</source>
-        <translation type="obsolete">Globální URL aliasy</translation>
+        <translation type="unfinished">Globální URL aliasy</translation>
     </message>
 </context>
 <context>
     <name>kernel/content/urlalias_wildcard</name>
     <message>
         <source>URL wildcard aliases</source>
-        <translation type="obsolete">Souborové URL aliasy </translation>
+        <translation type="unfinished">Souborové URL aliasy </translation>
     </message>
 </context>
 <context>
     <name>kernel/contentclass</name>
     <message>
         <source>New %1</source>
-        <translation type="obsolete">Nový %1</translation>
+        <translation type="unfinished">Nový %1</translation>
     </message>
     <message>
         <source>Cannot remove class &apos;%class_name&apos;:</source>
-        <translation type="obsolete">Nelze odstranit třídu &apos;%class_name&apos;:</translation>
+        <translation type="unfinished">Nelze odstranit třídu &apos;%class_name&apos;:</translation>
     </message>
     <message>
         <source>The class is used by a top-level node and cannot be removed.</source>
-        <translation type="obsolete">Třída je používána uzlem nejvyššího stupně a nemůže být odstraněna.</translation>
+        <translation type="unfinished">Třída je používána uzlem nejvyššího stupně a nemůže být odstraněna.</translation>
     </message>
 </context>
 <context>
     <name>kernel/design</name>
     <message>
         <source>Template list</source>
-        <translation type="obsolete">Seznam šablon</translation>
+        <translation type="unfinished">Seznam šablon</translation>
     </message>
     <message>
         <source>Template view</source>
-        <translation type="obsolete">Zobrazení šablony</translation>
+        <translation type="unfinished">Zobrazení šablony</translation>
     </message>
     <message>
         <source>Create new template</source>
-        <translation type="obsolete">Vytvořit novou šablonu</translation>
+        <translation type="unfinished">Vytvořit novou šablonu</translation>
     </message>
     <message>
         <source>Template edit</source>
-        <translation type="obsolete">Editovat šablonu</translation>
+        <translation type="unfinished">Editovat šablonu</translation>
     </message>
     <message>
         <source>Toolbar list</source>
-        <translation type="obsolete">Seznam nástrojových lišt</translation>
+        <translation type="unfinished">Seznam nástrojových lišt</translation>
     </message>
 </context>
 <context>
     <name>kernel/error</name>
     <message>
         <source>Error</source>
-        <translation type="obsolete">Chyba</translation>
+        <translation type="unfinished">Chyba</translation>
     </message>
 </context>
 <context>
     <name>kernel/ezinfo</name>
     <message>
         <source>Info</source>
-        <translation type="obsolete">Info</translation>
+        <translation type="unfinished">Info</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="obsolete">O programu</translation>
+        <translation type="unfinished">O programu</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="obsolete">Copyright</translation>
+        <translation type="unfinished">Copyright</translation>
     </message>
 </context>
 <context>
@@ -26722,7 +27016,7 @@ pokud jste vybrali volbu &quot;%3&quot; od &quot;%4&quot;</translation>
     <name>kernel/infocollector</name>
     <message>
         <source>Collected information</source>
-        <translation type="obsolete">Shromážděné informace</translation>
+        <translation type="unfinished">Shromážděné informace</translation>
     </message>
 </context>
 <context>
@@ -26730,373 +27024,385 @@ pokud jste vybrali volbu &quot;%3&quot; od &quot;%4&quot;</translation>
     <message>
         <source>Content structure</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Obsahová struktura</translation>
+        <translation type="unfinished">Obsahová struktura</translation>
     </message>
     <message>
         <source>Media library</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Knihovna médií</translation>
+        <translation type="unfinished">Knihovna médií</translation>
     </message>
     <message>
         <source>User accounts</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Uživatelské účty</translation>
+        <translation type="unfinished">Uživatelské účty</translation>
     </message>
     <message>
         <source>Webshop</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Webshop</translation>
+        <translation type="unfinished">Webshop</translation>
     </message>
     <message>
         <source>Design</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Design</translation>
+        <translation type="unfinished">Design</translation>
     </message>
     <message>
         <source>Setup</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Setup (Nastavení)</translation>
+        <translation type="unfinished">Setup (Nastavení)</translation>
     </message>
     <message>
         <source>My account</source>
         <comment>Navigation part</comment>
-        <translation type="obsolete">Můj účet</translation>
+        <translation type="unfinished">Můj účet</translation>
     </message>
 </context>
 <context>
     <name>kernel/notification</name>
     <message>
         <source>Notification settings</source>
-        <translation type="obsolete">Nastavení upozorňování</translation>
+        <translation type="unfinished">Nastavení upozorňování</translation>
     </message>
 </context>
 <context>
     <name>kernel/package</name>
     <message>
         <source>Packages</source>
-        <translation type="obsolete">Balíčky</translation>
+        <translation type="unfinished">Balíčky</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="obsolete">Nahrát (upload)</translation>
+        <translation type="unfinished">Nahrát (upload)</translation>
     </message>
     <message>
         <source>Package information</source>
-        <translation type="obsolete">Informace o balíčku</translation>
+        <translation type="unfinished">Informace o balíčku</translation>
     </message>
     <message>
         <source>Package maintainer</source>
-        <translation type="obsolete">Správce balíčku</translation>
+        <translation type="unfinished">Správce balíčku</translation>
     </message>
     <message>
         <source>Package changelog</source>
-        <translation type="obsolete">Changelog balíčku</translation>
+        <translation type="unfinished">Changelog balíčku</translation>
     </message>
     <message>
         <source>Package thumbnail</source>
-        <translation type="obsolete">Miniatura balíčku</translation>
+        <translation type="unfinished">Miniatura balíčku</translation>
     </message>
     <message>
         <source>Package name</source>
-        <translation type="obsolete">Jméno balíčku</translation>
+        <translation type="unfinished">Jméno balíčku</translation>
     </message>
     <message>
         <source>Package name is missing</source>
-        <translation type="obsolete">Jméno balíčku chybí</translation>
+        <translation type="unfinished">Jméno balíčku chybí</translation>
     </message>
     <message>
         <source>A package named %packagename already exists, please give another name</source>
-        <translation type="obsolete">Balíček pojmenovaný %packagename již existuje. Prosím zadejte jiné jméno</translation>
+        <translation type="unfinished">Balíček pojmenovaný %packagename již existuje. Prosím zadejte jiné jméno</translation>
     </message>
     <message>
         <source>Summary</source>
-        <translation type="obsolete">Sumarizace</translation>
+        <translation type="unfinished">Sumarizace</translation>
     </message>
     <message>
         <source>Summary is missing</source>
-        <translation type="obsolete">Sumarizace chybí</translation>
+        <translation type="unfinished">Sumarizace chybí</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="obsolete">Verze</translation>
+        <translation type="unfinished">Verze</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">Jméno</translation>
+        <translation type="unfinished">Jméno</translation>
     </message>
     <message>
         <source>You must enter a name for the changelog</source>
-        <translation type="obsolete">Musíte vložit jméno pro changelog</translation>
+        <translation type="unfinished">Musíte vložit jméno pro changelog</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="obsolete">Changelog</translation>
+        <translation type="unfinished">Changelog</translation>
     </message>
     <message>
         <source>You must supply some text for the changelog entry</source>
-        <translation type="obsolete">Musíte doplnit nějaký text pro vstup changelogu</translation>
+        <translation type="unfinished">Musíte doplnit nějaký text pro vstup changelogu</translation>
     </message>
     <message>
         <source>You must enter a name of the maintainer</source>
-        <translation type="obsolete">Musíte vložit jméno udržovatele (správce)</translation>
+        <translation type="unfinished">Musíte vložit jméno udržovatele (správce)</translation>
     </message>
     <message>
         <source>Content classes to include</source>
-        <translation type="obsolete">Obsahové třídy pro začlenění</translation>
+        <translation type="unfinished">Obsahové třídy pro začlenění</translation>
     </message>
     <message>
         <source>Content class export</source>
-        <translation type="obsolete">Export obsahových tříd</translation>
+        <translation type="unfinished">Export obsahových tříd</translation>
     </message>
     <message>
         <source>Class list</source>
-        <translation type="obsolete">Seznam tříd</translation>
+        <translation type="unfinished">Seznam tříd</translation>
     </message>
     <message>
         <source>You must select at least one class for inclusion</source>
-        <translation type="obsolete">Musíte vybrat nejméně jednu třídu pro zahrnutí</translation>
+        <translation type="unfinished">Musíte vybrat nejméně jednu třídu pro zahrnutí</translation>
     </message>
     <message>
         <source>CSS file</source>
-        <translation type="obsolete">CSS soubor</translation>
+        <translation type="unfinished">CSS soubor</translation>
     </message>
     <message>
         <source>Image files</source>
-        <translation type="obsolete">Obrázkové soubory</translation>
+        <translation type="unfinished">Obrázkové soubory</translation>
     </message>
     <message>
         <source>Site style</source>
-        <translation type="obsolete">Styl stránky</translation>
+        <translation type="unfinished">Styl stránky</translation>
     </message>
     <message>
         <source>File did not have a .css suffix, this is most likely not a CSS file</source>
-        <translation type="obsolete">Soubor neměl .css připonu, pravděpodobně to nebude CSS soubor</translation>
+        <translation type="unfinished">Soubor neměl .css připonu, pravděpodobně to nebude CSS soubor</translation>
     </message>
     <message>
         <source>Create package</source>
-        <translation type="obsolete">Vytvořit balíček</translation>
+        <translation type="unfinished">Vytvořit balíček</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="obsolete">Instalace</translation>
+        <translation type="unfinished">Instalace</translation>
     </message>
     <message>
         <source>Uninstall</source>
-        <translation type="obsolete">Odinstalovat</translation>
+        <translation type="unfinished">Odinstalovat</translation>
     </message>
     <message>
         <source>Package %packagename already exists, cannot import the package</source>
-        <translation type="obsolete">Balíček %packagename již existuje, nemohu importovat balíček</translation>
+        <translation type="unfinished">Balíček %packagename již existuje, nemohu importovat balíček</translation>
     </message>
     <message>
         <source>Local</source>
-        <translation type="obsolete">Lokální </translation>
+        <translation type="unfinished">Lokální </translation>
     </message>
     <message>
         <source>The version must only contain numbers (optionally followed by text) and must be delimited by dots (.), e.g. 1.0, 3.4.0beta1</source>
-        <translation type="obsolete">Verze musí obsahovat pouze čísla (může být  následována textem) a musí být rozdělěna tečkami (např. e.g. 1.0, 3.4.0beta1)</translation>
+        <translation type="unfinished">Verze musí obsahovat pouze čísla (může být  následována textem) a musí být rozdělěna tečkami (např. e.g. 1.0, 3.4.0beta1)</translation>
     </message>
     <message>
         <source>Content objects to include</source>
-        <translation type="obsolete">Objekty obsahu pro začlenění</translation>
+        <translation type="unfinished">Objekty obsahu pro začlenění</translation>
     </message>
     <message>
         <source>Content object limits</source>
-        <translation type="obsolete">Limity obsahového objektu</translation>
+        <translation type="unfinished">Limity obsahového objektu</translation>
     </message>
     <message>
         <source>Content object export</source>
-        <translation type="obsolete">Export obsahového objektu</translation>
+        <translation type="unfinished">Export obsahového objektu</translation>
     </message>
     <message>
         <source>Selected nodes</source>
-        <translation type="obsolete">Vybrané uzly</translation>
+        <translation type="unfinished">Vybrané uzly</translation>
     </message>
     <message>
         <source>You must select one or more node(s)/subtree(s) for export.</source>
-        <translation type="obsolete">Musíte vybrat jeden nebo více uzlů/podstromů pro export.</translation>
+        <translation type="unfinished">Musíte vybrat jeden nebo více uzlů/podstromů pro export.</translation>
     </message>
     <message>
         <source>You must choose one or more languages.</source>
-        <translation type="obsolete">Musíte zvolit jednu nebo více řečí.</translation>
+        <translation type="unfinished">Musíte zvolit jednu nebo více řečí.</translation>
     </message>
     <message>
         <source>You must choose one or more site access.</source>
-        <translation type="obsolete">Musíte zvolit jeden nebo více typů přístupu na stránky.</translation>
+        <translation type="unfinished">Musíte zvolit jeden nebo více typů přístupu na stránky.</translation>
     </message>
     <message>
         <source>CSS files</source>
-        <translation type="obsolete">CSS soubory</translation>
+        <translation type="unfinished">CSS soubory</translation>
     </message>
     <message>
         <source>You must upload both CSS files</source>
-        <translation type="obsolete">Musíte uploadovat oba CSS soubory</translation>
+        <translation type="unfinished">Musíte uploadovat oba CSS soubory</translation>
     </message>
     <message>
         <source>Content object %objectname</source>
-        <translation type="obsolete">Obsahový objekt %objectname</translation>
+        <translation type="unfinished">Obsahový objekt %objectname</translation>
     </message>
     <message>
         <source>Site access mapping</source>
-        <translation type="obsolete">Mapování přístupu na stránky</translation>
+        <translation type="unfinished">Mapování přístupu na stránky</translation>
     </message>
     <message>
         <source>Top node placements</source>
-        <translation type="obsolete">Nejvyšší umístění uzlů</translation>
+        <translation type="unfinished">Nejvyšší umístění uzlů</translation>
     </message>
     <message>
         <source>Content object import</source>
-        <translation type="obsolete">Import obsahového objektu</translation>
+        <translation type="unfinished">Import obsahového objektu</translation>
     </message>
     <message>
         <source>Select parent nodes</source>
-        <translation type="obsolete">Vyber nadřazené uzly</translation>
+        <translation type="unfinished">Vyber nadřazené uzly</translation>
     </message>
     <message>
         <source>You must assign all nodes to new parent nodes.</source>
-        <translation type="obsolete">Musíte přiřadit všechny uzly novým nadřazeným uzlům.</translation>
+        <translation type="unfinished">Musíte přiřadit všechny uzly novým nadřazeným uzlům.</translation>
     </message>
     <message>
         <source>Lead</source>
-        <translation type="obsolete">Vedoucí</translation>
+        <translation type="unfinished">Vedoucí</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="obsolete">Vývojář</translation>
+        <translation type="unfinished">Vývojář</translation>
     </message>
     <message>
         <source>Designer</source>
-        <translation type="obsolete">Designer</translation>
+        <translation type="unfinished">Designer</translation>
     </message>
     <message>
         <source>Contributor</source>
-        <translation type="obsolete">Přispěvatel</translation>
+        <translation type="unfinished">Přispěvatel</translation>
     </message>
     <message>
         <source>Tester</source>
-        <translation type="obsolete">Tester</translation>
+        <translation type="unfinished">Tester</translation>
     </message>
     <message>
         <source>The package name %packagename is not valid, it can only contain characters in the range a-z, 0-9 and underscore.</source>
-        <translation type="obsolete">Jméno balíčku %packagename není správné, může pouze obsahovat znaky v rozsahu a-z, 0-9  a podtržené.</translation>
+        <translation type="unfinished">Jméno balíčku %packagename není správné, může pouze obsahovat znaky v rozsahu a-z, 0-9  a podtržené.</translation>
     </message>
     <message>
         <source>Extension export</source>
-        <translation type="obsolete">Export rozšíření</translation>
+        <translation type="unfinished">Export rozšíření</translation>
     </message>
     <message>
         <source>%number content objects</source>
-        <translation type="obsolete">%number obsahové objekty</translation>
+        <translation type="unfinished">%number obsahové objekty</translation>
     </message>
     <message>
         <source>Extension &apos;%extensionname&apos;</source>
-        <translation type="obsolete">Rozšíření &apos;%extensionname&apos;</translation>
+        <translation type="unfinished">Rozšíření &apos;%extensionname&apos;</translation>
     </message>
     <message>
         <source>Removing class &apos;%classname&apos; will result in the removal of %objectscount object(s) of this class and all their sub-items. Are you sure you want to uninstall it?</source>
-        <translation type="obsolete">Odstraňování třídy &apos;%classname&apos; ¨bude mít za následek odstranění %objectscount object(s) této třídy a veškerých jejich podpoložek. Jste si jisti, že je chcete odinstalovat?</translation>
+        <translation type="unfinished">Odstraňování třídy &apos;%classname&apos; ¨bude mít za následek odstranění %objectscount object(s) této třídy a veškerých jejich podpoložek. Jste si jisti, že je chcete odinstalovat?</translation>
     </message>
     <message>
         <source>Class &apos;%classname&apos; already exists.</source>
-        <translation type="obsolete">Třída &apos;%classname&apos; již existuje.</translation>
+        <translation type="unfinished">Třída &apos;%classname&apos; již existuje.</translation>
     </message>
     <message>
         <source>Replace existing class</source>
-        <translation type="obsolete">Nahradit existující třídu</translation>
+        <translation type="unfinished">Nahradit existující třídu</translation>
     </message>
     <message>
         <source>(Warning! $objectsCount content object(s) and their sub-items will be removed)</source>
-        <translation type="obsolete">(Warning! $objectsCount  obsahový objekt(y) a jejich podpoložky budou odstraněny)</translation>
+        <translation type="unfinished">(Warning! $objectsCount  obsahový objekt(y) a jejich podpoložky budou odstraněny)</translation>
     </message>
     <message>
         <source>Skip installing this class</source>
-        <translation type="obsolete">Přeskočit instalaci této třídy</translation>
+        <translation type="unfinished">Přeskočit instalaci této třídy</translation>
     </message>
     <message>
         <source>Keep existing and create a new one</source>
-        <translation type="obsolete">Zachovat existující a vytvořit nový</translation>
+        <translation type="unfinished">Zachovat existující a vytvořit nový</translation>
     </message>
     <message>
         <source>Object &apos;%objectname&apos; has been modified since installation. Are you sure you want to remove it?</source>
-        <translation type="obsolete">Objekt &apos;%objectname&apos; byl změněn od instalace. Jste si jisti, že jej chcete odstranit?</translation>
+        <translation type="unfinished">Objekt &apos;%objectname&apos; byl změněn od instalace. Jste si jisti, že jej chcete odstranit?</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="obsolete">Odstranit</translation>
+        <translation type="unfinished">Odstranit</translation>
     </message>
     <message>
         <source>Keep object</source>
-        <translation type="obsolete">Zachovat objekt</translation>
+        <translation type="unfinished">Zachovat objekt</translation>
     </message>
     <message>
         <source>Object &apos;%objectname&apos; has %childrencount sub-item(s) that will be removed.</source>
-        <translation type="obsolete">Objekt &apos;%objectname&apos; má %childrencount podpoložek, které budou odstraněny.</translation>
+        <translation type="unfinished">Objekt &apos;%objectname&apos; má %childrencount podpoložek, které budou odstraněny.</translation>
     </message>
     <message>
         <source>Extension &apos;%extensionname&apos; already exists.</source>
-        <translation type="obsolete">Rozšíření &apos;%extensionname&apos; již existuje.</translation>
+        <translation type="unfinished">Rozšíření &apos;%extensionname&apos; již existuje.</translation>
     </message>
     <message>
         <source>Replace extension</source>
-        <translation type="obsolete">Nahradit rozšíření</translation>
+        <translation type="unfinished">Nahradit rozšíření</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="obsolete">Přeskočit</translation>
+        <translation type="unfinished">Přeskočit</translation>
     </message>
     <message>
         <source>Install script: %description</source>
-        <translation type="obsolete">Instalační skript %description</translation>
+        <translation type="unfinished">Instalační skript %description</translation>
     </message>
     <message>
         <source>Content class &apos;%classname&apos; (%classidentifier)</source>
-        <translation type="obsolete">Obsahová třída &apos;%classname&apos; (%classidentifier)</translation>
+        <translation type="unfinished">Obsahová třída &apos;%classname&apos; (%classidentifier)</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="obsolete">Email</translation>
+        <translation type="unfinished">Email</translation>
     </message>
     <message>
         <source>You must enter an email for the changelog</source>
-        <translation type="obsolete">Musíte vložit e.mail pro changelog</translation>
+        <translation type="unfinished">Musíte vložit e.mail pro changelog</translation>
     </message>
     <message>
         <source>You must enter an email address of the maintainer</source>
-        <translation type="obsolete">Musíte vložit emailovou adresu udržovatele (správce) </translation>
+        <translation type="unfinished">Musíte vložit emailovou adresu udržovatele (správce) </translation>
     </message>
     <message>
         <source>Extensions to include</source>
-        <translation type="obsolete">Rozšíření pro vložení</translation>
+        <translation type="unfinished">Rozšíření pro vložení</translation>
     </message>
     <message>
         <source>Extension list</source>
-        <translation type="obsolete">Seznam rozšření</translation>
+        <translation type="unfinished">Seznam rozšření</translation>
     </message>
     <message>
         <source>You must select at least one extension</source>
-        <translation type="obsolete">Musíte vybrat nejméně jedno rozšíření</translation>
+        <translation type="unfinished">Musíte vybrat nejméně jedno rozšíření</translation>
     </message>
     <message>
         <source>Remove object and its sub-item(s)</source>
-        <translation type="obsolete">Odstranit objekt a jeho podpoložky</translation>
+        <translation type="unfinished">Odstranit objekt a jeho podpoložky</translation>
+    </message>
+    <message>
+        <source>Package contains an invalid extension name: %extensionname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The package name %packagename is invalid, cannot import the package</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/pdf</name>
     <message>
         <source>PDF Export</source>
-        <translation type="obsolete">PDF Export</translation>
+        <translation type="unfinished">PDF Export</translation>
     </message>
     <message>
         <source>An export with such filename already exists.</source>
-        <translation type="obsolete">Export s takovým souborovým jménem, které již existuje.</translation>
+        <translation type="unfinished">Export s takovým souborovým jménem, které již existuje.</translation>
     </message>
 </context>
 <context>
     <name>kernel/pdfexport</name>
     <message>
         <source>New PDF Export</source>
-        <translation type="obsolete">Nový PDF Export</translation>
+        <translation type="unfinished">Nový PDF Export</translation>
     </message>
 </context>
 <context>
@@ -27110,83 +27416,83 @@ pokud jste vybrali volbu &quot;%3&quot; od &quot;%4&quot;</translation>
     <name>kernel/role</name>
     <message>
         <source>Role list</source>
-        <translation type="obsolete">Seznam rolí</translation>
+        <translation type="unfinished">Seznam rolí</translation>
     </message>
     <message>
         <source>Editing policy</source>
-        <translation type="obsolete">Editace zásad</translation>
+        <translation type="unfinished">Editace zásad</translation>
     </message>
     <message>
         <source>Limit on section</source>
-        <translation type="obsolete">Limit na sekci</translation>
+        <translation type="unfinished">Limit na sekci</translation>
     </message>
     <message>
         <source>Create new policy, step 2: select function</source>
-        <translation type="obsolete">Vytvořit novou zásadu: krok 2: vyberte funkci</translation>
+        <translation type="unfinished">Vytvořit novou zásadu: krok 2: vyberte funkci</translation>
     </message>
     <message>
         <source>Create new policy, step three: set function limitations</source>
-        <translation type="obsolete">Vytvořit novou zásadu: krok tři: nastavte limitaci funkcí</translation>
+        <translation type="unfinished">Vytvořit novou zásadu: krok tři: nastavte limitaci funkcí</translation>
     </message>
     <message>
         <source>Create new policy, step two: select function</source>
-        <translation type="obsolete">Vytvořit novou zásadu. Krok dvě: vyberte funkci</translation>
+        <translation type="unfinished">Vytvořit novou zásadu. Krok dvě: vyberte funkci</translation>
     </message>
     <message>
         <source>Create new policy, step one: select module</source>
-        <translation type="obsolete">Vytvořit novou zásadu: krok jedna: vyberte modul</translation>
+        <translation type="unfinished">Vytvořit novou zásadu: krok jedna: vyberte modul</translation>
     </message>
 </context>
 <context>
     <name>kernel/role/edit</name>
     <message>
         <source>New role</source>
-        <translation type="obsolete">Nová role</translation>
+        <translation type="unfinished">Nová role</translation>
     </message>
     <message>
         <source>Copy of %rolename</source>
-        <translation type="obsolete">Kopie %rolename</translation>
+        <translation type="unfinished">Kopie %rolename</translation>
     </message>
 </context>
 <context>
     <name>kernel/rss</name>
     <message>
         <source>Really Simple Syndication</source>
-        <translation type="obsolete">Really Simple Syndication</translation>
+        <translation type="unfinished">Really Simple Syndication</translation>
     </message>
     <message>
         <source>New RSS Export</source>
-        <translation type="obsolete">Nový RSS Export</translation>
+        <translation type="unfinished">Nový RSS Export</translation>
     </message>
     <message>
         <source>New RSS Import</source>
-        <translation type="obsolete">Nový RSS Import</translation>
+        <translation type="unfinished">Nový RSS Import</translation>
     </message>
 </context>
 <context>
     <name>kernel/rss/edit_export</name>
     <message>
         <source>Invalid selection for title class %1 does not have attribute &quot;%2&quot;</source>
-        <translation type="obsolete">Neplatná výběr pro titulní třídu %1 emá atribut &quot;%2&quot;</translation>
+        <translation type="unfinished">Neplatná výběr pro titulní třídu %1 emá atribut &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Invalid selection for description class %1 does not have attribute &quot;%2&quot;</source>
-        <translation type="obsolete">Neplatný výběr pro třídu popisu %1 nemá atribut &quot;%2&quot;</translation>
+        <translation type="unfinished">Neplatný výběr pro třídu popisu %1 nemá atribut &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Selected class does not exist</source>
-        <translation type="obsolete">Vybraná třída  neexistuje</translation>
+        <translation type="unfinished">Vybraná třída  neexistuje</translation>
     </message>
     <message>
         <source>Invalid selection for category class %1 does not have attribute &quot;%2&quot;</source>
-        <translation type="obsolete">Neplatný výběr pro třídu kategorií %1 nemá atribut &quot;%2&quot;</translation>
+        <translation type="unfinished">Neplatný výběr pro třídu kategorií %1 nemá atribut &quot;%2&quot;</translation>
     </message>
 </context>
 <context>
     <name>kernel/search</name>
     <message>
         <source>Search stats</source>
-        <translation type="obsolete">Statistiky vyhledávání</translation>
+        <translation type="unfinished">Statistiky vyhledávání</translation>
     </message>
 </context>
 <context>
@@ -27197,7 +27503,7 @@ pokud jste vybrali volbu &quot;%3&quot; od &quot;%4&quot;</translation>
     </message>
     <message>
         <source>Sections</source>
-        <translation type="obsolete">Sekce</translation>
+        <translation type="unfinished">Sekce</translation>
     </message>
     <message>
         <source>View section</source>
@@ -27205,568 +27511,624 @@ pokud jste vybrali volbu &quot;%3&quot; od &quot;%4&quot;</translation>
     </message>
     <message>
         <source>New section</source>
-        <translation type="obsolete">Nová sekce</translation>
+        <translation type="unfinished">Nová sekce</translation>
     </message>
     <message>
         <source>Assign section</source>
-        <translation type="obsolete">Přiřaďit sekci</translation>
+        <translation type="unfinished">Přiřaďit sekci</translation>
     </message>
 </context>
 <context>
     <name>kernel/setup</name>
     <message>
         <source>Cache admin</source>
-        <translation type="obsolete">Správa cache</translation>
+        <translation type="unfinished">Správa cache</translation>
     </message>
     <message>
         <source>Template operator wizard</source>
-        <translation type="obsolete">Průvodce vytvořením operátoru šablony</translation>
+        <translation type="unfinished">Průvodce vytvořením operátoru šablony</translation>
     </message>
     <message>
         <source>Extension configuration</source>
-        <translation type="obsolete">Konfigurace rozšíření</translation>
+        <translation type="unfinished">Konfigurace rozšíření</translation>
     </message>
     <message>
         <source>System information</source>
-        <translation type="obsolete">Informace o systému</translation>
+        <translation type="unfinished">Informace o systému</translation>
     </message>
     <message>
         <source>Rapid Application Development</source>
-        <translation type="obsolete">RAD - rychlý vývoj aplikací</translation>
+        <translation type="unfinished">RAD - rychlý vývoj aplikací</translation>
     </message>
     <message>
         <source>Setup menu</source>
-        <translation type="obsolete">Setup menu</translation>
+        <translation type="unfinished">Setup menu</translation>
     </message>
     <message>
         <source>System Upgrade</source>
-        <translation type="obsolete">Upgrade systému</translation>
+        <translation type="unfinished">Upgrade systému</translation>
     </message>
     <message>
         <source>Session admin</source>
-        <translation type="obsolete">Správa session</translation>
+        <translation type="unfinished">Správa session</translation>
     </message>
     <message>
         <source>File %1 does not exist. You should copy it from the recent eZ Publish distribution.</source>
-        <translation type="obsolete">Soubor %1 neexistuje. Měli byste jej zkopírovat z poslední eZ Publish distribuce.</translation>
+        <translation type="unfinished">Soubor %1 neexistuje. Měli byste jej zkopírovat z poslední eZ Publish distribuce.</translation>
     </message>
     <message>
         <source>Datatype wizard</source>
-        <translation type="obsolete">Průvodce vytvořením datového typu</translation>
+        <translation type="unfinished">Průvodce vytvořením datového typu</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop</name>
     <message>
         <source>Basket</source>
-        <translation type="obsolete">Nákupní koš</translation>
+        <translation type="unfinished">Nákupní koš</translation>
     </message>
     <message>
         <source>Confirm order</source>
-        <translation type="obsolete">Potvrdit objednávku</translation>
+        <translation type="unfinished">Potvrdit objednávku</translation>
     </message>
     <message>
         <source>Discount group</source>
-        <translation type="obsolete">Slevová skupina</translation>
+        <translation type="unfinished">Slevová skupina</translation>
     </message>
     <message>
         <source>Group view of discount rule</source>
-        <translation type="obsolete">Zobrazit skupinu pravidel slev</translation>
+        <translation type="unfinished">Zobrazit skupinu pravidel slev</translation>
     </message>
     <message>
         <source>Editing rule</source>
-        <translation type="obsolete">Editování pravidla</translation>
+        <translation type="unfinished">Editování pravidla</translation>
     </message>
     <message>
         <source>Order list</source>
-        <translation type="obsolete">Seznam objednávek</translation>
+        <translation type="unfinished">Seznam objednávek</translation>
     </message>
     <message>
         <source>Enter account information</source>
-        <translation type="obsolete">Zadejte informace o odběrateli</translation>
+        <translation type="unfinished">Zadejte informace o odběrateli</translation>
     </message>
     <message>
         <source>VAT types</source>
-        <translation type="obsolete">Typy DPH</translation>
+        <translation type="unfinished">Typy DPH</translation>
     </message>
     <message>
         <source>Checkout</source>
-        <translation type="obsolete">Uzavřít objednávku</translation>
+        <translation type="unfinished">Uzavřít objednávku</translation>
     </message>
     <message>
         <source>Customer list</source>
-        <translation type="obsolete">Seznam zákazníků</translation>
+        <translation type="unfinished">Seznam zákazníků</translation>
     </message>
     <message>
         <source>Remove order</source>
-        <translation type="obsolete">Odstranit objednávku</translation>
+        <translation type="unfinished">Odstranit objednávku</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="obsolete">Statistiky</translation>
+        <translation type="unfinished">Statistiky</translation>
     </message>
     <message>
         <source>VAT type</source>
-        <translation type="obsolete">Typ DPH</translation>
+        <translation type="unfinished">Typ DPH</translation>
     </message>
     <message>
         <source>Classes</source>
-        <translation type="obsolete">Třídy</translation>
+        <translation type="unfinished">Třídy</translation>
     </message>
     <message>
         <source>Any class</source>
-        <translation type="obsolete">Jakákoliv třída</translation>
+        <translation type="unfinished">Jakákoliv třída</translation>
     </message>
     <message>
         <source>in sections</source>
-        <translation type="obsolete">v sekcích</translation>
+        <translation type="unfinished">v sekcích</translation>
     </message>
     <message>
         <source>in any section</source>
-        <translation type="obsolete">v libovolné sekci</translation>
+        <translation type="unfinished">v libovolné sekci</translation>
     </message>
     <message>
         <source>Products</source>
-        <translation type="obsolete">Produkty</translation>
+        <translation type="unfinished">Produkty</translation>
     </message>
     <message>
         <source>Any product</source>
-        <translation type="obsolete">Jakýkoli produkt</translation>
+        <translation type="unfinished">Jakýkoli produkt</translation>
     </message>
     <message>
         <source>Order status</source>
-        <translation type="obsolete">Stav objednávky</translation>
+        <translation type="unfinished">Stav objednávky</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation type="obsolete">Nedefinován</translation>
+        <translation type="unfinished">Nedefinován</translation>
     </message>
     <message>
         <source>The confirm order operation was canceled. Try to checkout again.</source>
-        <translation type="obsolete">Confirmace objednávky byla zrušena. Zkuste znovu přepočítat.</translation>
+        <translation type="unfinished">Confirmace objednávky byla zrušena. Zkuste znovu přepočítat.</translation>
     </message>
     <message>
         <source>Order #%order_id</source>
-        <translation type="obsolete">Objednávka #%order_id</translation>
+        <translation type="unfinished">Objednávka #%order_id</translation>
     </message>
     <message>
         <source>New order status was successfully added.</source>
-        <translation type="obsolete">Nový status objednávky byl úspěšně přidán.</translation>
+        <translation type="unfinished">Nový status objednávky byl úspěšně přidán.</translation>
     </message>
     <message>
         <source>Changes to order status were successfully stored.</source>
-        <translation type="obsolete">Změny do statusu objednávky byly úspěšně uloženy.</translation>
+        <translation type="unfinished">Změny do statusu objednávky byly úspěšně uloženy.</translation>
     </message>
     <message>
         <source>Selected order statuses were successfully removed.</source>
-        <translation type="obsolete">Vybrané statusy objednávek byly úspěšně odstraněny.</translation>
+        <translation type="unfinished">Vybrané statusy objednávek byly úspěšně odstraněny.</translation>
     </message>
     <message>
         <source>Internal orders cannot be removed.</source>
-        <translation type="obsolete">Interní objednávky nemohou být odstraněny.</translation>
+        <translation type="unfinished">Interní objednávky nemohou být odstraněny.</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">Status</translation>
+        <translation type="unfinished">Status</translation>
     </message>
     <message>
         <source>Customer order view</source>
-        <translation type="obsolete">Zákaznické zobrazení objednávky</translation>
+        <translation type="unfinished">Zákaznické zobrazení objednávky</translation>
     </message>
     <message>
         <source>Any</source>
-        <translation type="obsolete">jakékoli</translation>
+        <translation type="unfinished">jakékoli</translation>
     </message>
     <message>
         <source>Available currency list</source>
-        <translation type="obsolete">Dostupný list měn</translation>
+        <translation type="unfinished">Dostupný list měn</translation>
     </message>
     <message>
         <source>Edit currency</source>
-        <translation type="obsolete">Editovat měnu</translation>
+        <translation type="unfinished">Editovat měnu</translation>
     </message>
     <message>
         <source>Create new currency</source>
-        <translation type="obsolete">Vytvořit novou měnu</translation>
+        <translation type="unfinished">Vytvořit novou měnu</translation>
     </message>
     <message>
         <source>Preferred currency</source>
-        <translation type="obsolete">Preferovaná měna</translation>
+        <translation type="unfinished">Preferovaná měna</translation>
     </message>
     <message>
         <source>Products overview</source>
-        <translation type="obsolete">Přehled produktů</translation>
+        <translation type="unfinished">Přehled produktů</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="obsolete">Žádný</translation>
+        <translation type="unfinished">Žádný</translation>
     </message>
     <message>
         <source>Error checking out</source>
-        <translation type="obsolete">Chyba součtu</translation>
+        <translation type="unfinished">Chyba součtu</translation>
     </message>
     <message>
         <source>Unable to calculate VAT percentage because your country is unknown. You can either fill country manually in your account information (if you are a registered user) or contact site administrator.</source>
-        <translation type="obsolete">Nemožno vypočítat DPH procento protože Vaše země je neznámá. Můžete vyplnít zemi manuálně v informacích o vašem účtu (pokud jste registrovaný uživatel) nebo kontaktovat administrátora.</translation>
+        <translation type="unfinished">Nemožno vypočítat DPH procento protože Vaše země je neznámá. Můžete vyplnít zemi manuálně v informacích o vašem účtu (pokud jste registrovaný uživatel) nebo kontaktovat administrátora.</translation>
     </message>
     <message>
         <source>Wishlist</source>
-        <translation type="obsolete">Kniha přání</translation>
+        <translation type="unfinished">Kniha přání</translation>
     </message>
     <message>
         <source>&apos;Autorates&apos; were retrieved successfully</source>
-        <translation type="obsolete">&apos;Autorates&apos; byly úspěšně získány </translation>
+        <translation type="unfinished">&apos;Autorates&apos; byly úspěšně získány </translation>
     </message>
     <message>
         <source>Unknown body format in HTTP response. Expected &apos;text/xml&apos;</source>
-        <translation type="obsolete">Neznámý formát &quot;body&quot; v HTTP odezvě. Očekáván &apos;text/xml&apos;</translation>
+        <translation type="unfinished">Neznámý formát &quot;body&quot; v HTTP odezvě. Očekáván &apos;text/xml&apos;</translation>
     </message>
     <message>
         <source>Invalid HTTP response</source>
-        <translation type="obsolete">Neplatná HTTP odezva</translation>
+        <translation type="unfinished">Neplatná HTTP odezva</translation>
     </message>
     <message>
         <source>Unable to send http request: %1:%2/%3</source>
-        <translation type="obsolete">Nemožno poslat HTTP dotaz %1:%2/%3</translation>
+        <translation type="unfinished">Nemožno poslat HTTP dotaz %1:%2/%3</translation>
     </message>
     <message>
         <source>eZExchangeRatesUpdateHandler: you should reimplement &apos;requestRates&apos; method</source>
-        <translation type="obsolete">eZExchangeRatesUpdateHandler měli byste reimplementovat &apos;requestRates&apos; metodu</translation>
+        <translation type="unfinished">eZExchangeRatesUpdateHandler měli byste reimplementovat &apos;requestRates&apos; metodu</translation>
     </message>
     <message>
         <source>&apos;Auto&apos; prices were updated successfully.</source>
-        <translation type="obsolete">&apos;Auto&apos; ceny byly aktualizovány úspěěně.</translation>
+        <translation type="unfinished">&apos;Auto&apos; ceny byly aktualizovány úspěěně.</translation>
     </message>
     <message>
         <source>&apos;Auto&apos; rates were updated successfully.</source>
-        <translation type="obsolete">&apos;Auto&apos;  sazby byly aktualizovány úspěšně.</translation>
+        <translation type="unfinished">&apos;Auto&apos;  sazby byly aktualizovány úspěšně.</translation>
     </message>
     <message>
         <source>Unable to calculate cross-rate for currency-pair &apos;%1&apos;/&apos;%2&apos;</source>
-        <translation type="obsolete">Nemožno vypočíst  přepočtovou sazbu pro měnový pár &apos;%1&apos;/&apos;%2&apos;</translation>
+        <translation type="unfinished">Nemožno vypočíst  přepočtovou sazbu pro měnový pár &apos;%1&apos;/&apos;%2&apos;</translation>
     </message>
     <message>
         <source>Unable to determine currency for retrieved rates.</source>
-        <translation type="obsolete">Nemožno determinovat měnu pro získané sazby.</translation>
+        <translation type="unfinished">Nemožno determinovat měnu pro získané sazby.</translation>
     </message>
     <message>
         <source>Retrieved empty list of rates.</source>
-        <translation type="obsolete">Získán prázdný seznam sazeb.</translation>
+        <translation type="unfinished">Získán prázdný seznam sazeb.</translation>
     </message>
     <message>
         <source>Unable to create handler to update auto rates.</source>
-        <translation type="obsolete">Nemožno vytvořit ovladač pro aktualizaci auto sazeb.</translation>
+        <translation type="unfinished">Nemožno vytvořit ovladač pro aktualizaci auto sazeb.</translation>
     </message>
     <message>
         <source>Changes were stored successfully.</source>
-        <translation type="obsolete">Změny byly úspěšně uloženy.</translation>
+        <translation type="unfinished">Změny byly úspěšně uloženy.</translation>
+    </message>
+    <message>
+        <source>&apos;%value&apos; is not a valid custom rate value (positive number expected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;%value&apos; is not a valid rate_factor value (positive number expected)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/classes/ezcurrencydata</name>
     <message>
         <source>Invalid characters in currency code.</source>
-        <translation type="obsolete">Neplatné znaky v měnovém kódu.</translation>
+        <translation type="unfinished">Neplatné znaky v měnovém kódu.</translation>
     </message>
     <message>
         <source>Currency already exists.</source>
-        <translation type="obsolete">Měna již existuje.</translation>
+        <translation type="unfinished">Měna již existuje.</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="obsolete">Neznámá chyba.</translation>
+        <translation type="unfinished">Neznámá chyba.</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/discountgroup</name>
     <message>
         <source>New discount group</source>
-        <translation type="obsolete">Nová slevová skupina</translation>
+        <translation type="unfinished">Nová slevová skupina</translation>
     </message>
     <message>
         <source>New Discount Rule</source>
-        <translation type="obsolete">Nová slevová role</translation>
+        <translation type="unfinished">Nová slevová role</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/editvatrule</name>
     <message>
         <source>Choose a country.</source>
-        <translation type="obsolete">Zvolte zemi.</translation>
+        <translation type="unfinished">Zvolte zemi.</translation>
     </message>
     <message>
         <source>Choose a VAT type.</source>
-        <translation type="obsolete">Zvolte typ DPH.</translation>
+        <translation type="unfinished">Zvolte typ DPH.</translation>
     </message>
     <message>
         <source>Rule not found</source>
-        <translation type="obsolete">Role nenalezena</translation>
+        <translation type="unfinished">Role nenalezena</translation>
     </message>
     <message>
         <source>Edit VAT charging rule</source>
-        <translation type="obsolete">Editovat DPH defininiční roli</translation>
+        <translation type="unfinished">Editovat DPH defininiční roli</translation>
     </message>
     <message>
         <source>Create new VAT charging rule</source>
-        <translation type="obsolete">Vytvořit novou DPH definiční roli</translation>
+        <translation type="unfinished">Vytvořit novou DPH definiční roli</translation>
     </message>
     <message>
         <source>Invalid data entered</source>
-        <translation type="obsolete">Neplatná data vložena</translation>
+        <translation type="unfinished">Neplatná data vložena</translation>
     </message>
     <message>
         <source>Conflicting rule</source>
-        <translation type="obsolete">Role konfliktů</translation>
+        <translation type="unfinished">Role konfliktů</translation>
     </message>
     <message>
         <source>Default rule for any country already exists.</source>
-        <translation type="obsolete">Implicitní role pro jakoukoli zemi již existuje.</translation>
+        <translation type="unfinished">Implicitní role pro jakoukoli zemi již existuje.</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/productcategories</name>
     <message>
         <source>Product categories</source>
-        <translation type="obsolete">Produktové kategorie</translation>
+        <translation type="unfinished">Produktové kategorie</translation>
     </message>
     <message>
         <source>Product category</source>
-        <translation type="obsolete">Produktová kategorie</translation>
+        <translation type="unfinished">Produktová kategorie</translation>
     </message>
     <message>
         <source>Empty category names are not allowed (corrected).</source>
-        <translation type="obsolete">Prázdná jména kategorií nejsou povolena.</translation>
+        <translation type="unfinished">Prázdná jména kategorií nejsou povolena.</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/vatrules</name>
     <message>
         <source>No default rule found. Please add rule having &quot;Any&quot; country and &quot;Any&quot; category.</source>
-        <translation type="obsolete">Žádná implicitní role nenalezena. Prosím přidejte roli mající &quot;Any&quot; zemi a &quot;Any&quot; kategorii.</translation>
+        <translation type="unfinished">Žádná implicitní role nenalezena. Prosím přidejte roli mající &quot;Any&quot; zemi a &quot;Any&quot; kategorii.</translation>
     </message>
     <message>
         <source>VAT rules</source>
-        <translation type="obsolete">DPH role</translation>
+        <translation type="unfinished">DPH role</translation>
     </message>
 </context>
 <context>
     <name>kernel/shop/vattype</name>
     <message>
         <source>Empty VAT type names are not allowed (corrected).</source>
-        <translation type="obsolete">Prázdná jména typi DPH nejsou povolena.</translation>
+        <translation type="unfinished">Prázdná jména typi DPH nejsou povolena.</translation>
     </message>
     <message>
         <source>Wrong VAT percentage (corrected).</source>
-        <translation type="obsolete">Chybné DPH procento.</translation>
+        <translation type="unfinished">Chybné DPH procento.</translation>
     </message>
 </context>
 <context>
     <name>kernel/state</name>
     <message>
         <source>Assign</source>
-        <translation type="obsolete">Přiřadit</translation>
+        <translation type="unfinished">Přiřadit</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">Editovat</translation>
+        <translation type="unfinished">Editovat</translation>
     </message>
     <message>
         <source>Groups</source>
-        <translation type="obsolete">Skupiny</translation>
+        <translation type="unfinished">Skupiny</translation>
     </message>
     <message>
         <source>New group</source>
-        <translation type="obsolete">Nová skupina</translation>
+        <translation type="unfinished">Nová skupina</translation>
     </message>
     <message>
         <source>Group edit</source>
-        <translation type="obsolete">Editovat skupinu</translation>
+        <translation type="unfinished">Editovat skupinu</translation>
+    </message>
+    <message>
+        <source>State</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/state/edit</name>
+    <message>
+        <source>Identifier: input required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: invalid, it can only consist of characters in the range a-z, 0-9 and underscore.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: invalid, maximum %max characters allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: a content object state group with this identifier already exists, please give another identifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%language_name: this language is the default but neither name or description were provided for this language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations: you need to add at least one localization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations: there are multiple localizations but you did not specify which is the default one</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identifier: identifiers starting with &quot;ez&quot; are reserved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name in %language_name is too long. Maximum 45 characters allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name in %language_name: input required</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/trigger</name>
     <message>
         <source>Trigger</source>
-        <translation type="obsolete">Spoušť</translation>
+        <translation type="unfinished">Spoušť</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">Seznam</translation>
+        <translation type="unfinished">Seznam</translation>
     </message>
 </context>
 <context>
     <name>kernel/url</name>
     <message>
         <source>URL</source>
-        <translation type="obsolete">URL</translation>
+        <translation type="unfinished">URL</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">Seznam</translation>
+        <translation type="unfinished">Seznam</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">Pohled</translation>
+        <translation type="unfinished">Pohled</translation>
     </message>
     <message>
         <source>URL edit</source>
-        <translation type="obsolete">Editovat URL</translation>
+        <translation type="unfinished">Editovat URL</translation>
     </message>
 </context>
 <context>
     <name>kernel/user</name>
     <message>
         <source>User</source>
-        <translation type="obsolete">Uživatel</translation>
+        <translation type="unfinished">Uživatel</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="obsolete">Login</translation>
+        <translation type="unfinished">Login</translation>
     </message>
     <message>
         <source>Change password</source>
-        <translation type="obsolete">Změnit heslo</translation>
+        <translation type="unfinished">Změnit heslo</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="obsolete">Registrovat</translation>
+        <translation type="unfinished">Registrovat</translation>
     </message>
     <message>
         <source>Forgot password</source>
-        <translation type="obsolete">Zapoměl(a) jsem heslo</translation>
+        <translation type="unfinished">Zapoměl(a) jsem heslo</translation>
     </message>
     <message>
         <source>User profile</source>
-        <translation type="obsolete">Uživatelský profil</translation>
+        <translation type="unfinished">Uživatelský profil</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="obsolete">Nastavení</translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="obsolete">Aktivovat</translation>
+        <translation type="unfinished">Aktivovat</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="obsolete">Úspěch</translation>
+        <translation type="unfinished">Úspěch</translation>
     </message>
 </context>
 <context>
     <name>kernel/user/register</name>
     <message>
         <source>Registration info</source>
-        <translation type="obsolete">Informace o registraci</translation>
+        <translation type="unfinished">Informace o registraci</translation>
     </message>
     <message>
         <source>New user registered</source>
-        <translation type="obsolete">Nový uživatel zaregistrován </translation>
+        <translation type="unfinished">Nový uživatel zaregistrován </translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow</name>
     <message>
         <source>Edit workflow</source>
-        <translation type="obsolete">Editovat tok akcí</translation>
+        <translation type="unfinished">Editovat tok akcí</translation>
     </message>
     <message>
         <source>Workflow</source>
-        <translation type="obsolete">Tok akcí</translation>
+        <translation type="unfinished">Tok akcí</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">Editovat</translation>
+        <translation type="unfinished">Editovat</translation>
     </message>
     <message>
         <source>Edit workflow group</source>
-        <translation type="obsolete">Editovat skupinu toku akcí</translation>
+        <translation type="unfinished">Editovat skupinu toku akcí</translation>
     </message>
     <message>
         <source>Group edit</source>
-        <translation type="obsolete">Editovat skupinu</translation>
+        <translation type="unfinished">Editovat skupinu</translation>
     </message>
     <message>
         <source>Workflow group list</source>
-        <translation type="obsolete">Seznam skupin toku akcí</translation>
+        <translation type="unfinished">Seznam skupin toku akcí</translation>
     </message>
     <message>
         <source>Group list</source>
-        <translation type="obsolete">Seznam skupin</translation>
+        <translation type="unfinished">Seznam skupin</translation>
     </message>
     <message>
         <source>Workflow list</source>
-        <translation type="obsolete">Seznam toku akcí</translation>
+        <translation type="unfinished">Seznam toku akcí</translation>
     </message>
     <message>
         <source>Workflow list of group</source>
-        <translation type="obsolete">Seznam skupin toku akcí</translation>
+        <translation type="unfinished">Seznam skupin toku akcí</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="obsolete">Seznam</translation>
+        <translation type="unfinished">Seznam</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">Zobrazit</translation>
+        <translation type="unfinished">Zobrazit</translation>
     </message>
     <message>
         <source>You have to have at least one group that the workflow belongs to!</source>
-        <translation type="obsolete">Musíte mít alespoň jednu skupinu patřící pracovnímu toku!</translation>
+        <translation type="unfinished">Musíte mít alespoň jednu skupinu patřící pracovnímu toku!</translation>
     </message>
     <message>
         <source>Process list</source>
-        <translation type="obsolete">Seznam procesů</translation>
+        <translation type="unfinished">Seznam procesů</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/edit</name>
     <message>
         <source>New Workflow</source>
-        <translation type="obsolete">Nový pracovní tok</translation>
+        <translation type="unfinished">Nový pracovní tok</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/event</name>
     <message>
         <source>Event</source>
-        <translation type="obsolete">Událost</translation>
+        <translation type="unfinished">Událost</translation>
     </message>
     <message>
         <source>Approve</source>
-        <translation type="obsolete">Schválit</translation>
+        <translation type="unfinished">Schválit</translation>
     </message>
     <message>
         <source>Multiplexer</source>
-        <translation type="obsolete">Multiplexer</translation>
+        <translation type="unfinished">Multiplexer</translation>
     </message>
     <message>
         <source>Simple shipping</source>
-        <translation type="obsolete">Jednoduché doručení</translation>
+        <translation type="unfinished">Jednoduché doručení</translation>
     </message>
     <message>
         <source>Wait until date</source>
-        <translation type="obsolete">Vyčkat do</translation>
+        <translation type="unfinished">Vyčkat do</translation>
     </message>
     <message>
         <source>Payment Gateway</source>
-        <translation type="obsolete">Platební brána</translation>
+        <translation type="unfinished">Platební brána</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/group</name>
     <message>
         <source>Group</source>
-        <translation type="obsolete">Skupina</translation>
+        <translation type="unfinished">Skupina</translation>
     </message>
 </context>
 <context>
     <name>kernel/workflow/groupedit</name>
     <message>
         <source>New WorkflowGroup</source>
-        <translation type="obsolete">Nová pracovní skupina</translation>
+        <translation type="unfinished">Nová pracovní skupina</translation>
     </message>
 </context>
 <context>
@@ -27774,62 +28136,62 @@ pokud jste vybrali volbu &quot;%3&quot; od &quot;%4&quot;</translation>
     <message>
         <source>Contents</source>
         <comment>Table of contents</comment>
-        <translation type="obsolete">Obsah</translation>
+        <translation type="unfinished">Obsah</translation>
     </message>
     <message>
         <source>Index</source>
         <comment>Keyword index name</comment>
-        <translation type="obsolete">Index</translation>
+        <translation type="unfinished">Index</translation>
     </message>
 </context>
 <context>
     <name>lib/eztemplate</name>
     <message>
         <source>Some template errors occurred, see debug for more information.</source>
-        <translation type="obsolete">Objevily se některé chyby šablony, podívejte se do debuggeru pro více informací.</translation>
+        <translation type="unfinished">Objevily se některé chyby šablony, podívejte se do debuggeru pro více informací.</translation>
     </message>
 </context>
 <context>
     <name>lib/template</name>
     <message>
         <source>The maximum nesting level of %max has been reached. The execution is stopped to avoid infinite recursion.</source>
-        <translation type="obsolete">Maximální ukládací stupeň %max dosažen. Exekuce je zastavena z důvodu vyhnutí nekonečné rekurzi.</translation>
+        <translation type="unfinished">Maximální ukládací stupeň %max dosažen. Exekuce je zastavena z důvodu vyhnutí nekonečné rekurzi.</translation>
     </message>
 </context>
 <context>
     <name>pdf/edit</name>
     <message>
         <source>PDF Export</source>
-        <translation type="obsolete">PDF Export</translation>
+        <translation type="unfinished">PDF Export</translation>
     </message>
 </context>
 <context>
     <name>settings/edit</name>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">Nastavení</translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">Editovat</translation>
+        <translation type="unfinished">Editovat</translation>
     </message>
 </context>
 <context>
     <name>settings/view</name>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">Nastavení</translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">Zobrazit</translation>
+        <translation type="unfinished">Zobrazit</translation>
     </message>
 </context>
 <context>
     <name>shop</name>
     <message>
         <source>Remove orders</source>
-        <translation type="obsolete">Odstranit objednávky</translation>
+        <translation type="unfinished">Odstranit objednávky</translation>
     </message>
 </context>
 <context>
