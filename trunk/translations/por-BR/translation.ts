@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
+<TS version="2.0" language="pt_BR" sourcelanguage="en_GB">
 <context>
     <name>contentstructuremenu/show_content_structure</name>
     <message>
@@ -150,7 +150,7 @@
     </message>
     <message>
         <source>Select the item that you want to be the default selection then click &quot;OK&quot;.</source>
-        <translation> Selecione o item desejado para a seleção padrão e clique em &quot;OK&quot;.</translation>
+        <translation type="unfinished">Selecione o item desejado para a seleção padrão e clique em &quot;OK&quot;.</translation>
     </message>
 </context>
 <context>
@@ -452,7 +452,7 @@
     </message>
     <message>
         <source>The draft of the class definition was successfully stored.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O rascunho da definição da classe foi armazenado com sucesso.</translation>
     </message>
 </context>
 <context>
@@ -625,10 +625,6 @@
     <message>
         <source>Objects</source>
         <translation>Objetos</translation>
-    </message>
-    <message>
-        <source>Class groups (%group_count)</source>
-        <translation>Grupos de tipos de conteúdo (%group_count)</translation>
     </message>
 </context>
 <context>
@@ -1103,14 +1099,6 @@
     <message>
         <source>Translations (%translations)</source>
         <translation>Traduções (%translations)</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation type="unfinished">Descrição</translation>
-    </message>
-    <message>
-        <source>Category</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2503,10 +2491,6 @@
     <message>
         <source>Locations (%locations)</source>
         <translation>Locais (%locations)</translation>
-    </message>
-    <message>
-        <source>Preview</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Existing translations</source>
@@ -5086,7 +5070,7 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
     <name>design/admin/dashboard/drafts</name>
     <message>
         <source>My drafts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Meus rascunhos</translation>
     </message>
     <message>
         <source>Name</source>
@@ -5116,16 +5100,12 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
         <source>Currently you do not have any drafts available.</source>
         <translation>Atualmente você não tem nenhum rascunho disponível.</translation>
     </message>
-    <message>
-        <source>My drafts</source>
-        <translation>Meus rascunhos</translation>
-    </message>
 </context>
 <context>
     <name>design/admin/dashboard/latest_content</name>
     <message>
         <source>My latest content</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Meus últimos conteúdos</translation>
     </message>
     <message>
         <source>Name</source>
@@ -5155,10 +5135,6 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
         <source>Your latest content list is empty.</source>
         <translation>A lista com seus últimos conteúdos está vazia</translation>
     </message>
-    <message>
-        <source>My latest content</source>
-        <translation>Meus últimos conteúdos</translation>
-    </message>
 </context>
 <context>
     <name>design/admin/dashboard/maintenance</name>
@@ -5180,6 +5156,7 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
     </message>
     <message>
         <source>If your installation is not running eZ Publish Premium, it might not be up to date with the latest maintenance service packs. Contact eZ Systems.</source>
+        <translatorcomment>Não seria melhor &quot;Entre em contato&quot;?</translatorcomment>
         <translation>Se a sua instalação não está executando o eZ Publish Premium, não pode ser atualizada com os últimos service packs de manutenção. Contate a eZ Systems</translation>
     </message>
 </context>
@@ -5204,10 +5181,6 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
     <message>
         <source>Currently you do not have any pending items available.</source>
         <translation>Atualmente você não tem nenhum item pendente.</translation>
-    </message>
-    <message>
-        <source>My pending items</source>
-        <translation>Meus itens pendentes</translation>
     </message>
 </context>
 <context>
@@ -5777,11 +5750,11 @@ Tem certeza de que deseja remover a informação coletada?</translation>
     </message>
     <message>
         <source>Pending sub-object</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sub-objeto pendente</translation>
     </message>
     <message>
         <source>Removal failed because there is pending sub object under the node. Please finish the relevant process then redo the removal.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A remoção falhou porque existe um sub-objeto sob o nó. Por favor termine o processo relevante e então refaça a remoção.</translation>
     </message>
 </context>
 <context>
@@ -6594,7 +6567,7 @@ Tem certeza de que deseja remover a informação coletada?</translation>
     </message>
     <message>
         <source>New translation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nova tradução</translation>
     </message>
     <message>
         <source>Policy list and the Role that are assignet to current node.</source>
@@ -6631,10 +6604,6 @@ Tem certeza de que deseja remover a informação coletada?</translation>
     <message>
         <source>Published order</source>
         <translation>Ordem de publicação</translation>
-    </message>
-    <message>
-        <source>New translation</source>
-        <translation>Nova tradução</translation>
     </message>
     <message>
         <source>Related objects (%related_objects_count)</source>
@@ -7641,11 +7610,11 @@ Nota: Os pacotes não serão desinstalados.</translation>
     </message>
     <message>
         <source>Enable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Habilitar &amp;quot;Abas&amp;quot; por padrão enquanto navegar pelo conteúdo.</translation>
     </message>
     <message>
         <source>Disable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Desabilitar &amp;quot;Abas&amp;quot; por padrão enquanto navegar pelo conteúdo.</translation>
     </message>
     <message>
         <source>Enable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
@@ -8212,11 +8181,11 @@ Nota: Os pacotes não serão desinstalados.</translation>
     </message>
     <message>
         <source>Sitemap for subtree</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mapa do site para a subárvore</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Previsão</translation>
     </message>
 </context>
 <context>
@@ -9623,19 +9592,19 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Identifier can not be empty</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Identificador não pode ser vazio</translation>
     </message>
     <message>
         <source>Identifier should consist of letters, numbers or &apos;_&apos; with letter prefix.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Identificador deve consistir de letras, numeros ou &apos;_&apos; como caracter inicial.</translation>
     </message>
     <message>
         <source>The identifier has been used in another section.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O identificador já foi utilizado em outra seção.</translation>
     </message>
     <message>
         <source>Section edit error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erro de ediçao da seçao</translation>
     </message>
 </context>
 <context>
@@ -9698,7 +9667,8 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>You are not allowed to assign the &lt;%section_name&gt; section.</source>
-        <translation>A seção &lt; %1 &gt; não foi atribuída ao nós listados abaixo por causa de permissão insuficiente.</translation>
+        <translatorcomment>Precisa de revisão</translatorcomment>
+        <translation type="unfinished">Você não tem permissão para atribuir a seçao &lt;%section_name&gt;.</translation>
     </message>
     <message>
         <source>Sections (%section_count)</source>
@@ -12655,7 +12625,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Save changes to this states.</source>
-        <translation>Salvar modificações para estes estados</translation>
+        <translation type="unfinished">Salvar modificações para estes estados.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12679,11 +12649,11 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Description:</source>
-        <translation>Descrição</translation>
+        <translation type="unfinished">Descrição:</translation>
     </message>
     <message>
         <source>Save changes to this state.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Salvar as mudanças para este estado.</translation>
     </message>
 </context>
 <context>
@@ -13429,7 +13399,7 @@ your account.</source>
     </message>
     <message>
         <source>Account has been locked because the maximum number of failed login attempts was exceeded.</source>
-        <translation>A conta foi bloqueada devido ao número máximo de tentativas de login sem sucesso ter excedido</translation>
+        <translation type="unfinished">A conta foi bloqueada devido ao número máximo de tentativas de login sem sucesso ter excedido.</translation>
     </message>
 </context>
 <context>
@@ -14730,7 +14700,7 @@ your account.</source>
     </message>
     <message>
         <source>Price</source>
-        <translation>Valor unit.</translation>
+        <translation type="unfinished">Preço</translation>
     </message>
     <message>
         <source>Basket</source>
@@ -15546,11 +15516,11 @@ your account.</source>
     </message>
     <message>
         <source>Html5 Video</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Video html5</translation>
     </message>
     <message>
         <source>Html5 Audio</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Áudio html5</translation>
     </message>
     <message>
         <source>seconds(s)</source>
@@ -17028,27 +16998,27 @@ Se quiser enviar comentários ao aprovador ou ver o status do processo, use a UR
     </message>
     <message>
         <source>The related objects will be edited in the same language as this object. If such translations do not exist they will be created, based on the source language of your choice.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Os objetos relacionados serão editados no mesmo idioma deste objeto. Se tais traduções não existem elas serão criadas, baseadas no idioma de origem da sua escolha.</translation>
     </message>
     <message>
         <source>Translation base</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Base da tradução</translation>
     </message>
     <message>
         <source>This object is already translated, the existing translation will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este objeto já está traduzido, a tradução existente será utilizada.</translation>
     </message>
     <message>
         <source>This object is not translated, please select the language the new translation will be based on.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este objeto não está traduzido, por favor selecione o idioma que a nova tradução será baseada.</translation>
     </message>
     <message>
         <source>Your browser does not support html5 video.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seu navegador não suporta video html5.</translation>
     </message>
     <message>
         <source>Your browser does not support html5 audio.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seu navegador não suporta áudio html5.</translation>
     </message>
 </context>
 <context>
@@ -23020,7 +22990,7 @@ Esta funcionalidade também está disponível após a configuração inicial na 
     </message>
     <message>
         <source>Information about how to set up eZ Publish manually is available %1.</source>
-        <translation>Escolha apenas idiomas que usam caracteres semelhantes, por exemplo: Inglês e Norueguês trabalharão juntos enquanto Inglês e Russo não irá funcionar.</translation>
+        <translation type="unfinished">Informaçoes sobre como configurar o eZ Publish manualmente está disponível %1.</translation>
     </message>
     <message>
         <source>The setup will not do an upgrade from older eZ Publish versions (such as 2.2.7) if you leave the data as it is. This is only meant for people who have existing data that they don&apos;t want to lose. If you have existing eZ Publish 4.0 data (such as from an RC release) you should skip DB initialization, however you will then need to do a manual upgrade.</source>
@@ -23095,7 +23065,7 @@ Esta funcionalidade também está disponível após a configuração inicial na 
     </message>
     <message>
         <source>Remove timed out / old sessions</source>
-        <translation>Remover sessões timed out/ old.</translation>
+        <translation>Remover sessões expiradas/ antigas</translation>
     </message>
     <message>
         <source>Login</source>
@@ -23195,11 +23165,11 @@ Esta funcionalidade também está disponível após a configuração inicial na 
     </message>
     <message>
         <source>The operation was cut short in order to avoid execution timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A operaçao foi interrompida para evitar timeout de execuçao.</translation>
     </message>
     <message>
         <source>Your current session handler does not support session administration.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seu manipulador de sessão atual não supota sessão de administração.</translation>
     </message>
 </context>
 <context>
@@ -24701,7 +24671,7 @@ Para fazer isso, você pode usar o comando %chown embaixo dos comandos do shell 
     </message>
     <message>
         <source>Description:</source>
-        <translation>Descrição</translation>
+        <translation type="unfinished">Descrição:</translation>
     </message>
 </context>
 <context>
@@ -24739,7 +24709,7 @@ Para fazer isso, você pode usar o comando %chown embaixo dos comandos do shell 
     </message>
     <message>
         <source>Description:</source>
-        <translation>Descrição</translation>
+        <translation type="unfinished">Descrição:</translation>
     </message>
 </context>
 <context>
@@ -26148,11 +26118,11 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
     </message>
     <message>
         <source>Active extensions cache</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ativar cache de extensões</translation>
     </message>
     <message>
         <source>TS Translation cache</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cache de Tradução TS</translation>
     </message>
 </context>
 <context>
@@ -26968,7 +26938,7 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     </message>
     <message>
         <source>Invalid e-mail address: &apos;%1&apos;</source>
-        <translation>Endereço de e-mail inválido: </translation>
+        <translation type="unfinished">Endereço de e-mail inválido: &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Object %1 can not be embeded to itself.</source>
@@ -27257,7 +27227,7 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     </message>
     <message>
         <source>Cannot publish object (Name: %1, ID: %2).</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível publicar o objeto (Nome: %1, ID: %2).</translation>
     </message>
 </context>
 <context>
@@ -27357,10 +27327,6 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
         <translation>O tamanho do arquivo carregado excede o limite para este site: %1 bytes.</translation>
-    </message>
-    <message>
-        <source>Permission denied</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
