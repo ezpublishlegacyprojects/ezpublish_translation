@@ -626,6 +626,10 @@
         <source>Objects</source>
         <translation>Objetos</translation>
     </message>
+    <message>
+        <source>Class groups (%group_count)</source>
+        <translation>Grupos de tipos de conteúdo (%group_count)</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/class/removeclass</name>
@@ -1099,6 +1103,14 @@
     <message>
         <source>Translations (%translations)</source>
         <translation>Traduções (%translations)</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Descrição</translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2491,6 +2503,10 @@
     <message>
         <source>Locations (%locations)</source>
         <translation>Locais (%locations)</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Existing translations</source>
@@ -5100,6 +5116,10 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
         <source>Currently you do not have any drafts available.</source>
         <translation>Atualmente você não tem nenhum rascunho disponível.</translation>
     </message>
+    <message>
+        <source>My drafts</source>
+        <translation>Meus rascunhos</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/dashboard/latest_content</name>
@@ -5134,6 +5154,10 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
     <message>
         <source>Your latest content list is empty.</source>
         <translation>A lista com seus últimos conteúdos está vazia</translation>
+    </message>
+    <message>
+        <source>My latest content</source>
+        <translation>Meus últimos conteúdos</translation>
     </message>
 </context>
 <context>
@@ -5181,6 +5205,10 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
     <message>
         <source>Currently you do not have any pending items available.</source>
         <translation>Atualmente você não tem nenhum item pendente.</translation>
+    </message>
+    <message>
+        <source>My pending items</source>
+        <translation>Meus itens pendentes</translation>
     </message>
 </context>
 <context>
@@ -6604,6 +6632,10 @@ Tem certeza de que deseja remover a informação coletada?</translation>
     <message>
         <source>Published order</source>
         <translation>Ordem de publicação</translation>
+    </message>
+    <message>
+        <source>New translation</source>
+        <translation>Nova tradução</translation>
     </message>
     <message>
         <source>Related objects (%related_objects_count)</source>
@@ -27327,6 +27359,10 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     <message>
         <source>The size of the uploaded file exceeds the limit set for this site: %1 bytes.</source>
         <translation>O tamanho do arquivo carregado excede o limite para este site: %1 bytes.</translation>
+    </message>
+    <message>
+        <source>Permission denied</source>
+        <translation type="unfinished">Permissão negada</translation>
     </message>
 </context>
 <context>
