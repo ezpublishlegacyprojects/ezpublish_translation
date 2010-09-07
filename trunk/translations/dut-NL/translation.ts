@@ -396,11 +396,11 @@
     </message>
     <message>
         <source>Edit &lt;%class_name&gt; (%object_count objects)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk &lt;%class_name&gt; (%object_count objects)</translation>
     </message>
     <message>
         <source>The draft of the class definition was successfully stored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het concept van de klasse definitie is succesvol opgeslagen.</translation>
     </message>
 </context>
 <context>
@@ -1627,23 +1627,23 @@
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished">Jaar</translation>
+        <translation>Jaar</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished">Maand</translation>
+        <translation>Maand</translation>
     </message>
     <message>
         <source>Day</source>
-        <translation type="unfinished">Dag</translation>
+        <translation>Dag</translation>
     </message>
     <message>
         <source>Hour</source>
-        <translation type="unfinished">Uur</translation>
+        <translation>Uur</translation>
     </message>
     <message>
         <source>Minute</source>
-        <translation type="unfinished">Minuut</translation>
+        <translation>Minuut</translation>
     </message>
 </context>
 <context>
@@ -1927,7 +1927,7 @@
     </message>
     <message>
         <source>Translating content from %from_lang to %to_lang</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen content van %from_lang naar %to_lang</translation>
     </message>
     <message>
         <source>Send for publishing</source>
@@ -1979,11 +1979,11 @@
     </message>
     <message>
         <source>Current visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige zichtbaarheid</translation>
     </message>
     <message>
         <source>Visibility after publishing</source>
-        <translation type="unfinished"></translation>
+        <translation>Zichtbaarheid na publicatie</translation>
     </message>
     <message>
         <source>Main</source>
@@ -2131,7 +2131,7 @@
     </message>
     <message>
         <source>Top node</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoofd knooppunt</translation>
     </message>
     <message>
         <source>Publish the contents of the draft that is being edited. The draft will become the published version of the object.</source>
@@ -2219,15 +2219,15 @@
     </message>
     <message>
         <source>Existing translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestaande vertalingen</translation>
     </message>
     <message>
         <source>Base translation on</source>
-        <translation type="unfinished"></translation>
+        <translation>Baseer vertaling op</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Geen</translation>
+        <translation>Geen</translation>
     </message>
     <message>
         <source>Related objects (%related_objects)</source>
@@ -2309,7 +2309,7 @@
     </message>
     <message>
         <source>Possible edit conflict</source>
-        <translation type="unfinished"></translation>
+        <translation>Mogelijk bewerkings conflict</translation>
     </message>
     <message>
         <source>This object is already being edited by someone else. In addition, it is already being edited by you.</source>
@@ -2373,11 +2373,11 @@
     </message>
     <message>
         <source>View the contents of version #%version. Translation: %translation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk de content met versie #%version. Vertaling: %translation.</translation>
     </message>
     <message>
         <source>The object has already been published by someone else.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het object is reeds gepubliceerd door iemand anders.</translation>
     </message>
     <message>
         <source>Publish data as it is (and overwriting the published data).</source>
@@ -2393,11 +2393,11 @@
     </message>
     <message>
         <source>Show the published data</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon de geplubiceerde data</translation>
     </message>
     <message>
         <source>Conflicting versions [%draft_count]</source>
-        <translation type="unfinished"></translation>
+        <translation>Conflicterende versies [%draft_count]</translation>
     </message>
     <message>
         <source>Create a new draft. The contents of the new draft will be copied from the published version.</source>
@@ -2413,7 +2413,7 @@
     </message>
     <message>
         <source>Conflicting versions (%draft_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Conflicterende versies (%draft_count)</translation>
     </message>
     <message>
         <source>Current drafts (%draft_count)</source>
@@ -2424,75 +2424,75 @@
     <name>design/admin/content/edit_languages</name>
     <message>
         <source>Object information</source>
-        <translation type="unfinished">Object informatie</translation>
+        <translation>Object informatie</translation>
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished">ID</translation>
+        <translation>ID</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished">Aangemaakt</translation>
+        <translation>Aangemaakt</translation>
     </message>
     <message>
         <source>Not yet published</source>
-        <translation type="unfinished">Nog te publiceren</translation>
+        <translation>Nog te publiceren</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepast</translation>
     </message>
     <message>
         <source>Published version</source>
-        <translation type="unfinished">Gepubliceerde versie</translation>
+        <translation>Gepubliceerde versie</translation>
     </message>
     <message>
         <source>Edit &lt;%object_name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk &lt;%object_name&gt;</translation>
     </message>
     <message>
         <source>Existing languages</source>
-        <translation type="unfinished">Bestaande talen</translation>
+        <translation>Bestaande talen</translation>
     </message>
     <message>
         <source>Select the language you want to edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer de taal welke u wilt bewerken</translation>
     </message>
     <message>
         <source>New languages</source>
-        <translation type="unfinished">Nieuwe talen</translation>
+        <translation>Nieuwe talen</translation>
     </message>
     <message>
         <source>Select the language you want to add</source>
-        <translation type="unfinished">Selecteer de taal welke u wilt toevoegen</translation>
+        <translation>Selecteer de taal welke u wilt toevoegen</translation>
     </message>
     <message>
         <source>Select the language the added translation will be based on</source>
-        <translation type="unfinished">Selecteer de taal waarop de toegevoegde vertaling gebaseerd zal zijn</translation>
+        <translation>Selecteer de taal waarop de toegevoegde vertaling gebaseerd zal zijn</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Geen</translation>
+        <translation>Geen</translation>
     </message>
     <message>
         <source>You do not have permission to edit the object in any available languages.</source>
-        <translation type="unfinished">U heeft geen toestemming om het object in één van de beschikbare talen te bewerken.</translation>
+        <translation>U heeft geen toestemming om het object in één van de beschikbare talen te bewerken.</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Bewerken</translation>
+        <translation>Bewerken</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuleren</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>You do not have permission to create a translation in another language.</source>
-        <translation type="unfinished">U heeft geen toestemming om een vertaling in een andere taal aan te maken.</translation>
+        <translation>U heeft geen toestemming om een vertaling in een andere taal aan te maken.</translation>
     </message>
     <message>
         <source>However you can select one of the following languages for editing.</source>
@@ -2500,54 +2500,54 @@
     </message>
     <message>
         <source>Existing translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestaande vertalingen</translation>
     </message>
     <message>
         <source>Select the translation you want to edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer de vertaling welke u wilt bewerken</translation>
     </message>
     <message>
         <source>New translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe vertaling</translation>
     </message>
     <message>
         <source>Select the translation you want to add</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer de vertaling welke u wilt toevoegen</translation>
     </message>
     <message>
         <source>Translate based on</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertaal gebaseerd op</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/history</name>
     <message>
         <source>Object information</source>
-        <translation type="unfinished">Object informatie</translation>
+        <translation>Object informatie</translation>
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished">ID</translation>
+        <translation>ID</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished">Aangemaakt</translation>
+        <translation>Aangemaakt</translation>
     </message>
     <message>
         <source>Not yet published</source>
-        <translation type="unfinished">Nog te publiceren</translation>
+        <translation>Nog te publiceren</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepast</translation>
     </message>
     <message>
         <source>Published version</source>
-        <translation type="unfinished">Gepubliceerde versie</translation>
+        <translation>Gepubliceerde versie</translation>
     </message>
     <message>
         <source>Unable to create new version</source>
-        <translation type="unfinished">Het is onmogelijk om een nieuwe versie aan te maken</translation>
+        <translation>Het is onmogelijk om een nieuwe versie aan te maken</translation>
     </message>
     <message>
         <source>Version history limit has been exceeded and no archived version can be removed by the system.</source>
@@ -2559,147 +2559,147 @@
     </message>
     <message>
         <source>Versions for &lt;%object_name&gt; [%version_count]</source>
-        <translation type="unfinished">Versies voor &lt;%object_name&gt; [%version_count]</translation>
+        <translation>Versies voor &lt;%object_name&gt; [%version_count]</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versie</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Creator</source>
-        <translation type="unfinished">Auteur</translation>
+        <translation>Auteur</translation>
     </message>
     <message>
         <source>Select version #%version_number for removal.</source>
-        <translation type="unfinished">Selecteer te verwijderen versienr. %versie_number.</translation>
+        <translation>Selecteer te verwijderen versienr. %versie_number.</translation>
     </message>
     <message>
         <source>View the contents of version #%version_number. Translation: %translation.</source>
-        <translation type="unfinished">Bekijk de inhoud van versienr. %version_number. Vertaling: %translation.</translation>
+        <translation>Bekijk de inhoud van versienr. %version_number. Vertaling: %translation.</translation>
     </message>
     <message>
         <source>Draft</source>
-        <translation type="unfinished">Voorlopige versie</translation>
+        <translation>Voorlopige versie</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation type="unfinished"></translation>
+        <translation>Gepubliceerd</translation>
     </message>
     <message>
         <source>Pending</source>
-        <translation type="unfinished">In wachtrij</translation>
+        <translation>In wachtrij</translation>
     </message>
     <message>
         <source>Archived</source>
-        <translation type="unfinished">Gearchiveerd</translation>
+        <translation>Gearchiveerd</translation>
     </message>
     <message>
         <source>Rejected</source>
-        <translation type="unfinished">Verworpen</translation>
+        <translation>Verworpen</translation>
     </message>
     <message>
         <source>Untouched draft</source>
-        <translation type="unfinished">Onaangeroerd concept</translation>
+        <translation>Onaangeroerd concept</translation>
     </message>
     <message>
         <source>Create a copy of version #%version_number.</source>
-        <translation type="unfinished">Maak een kopie van versie nr. %version_number.</translation>
+        <translation>Maak een kopie van versie nr. %version_number.</translation>
     </message>
     <message>
         <source>Edit the contents of version #%version_number.</source>
-        <translation type="unfinished">Bewerk versie nr. %version_number.</translation>
+        <translation>Bewerk versie nr. %version_number.</translation>
     </message>
     <message>
         <source>This object does not have any versions.</source>
-        <translation type="unfinished">Dit object heeft nog geen enkele versie.</translation>
+        <translation>Dit object heeft nog geen enkele versie.</translation>
     </message>
     <message>
         <source>Remove selected</source>
-        <translation type="unfinished">Verwijder selectie</translation>
+        <translation>Verwijder selectie</translation>
     </message>
     <message>
         <source>Remove the selected versions from the object.</source>
-        <translation type="unfinished">Verwijder de geselecteerde versies van het object.</translation>
+        <translation>Verwijder de geselecteerde versies van het object.</translation>
     </message>
     <message>
         <source>Show differences</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon verschillen</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished">Terug</translation>
+        <translation>Terug</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished">Vertalingen</translation>
+        <translation>Vertalingen</translation>
     </message>
     <message>
         <source>New drafts [%newerDraftCount]</source>
-        <translation type="unfinished">Nieuwe concepten [%newerDraftCount]</translation>
+        <translation>Nieuwe concepten [%newerDraftCount]</translation>
     </message>
     <message>
         <source>This object does not have any drafts.</source>
-        <translation type="unfinished">Dit object heeft geen enkel concept.</translation>
+        <translation>Dit object heeft geen enkel concept.</translation>
     </message>
     <message>
         <source>Differences between versions %oldVersion and %newVersion</source>
-        <translation type="unfinished">Verschillen tussen versies %oldVersion en %newVersion</translation>
+        <translation>Verschillen tussen versies %oldVersion en %newVersion</translation>
     </message>
     <message>
         <source>Old version</source>
-        <translation type="unfinished">Oude versie</translation>
+        <translation>Oude versie</translation>
     </message>
     <message>
         <source>Inline changes</source>
-        <translation type="unfinished">Inline wijzigingen</translation>
+        <translation>Inline wijzigingen</translation>
     </message>
     <message>
         <source>Block changes</source>
-        <translation type="unfinished">Wijzigingen blokkeren</translation>
+        <translation>Wijzigingen blokkeren</translation>
     </message>
     <message>
         <source>New version</source>
-        <translation type="unfinished">Nieuwe versie</translation>
+        <translation>Nieuwe versie</translation>
     </message>
     <message>
         <source>Back to history</source>
-        <translation type="unfinished">Terug naar geschiedenis</translation>
+        <translation>Terug naar geschiedenis</translation>
     </message>
     <message>
         <source>Copy translation</source>
-        <translation type="unfinished">Vertaling kopiëren</translation>
+        <translation>Vertaling kopiëren</translation>
     </message>
     <message>
         <source>Version is not a draft</source>
-        <translation type="unfinished">De versie is geen concept</translation>
+        <translation>De versie is geen concept</translation>
     </message>
     <message>
         <source>Version %1 is not available for editing anymore. Only drafts can be edited.</source>
-        <translation type="unfinished">De versie %1 kan niet meer bewerkt worden. Enkel concepten kunnen bewerkt worden.</translation>
+        <translation>De versie %1 kan niet meer bewerkt worden. Enkel concepten kunnen bewerkt worden.</translation>
     </message>
     <message>
         <source>To edit this version, first create a copy of it.</source>
-        <translation type="unfinished">Om deze versie te bewerken, maak eerst een kopie ervan aan.</translation>
+        <translation>Maak eerst een kopie om deze versie te bewerken.</translation>
     </message>
     <message>
         <source>Version is not yours</source>
-        <translation type="unfinished">De versie is niet van u</translation>
+        <translation>De versie is niet van u</translation>
     </message>
     <message>
         <source>Version %1 was not created by you. You can only edit your own drafts.</source>
-        <translation type="unfinished">De versie %1 werd niet door u aangemaakt. U kunt enkel uw eigen concepten bewerken.</translation>
+        <translation>De versie %1 werd niet door u aangemaakt. U kunt enkel uw eigen concepten bewerken.</translation>
     </message>
     <message>
         <source>Modified translation</source>
-        <translation type="unfinished">Gewijzigde vertaling</translation>
+        <translation>Gewijzigde vertaling</translation>
     </message>
     <message>
         <source>Version #%version_number cannot be removed because it is either the published version of the object or because you do not have permission to remove it.</source>
-        <translation type="unfinished">Versienr. %version_number kan niet verwijderd worden omdat het ofwel de gepubliceerde versie van het object is of omdat u geen toestemming heeft om het te verwijderen.</translation>
+        <translation>Versienr. %version_number kan niet verwijderd worden omdat het ofwel de gepubliceerde versie van het object is of omdat u geen toestemming heeft om het te verwijderen.</translation>
     </message>
     <message>
         <source>There is no need to make copies of untouched drafts.</source>
@@ -15063,19 +15063,19 @@ uw account te activeren.</translation>
     </message>
     <message>
         <source>Tag preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Tag preset</translation>
     </message>
     <message>
         <source>Html5 Video</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML5 Video</translation>
     </message>
     <message>
         <source>Html5 Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML5 Audio</translation>
     </message>
     <message>
         <source>second(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>seconde(n)</translation>
     </message>
 </context>
 <context>
@@ -15249,7 +15249,7 @@ uw account te activeren.</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Omschrijving</translation>
+        <translation>Omschrijving</translation>
     </message>
     <message>
         <source>Use this field to set the informal description of the class. The description field can contain whitespaces and special characters.</source>
@@ -15466,7 +15466,7 @@ uw account te activeren.</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Omschrijving</translation>
+        <translation>Omschrijving</translation>
     </message>
 </context>
 <context>
@@ -16541,7 +16541,7 @@ Indien u commentaren naar de fiatteur wenst te sturen of de status wenst te zien
     </message>
     <message>
         <source>There are no related object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er zijn geen gerelateerde objecten.</translation>
     </message>
     <message>
         <source>Find object</source>
@@ -16569,11 +16569,11 @@ Indien u commentaren naar de fiatteur wenst te sturen of de status wenst te zien
     </message>
     <message>
         <source>Your browser does not support html5 video.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uw browser ondersteund geen HTML5 video.</translation>
     </message>
     <message>
         <source>Your browser does not support html5 audio.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uw broswer ondersteund geen HTML5 audio.</translation>
     </message>
 </context>
 <context>
@@ -21560,7 +21560,7 @@ Sjabloonoperator.</translation>
     </message>
     <message>
         <source>Database initalization</source>
-        <translation type="unfinished">Database initialisatie</translation>
+        <translation>Database initialisatie</translation>
     </message>
     <message>
         <source>Email settings</source>
@@ -21572,11 +21572,11 @@ Sjabloonoperator.</translation>
     </message>
     <message>
         <source>Language options</source>
-        <translation type="unfinished">Taal opties</translation>
+        <translation>Taal opties</translation>
     </message>
     <message>
         <source>Registration</source>
-        <translation type="unfinished">Registratie</translation>
+        <translation>Registratie</translation>
     </message>
     <message>
         <source>Securing site</source>
