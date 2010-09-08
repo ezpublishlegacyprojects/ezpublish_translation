@@ -6129,7 +6129,7 @@
     </message>
     <message>
         <source>Extensions</source>
-        <translation>Erweiterungen</translation>
+        <translation>Extensions</translation>
     </message>
     <message>
         <source>eZ Publish information: %version</source>
@@ -7713,19 +7713,19 @@
     </message>
     <message>
         <source>first</source>
-        <translation type="unfinished"></translation>
+        <translation>Anfang</translation>
     </message>
     <message>
         <source>prev</source>
-        <translation type="unfinished"></translation>
+        <translation>zurück</translation>
     </message>
     <message>
         <source>next</source>
-        <translation type="unfinished"></translation>
+        <translation>weiter</translation>
     </message>
     <message>
         <source>last</source>
-        <translation type="unfinished"></translation>
+        <translation>Ende</translation>
     </message>
 </context>
 <context>
@@ -8900,7 +8900,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Extensions</source>
-        <translation>Erweiterungen</translation>
+        <translation>Extensions</translation>
     </message>
     <message>
         <source>Ini settings</source>
@@ -11802,7 +11802,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     <name>design/admin/setup/extensions</name>
     <message>
         <source>Available extensions [%extension_count]</source>
-        <translation>Verfügbare Erweiterungen [%extension_count]</translation>
+        <translation>Verfügbare Extensions [%extension_count]</translation>
     </message>
     <message>
         <source>Active</source>
@@ -11818,11 +11818,11 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Activate or deactivate extension. Use the &quot;Apply changes&quot; button to apply the changes.</source>
-        <translation>Aktivieren oder Deaktivieren einer Erweiterung. Benutzen Sie den Knopf &quot;Änderungen anwenden&quot;, um die Änderungen anzuwenden.</translation>
+        <translation>Extensions aktivieren oder deaktivieren. Klicken Sie nach Änderungen auf die Schaltfläche &quot;Änderungen anwenden&quot;.</translation>
     </message>
     <message>
         <source>There are no available extensions.</source>
-        <translation>Es gibt keine verfügbaren Erweiterungen.</translation>
+        <translation>Es gibt keine verfügbaren Extensions.</translation>
     </message>
     <message>
         <source>Click this button to store changes if you have modified the status of the checkboxes above.</source>
@@ -11830,11 +11830,11 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Regenerate autoload arrays for extensions</source>
-        <translation>Autoload Einträge der Erweiterungen neu generieren</translation>
+        <translation>Autoload Einträge der Extensions neu generieren</translation>
     </message>
     <message>
         <source>Click this button to regenerate the autoload arrays used by the system for extensions.</source>
-        <translation>Klicken Sie auf diesen Knopf, wenn Sie die Autoload Einträge der Erweiterungen neu generieren möchten.</translation>
+        <translation>Klicken Sie auf diese Schaltfläche, wenn Sie die Autoload Einträge der Extensions neu generieren möchten.</translation>
     </message>
     <message>
         <source>Problems detected during autoload generation:</source>
@@ -11842,7 +11842,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Available extensions (%extension_count)</source>
-        <translation>Verfügbare Erweiterungen (%extension_count)</translation>
+        <translation>Verfügbare Extensions (%extension_count)</translation>
     </message>
     <message>
         <source>Invert selection.</source>
@@ -11854,7 +11854,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Activate or deactivate extension. Use the &quot;Update&quot; button to apply the changes.</source>
-        <translation>Erweiterung ein- oder ausschalten. &quot;Aktualisieren&quot;-Knopf drücken um Änderungen anzuwenden.</translation>
+        <translation>Extension ein- oder ausschalten. &quot;Aktualisieren&quot;-Schaltfläche drücken, um Änderungen anzuwenden.</translation>
     </message>
     <message>
         <source>Update</source>
@@ -11894,7 +11894,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     <message>
         <source>Extensions</source>
         <comment>PHP extensions</comment>
-        <translation>Erweiterungen</translation>
+        <translation>Extensions</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -12110,7 +12110,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     <message>
         <source>Extensions</source>
         <comment>eZ Publish extensions</comment>
-        <translation>Erweiterungen</translation>
+        <translation>Extensions</translation>
     </message>
     <message>
         <source>Script memory limit is unlimited.</source>
@@ -15990,7 +15990,7 @@ Bitte folgen Sie den Instruktionen in der Email um Ihr Konto zu aktivieren.</tra
     </message>
     <message>
         <source>There are no payment gateway extensions installed.</source>
-        <translation>Es sind keine Erweiterungen für Bezahlungsschnittstellen installiert.</translation>
+        <translation>Es sind keine Bezahlschnittstellen (Extensions) installiert.</translation>
     </message>
     <message>
         <source>Class/attribute combinations (%count)</source>
@@ -22274,7 +22274,7 @@ Wenn Sie noch mehr Objekte hinzufügen wollen, klicken Sie die %emphasize_startL
     </message>
     <message>
         <source>Extensions</source>
-        <translation>Erweiterungen</translation>
+        <translation>Extensions</translation>
     </message>
     <message>
         <source>eZ Publish information: %version</source>
@@ -23508,7 +23508,7 @@ Sie können das Paket auch entfernen ohne es von der Paketliste zu entfernen.</t
     </message>
     <message>
         <source>Please select the extensions to be exported.</source>
-        <translation>Bitte wählen Sie die Erweiterungen aus, die exportiert werden sollen.</translation>
+        <translation type="unfinished">Bitte wählen Sie die Extensions aus, die exportiert werden sollen.</translation>
     </message>
     <message>
         <source>Use content object modification and publication dates from the package.</source>
@@ -24968,7 +24968,7 @@ Wenn Sie auf den Namen klicken, können Sie navigieren. Sie können zur Auswahl 
     </message>
     <message>
         <source>Extension setup</source>
-        <translation>Erweiterungs-Setup</translation>
+        <translation type="unfinished">Extension-Setup</translation>
     </message>
     <message>
         <source>Here you can activate/deactivate you extensions. Only system wide extensions can be activated, for site access spesific extensions, modify these configuration files.</source>
@@ -31224,15 +31224,15 @@ Bitte folgen Sie den Hinweisen in der Email, um Ihr Konto zu aktivieren.</transl
     </message>
     <message>
         <source>Design base cache</source>
-        <translation type="unfinished">Design-Base-Cache</translation>
+        <translation>Design-Base-Cache</translation>
     </message>
     <message>
         <source>Active extensions cache</source>
-        <translation type="unfinished">Aktive Erweitungen Cache</translation>
+        <translation>Aktive Erweitungen Cache</translation>
     </message>
     <message>
         <source>TS Translation cache</source>
-        <translation type="unfinished">TS Übersetzungs-Cache</translation>
+        <translation>TS Übersetzungs-Cache</translation>
     </message>
 </context>
 <context>
@@ -32199,7 +32199,7 @@ Bitte folgen Sie den Hinweisen in der Email, um Ihr Konto zu aktivieren.</transl
     <message>
         <source>Multi-option2</source>
         <comment>Datatype name</comment>
-        <translation type="unfinished">Mehrfachoption 2</translation>
+        <translation>Mehrfachoption 2</translation>
     </message>
     <message>
         <source>You cannot choose option value &quot;%1&quot; from &quot;%2&quot; because it is unselectable </source>
@@ -33061,11 +33061,11 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>Content objects to include</source>
-        <translation type="unfinished">Zu beinhaltende Inhaltsobjekte</translation>
+        <translation>Objekte, die inkludiert werden sollen</translation>
     </message>
     <message>
         <source>Content object limits</source>
-        <translation type="unfinished">Limitierungen von Inhaltsobjekten</translation>
+        <translation>Limits von Objekten</translation>
     </message>
     <message>
         <source>Content object export</source>
@@ -33149,7 +33149,7 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>Extension export</source>
-        <translation type="unfinished">Erweiterungs-Export</translation>
+        <translation>Extension-Export</translation>
     </message>
     <message>
         <source>Extension:</source>
@@ -33165,11 +33165,11 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>Extension &apos;%extensionname&apos;</source>
-        <translation type="unfinished">Erweiterung &apos;%extensionname&apos;</translation>
+        <translation>Extension &apos;%extensionname&apos;</translation>
     </message>
     <message>
         <source>Removing class &apos;%classname&apos; will result in the removal of %objectscount object(s) of this class and all their sub-items. Are you sure you want to uninstall it?</source>
-        <translation type="unfinished">Das Löschen der Klasse &apos;%classname&apos; wird auch %objectscount Objekt(e) und deren Unterelemente löschen. Sind Sie sicher, dass Sie die Erweiterung deinstallieren wollen?</translation>
+        <translation>Das Löschen der Klasse &apos;%classname&apos; wird auch %objectscount Objekt(e) und deren Unterelemente löschen. Sind Sie sicher, dass Sie die Erweiterung deinstallieren wollen?</translation>
     </message>
     <message>
         <source>Class &apos;%classname&apos; already exists.</source>
@@ -33213,11 +33213,11 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>Extension &apos;%extensionname&apos; already exists.</source>
-        <translation type="unfinished">Erweiterung &apos;%extensionname&apos; besteht bereits.</translation>
+        <translation>Extension &apos;%extensionname&apos; besteht bereits.</translation>
     </message>
     <message>
         <source>Replace extension</source>
-        <translation type="unfinished">Erweiterung ersetzen</translation>
+        <translation>Extension ersetzen</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -33626,7 +33626,7 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>Error checking out</source>
-        <translation type="unfinished">Fehler beim Kassengang</translation>
+        <translation>Fehler beim Kassengang</translation>
     </message>
     <message>
         <source>Unable to calculate VAT percentage because your country is unknown. You can either fill country manually in your account information (if you are a registered user) or contact site administrator.</source>
@@ -33642,7 +33642,7 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>&apos;Autorates&apos; were retrieved successfully</source>
-        <translation type="unfinished">&apos;Autoquoten&apos; wurden erfolgreich empfangen</translation>
+        <translation>&apos;Autoquoten&apos; wurden erfolgreich empfangen</translation>
     </message>
     <message>
         <source>Unknown body format in HTTP response. Expected &apos;text/xml&apos;</source>
@@ -33670,7 +33670,7 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>Unable to calculate cross-rate for currency-pair &apos;%1&apos;/&apos;%2&apos;</source>
-        <translation type="unfinished">Konnte die Cross-Rates für das Währungspaar &apos;%1&apos;/&apos;%2&apos; nicht ausrechnen</translation>
+        <translation>Konnte die Cross-Rates für das Währungspaar &apos;%1&apos;/&apos;%2&apos; nicht ausrechnen</translation>
     </message>
     <message>
         <source>Unable to determine currency for retrieved rates.</source>
@@ -33682,7 +33682,7 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>Unable to create handler to update auto rates.</source>
-        <translation type="unfinished">Konnte Handler zum Aktualisieren der Tarife nicht erstellen.</translation>
+        <translation>Konnte Handler zum Aktualisieren der Tarife nicht erstellen.</translation>
     </message>
     <message>
         <source>Changes were stored successfully.</source>
@@ -33896,7 +33896,7 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Ansicht</translation>
+        <translation>Ansicht</translation>
     </message>
     <message>
         <source>URL edit</source>
@@ -33997,7 +33997,7 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Ansehen</translation>
+        <translation>Ansehen</translation>
     </message>
     <message>
         <source>You have to have at least one group that the workflow belongs to!</source>
@@ -34109,7 +34109,7 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>Some template errors occurred, see debug for more information.</source>
-        <translation type="unfinished">Einige Template Fehler sind aufgetreten, siehe Bugliste für weitere Informationen.</translation>
+        <translation>Einige Template Fehler sind aufgetreten, weitere Informationen im Debug Output.</translation>
     </message>
 </context>
 <context>
@@ -34149,7 +34149,7 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Sicht</translation>
+        <translation>Ansicht</translation>
     </message>
 </context>
 <context>
