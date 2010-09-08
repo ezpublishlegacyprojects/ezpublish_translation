@@ -23508,7 +23508,7 @@ Sie können das Paket auch entfernen ohne es von der Paketliste zu entfernen.</t
     </message>
     <message>
         <source>Please select the extensions to be exported.</source>
-        <translation type="unfinished">Bitte wählen Sie die Extensions aus, die exportiert werden sollen.</translation>
+        <translation>Bitte wählen Sie die Extensions aus, die exportiert werden sollen.</translation>
     </message>
     <message>
         <source>Use content object modification and publication dates from the package.</source>
@@ -24968,7 +24968,7 @@ Wenn Sie auf den Namen klicken, können Sie navigieren. Sie können zur Auswahl 
     </message>
     <message>
         <source>Extension setup</source>
-        <translation type="unfinished">Extension-Setup</translation>
+        <translation>Extension-Setup</translation>
     </message>
     <message>
         <source>Here you can activate/deactivate you extensions. Only system wide extensions can be activated, for site access spesific extensions, modify these configuration files.</source>
@@ -24976,7 +24976,7 @@ Wenn Sie auf den Namen klicken, können Sie navigieren. Sie können zur Auswahl 
     </message>
     <message>
         <source>Available extensions</source>
-        <translation>Verfügbare Erweiterungen</translation>
+        <translation>Verfügbare Extensions</translation>
     </message>
     <message>
         <source>There is no known PHP accelerator active.</source>
@@ -25126,7 +25126,7 @@ By using %datatypename you can ...</translation>
     <message>
         <source>Extensions</source>
         <comment>PHP extensions</comment>
-        <translation>Erweiterungen</translation>
+        <translation>Extensions</translation>
     </message>
     <message>
         <source>Version</source>
@@ -25466,7 +25466,7 @@ Der Vorgabecode wurde aus den grundlegenen Parametern, die Sie ausgewählt haben
     </message>
     <message>
         <source>Here you can activate/deactivate you extensions. Only system wide extensions can be activated, for site access specific extensions, modify these configuration files.</source>
-        <translation>Sie können hier ihre Erweiterungen aktivieren und deaktivieren. Nur systemweite Erweiterungen können aktiviert werden. Für spezifische Erweiterungen von Seitenzugänge, ändern Sie diese Konfigurationsdateien.</translation>
+        <translation>Sie können hier Ihre Extensions aktivieren und deaktivieren. Nur systemweite Extensions können aktiviert werden. Wenn Sie Extensions nur für einen Siteaccess aktivieren möchten, müssen Sie dies in der Konfigurationsdatei des Siteaccesses machen.</translation>
     </message>
     <message>
         <source>Operating System</source>
@@ -25528,7 +25528,7 @@ Der Vorgabecode wurde aus den grundlegenen Parametern, die Sie ausgewählt haben
     </message>
     <message>
         <source>Activate extensions</source>
-        <translation>Erweiterung aktivieren</translation>
+        <translation>Extension aktivieren</translation>
     </message>
     <message>
         <source>Template edit</source>
@@ -25567,7 +25567,7 @@ Der Vorgabecode wurde aus den grundlegenen Parametern, die Sie ausgewählt haben
     <message>
         <source>Extensions</source>
         <comment>eZ Publish extensions</comment>
-        <translation>Erweiterungen</translation>
+        <translation>Extensions</translation>
     </message>
     <message>
         <source>Web server</source>
@@ -25754,26 +25754,26 @@ Der Vorgabecode wurde aus den grundlegenen Parametern erstellt, die Sie ausgewä
     </message>
     <message>
         <source>MySQL Improved</source>
-        <translation>Verbesserte MySQL Erweiterung</translation>
+        <translation>MySQL Improved</translation>
     </message>
     <message>
         <source>configuration option you enable PHP to access MySQL databases through the MySQL Improved extension. If you use this option without specifying the path to MySQL, PHP will use the built-in MySQL client libraries.</source>
-        <translation>PHP Option um die verbesserte MySQL Erweiterung zu aktivieren. Wenn Sie diese Option wählen ohne den Pfad zu MySQL anzugeben wird PHP weiterhin die Standard Bibliothek nutzen.</translation>
+        <translation>PHP Option, um die MySQL Improved Extension zu aktivieren. Wenn Sie diese Option wählen ohne den Pfad zu MySQL anzugeben, wird PHP weiterhin die Standard Bibliothek nutzen.</translation>
     </message>
     <message>
         <source>More information on the MySQLi extension can be found at</source>
-        <translation>Mehr Informationen über die verbesserte MySQL Erweiterung finden Sie unter</translation>
+        <translation>Mehr Informationen über die verbesserte MySQLi Extension finden Sie unter</translation>
     </message>
 </context>
 <context>
     <name>design/standard/setup/extensions</name>
     <message>
         <source>Regenerate autoload arrays for extensions</source>
-        <translation>Autoload Einträge der Erweiterungen neu generieren</translation>
+        <translation>Autoload Einträge der Extensions neu generieren</translation>
     </message>
     <message>
         <source>Click this button to regenerate the autoload arrays used by the system for extensions.</source>
-        <translation>Klicken Sie auf diesen Knopf, wenn Sie die Autoload Einträge der Erweiterungen neu generieren möchten.</translation>
+        <translation>Klicken Sie auf diese Schaltfläche, wenn Sie die Autoload Einträge der Extensions neu generieren möchten.</translation>
     </message>
     <message>
         <source>Problems detected during autoload generation:</source>
@@ -25796,7 +25796,7 @@ Der Vorgabecode wurde aus den grundlegenen Parametern erstellt, die Sie ausgewä
     </message>
     <message>
         <source>Cannot install demo data, the zlib extension is missing from your PHP installation.</source>
-        <translation>Demo Daten konnten nicht installiert werden, die zlib Erweiterung fehlt bei Ihrer PHP Installation.</translation>
+        <translation>Demo Daten konnten nicht installiert werden, die zlib Extension fehlt bei Ihrer PHP Installation.</translation>
     </message>
     <message>
         <source>does not support installing demo data at this point.</source>
@@ -27817,7 +27817,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>Missing MBString extension</source>
-        <translation>Die MBString Erweiterung fehlt</translation>
+        <translation>Die MBString Extension fehlt</translation>
     </message>
     <message>
         <source>eZ publish comes with a good list of supported charsets by default, however they can be a bit slow due to being made in pure PHP code. Luckily eZ publish supports the mbstring extension for handling some of the charsets.</source>
@@ -27829,7 +27829,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>Installation of the mbstring extension is done by compiling PHP with the</source>
-        <translation>Die Installation der mbstring Erweiterung wird durchgeführt, indem PHP kompiliert wird mit</translation>
+        <translation>Die Installation der mbstring Extension wird durchgeführt, indem PHP kompiliert wird mit</translation>
     </message>
     <message>
         <source>option.</source>
@@ -27837,7 +27837,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>More information on enabling the extension can be found at</source>
-        <translation>Weitere Informationen, wie man die Erweiterung installiert, kann hier gefunden werden</translation>
+        <translation>Weitere Informationen, wie man die Extension installiert, können hier gefunden werden</translation>
     </message>
     <message>
         <source>Do not enable mbstring function overloading, eZ publish will only use the extension whenever it&apos;s needed.</source>
@@ -27889,7 +27889,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>Missing zlib extension</source>
-        <translation>Fehlende zlib Erweiterung</translation>
+        <translation>Fehlende zlib Extension</translation>
     </message>
     <message>
         <source>The zlib extension is not available to eZ publish. Without it eZ publish will not be able to install the demo data, however if you do not wish the demo data you can safely ignore this.</source>
@@ -27897,7 +27897,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>To enable zlib you need to recompile PHP with support for it. You will need to configure PHP with</source>
-        <translation>Damit Sie die zlib Erweiterung nutzen können, muss PHP damit kompiliert werden. Konfigurieren Sie PHP mit</translation>
+        <translation>Damit Sie die zlib Extension nutzen können, muss PHP damit kompiliert werden. Konfigurieren Sie PHP mit</translation>
     </message>
     <message>
         <source>More information on that subject is available at</source>
@@ -27921,7 +27921,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>More information on enabling the extension can be found by reading %1 and %2</source>
-        <translation>Mehr Informationen zum Aktivieren dieser Erweiterung können durch das Lesen von %1 und %2 gefunden werden</translation>
+        <translation>Mehr Informationen zum Aktivieren dieser Extension können beim Lesen von %1 und %2 gefunden werden</translation>
     </message>
     <message>
         <source>It&apos;s recommended that the option is turned off. To turn it off edit your %1 configuration and set %2 and %3 to %4.</source>
@@ -28029,7 +28029,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>Missing imagegd2 extension</source>
-        <translation>Die imagegd2-Erweiterung fehlt</translation>
+        <translation>Die imagegd2-Extension fehlt</translation>
     </message>
     <message>
         <source>The imagegd2 extension is not available to eZ publish. Without it eZ publish will only be able to do conversion using ImageMagick and the</source>
@@ -28037,7 +28037,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>To enable imagegd2 you need to recompile PHP with support for it, more information on that subject is available at</source>
-        <translation>Um die imagegd2 Erweiterung zu aktivieren, muss PHP entsprechend kompiliert werden. Weitere Informationen finden Sie unter</translation>
+        <translation>Um die imagegd2 Extension zu aktivieren, muss PHP entsprechend kompiliert werden. Weitere Informationen finden Sie unter</translation>
     </message>
     <message>
         <source>AcceptPathInfo disabled or running in CGI mode</source>
@@ -28065,7 +28065,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>Missing Session Extension</source>
-        <translation>Session-Erweiterung fehlt</translation>
+        <translation>Session-Extension fehlt</translation>
     </message>
     <message>
         <source>Your PHP module does not have session support, without this eZ publish will not work properly.</source>
@@ -28359,11 +28359,11 @@ Um das zu tun, müssen Sie die %chown Kommandos unter den alternativen Shell-Bef
     </message>
     <message>
         <source>The imagegd2 extension is not available to eZ Publish. Without it eZ Publish will only be able to do conversion using ImageMagick and the</source>
-        <translation>Die imagegd2-Erweiterung ist nicht verfügbar. Ohne diese wird eZ Publish nur dann Bilder konvertieren können, wenn ImageMagick installiert ist und </translation>
+        <translation>Die imagegd2-Extension ist nicht verfügbar. Ohne diese wird eZ Publish nur dann Bilder konvertieren können, wenn ImageMagick installiert ist und </translation>
     </message>
     <message>
         <source>Future releases of eZ Publish will have more advanced image support by using the imagegd extension.</source>
-        <translation>Zukünftige eZ Publish Versionen werden weiter fortgeschrittenere Bildfunktionen liefern. Dies wird möglich durch die imagegd-Erweiterung.</translation>
+        <translation>Zukünftige eZ Publish Versionen werden weiter fortgeschrittenere Bildfunktionen liefern. Dies wird möglich durch die imagegd-Extension.</translation>
     </message>
     <message>
         <source>The ImageMagick program is not available to eZ Publish. Without it eZ Publish will not be able to do image conversion unless the imagegd extension is available.</source>
@@ -28371,15 +28371,15 @@ Um das zu tun, müssen Sie die %chown Kommandos unter den alternativen Shell-Bef
     </message>
     <message>
         <source>eZ Publish comes with a good list of supported charsets by default, however they can be a bit slow due to being made in pure PHP code. Luckily eZ Publish supports the mbstring extension for handling some of the charsets.</source>
-        <translation>eZ Publish unterstützt standardmäßig bereits eine große Anzahl Zeichensätze. Dennoch kann die Verarbeitung Geschwindigkeit kosten. Glücklicherweise verwendet eZ Publish die mbstring Erweiterung, um einige Zeichensätze zu unterstützen.</translation>
+        <translation>eZ Publish unterstützt standardmäßig bereits eine große Anzahl Zeichensätze. Dennoch kann die Verarbeitung Geschwindigkeit kosten. Glücklicherweise verwendet eZ Publish die mbstring Extension, um einige Zeichensätze zu unterstützen.</translation>
     </message>
     <message>
         <source>By enabling the mbstring extension eZ Publish will have access to more charsets and also be able to process some of them faster, such as Unicode and iso-8859-*. This is recommended for multilingual sites and sites with more exotic charsets.</source>
-        <translation>Durch das Aktivieren der mbstring Erweiterung hat eZ Publish Zugriff zu mehr Zeichensätzen und kann diese auch schneller verarbeiten, wie beispielsweise Unicode und iso-8859-*. Dies ist für Seiten in mehreren Sprachen und mit exotischen Zeichensätzen empfohlen.</translation>
+        <translation>Durch das Aktivieren der mbstring Extension hat eZ Publish Zugriff zu mehr Zeichensätzen und kann diese auch schneller verarbeiten, wie beispielsweise Unicode und iso-8859-*. Dies ist für Seiten in mehreren Sprachen und mit exotischen Zeichensätzen empfohlen.</translation>
     </message>
     <message>
         <source>Do not enable mbstring function overloading, eZ Publish will only use the extension whenever it&apos;s needed.</source>
-        <translation>Aktivieren Sie nicht das Function Overloading der mbstring Erweiterung. eZ Publish wird die Erweiterung nur nutzen wenn es erforderlich ist.</translation>
+        <translation>Aktivieren Sie nicht das Function Overloading der mbstring Extension. eZ Publish wird die Extension nur nutzen, wenn es erforderlich ist.</translation>
     </message>
     <message>
         <source>Insufficient memory allocated to install eZ Publish</source>
@@ -28431,15 +28431,15 @@ Um das zu tun, müssen Sie die %chown Kommandos unter den alternativen Shell-Bef
     </message>
     <message>
         <source>Missing DOM extension</source>
-        <translation>Fehlende DOM Erweiterung</translation>
+        <translation>Fehlende DOM Extension</translation>
     </message>
     <message>
         <source>The DOM extension is not available to eZ Publish. Without it eZ Publish will not work.</source>
-        <translation>Die DOM Erweiterung ist für eZ Publish nicht verfügbar. Ohne wird eZ Publish nicht funktionieren.</translation>
+        <translation>Die DOM Extension ist für eZ Publish nicht verfügbar. Ohne diese wird eZ Publish nicht funktionieren.</translation>
     </message>
     <message>
         <source>In most cases, the DOM extension is enabled by default because it is included in the PHP core. However, some Linux distributions have PHP without compiled-in support for DOM. Instead, they provide DOM as a shared module in a separate RPM package called &quot;php-xml&quot;.</source>
-        <translation>In den meisten Fällen ist die DOM Erweiterung standardmäßig im PHP Kern aktiviert. Einige Linux Distributionen haben sie trotzdem nicht dabei. Stattdessen gibt es die DOM Erweiterung als Shared Modul in einem eigenen RPM Paket &apos;php-xml&apos;.</translation>
+        <translation>In den meisten Fällen ist die DOM Extension standardmäßig im PHP Kern aktiviert. Einige Linux Distributionen haben sie trotzdem nicht dabei. Stattdessen gibt es die DOM Extension als Shared Modul in einem eigenen RPM Paket &apos;php-xml&apos;.</translation>
     </message>
     <message>
         <source>Time zone configuration</source>
@@ -28471,11 +28471,11 @@ Um das zu tun, müssen Sie die %chown Kommandos unter den alternativen Shell-Bef
     </message>
     <message>
         <source>Missing cURL extension</source>
-        <translation>cURL Erweiterung fehlt</translation>
+        <translation>cURL Extension fehlt</translation>
     </message>
     <message>
         <source>It is recommended to enable the PHP cURL extension, otherwise some features requiring a proxy or SSL will not work.</source>
-        <translation>Es wird empfohlen, die PHP cURL Erweiterung zu verwenden, da sonst einige Featuresk, die einen Proxy oder SSL verwenden, nicht funktionieren werden.</translation>
+        <translation>Es wird empfohlen, die PHP cURL Extension zu verwenden, da sonst einige Features, die Proxy oder SSL verwenden, nicht funktionieren werden.</translation>
     </message>
     <message>
         <source>To enable the PHP cURL functions you need to compile PHP with support for it. Configure PHP with</source>
@@ -28519,15 +28519,15 @@ Um das zu tun, müssen Sie die %chown Kommandos unter den alternativen Shell-Bef
     </message>
     <message>
         <source>Missing iconv extension</source>
-        <translation>Fehlende iconv Erweiterung</translation>
+        <translation>Fehlende iconv Extension</translation>
     </message>
     <message>
         <source>The iconv extension is not available to eZ Publish. Without it eZ Publish will not work.</source>
-        <translation>Die iconv Erweiterung ist für eZ Publish nicht verfügbar. Ohne wird eZ Publish nicht funktionieren.</translation>
+        <translation>Die iconv Extension ist für eZ Publish nicht verfügbar. Ohne sie wird eZ Publish nicht funktionieren.</translation>
     </message>
     <message>
         <source>In most cases, the iconv extension is enabled by default because it is included in the PHP core. However, some Linux distributions have PHP without compiled-in support for iconv. Instead, they provide iconv as a shared module in a separate RPM package called &quot;php-iconv&quot; (or &quot;php5-iconv&quot;).</source>
-        <translation>In den meisten Fällen ist die iconv Erweiterung im PHP Kern inkludiert. Aber einige Linux Distributionen stellen iconv nur als Shared Module zur Verfügung, das RPM Paket dafür heißt &apos;php-iconv&apos; (oder php5-iconv).</translation>
+        <translation>In den meisten Fällen ist die iconv Extension im PHP Kern inkludiert. Aber einige Linux Distributionen stellen iconv nur als Shared Module zur Verfügung, das RPM Paket dafür heißt &apos;php-iconv&apos; (oder php5-iconv).</translation>
     </message>
     <message>
         <source>, but the latest released stable PHP version is always recommended.</source>
@@ -30432,7 +30432,7 @@ Bitte folgen Sie den Hinweisen in der Email, um Ihr Konto zu aktivieren.</transl
     </message>
     <message>
         <source>Extension</source>
-        <translation>Erweiterung</translation>
+        <translation>Extension</translation>
     </message>
 </context>
 <context>
@@ -33169,7 +33169,7 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>Removing class &apos;%classname&apos; will result in the removal of %objectscount object(s) of this class and all their sub-items. Are you sure you want to uninstall it?</source>
-        <translation>Das Löschen der Klasse &apos;%classname&apos; wird auch %objectscount Objekt(e) und deren Unterelemente löschen. Sind Sie sicher, dass Sie die Erweiterung deinstallieren wollen?</translation>
+        <translation>Das Löschen der Klasse &apos;%classname&apos; wird auch %objectscount Objekt(e) und deren Unterelemente löschen. Sind Sie sicher, dass Sie die Klasse deinstallieren wollen?</translation>
     </message>
     <message>
         <source>Class &apos;%classname&apos; already exists.</source>
@@ -33249,15 +33249,15 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>Extensions to include</source>
-        <translation>Erweiterungen, die beinhaltet werden sollen</translation>
+        <translation>Extensions, die inkludiert werden sollen</translation>
     </message>
     <message>
         <source>Extension list</source>
-        <translation>Erweiterungsliste</translation>
+        <translation>Extension Liste</translation>
     </message>
     <message>
         <source>You must select at least one extension</source>
-        <translation>Sie müssen mindestens eine Erweiterung auswählen</translation>
+        <translation>Sie müssen mindestens eine Extensions auswählen</translation>
     </message>
     <message>
         <source>Advanced options</source>
@@ -33265,7 +33265,7 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>Package contains an invalid extension name: %extensionname</source>
-        <translation>Das Paket enthält einen ungültigen Erweiterungsnamen: %extensionname</translation>
+        <translation>Das Paket enthält einen ungültigen Extension-Namen: %extensionname</translation>
     </message>
     <message>
         <source>The package name %packagename is invalid, cannot import the package</source>
@@ -33443,7 +33443,7 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>Extension configuration</source>
-        <translation>Erweiterung einstellen</translation>
+        <translation>Extension Konfiguration</translation>
     </message>
     <message>
         <source>Activate extensions</source>
