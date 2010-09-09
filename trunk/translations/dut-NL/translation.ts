@@ -12787,7 +12787,7 @@ uw account te activeren.</translation>
     <name>design/admin/user/password</name>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Gebruikersnaam</translation>
+        <translation>Gebruikersnaam</translation>
     </message>
     <message>
         <source>Old password</source>
@@ -21548,15 +21548,15 @@ Sjabloonoperator.</translation>
     </message>
     <message>
         <source>The database would not accept the connection, please review your settings and try again.</source>
-        <translation type="unfinished">Er kon geen verbinding worden gemaakt met de database. Controleer uw instellingen en probeer het nogmaals.</translation>
+        <translation>Er kon geen verbinding worden gemaakt met de database. Controleer uw instellingen en probeer het nogmaals.</translation>
     </message>
     <message>
         <source>Password entries did not match.</source>
-        <translation type="unfinished">De wachtwoorden kwamen niet overeen.</translation>
+        <translation>De wachtwoorden kwamen niet overeen.</translation>
     </message>
     <message>
         <source>The selected database was not empty, please choose from the alternatives below.</source>
-        <translation type="unfinished">De geselecteerde database was niet leeg, kies één van de onderstaande alternatieven.</translation>
+        <translation>De geselecteerde database was niet leeg, kies één van de onderstaande alternatieven.</translation>
     </message>
     <message>
         <source>Database initalization</source>
@@ -22113,7 +22113,7 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>Your database version %version does not fit the minimum requirement which is %req_version.</source>
-        <translation type="unfinished">Uw databaseversie %version voldoet niet aan de minimumeis van %req_version.</translation>
+        <translation>Uw databaseversie %version voldoet niet aan de minimumeis van %req_version.</translation>
     </message>
     <message>
         <source>The setup wizard was not able to complete the creation of your selected sites.</source>
@@ -22148,19 +22148,19 @@ Probeer opnieuw-knop in de installatie</translation>
     </message>
     <message>
         <source>Cannot write to file</source>
-        <translation type="unfinished">Kan niet naar bestand schrijven</translation>
+        <translation>Kan niet naar bestand schrijven</translation>
     </message>
     <message>
         <source>Download of package &apos;%pkg&apos; failed. You may upload the package manually.</source>
-        <translation type="unfinished">Download van pakket &apos;%pkg&apos; faalde. U kan het pakket handmatig uploaden.</translation>
+        <translation>Download van pakket &apos;%pkg&apos; faalde. U kunt het pakket handmatig uploaden.</translation>
     </message>
     <message>
         <source>Invalid package</source>
-        <translation type="unfinished">Ongeldig pakket</translation>
+        <translation>Ongeldig pakket</translation>
     </message>
     <message>
         <source>No package selected for upload</source>
-        <translation type="unfinished">Geen pakket geselecteerd voor upload</translation>
+        <translation>Geen pakket geselecteerd voor upload</translation>
     </message>
     <message>
         <source>Failed fetching upload package file</source>
@@ -22320,7 +22320,7 @@ Probeer opnieuw-knop in de installatie</translation>
     </message>
     <message>
         <source>Welcome to eZ Publish</source>
-        <translation type="unfinished">Welkom bij eZ Publish</translation>
+        <translation>Welkom bij eZ Publish</translation>
     </message>
     <message>
         <source>If you think you have fixed the errors you can try then click the &quot;Retry&quot; button.</source>
@@ -23264,7 +23264,7 @@ Om dit te doen, moet u de %chown commando&apos;s bij de alternatieve shellcomman
     </message>
     <message>
         <source>Missing cURL extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontbrekende cURL extensie</translation>
     </message>
     <message>
         <source>It is recommended to enable the PHP cURL extension, otherwise some features requiring a proxy or SSL will not work.</source>
@@ -23296,7 +23296,7 @@ Om dit te doen, moet u de %chown commando&apos;s bij de alternatieve shellcomman
     </message>
     <message>
         <source>Missing iconv extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontbrekende iconv extensie</translation>
     </message>
     <message>
         <source>The iconv extension is not available to eZ Publish. Without it eZ Publish will not work.</source>
@@ -23324,7 +23324,7 @@ Om dit te doen, moet u de %chown commando&apos;s bij de alternatieve shellcomman
     </message>
     <message>
         <source>Example &lt;strong&gt;php.ini&lt;/strong&gt; configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorbeeld &lt;strong&gt;php.ini&lt;/strong&gt; configuratie:</translation>
     </message>
     <message>
         <source>For a list of valid time zones see the &lt;a href=&quot;http://php.net/timezones&quot;&gt;List of Supported Time zones&lt;/a&gt; in the PHP documentation.</source>
@@ -23336,7 +23336,7 @@ Om dit te doen, moet u de %chown commando&apos;s bij de alternatieve shellcomman
     </message>
     <message>
         <source>Example &lt;strong&gt;config.php&lt;/strong&gt; configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorbeeld &lt;strong&gt;config.php&lt;/strong&gt; configuratie:</translation>
     </message>
     <message>
         <source>If you want to keep UTC as your time zone, check &lt;strong&gt;Ignore this test&lt;/strong&gt; below to proceed.</source>
@@ -24724,9 +24724,7 @@ Om dit te doen, moet u de %chown commando&apos;s bij de alternatieve shellcomman
     <message>
         <source>Username</source>
         <comment>User name</comment>
-        <translation>Gebruikersnaam
-
-Gebruikersnaam</translation>
+        <translation>Gebruikersnaam</translation>
     </message>
     <message>
         <source>Unable to register new user</source>
@@ -24884,9 +24882,7 @@ uw account te activeren.</translation>
     <message>
         <source>Username</source>
         <comment>Login name</comment>
-        <translation>Gebruikersnaam
-
-Aanmeldingsnaam</translation>
+        <translation>Gebruikersnaam</translation>
     </message>
 </context>
 <context>
