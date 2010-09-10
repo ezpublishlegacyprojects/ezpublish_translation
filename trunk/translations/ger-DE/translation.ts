@@ -6432,7 +6432,7 @@
     </message>
     <message>
         <source>Sub items</source>
-        <translation>Untergeordnete Einträge</translation>
+        <translation>Unterelemente</translation>
     </message>
     <message>
         <source>Move to trash</source>
@@ -7113,7 +7113,7 @@
     </message>
     <message>
         <source>Sub items</source>
-        <translation>Untergeordnete Einträge</translation>
+        <translation>Unterelemente</translation>
     </message>
     <message>
         <source>This location can not be removed either because you do not have permissions to remove it or because it is currently being displayed.</source>
@@ -7677,7 +7677,7 @@
     </message>
     <message>
         <source>Table options</source>
-        <translation>Tabellenoptionen</translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>Number of items per page:</source>
@@ -7693,7 +7693,7 @@
     </message>
     <message>
         <source>Select all visible</source>
-        <translation>Alle sichtbaren auswählen</translation>
+        <translation>Alle sichtbaren Einträge auswählen</translation>
     </message>
     <message>
         <source>Select none</source>
@@ -20019,7 +20019,7 @@ Wenn Sie einen Kommentar zum Freigebenden schicken oder den Status sehen wollen,
     </message>
     <message>
         <source>Ordering</source>
-        <translation>Richtung</translation>
+        <translation>Sortierung</translation>
     </message>
     <message>
         <source>Main</source>
