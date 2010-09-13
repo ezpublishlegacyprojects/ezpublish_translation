@@ -1213,7 +1213,7 @@
     <name>design/admin/content/bookmark</name>
     <message>
         <source>My bookmarks [%bookmark_count]</source>
-        <translation>Mijn Favorieten [%bookmark_count]</translation>
+        <translation type="unfinished">Mijn favorieten [%bookmark_count]</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1273,7 +1273,7 @@
     </message>
     <message>
         <source>My bookmarks (%bookmark_count)</source>
-        <translation>Mijn Favorieten (%bookmark_count)</translation>
+        <translation type="unfinished">Mijn favorieten (%bookmark_count)</translation>
     </message>
 </context>
 <context>
@@ -6241,19 +6241,19 @@
     </message>
     <message>
         <source>Add items</source>
-        <translation type="unfinished">Voeg items toe</translation>
+        <translation>Voeg items toe</translation>
     </message>
     <message>
         <source>Add items to your personal notification list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg items toe aan uw persoonlijke notificatielijst.</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Onbekend</translation>
+        <translation>Onbekend</translation>
     </message>
     <message>
         <source>My item notifications (%notification_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mijn item notificatie&apos;s (%notification_count)</translation>
     </message>
 </context>
 <context>
@@ -6541,51 +6541,51 @@ Het commentaar loopt door tot het volgende teken.</translation>
     </message>
     <message>
         <source>Uninstall package</source>
-        <translation type="unfinished">Deïnstalleer pakket</translation>
+        <translation>Deïnstalleer pakket</translation>
     </message>
     <message>
         <source>Uninstall items</source>
-        <translation type="unfinished">Deïnstalleer elementen</translation>
+        <translation>Deïnstalleer elementen</translation>
     </message>
     <message>
         <source>Skip uninstallation</source>
-        <translation type="unfinished">Sla deïnstallatie over</translation>
+        <translation>Sla deïnstallatie over</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuleren</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished">Ga verder</translation>
+        <translation>Ga verder</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished">Email</translation>
+        <translation>Email</translation>
     </message>
     <message>
         <source>Send email to the maintainer</source>
-        <translation type="unfinished">Verzend een e-mail naar de maintainer</translation>
+        <translation>Verzend een e-mail naar de beheerder</translation>
     </message>
     <message>
         <source>Provide some basic information for your package.</source>
-        <translation type="unfinished">Geef wat basisinformatie op voor uw pakket.</translation>
+        <translation>Geef wat basisinformatie op voor uw pakket.</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished">Licentie</translation>
+        <translation>Licentie</translation>
     </message>
     <message>
         <source>Provide information about the maintainer of the package.</source>
-        <translation type="unfinished">Geef informatie op over de maintainer van het pakket.</translation>
+        <translation>Geef informatie op over de beheerder van het pakket.</translation>
     </message>
     <message>
         <source>Include templates related to exported objects.</source>
-        <translation type="unfinished">Includeer sjablonen gerelateerd aan geëxporteerde objecten.</translation>
+        <translation>Voeg sjablonen toe gerelateerd aan geëxporteerde objecten.</translation>
     </message>
     <message>
         <source>Choose the objects to include in the package.</source>
-        <translation type="unfinished">Kies de te includeren objecten in het pakket.</translation>
+        <translation>Kies de toe te voegen objecten voor het pakket.</translation>
     </message>
     <message>
         <source>There are currently no objects selected for export</source>
@@ -6616,7 +6616,7 @@ U kunt ook het pakket verwijderen zonder de installatie ongedaan te maken vanaf 
     </message>
     <message>
         <source>Regarding eZ Publish package &apos;%packagename&apos;</source>
-        <translation type="unfinished">Betreffende eZ Publish pakket &apos;%packagename&apos;</translation>
+        <translation>Betreffende eZ Publish pakket &apos;%packagename&apos;</translation>
     </message>
 </context>
 <context>
@@ -6715,22 +6715,22 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
 </context>
 <context>
     <name>design/admin/pagelayout</name>
     <message>
         <source>Content structure</source>
-        <translation type="unfinished">Contentstructuur</translation>
+        <translation>Contentstructuur</translation>
     </message>
     <message>
         <source>Media library</source>
-        <translation type="unfinished">Media bibliotheek</translation>
+        <translation>Mediabibliotheek</translation>
     </message>
     <message>
         <source>User accounts</source>
-        <translation type="unfinished">Gebruikersaccounts</translation>
+        <translation>Gebruikersaccounts</translation>
     </message>
     <message>
         <source>Search</source>
@@ -6754,11 +6754,11 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Webshop</source>
-        <translation type="unfinished">Webshop</translation>
+        <translation>Webshop</translation>
     </message>
     <message>
         <source>Setup</source>
-        <translation type="unfinished">Set up</translation>
+        <translation>Configuratie</translation>
     </message>
     <message>
         <source>Design</source>
@@ -6806,7 +6806,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Change password for &lt;%username&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verander wachtwoord voor &lt;%username&gt;.</translation>
     </message>
     <message>
         <source>There is %basket_count item in the shopping basket.</source>
@@ -6822,27 +6822,27 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Logout from the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Log out van het systeem.</translation>
     </message>
     <message>
         <source>Hide bookmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verberg favorieten.</translation>
     </message>
     <message>
         <source>Manage your personal bookmarks.</source>
-        <translation type="unfinished">Uw persoonlijke favorieten beheren.</translation>
+        <translation>Uw persoonlijke favorieten beheren.</translation>
     </message>
     <message>
         <source>Show bookmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon favorieten.</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg toe aan favorieten</translation>
     </message>
     <message>
         <source>Add the current item to your bookmarks.</source>
-        <translation type="unfinished">Voeg het huidige item toe aan uw favorieten.</translation>
+        <translation>Voeg het huidige item toe aan uw favorieten.</translation>
     </message>
     <message>
         <source>Hide clear cache menu.</source>
@@ -6910,7 +6910,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished">Dashboard</translation>
+        <translation>Dashboard</translation>
     </message>
     <message>
         <source>Manage items and settings that belong to your account.</source>
@@ -6918,25 +6918,25 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>User preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruikersvoorkeuren</translation>
     </message>
 </context>
 <context>
     <name>design/admin/pagelayout/path</name>
     <message>
         <source>You are here:</source>
-        <translation type="unfinished"></translation>
+        <translation>U ben hier:</translation>
     </message>
 </context>
 <context>
     <name>design/admin/pagelayout/rightmenu</name>
     <message>
         <source>Show / Hide rightmenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon/Verberg rechtermenu</translation>
     </message>
     <message>
         <source>Hide / Show rightmenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Verberg/Toon rechtermenu</translation>
     </message>
 </context>
 <context>
@@ -6987,14 +6987,14 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Site structure</source>
-        <translation type="unfinished"></translation>
+        <translation>Site structuur</translation>
     </message>
 </context>
 <context>
     <name>design/admin/parts/media/menu</name>
     <message>
         <source>Media library</source>
-        <translation>Media bibliotheek</translation>
+        <translation>Mediabibliotheek</translation>
     </message>
     <message>
         <source>Trash</source>
@@ -7073,7 +7073,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>on</source>
-        <translation>op</translation>
+        <translation>aan</translation>
     </message>
     <message>
         <source>Disable location window when editing content.</source>
@@ -7081,7 +7081,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>uit</translation>
     </message>
     <message>
         <source>Enable location window when editing content.</source>
@@ -7089,11 +7089,11 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Locations</source>
-        <translation type="unfinished">Locaties</translation>
+        <translation>Locaties</translation>
     </message>
     <message>
         <source>Re-edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Opnieuw bewerken</translation>
     </message>
     <message>
         <source>Disable &amp;quot;Back to edit&amp;quot; checkbox when editing content.</source>
@@ -7105,11 +7105,11 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Edit profile</source>
-        <translation type="unfinished">Bewerk profiel</translation>
+        <translation>Bewerk profiel</translation>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished">Dashboard</translation>
+        <translation>Dashboard</translation>
     </message>
     <message>
         <source>Enable &amp;quot;Tabs&amp;quot; by default  while browsing content.</source>
@@ -7202,7 +7202,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Setup</source>
-        <translation>Set up</translation>
+        <translation>Configuratie</translation>
     </message>
     <message>
         <source>Upgrade check</source>
