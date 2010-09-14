@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
+<TS version="2.0" language="sv_SE">
 <context>
     <name>contentstructuremenu/show_content_structure</name>
     <message>
@@ -12,15 +12,15 @@
     <name>design</name>
     <message>
         <source>%group_name [Content object state group]</source>
-        <translation type="unfinished"></translation>
+        <translation>%group_name [Tillståndsgrupp för innehållsobjekt</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Redigera</translation>
+        <translation>Redigera</translation>
     </message>
     <message>
         <source>%state_name [Content object state]</source>
-        <translation type="unfinished"></translation>
+        <translation>%state_name [Tillstånd för innehållsobjekt]</translation>
     </message>
 </context>
 <context>
@@ -127,7 +127,7 @@
     </message>
     <message>
         <source>List of classes inside %group_name class group (%class_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasser i grupp %group_name (%class_count)</translation>
     </message>
 </context>
 <context>
@@ -256,7 +256,7 @@
     </message>
     <message>
         <source>Use this field to set the informal name of the attribute. This field can contain whitespaces and special characters.</source>
-        <translation>Använd detta fält för att sätta ett informellt namn på attribuet. Kan innehålla mellanslag och specialtecken.</translation>
+        <translation>Använd detta fält för att sätta ett informellt namn på attributet. Kan innehålla mellanslag och specialtecken.</translation>
     </message>
     <message>
         <source>The &lt;%datatype_name&gt; datatype does not support search indexing.</source>
@@ -360,27 +360,27 @@
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Beskrivning</translation>
+        <translation>Beskrivning</translation>
     </message>
     <message>
         <source>Use this field to set the informal description of the class. The description field can contain whitespaces and special characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd detta fält för att ge klassen ett informellt namn. Fältet kan innehålla mellanslag och specialtecken.</translation>
     </message>
     <message>
         <source>List of class attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista med klassattribut</translation>
     </message>
     <message>
         <source>Class attribute item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klassattribut</translation>
     </message>
     <message>
         <source>Use this field to set the informal description of the attribute. This field can contain whitespaces and special characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd detta fält för att sätta ett informellt namn på attributet. Kan innehålla mellanslag och specialtecken.</translation>
     </message>
     <message>
         <source>Use this category to group attributes together in edit interface, some categories might also be hidden in full view if they are for instance only meta attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Använd kategorin för att gruppera attribut i editeringsgränssnittet. Några kategorier kan vara osynliga i fullständig vy till exempel om de endast är metaattribut.</translation>
     </message>
     <message>
         <source>Default</source>
@@ -1494,7 +1494,7 @@
     </message>
     <message>
         <source>Objects referring to this item</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt som refererar till denna artikel</translation>
     </message>
 </context>
 <context>
@@ -28110,7 +28110,7 @@ om du valde alternativ &quot;%3&quot; från &quot;%4&quot;</translation>
     <name>shop</name>
     <message>
         <source>Remove orders</source>
-        <translation type="unfinished">Radera beställningar</translation>
+        <translation>Radera beställningar</translation>
     </message>
 </context>
 <context>
