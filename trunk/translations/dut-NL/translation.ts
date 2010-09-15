@@ -5338,7 +5338,7 @@
     </message>
     <message>
         <source>Node ID</source>
-        <translation>Knoop ID</translation>
+        <translation>Node ID</translation>
     </message>
     <message>
         <source>Object ID</source>
@@ -5566,15 +5566,15 @@
     </message>
     <message>
         <source>Show 10 items per page.</source>
-        <translation type="unfinished">Toon 10 items per pagina.</translation>
+        <translation>Toon 10 items per pagina.</translation>
     </message>
     <message>
         <source>Show 50 items per page.</source>
-        <translation type="unfinished">Toon 50 items per pagina.</translation>
+        <translation>Toon 50 items per pagina.</translation>
     </message>
     <message>
         <source>Show 25 items per page.</source>
-        <translation type="unfinished">Toon 25 items per pagina.</translation>
+        <translation>Toon 25 items per pagina.</translation>
     </message>
     <message>
         <source>Display sub items using a simple list.</source>
@@ -5638,11 +5638,11 @@
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbergen</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="unfinished">Zichtbaar</translation>
+        <translation>Zichtbaar</translation>
     </message>
     <message>
         <source>Use these radio buttons to select the desired main location.</source>
@@ -5934,15 +5934,15 @@
     </message>
     <message>
         <source>Translations (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalingen (%count)</translation>
     </message>
     <message>
         <source>Locations (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Locaties (%count)</translation>
     </message>
     <message>
         <source>Relations (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Relaties (%count)</translation>
     </message>
     <message>
         <source>Roles (%count)</source>
@@ -6046,7 +6046,7 @@
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Tonen</translation>
     </message>
     <message>
         <source>Show simplified view of content.</source>
@@ -6074,7 +6074,7 @@
     </message>
     <message>
         <source>Table options</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel opties</translation>
     </message>
     <message>
         <source>Number of items per page:</source>
@@ -6102,7 +6102,7 @@
     </message>
     <message>
         <source>More actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer acties</translation>
     </message>
     <message>
         <source>Use the checkboxes to select one or more items.</source>
@@ -6110,19 +6110,19 @@
     </message>
     <message>
         <source>first</source>
-        <translation type="unfinished"></translation>
+        <translation>eerste</translation>
     </message>
     <message>
         <source>prev</source>
-        <translation type="unfinished"></translation>
+        <translation>vorige</translation>
     </message>
     <message>
         <source>next</source>
-        <translation type="unfinished"></translation>
+        <translation>volgende</translation>
     </message>
     <message>
         <source>last</source>
-        <translation type="unfinished"></translation>
+        <translation>laatste</translation>
     </message>
 </context>
 <context>
@@ -6838,7 +6838,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation>Voeg toe aan favorieten</translation>
+        <translation>Toevoegen</translation>
     </message>
     <message>
         <source>Add the current item to your bookmarks.</source>
@@ -6987,7 +6987,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Site structure</source>
-        <translation>Site structuur</translation>
+        <translation>Sitestructuur</translation>
     </message>
 </context>
 <context>
@@ -12835,7 +12835,7 @@ uw account te activeren.</translation>
     </message>
     <message>
         <source>Confirm new password</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevestig nieuw wachtwoord</translation>
     </message>
     <message>
         <source>The password must be at least %1 characters long.</source>
@@ -26637,7 +26637,7 @@ indien u optie &quot;%3&quot; tot &quot;%4&quot; koos</translation>
     </message>
     <message>
         <source>Top Level Nodes</source>
-        <translation type="unfinished">Knooppunten topniveau</translation>
+        <translation>Topniveau nodes</translation>
     </message>
     <message>
         <source>Hidden</source>
