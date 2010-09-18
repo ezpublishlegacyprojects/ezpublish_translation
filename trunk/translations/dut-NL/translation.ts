@@ -1744,7 +1744,7 @@
     </message>
     <message>
         <source>My drafts [%draft_count]</source>
-        <translation>Mijn voorlopige versies [%draft_count]</translation>
+        <translation>Mijn concepten [%draft_count]</translation>
     </message>
     <message>
         <source>Invert selection.</source>
@@ -1768,7 +1768,7 @@
     </message>
     <message>
         <source>There are no drafts that belong to you.</source>
-        <translation>U heeft geen voorlopige versies.</translation>
+        <translation>U heeft geen concepten.</translation>
     </message>
     <message>
         <source>Select draft for removal.</source>
@@ -1804,7 +1804,7 @@
     </message>
     <message>
         <source>My drafts (%draft_count)</source>
-        <translation>Mijn voorlopige versies (%draft_count)</translation>
+        <translation>Mijn concepten (%draft_count)</translation>
     </message>
 </context>
 <context>
@@ -4472,31 +4472,31 @@
     <name>design/admin/dashboard/all_latest_content</name>
     <message>
         <source>All latest content</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle recente content</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation type="unfinished"></translation>
+        <translation>Gepubliceerd</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation type="unfinished">Auteur</translation>
+        <translation>Auteur</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Bewerken</translation>
+        <translation>Bewerken</translation>
     </message>
     <message>
         <source>Edit &lt;%child_name&gt;.</source>
-        <translation type="unfinished">Bewerk &lt;%child_name&gt;.</translation>
+        <translation>Bewerk &lt;%child_name&gt;.</translation>
     </message>
     <message>
         <source>You do not have permission to edit &lt;%child_name&gt;.</source>
@@ -4504,69 +4504,69 @@
     </message>
     <message>
         <source>Latest content list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Recente content lijst is leeg.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/drafts</name>
     <message>
         <source>My drafts</source>
-        <translation type="unfinished">Mijn voorlopige versies</translation>
+        <translation>Mijn concepten</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versie</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepast</translation>
     </message>
     <message>
         <source>Edit &lt;%draft_name&gt;.</source>
-        <translation type="unfinished">Bewerk &lt;%draft_name&gt;.</translation>
+        <translation>Bewerk &lt;%draft_name&gt;.</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Bewerken</translation>
+        <translation>Bewerken</translation>
     </message>
     <message>
         <source>Currently you do not have any drafts available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Op dit moment heeft u geen concepten beschikbaar.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/latest_content</name>
     <message>
         <source>My latest content</source>
-        <translation type="unfinished"></translation>
+        <translation>Mijn recente content</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepast</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Bewerken</translation>
+        <translation>Bewerken</translation>
     </message>
     <message>
         <source>Edit &lt;%child_name&gt;.</source>
-        <translation type="unfinished">Bewerk &lt;%child_name&gt;.</translation>
+        <translation>Bewerk &lt;%child_name&gt;.</translation>
     </message>
     <message>
         <source>You do not have permission to edit &lt;%child_name&gt;.</source>
@@ -4574,45 +4574,45 @@
     </message>
     <message>
         <source>Your latest content list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uw lijst met recente content is leeg.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/maintenance</name>
     <message>
         <source>Software update and Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Software update en onderhoud</translation>
     </message>
     <message>
         <source>Your installation: &lt;span id=&quot;ez-version&quot;&gt;%1&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Uw installatie: &lt;span id=&quot;ez-version&quot;&gt;%1&lt;/span&gt;</translation>
     </message>
     <message>
         <source>If your installation is not running eZ Publish Premium, it might not be up to date with the latest maintenance service packs. Contact eZ Systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>Als uw installatie niet draait op eZ Publish Premium kan het zijn dat deze niet up to date is met de laatste service packs. Neem contact op met eZ Systems.</translation>
     </message>
 </context>
 <context>
     <name>design/admin/dashboard/pending_list</name>
     <message>
         <source>My pending items</source>
-        <translation type="unfinished"></translation>
+        <translation>Mijn items in wachtrij</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepast</translation>
     </message>
     <message>
         <source>Currently you do not have any pending items available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Op dit moment heeft u geen items in de wachtrij.</translation>
     </message>
 </context>
 <context>
@@ -6854,7 +6854,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Clear cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Cache legen</translation>
     </message>
     <message>
         <source>Show clear cache menu.</source>
@@ -6878,11 +6878,11 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Search in all content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoek in alle content</translation>
     </message>
     <message>
         <source>Search in &apos;%node&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoek in &apos;%node&apos;</translation>
     </message>
     <message>
         <source>Manage the main content structure of the site.</source>
@@ -7053,7 +7053,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>My drafts</source>
-        <translation>Mijn voorlopige versies</translation>
+        <translation>Mijn concepten</translation>
     </message>
     <message>
         <source>My shopping basket</source>
@@ -7065,7 +7065,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>My pending items</source>
-        <translation type="unfinished"></translation>
+        <translation>Mijn items in wachtrij</translation>
     </message>
     <message>
         <source>Edit mode settings</source>
@@ -7105,7 +7105,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Edit profile</source>
-        <translation>Bewerk profiel</translation>
+        <translation>Profiel bewerken</translation>
     </message>
     <message>
         <source>Dashboard</source>
@@ -17628,7 +17628,7 @@ Neem contact op met deze persoon over de voorlopige versie of maak een nieuwe vo
     </message>
     <message>
         <source>My drafts</source>
-        <translation>Mijn voorlopige versies</translation>
+        <translation>Mijn concepten</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -17636,7 +17636,7 @@ Neem contact op met deze persoon over de voorlopige versie of maak een nieuwe vo
     </message>
     <message>
         <source>You have no drafts</source>
-        <translation>U heeft geen voorlopige versies</translation>
+        <translation>U heeft geen concepten</translation>
     </message>
     <message>
         <source>Related objects</source>
@@ -19441,19 +19441,19 @@ U kunt ook het pakket verwijderen zonder de installatie ongedaan te maken vanaf 
     <name>design/standard/pagelayout</name>
     <message>
         <source>All caches</source>
-        <translation>Alle caches</translation>
+        <translation>Alle cache</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation>Inhoud</translation>
+        <translation>Content</translation>
     </message>
     <message>
         <source>Content - node</source>
-        <translation>Inhoud - knooppunt</translation>
+        <translation>Content - node</translation>
     </message>
     <message>
         <source>Content - subtree</source>
-        <translation>Inhoud - substructuur</translation>
+        <translation>Content - substructuur</translation>
     </message>
     <message>
         <source>Template</source>
@@ -19461,7 +19461,7 @@ U kunt ook het pakket verwijderen zonder de installatie ongedaan te maken vanaf 
     </message>
     <message>
         <source>Template &amp; content</source>
-        <translation>Sjabloon &amp; inhoud</translation>
+        <translation>Sjabloon &amp; content</translation>
     </message>
     <message>
         <source>Ini settings</source>
@@ -24294,7 +24294,7 @@ Om dit te doen, moet u de %chown commando&apos;s bij de alternatieve shellcomman
     </message>
     <message>
         <source>My drafts</source>
-        <translation>Mijn voorlopige versies</translation>
+        <translation>Mijn concepten</translation>
     </message>
     <message>
         <source>Account</source>
@@ -24683,7 +24683,7 @@ Om dit te doen, moet u de %chown commando&apos;s bij de alternatieve shellcomman
     </message>
     <message>
         <source>Edit profile</source>
-        <translation>Bewerk profiel</translation>
+        <translation>Profiel bewerken</translation>
     </message>
     <message>
         <source>Change password</source>
@@ -26565,7 +26565,7 @@ indien u optie &quot;%3&quot; tot &quot;%4&quot; koos</translation>
     </message>
     <message>
         <source>My drafts</source>
-        <translation type="unfinished">Mijn voorlopige versies</translation>
+        <translation>Mijn concepten</translation>
     </message>
     <message>
         <source>Remove editing version</source>
