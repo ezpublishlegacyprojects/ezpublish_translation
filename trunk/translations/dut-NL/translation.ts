@@ -5,7 +5,7 @@
     <name>contentstructuremenu/show_content_structure</name>
     <message>
         <source>Node ID: %node_id Visibility: %visibility</source>
-        <translation>Knoop ID: %node_id Zichtbaar: %visibility</translation>
+        <translation>Node ID: %node_id Zichtbaarheid: %visibility</translation>
     </message>
 </context>
 <context>
@@ -826,7 +826,7 @@
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation>Site toegang</translation>
+        <translation>Sitetoegang</translation>
     </message>
     <message>
         <source>Edit this class.</source>
@@ -4382,7 +4382,7 @@
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation type="unfinished">Site toegang</translation>
+        <translation>Sitetoegang</translation>
     </message>
     <message>
         <source>Publish</source>
@@ -4429,7 +4429,7 @@
     </message>
     <message>
         <source>Node ID</source>
-        <translation type="unfinished">Knoop ID</translation>
+        <translation type="unfinished">Node ID</translation>
     </message>
     <message>
         <source>Visibility</source>
@@ -5046,7 +5046,7 @@
     <name>design/admin/node/removenode</name>
     <message>
         <source>Remove node?</source>
-        <translation>Knoop verwijderen?</translation>
+        <translation>Node verwijderen?</translation>
     </message>
     <message>
         <source>Are you sure you want to remove %1 from node %2?</source>
@@ -5946,11 +5946,11 @@
     </message>
     <message>
         <source>Roles (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rollen (%count)</translation>
     </message>
     <message>
         <source>Policies (%count)</source>
-        <translation type="unfinished"></translation>
+        <translation>Regels (%count)</translation>
     </message>
     <message>
         <source>Sub items (%children_count)</source>
@@ -6129,7 +6129,7 @@
     <name>design/admin/node/view/line</name>
     <message>
         <source>Node ID: %node_id Visibility: %node_visibility</source>
-        <translation>Knoop ID: %node_id Zichtbaar: %node_visibility</translation>
+        <translation>Node ID: %node_id Zichtbaarheid: %node_visibility</translation>
     </message>
     <message>
         <source>Click on the icon to display a context-sensitive menu.</source>
@@ -6409,7 +6409,7 @@ Het commentaar loopt door tot het volgende teken.</translation>
     </message>
     <message>
         <source>Node assignments</source>
-        <translation>Knooptoekenningen</translation>
+        <translation>Nodetoekenningen</translation>
     </message>
     <message>
         <source>Keep all in selected nodes</source>
@@ -6437,7 +6437,7 @@ Het commentaar loopt door tot het volgende teken.</translation>
     </message>
     <message>
         <source>Node</source>
-        <translation>Knoop</translation>
+        <translation>Node</translation>
     </message>
     <message>
         <source>Export type</source>
@@ -6449,7 +6449,7 @@ Het commentaar loopt door tot het volgende teken.</translation>
     </message>
     <message>
         <source>Add node</source>
-        <translation>Knoop toevoegen</translation>
+        <translation>Node toevoegen</translation>
     </message>
     <message>
         <source>Please select the site CSS file to be included in the package.</source>
@@ -6862,15 +6862,15 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Quick settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Snelle instellingen</translation>
     </message>
     <message>
         <source>Hide quick settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Verberg snelle instellingen</translation>
     </message>
     <message>
         <source>Change name, email, password, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verander naam, e-mail, wachtwoord, etc.</translation>
     </message>
     <message>
         <source>[%classname] Click on the icon to display a context-sensitive menu.</source>
@@ -7316,7 +7316,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Roles and policies</source>
-        <translation type="unfinished">Rollen en regels</translation>
+        <translation>Rollen en regels</translation>
     </message>
     <message>
         <source>View and manage the contents of the trash bin.</source>
@@ -7340,11 +7340,11 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished">ID</translation>
+        <translation>ID</translation>
     </message>
     <message>
         <source>Access control</source>
@@ -7418,7 +7418,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Node</source>
-        <translation>Knoop</translation>
+        <translation>Node</translation>
     </message>
     <message>
         <source>OK</source>
@@ -9338,7 +9338,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Siteaccess setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Sitetoegang instellingen</translation>
     </message>
     <message>
         <source>Override setting (global)</source>
@@ -9462,7 +9462,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation type="unfinished">Site toegang</translation>
+        <translation>Sitetoegang</translation>
     </message>
     <message>
         <source>Values for each location setting are shown. The first values are lowest priority; the values toward the end have higher priority than the first ones.</source>
@@ -12928,15 +12928,15 @@ uw account te activeren.</translation>
     <name>design/admin/visual/menuconfig</name>
     <message>
         <source>Menu management</source>
-        <translation type="unfinished">Menu beheer</translation>
+        <translation>Menu beheer</translation>
     </message>
     <message>
         <source>Set</source>
-        <translation type="unfinished">Set</translation>
+        <translation>Set</translation>
     </message>
     <message>
         <source>Menu positioning</source>
-        <translation type="unfinished">Menu positionering</translation>
+        <translation>Menu positionering</translation>
     </message>
     <message>
         <source>Apply changes</source>
@@ -12948,7 +12948,7 @@ uw account te activeren.</translation>
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation type="unfinished">Site toegang</translation>
+        <translation>Sitetoegang</translation>
     </message>
 </context>
 <context>
@@ -12995,7 +12995,7 @@ uw account te activeren.</translation>
     </message>
     <message>
         <source>Node ID</source>
-        <translation type="unfinished">Knoop ID</translation>
+        <translation>Node ID</translation>
     </message>
     <message>
         <source>Base template on</source>
@@ -13078,7 +13078,7 @@ uw account te activeren.</translation>
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation type="unfinished">Site toegang</translation>
+        <translation>Sitetoegang</translation>
     </message>
     <message>
         <source>Open as read only</source>
@@ -13136,7 +13136,7 @@ uw account te activeren.</translation>
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation type="unfinished">Site toegang</translation>
+        <translation>Sitetoegang</translation>
     </message>
     <message>
         <source>Set</source>
@@ -13291,7 +13291,7 @@ uw account te activeren.</translation>
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation type="unfinished">Site toegang</translation>
+        <translation>Sitetoegang</translation>
     </message>
 </context>
 <context>
@@ -18001,7 +18001,7 @@ Neem contact op met deze persoon over de voorlopige versie of maak een nieuwe vo
     </message>
     <message>
         <source>Node ID</source>
-        <translation>Knoop ID</translation>
+        <translation>Node ID</translation>
     </message>
     <message>
         <source>Base template on</source>
@@ -18067,7 +18067,7 @@ Neem contact op met deze persoon over de voorlopige versie of maak een nieuwe vo
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation>Site toegang</translation>
+        <translation>Sitetoegang</translation>
     </message>
     <message>
         <source>Set</source>
@@ -18717,7 +18717,7 @@ Als u dit wilt worden ook alle kinderen verwijderd.</translation>
     </message>
     <message>
         <source>Node ID</source>
-        <translation>Knoop ID</translation>
+        <translation>Node ID</translation>
     </message>
     <message>
         <source>Object ID</source>
@@ -18866,7 +18866,7 @@ Met de onderstaande URL kunt u het item oproepen.</translation>
     </message>
     <message>
         <source>Node notification</source>
-        <translation>Knooppuntnotificatie</translation>
+        <translation>Node notificatie</translation>
     </message>
     <message>
         <source>Name</source>
@@ -19176,7 +19176,7 @@ If unsure choose the siteaccess which reflects the user part of your site, i.e. 
     </message>
     <message>
         <source>Node</source>
-        <translation>Knooppunt</translation>
+        <translation>Node</translation>
     </message>
     <message>
         <source>Export type</source>
@@ -19192,7 +19192,7 @@ If unsure choose the siteaccess which reflects the user part of your site, i.e. 
     </message>
     <message>
         <source>Add node</source>
-        <translation>Knooppunt toevoegen</translation>
+        <translation>Node toevoegen</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -19399,7 +19399,7 @@ U kunt ook het pakket verwijderen zonder de installatie ongedaan te maken vanaf 
     </message>
     <message>
         <source>Node assignments</source>
-        <translation>Knooppunttoekenningen</translation>
+        <translation>Nodetoekenningen</translation>
     </message>
     <message>
         <source>Keep all in selected nodes</source>
@@ -19734,7 +19734,7 @@ het menu boven.</translation>
     </message>
     <message>
         <source>Node</source>
-        <translation>Knoop</translation>
+        <translation>Node</translation>
     </message>
     <message>
         <source>Not specified.</source>
@@ -20016,7 +20016,7 @@ het menu boven.</translation>
     </message>
     <message>
         <source>Node</source>
-        <translation>Knooppunt</translation>
+        <translation>Node</translation>
     </message>
     <message>
         <source>Export classes</source>
@@ -20522,7 +20522,7 @@ Door %datatypename te gebruiken kunt u ...</translation>
     </message>
     <message>
         <source>Node</source>
-        <translation>Knoop</translation>
+        <translation>Node</translation>
     </message>
     <message>
         <source>Base template on</source>
@@ -24956,7 +24956,7 @@ uw account te activeren.</translation>
     </message>
     <message>
         <source>Node ID</source>
-        <translation>Knooppunt-ID</translation>
+        <translation>Node ID</translation>
     </message>
     <message>
         <source>Base template on</source>
@@ -26515,7 +26515,7 @@ indien u optie &quot;%3&quot; tot &quot;%4&quot; koos</translation>
     </message>
     <message>
         <source>Node &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished">Knooppunt &apos;%1&apos; bestaat niet.</translation>
+        <translation>Node &apos;%1&apos; bestaat niet.</translation>
     </message>
     <message>
         <source>Using scripts in links is not allowed, link &apos;%1&apos; has been removed</source>
@@ -26792,19 +26792,19 @@ indien u optie &quot;%3&quot; tot &quot;%4&quot; koos</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: you do not have permission to read object (ID = %2).</source>
-        <translation type="unfinished">Knooppunt (ID = %1) werd niet gekopieerd: u heeft geen toestemming om het object (ID = %2) te lezen.</translation>
+        <translation>Node (ID = %1) werd niet gekopieerd: u heeft geen toestemming om het object (ID = %2) te lezen.</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: parent node (ID = %2) was not copied.</source>
-        <translation type="unfinished">Object (ID = %1) werd niet gekopieerd: bovenliggend knooppunt (ID = %2) werd niet gekopieerd.</translation>
+        <translation>Node (ID = %1) werd niet gekopieerd: bovenliggend node (ID = %2) werd niet gekopieerd.</translation>
     </message>
     <message>
         <source>Node (ID = %1) was not copied: you do not have permission to create.</source>
-        <translation type="unfinished">Knooppunt (ID = %1) werd niet gekopieerd: u heeft geen toestemming om er aan te maken.</translation>
+        <translation>Node (ID = %1) werd niet gekopieerd: u heeft geen toestemming om er aan te maken.</translation>
     </message>
     <message>
         <source>Object (ID = %1) was not copied: no one nodes of object was not copied.</source>
-        <translation type="unfinished">Object (ID = %1) werd niet gekopieerd: geen van de knooppunten van de objecten  werden gekopieerd.</translation>
+        <translation>Object (ID = %1) werd niet gekopieerd: geen van de nodes van de objecten  werden gekopieerd.</translation>
     </message>
     <message>
         <source>Successfully DONE.</source>
@@ -28182,7 +28182,7 @@ indien u optie &quot;%3&quot; tot &quot;%4&quot; koos</translation>
     <name>simplified_treemenu/show_simplified_menu</name>
     <message>
         <source>Node ID: %node_id Visibility: %visibility</source>
-        <translation>Knoop ID: %node_id Zichtbaar: %visibility</translation>
+        <translation>Node ID: %node_id Zichtbaarheid: %visibility</translation>
     </message>
 </context>
 </TS>
