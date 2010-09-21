@@ -1213,7 +1213,7 @@
     <name>design/admin/content/bookmark</name>
     <message>
         <source>My bookmarks [%bookmark_count]</source>
-        <translation type="unfinished">Mijn favorieten [%bookmark_count]</translation>
+        <translation>Mijn favorieten [%bookmark_count]</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1273,7 +1273,7 @@
     </message>
     <message>
         <source>My bookmarks (%bookmark_count)</source>
-        <translation type="unfinished">Mijn favorieten (%bookmark_count)</translation>
+        <translation>Mijn favorieten (%bookmark_count)</translation>
     </message>
 </context>
 <context>
@@ -7517,7 +7517,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Select PDF export for removal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer te verwijderen PDF export.</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -7525,23 +7525,23 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Edit the &lt;%pdf_export_name&gt; PDF export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk de &lt;%pdf_export_name&gt; PDF export.</translation>
     </message>
     <message>
         <source>Remove selected PDF exports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder geselecteerde PDF exports.</translation>
     </message>
     <message>
         <source>Create a new PDF export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak een nieuwe PDF export.</translation>
     </message>
     <message>
         <source>PDF exports [%export_count]</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF exports [%export_count]</translation>
     </message>
     <message>
         <source>PDF exports (%export_count)</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF exports (%export_count)</translation>
     </message>
 </context>
 <context>
@@ -7632,7 +7632,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Remove bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder favoriet</translation>
     </message>
     <message>
         <source>Reverse related for subtree</source>
@@ -7680,7 +7680,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>New translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe vertaling</translation>
     </message>
     <message>
         <source>Sitemap for subtree</source>
@@ -7688,7 +7688,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Voorbeeld</translation>
+        <translation>Voorbeeld</translation>
     </message>
 </context>
 <context>
@@ -7703,7 +7703,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Comments allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Commentaar toegestaan</translation>
     </message>
 </context>
 <context>
@@ -7741,26 +7741,26 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Your email address</source>
-        <translation type="unfinished">Uw emailadres</translation>
+        <translation>Uw emailadres</translation>
     </message>
     <message>
         <source>Your name</source>
-        <translation type="unfinished">Uw naam</translation>
+        <translation>Uw naam</translation>
     </message>
 </context>
 <context>
     <name>design/admin/preview/folder</name>
     <message>
         <source>Show children</source>
-        <translation type="unfinished">Toon kinderen</translation>
+        <translation>Toon kinderen</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished">Ja</translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished">Nee</translation>
+        <translation>Nee</translation>
     </message>
 </context>
 <context>
@@ -7808,7 +7808,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>There are no sections on the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er zijn geen secties in het systeem.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -7827,7 +7827,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Step one: select module</source>
-        <translation type="unfinished">Stap één: selecteer module</translation>
+        <translation>Stap één: selecteer module</translation>
     </message>
     <message>
         <source>Click one of the &quot;Grant..&quot; buttons (explained below) in order to go to the next step.</source>
@@ -7851,7 +7851,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Grant access to one function</source>
-        <translation type="unfinished">Geef toegang tot een functie</translation>
+        <translation>Geef toegang tot een functie</translation>
     </message>
     <message>
         <source>OK</source>
@@ -7863,7 +7863,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Instructions</source>
-        <translation type="unfinished">Instructies</translation>
+        <translation>Instructies</translation>
     </message>
     <message>
         <source>Welcome to the policy wizard. This three-step wizard will help you create a new policy that will be added to the role that is currently being edited. The wizard can be aborted at any stage by using the &quot;Cancel&quot; button.</source>
@@ -7882,7 +7882,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     <name>design/admin/role/createpolicystep2</name>
     <message>
         <source>Step one: select module [completed]</source>
-        <translation type="unfinished">Stap één: selecteer module [afgerond]</translation>
+        <translation>Stap één: selecteer module [afgerond]</translation>
     </message>
     <message>
         <source>Selected module</source>
@@ -7894,11 +7894,11 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Selected access method</source>
-        <translation type="unfinished">Geselecteerde toegangs method</translation>
+        <translation>Geselecteerde toegangs methode</translation>
     </message>
     <message>
         <source>Limited</source>
-        <translation type="unfinished">Beperkt</translation>
+        <translation>Beperkt</translation>
     </message>
     <message>
         <source>Step two: select function</source>
@@ -7934,11 +7934,11 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Instructions</source>
-        <translation type="unfinished">Instructies</translation>
+        <translation>Instructies</translation>
     </message>
     <message>
         <source>Create a new policy for the &lt;%role_name&gt; role</source>
-        <translation type="unfinished">Maak een nieuwe regel voor de rol &lt;%role_name&gt;</translation>
+        <translation>Maak een nieuwe regel voor de rol &lt;%role_name&gt;</translation>
     </message>
     <message>
         <source>Click on one of the &quot;Grant..&quot; buttons (explained below) in order to go to the next step.</source>
@@ -7969,27 +7969,27 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Step one: select module [completed]</source>
-        <translation type="unfinished">Stap één: selecteer module [afgerond]</translation>
+        <translation>Stap één: selecteer module [afgerond]</translation>
     </message>
     <message>
         <source>Selected module</source>
-        <translation type="unfinished">Geselecteerde module</translation>
+        <translation>Geselecteerde module</translation>
     </message>
     <message>
         <source>All modules</source>
-        <translation type="unfinished">Alle modules</translation>
+        <translation>Alle modules</translation>
     </message>
     <message>
         <source>Selected access method</source>
-        <translation type="unfinished">Geselecteerde toegangs method</translation>
+        <translation>Geselecteerde toegangs methode</translation>
     </message>
     <message>
         <source>Limited</source>
-        <translation type="unfinished">Beperkt</translation>
+        <translation>Beperkt</translation>
     </message>
     <message>
         <source>Step two: select function [completed]</source>
-        <translation type="unfinished">Stap twee: selecteer functie [afgerond]</translation>
+        <translation>Stap twee: selecteer functie [afgerond]</translation>
     </message>
     <message>
         <source>Selected function</source>
@@ -8065,7 +8065,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Instructions</source>
-        <translation type="unfinished">Instructies</translation>
+        <translation>Instructies</translation>
     </message>
     <message>
         <source>Welcome to the policy wizard. This three-step wizard will help you set up a new policy. The policy will be added to the role that is currently being edited. The wizard can be aborted at any stage by using the &quot;Cancel&quot; button.</source>
@@ -8073,7 +8073,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschappen</translation>
     </message>
     <message>
         <source>Nodes (%node_count)</source>
@@ -8160,23 +8160,23 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Select policy for removal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer te verwijderen regel.</translation>
     </message>
     <message>
         <source>Remove selected policies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder geselecteerde regel.</translation>
     </message>
     <message>
         <source>Create a new policy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak een nieuwe regel aan.</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Opslaan</translation>
+        <translation>Opslaan</translation>
     </message>
     <message>
         <source>Save policy changes to this role</source>
-        <translation type="unfinished"></translation>
+        <translation>Sla de regelaanpassingen voor deze rol op</translation>
     </message>
 </context>
 <context>
@@ -8223,11 +8223,11 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Toggle selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Wissel selectie</translation>
     </message>
     <message>
         <source>Select role for removal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer te verwijderen rol.</translation>
     </message>
     <message>
         <source>Assign</source>
@@ -8235,11 +8235,11 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiëer</translation>
     </message>
     <message>
         <source>Copy the &lt;%role_name&gt; role.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiëer de rol &lt;%role_name&gt;</translation>
     </message>
     <message>
         <source>Roles (%role_count)</source>
@@ -8405,15 +8405,15 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Toggle selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Wissel selectie</translation>
     </message>
     <message>
         <source>Select user or user group for removal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer te verwijderen gebruiker of gebruikersgroep.</translation>
     </message>
     <message>
         <source>Remove selected users and/or user groups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder geselecteerde gebruikers en/of gebruikersgroepen.</translation>
     </message>
     <message>
         <source>Assign the &lt;%role_name&gt; role to a user or a user group.</source>
@@ -8421,7 +8421,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Select limitation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer beperking.</translation>
     </message>
     <message>
         <source>Assign with limitation</source>
@@ -8433,7 +8433,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Policies (%policies_count)</source>
@@ -8600,7 +8600,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Bron</translation>
     </message>
     <message>
         <source>Click to remove this source from the RSS export.</source>
@@ -8624,23 +8624,23 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Number of objects</source>
-        <translation type="unfinished">Aantal objecten</translation>
+        <translation>Aantal objecten</translation>
     </message>
     <message>
         <source>Main node only</source>
-        <translation type="unfinished">Enkel hoofdknooppunt</translation>
+        <translation>Enkel hoofdnode</translation>
     </message>
     <message>
         <source>Check if you want to only feed the object from the main node.</source>
-        <translation type="unfinished">Controleer of u enkel het object wilt voeden van het hoofdknooppunt.</translation>
+        <translation>Controleer of u enkel het object wilt voeden van de hoofdnode.</translation>
     </message>
     <message>
         <source>Subnodes</source>
-        <translation type="unfinished">Subknooppunten</translation>
+        <translation>Subnode</translation>
     </message>
     <message>
         <source>Remove image</source>
-        <translation type="unfinished">Verwijder afbeelding</translation>
+        <translation>Verwijder afbeelding</translation>
     </message>
     <message>
         <source>Click to remove image from RSS export.</source>
@@ -8704,7 +8704,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Overslaan</translation>
+        <translation>Overslaan</translation>
     </message>
     <message>
         <source>Enclosure (media)</source>
@@ -8803,7 +8803,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>RSS Version</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS versie</translation>
     </message>
     <message>
         <source>Use this drop-down menu to select the attribute that should bet set as information from the RSS stream.</source>
@@ -8831,7 +8831,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Class attributes</source>
-        <translation type="unfinished">Klassekenmerken</translation>
+        <translation>Klasse attributen</translation>
     </message>
     <message>
         <source>Name of the RSS import. This name is used in the Administration Interface only to distinguish the different imports from each other.</source>
@@ -8906,39 +8906,39 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Invert selection</source>
-        <translation type="unfinished">Selectie omkeren</translation>
+        <translation>Selectie omkeren</translation>
     </message>
     <message>
         <source>Select RSS export for removal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer te verwijderen RSS export.</translation>
     </message>
     <message>
         <source>Edit the &lt;%name&gt; RSS export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk de RSS export &lt;%name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected RSS exports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder de geselecteerde RSS exports.</translation>
     </message>
     <message>
         <source>Create a new RSS export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak een nieuwe RSS export aan.</translation>
     </message>
     <message>
         <source>Select RSS import for removal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer te verwijderen RSS import.</translation>
     </message>
     <message>
         <source>Edit the &lt;%name&gt; RSS import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk de RSS import &lt;%name&gt;.</translation>
     </message>
     <message>
         <source>Remove selected RSS imports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder geselecteerde RSS imports.</translation>
     </message>
     <message>
         <source>Create a new RSS import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak een nieuwe RSS import aan.</translation>
     </message>
     <message>
         <source>RSS exports (%exports_count)</source>
@@ -8973,7 +8973,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>The list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>De lijst is leeg.</translation>
     </message>
     <message>
         <source>Clear the search log.</source>
@@ -9000,7 +9000,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9046,7 +9046,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Waarschuwing</translation>
+        <translation>Waarschuwing</translation>
     </message>
     <message>
         <source>The following sections cannot be removed because they are either assigned to objects or used in role and policy limitations</source>
