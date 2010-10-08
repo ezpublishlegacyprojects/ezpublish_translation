@@ -9560,7 +9560,7 @@ Let op: De installatie van de pakketten worden niet ongedaan gemaakt.</translati
     </message>
     <message>
         <source>All caches were cleared</source>
-        <translation>Alle caches zijn werden geleegd</translation>
+        <translation>Caches geleegd</translation>
     </message>
     <message>
         <source>Ini file cache was cleared</source>
@@ -17302,7 +17302,7 @@ Neem contact op met deze persoon over de voorlopige versie of maak een nieuwe vo
     </message>
     <message>
         <source>Search for &quot;%1&quot; returned %2 matches</source>
-        <translation>Het zoeken op &quot;%1&quot;  resulteerde in &quot;%2&quot; passende resultaten</translation>
+        <translation>Het zoeken op &quot;%1&quot;  resulteerde in %2 passende resultaten</translation>
     </message>
     <message>
         <source>Search all the words</source>
