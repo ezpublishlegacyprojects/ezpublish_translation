@@ -22510,7 +22510,7 @@ Ces fonctionnalités sont également disponible plus tard via l&apos;interface d
     </message>
     <message>
         <source>Welcome to eZ Publish %1</source>
-        <translation>Bienvenue sur eZ Publish% 1</translation>
+        <translation>Bienvenue sur eZ Publish %1</translation>
     </message>
     <message>
         <source>Welcome to the eZ Publish content management system and development framework. This wizard will help you set up eZ Publish.&lt;br&gt;Your system is not optimal, if you wish you can click the &lt;i&gt;Finetune&lt;/i&gt; button. This will present hints on how to fix these issues.&lt;br/&gt; Click &lt;i&gt;Next&lt;/i&gt; to continue without finetuning.</source>
