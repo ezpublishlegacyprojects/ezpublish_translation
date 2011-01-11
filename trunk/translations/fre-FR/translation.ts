@@ -6834,7 +6834,7 @@ Note : les paquetages ne seront pas désinstallés.</translation>
     </message>
     <message>
         <source>Configure settings and manage advanced functionality.</source>
-        <translation>Configurer ezPublish et ses fonctionnalités avancées.</translation>
+        <translation>Configurer eZ Publish et ses fonctionnalités avancées.</translation>
     </message>
     <message>
         <source>Manage items and settings that belong to your account.</source>
