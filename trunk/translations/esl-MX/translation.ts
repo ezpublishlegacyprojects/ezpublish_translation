@@ -23112,7 +23112,7 @@ Al usar el %nombre de tipo de dato puedes...</translation>
     </message>
     <message>
         <source>&amp;percent% completed</source>
-        <translation>&amp;porcentaje% terminado</translation>
+        <translation>&amp;percent% terminado</translation>
     </message>
     <message>
         <source>Tools</source>
