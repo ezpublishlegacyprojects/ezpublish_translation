@@ -123,7 +123,7 @@
     </message>
     <message>
         <source>List of classes inside %group_name class group [%class_count]</source>
-        <translation>Lista de tipos de conteúdo dentro do grupo %group_name [%class_count]</translation>
+        <translation type="obsolete">Lista de tipos de conteúdo dentro do grupo %group_name [%class_count]</translation>
     </message>
     <message>
         <source>Classes inside &lt;%group_name&gt; (%class_count)</source>
@@ -132,6 +132,10 @@
     <message>
         <source>List of classes inside %group_name class group (%class_count)</source>
         <translation>Lista de tipos de conteúdo dentro do grupo %group_name (%class_count)</translation>
+    </message>
+    <message>
+        <source>Use this menu to select the language you to want use then click the &quot;New class&quot; button. The item will be created within the current location.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -412,7 +416,7 @@
     </message>
     <message>
         <source>Edit &lt;%class_name&gt; [%object_count]</source>
-        <translation>Editar &lt;%class_name&gt; [%object_count]</translation>
+        <translation type="obsolete">Editar &lt;%class_name&gt; [%object_count]</translation>
     </message>
     <message>
         <source>Description</source>
@@ -448,11 +452,15 @@
     </message>
     <message>
         <source>Edit &lt;%class_name&gt; (%object_count)</source>
-        <translation>Editar &lt;%class_name&gt; (%object_count)</translation>
+        <translation type="obsolete">Editar &lt;%class_name&gt; (%object_count)</translation>
     </message>
     <message>
         <source>The draft of the class definition was successfully stored.</source>
         <translation type="unfinished">O rascunho da definição da classe foi armazenado com sucesso.</translation>
+    </message>
+    <message>
+        <source>Edit &lt;%class_name&gt; (%object_count objects)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -625,10 +633,6 @@
     <message>
         <source>Objects</source>
         <translation>Objetos</translation>
-    </message>
-    <message>
-        <source>Class groups (%group_count)</source>
-        <translation>Grupos de tipos de conteúdo (%group_count)</translation>
     </message>
 </context>
 <context>
@@ -1103,14 +1107,6 @@
     <message>
         <source>Translations (%translations)</source>
         <translation>Traduções (%translations)</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation type="unfinished">Descrição</translation>
-    </message>
-    <message>
-        <source>Category</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1876,79 +1872,79 @@
     <name>design/admin/content/diff</name>
     <message>
         <source>Versions for &lt;%object_name&gt; [%version_count]</source>
-        <translation>Versões de &lt;%object_name&gt; [%version_count]</translation>
+        <translation type="obsolete">Versões de &lt;%object_name&gt; [%version_count]</translation>
     </message>
     <message>
         <source>Show differences</source>
-        <translation>Mostrar diferenças</translation>
+        <translation type="obsolete">Mostrar diferenças</translation>
     </message>
     <message>
         <source>Differences between versions %oldVersion and %newVersion</source>
-        <translation>Diferenças entre versões %oldVersion e %newVersion</translation>
+        <translation type="obsolete">Diferenças entre versões %oldVersion e %newVersion</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation>Versão</translation>
+        <translation type="obsolete">Versão</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Status</translation>
+        <translation type="obsolete">Status</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation>Traduções</translation>
+        <translation type="obsolete">Traduções</translation>
     </message>
     <message>
         <source>Creator</source>
-        <translation>Criado por</translation>
+        <translation type="obsolete">Criado por</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation>Modificado</translation>
+        <translation type="obsolete">Modificado</translation>
     </message>
     <message>
         <source>Draft</source>
-        <translation>Rascunho</translation>
+        <translation type="obsolete">Rascunho</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation>Publicado</translation>
+        <translation type="obsolete">Publicado</translation>
     </message>
     <message>
         <source>Pending</source>
-        <translation>Pendente</translation>
+        <translation type="obsolete">Pendente</translation>
     </message>
     <message>
         <source>Archived</source>
-        <translation>Arquivado</translation>
+        <translation type="obsolete">Arquivado</translation>
     </message>
     <message>
         <source>Rejected</source>
-        <translation>Rejeitado</translation>
+        <translation type="obsolete">Rejeitado</translation>
     </message>
     <message>
         <source>Untouched draft</source>
-        <translation>Rascunho intocado</translation>
+        <translation type="obsolete">Rascunho intocado</translation>
     </message>
     <message>
         <source>Inline changes</source>
-        <translation>Mudanças em linha</translation>
+        <translation type="obsolete">Mudanças em linha</translation>
     </message>
     <message>
         <source>Block changes</source>
-        <translation>Mudanças em bloco</translation>
+        <translation type="obsolete">Mudanças em bloco</translation>
     </message>
     <message>
         <source>Old version</source>
-        <translation>Versão antiga</translation>
+        <translation type="obsolete">Versão antiga</translation>
     </message>
     <message>
         <source>New version</source>
-        <translation>Nova versão</translation>
+        <translation type="obsolete">Nova versão</translation>
     </message>
     <message>
         <source>Versions for &lt;%object_name&gt; (%version_count)</source>
-        <translation>Versões de &lt;%object_name&gt; (%version_count)</translation>
+        <translation type="obsolete">Versões de &lt;%object_name&gt; (%version_count)</translation>
     </message>
 </context>
 <context>
@@ -2233,7 +2229,7 @@
         <translation>Visualizar</translation>
     </message>
     <message>
-        <source>View the draft that is being edited.</source>
+        <source>Preview the draft that is being edited.</source>
         <translation>Visualizar o rascunho que está sendo editado.</translation>
     </message>
     <message>
@@ -2505,10 +2501,6 @@
         <translation>Locais (%locations)</translation>
     </message>
     <message>
-        <source>Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Existing translations</source>
         <translation>Traduções existentes</translation>
     </message>
@@ -2535,6 +2527,10 @@
     <message>
         <source>Related content (%related_objects)</source>
         <translation>Conteúdos relacionados (%related_objects)</translation>
+    </message>
+    <message>
+        <source>View the draft that is being edited.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4694,35 +4690,35 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
     <name>design/admin/content/versions</name>
     <message>
         <source>Unable to create new version</source>
-        <translation>Não foi possível criar uma nova versão</translation>
+        <translation type="obsolete">Não foi possível criar uma nova versão</translation>
     </message>
     <message>
         <source>Version history limit has been exceeded and no archived version can be removed by the system.</source>
-        <translation>O limite de histórico de versões foi excedido e nenhuma versão arquivada pode ser removida do sistema.</translation>
+        <translation type="obsolete">O limite de histórico de versões foi excedido e nenhuma versão arquivada pode ser removida do sistema.</translation>
     </message>
     <message>
         <source>You can change your version history settings in content.ini, remove draft versions or edit existing drafts.</source>
-        <translation>Você pode modificar as configurações de histórico de versões em content.ini, remover versões de rascunhos, ou editar os rascunhos existentes.</translation>
+        <translation type="obsolete">Você pode modificar as configurações de histórico de versões em content.ini, remover versões de rascunhos, ou editar os rascunhos existentes.</translation>
     </message>
     <message>
         <source>Versions for &lt;%object_name&gt; [%version_count]</source>
-        <translation>Versões de &lt;%object_name&gt; [%version_count]</translation>
+        <translation type="obsolete">Versões de &lt;%object_name&gt; [%version_count]</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation>Versão</translation>
+        <translation type="obsolete">Versão</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Status</translation>
+        <translation type="obsolete">Status</translation>
     </message>
     <message>
         <source>Creator</source>
-        <translation>Criado por</translation>
+        <translation type="obsolete">Criado por</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation>Criado</translation>
+        <translation type="obsolete">Criado</translation>
     </message>
     <message>
         <source>Draft</source>
@@ -4742,63 +4738,63 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
     </message>
     <message>
         <source>Rejected</source>
-        <translation>Rejeitado</translation>
+        <translation type="obsolete">Rejeitado</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Editar</translation>
+        <translation type="obsolete">Editar</translation>
     </message>
     <message>
         <source>Remove selected</source>
-        <translation>Remover selecionados</translation>
+        <translation type="obsolete">Remover selecionados</translation>
     </message>
     <message>
         <source>Object information</source>
-        <translation>Informações do objeto</translation>
+        <translation type="obsolete">Informações do objeto</translation>
     </message>
     <message>
         <source>ID</source>
-        <translation>ID</translation>
+        <translation type="obsolete">ID</translation>
     </message>
     <message>
         <source>Not yet published</source>
-        <translation>Ainda não publicado</translation>
+        <translation type="obsolete">Ainda não publicado</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation>Modificado</translation>
+        <translation type="obsolete">Modificado</translation>
     </message>
     <message>
         <source>Published version</source>
-        <translation>Versão publicada</translation>
+        <translation type="obsolete">Versão publicada</translation>
     </message>
     <message>
         <source>Select version #%version_number for removal.</source>
-        <translation>Selecione a versão #%version_number para ser removida.</translation>
+        <translation type="obsolete">Selecione a versão #%version_number para ser removida.</translation>
     </message>
     <message>
         <source>View the contents of version #%version_number. Translation: %translation.</source>
-        <translation>Visualizar o conteúdo da versão #%version_number. Tradução: %translation.</translation>
+        <translation type="obsolete">Visualizar o conteúdo da versão #%version_number. Tradução: %translation.</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copiar</translation>
+        <translation type="obsolete">Copiar</translation>
     </message>
     <message>
         <source>Create a copy of version #%version_number.</source>
-        <translation>Criar uma cópia da versão #%version_number.</translation>
+        <translation type="obsolete">Criar uma cópia da versão #%version_number.</translation>
     </message>
     <message>
         <source>Edit the contents of version #%version_number.</source>
-        <translation>Editar o conteúdo da versão #%version_number.</translation>
+        <translation type="obsolete">Editar o conteúdo da versão #%version_number.</translation>
     </message>
     <message>
         <source>This object does not have any versions.</source>
-        <translation>Este objeto não possui nenhuma versão.</translation>
+        <translation type="obsolete">Este objeto não possui nenhuma versão.</translation>
     </message>
     <message>
         <source>Remove the selected versions from the object.</source>
-        <translation>Remover as versões selecionadas do objeto.</translation>
+        <translation type="obsolete">Remover as versões selecionadas do objeto.</translation>
     </message>
     <message>
         <source>Untouched draft</source>
@@ -4806,51 +4802,51 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation>Voltar</translation>
+        <translation type="obsolete">Voltar</translation>
     </message>
     <message>
         <source>Modified translation</source>
-        <translation>Tradução modificada</translation>
+        <translation type="obsolete">Tradução modificada</translation>
     </message>
     <message>
         <source>Version is not a draft</source>
-        <translation>A versão não é um rascunho</translation>
+        <translation type="obsolete">A versão não é um rascunho</translation>
     </message>
     <message>
         <source>Version %1 is not available for editing anymore. Only drafts can be edited.</source>
-        <translation>A versão %1 não está mais disponível para edição, apenas os rascunhos podem ser editados.</translation>
+        <translation type="obsolete">A versão %1 não está mais disponível para edição, apenas os rascunhos podem ser editados.</translation>
     </message>
     <message>
         <source>To edit this version, first create a copy of it.</source>
-        <translation> Para editar esta versão, primeiro crie uma cópia da mesma.</translation>
+        <translation type="obsolete"> Para editar esta versão, primeiro crie uma cópia da mesma.</translation>
     </message>
     <message>
         <source>Version is not yours</source>
-        <translation>A versão não é sua</translation>
+        <translation type="obsolete">A versão não é sua</translation>
     </message>
     <message>
         <source>Version %1 was not created by you. You can only edit your own drafts.</source>
-        <translation>A versão %1 não foi criada por você. Você só pode editar seus próprios rascunhos.</translation>
+        <translation type="obsolete">A versão %1 não foi criada por você. Você só pode editar seus próprios rascunhos.</translation>
     </message>
     <message>
         <source>Version #%version_number cannot be removed because it is either the published version of the object or because you do not have permission to remove it.</source>
-        <translation>A versão #%version_number não pode ser removida porque pode ser a versão publicada do objeto ou porque você não tem permissão para removê-la.</translation>
+        <translation type="obsolete">A versão #%version_number não pode ser removida porque pode ser a versão publicada do objeto ou porque você não tem permissão para removê-la.</translation>
     </message>
     <message>
         <source>There is no need to make copies of untouched drafts.</source>
-        <translation>Não há necessidade de fazer cópias de rascunhos intocados.</translation>
+        <translation type="obsolete">Não há necessidade de fazer cópias de rascunhos intocados.</translation>
     </message>
     <message>
         <source>You cannot make copies of versions because you do not have permission to edit the object.</source>
-        <translation>Você não pode fazer cópias de versões porque você não tem permissão para editar o objeto.</translation>
+        <translation type="obsolete">Você não pode fazer cópias de versões porque você não tem permissão para editar o objeto.</translation>
     </message>
     <message>
         <source>You cannot edit the contents of version #%version_number either because it is not a draft or because you do not have permission to edit the object.</source>
-        <translation>Você não pode editar o conteúdo da versão #%version_number porque não é um rascunho ou porque você não tem permissão para editar o objeto.</translation>
+        <translation type="obsolete">Você não pode editar o conteúdo da versão #%version_number porque não é um rascunho ou porque você não tem permissão para editar o objeto.</translation>
     </message>
     <message>
         <source>Versions for &lt;%object_name&gt; (%version_count)</source>
-        <translation>Versões de &lt;%object_name&gt; (%version_count)</translation>
+        <translation type="obsolete">Versões de &lt;%object_name&gt; (%version_count)</translation>
     </message>
 </context>
 <context>
@@ -5042,6 +5038,14 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
         <source>Object ID</source>
         <translation>ID do objeto</translation>
     </message>
+    <message>
+        <source>Dynamic tree menu is disabled for this siteaccess!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Internal errorD</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/dashboard/all_latest_content</name>
@@ -5116,10 +5120,6 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
         <source>Currently you do not have any drafts available.</source>
         <translation>Atualmente você não tem nenhum rascunho disponível.</translation>
     </message>
-    <message>
-        <source>My drafts</source>
-        <translation>Meus rascunhos</translation>
-    </message>
 </context>
 <context>
     <name>design/admin/dashboard/latest_content</name>
@@ -5155,20 +5155,16 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
         <source>Your latest content list is empty.</source>
         <translation>A lista com seus últimos conteúdos está vazia</translation>
     </message>
-    <message>
-        <source>My latest content</source>
-        <translation>Meus últimos conteúdos</translation>
-    </message>
 </context>
 <context>
     <name>design/admin/dashboard/maintenance</name>
     <message>
         <source>Maintenance</source>
-        <translation>Manutenção</translation>
+        <translation type="obsolete">Manutenção</translation>
     </message>
     <message>
         <source>Currently you are using eZ Publish version: %1</source>
-        <translation>Atualmente você está usando o eZ Publish: %1</translation>
+        <translation type="obsolete">Atualmente você está usando o eZ Publish: %1</translation>
     </message>
     <message>
         <source>Software update and Maintenance</source>
@@ -5205,10 +5201,6 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
     <message>
         <source>Currently you do not have any pending items available.</source>
         <translation>Atualmente você não tem nenhum item pendente.</translation>
-    </message>
-    <message>
-        <source>My pending items</source>
-        <translation>Meus itens pendentes</translation>
     </message>
 </context>
 <context>
@@ -6531,7 +6523,7 @@ Tem certeza de que deseja remover a informação coletada?</translation>
     </message>
     <message>
         <source>Tab is disabled, enable on dashboard.</source>
-        <translation>A aba está desabilitada, habilite ela no painel.</translation>
+        <translation type="obsolete">A aba está desabilitada, habilite ela no painel.</translation>
     </message>
     <message>
         <source>Translations (%count)</source>
@@ -6555,19 +6547,19 @@ Tem certeza de que deseja remover a informação coletada?</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation>Criar</translation>
+        <translation type="obsolete">Criar</translation>
     </message>
     <message>
         <source>in</source>
-        <translation>em</translation>
+        <translation type="obsolete">em</translation>
     </message>
     <message>
         <source>Here</source>
-        <translation>Aqui</translation>
+        <translation type="obsolete">Aqui</translation>
     </message>
     <message>
         <source>List of sub items of current node, with controlls to edit, remove and move them directly.</source>
-        <translation>Lista de subitens do nó atual com controles para editar, remover e movê-los diretamente.</translation>
+        <translation type="obsolete">Lista de subitens do nó atual com controles para editar, remover e movê-los diretamente.</translation>
     </message>
     <message>
         <source>Node and object details like creator, when it was created, section it belongs to, number of versions and translations, Node ID and Object ID.</source>
@@ -6634,10 +6626,6 @@ Tem certeza de que deseja remover a informação coletada?</translation>
         <translation>Ordem de publicação</translation>
     </message>
     <message>
-        <source>New translation</source>
-        <translation>Nova tradução</translation>
-    </message>
-    <message>
         <source>Related objects (%related_objects_count)</source>
         <translation>Objetos relacionados (%related_objects_count)</translation>
     </message>
@@ -6652,6 +6640,94 @@ Tem certeza de que deseja remover a informação coletada?</translation>
     <message>
         <source>Existing translations</source>
         <translation>Traduções existentes</translation>
+    </message>
+    <message>
+        <source>Tab is disabled, enable with toggler to the left of these tabs.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show simplified view of content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ordering</source>
+        <translation type="unfinished">Ordenação</translation>
+    </message>
+    <message>
+        <source>Show published ordering overview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Node remote ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object remote ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of items per page:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visible table columns:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished">Selecionar</translation>
+    </message>
+    <message>
+        <source>Select all visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select none</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new</source>
+        <translation type="unfinished">Criar novo</translation>
+    </message>
+    <message>
+        <source>More actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use the checkboxes to select one or more items.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>prev</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>last</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invert selection</source>
+        <translation type="unfinished">Inverter seleção</translation>
     </message>
 </context>
 <context>
@@ -7295,7 +7371,7 @@ Nota: Os pacotes não serão desinstalados.</translation>
     </message>
     <message>
         <source>My account</source>
-        <translation>Minha conta</translation>
+        <translation type="obsolete">Minha conta</translation>
     </message>
     <message>
         <source>Current user</source>
@@ -7447,7 +7523,11 @@ Nota: Os pacotes não serão desinstalados.</translation>
     </message>
     <message>
         <source>User perferences</source>
-        <translation>Preferências do usuário</translation>
+        <translation type="obsolete">Preferências do usuário</translation>
+    </message>
+    <message>
+        <source>User preferences</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7650,7 +7730,15 @@ Nota: Os pacotes não serão desinstalados.</translation>
     </message>
     <message>
         <source>Enable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
-        <translation>Habilita a aba &amp;quot;Pré-visualizar&amp;quot; ao navegar pelo conteúdo.</translation>
+        <translation type="obsolete">Habilita a aba &amp;quot;Pré-visualizar&amp;quot; ao navegar pelo conteúdo.</translation>
+    </message>
+    <message>
+        <source>Enable &amp;quot;Tabs&amp;quot; by default while browsing content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable &amp;quot;Tabs&amp;quot; by default while browsing content.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7668,7 +7756,7 @@ Nota: Os pacotes não serão desinstalados.</translation>
         <translation>Informações do sistema</translation>
     </message>
     <message>
-        <source>URL management</source>
+        <source>Link management</source>
         <translation>URLs externas</translation>
     </message>
     <message>
@@ -7761,6 +7849,10 @@ Nota: Os pacotes não serão desinstalados.</translation>
         <source>States</source>
         <translation>Estados de conteúdo</translation>
     </message>
+    <message>
+        <source>URL management</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/parts/shop/menu</name>
@@ -7841,7 +7933,7 @@ Nota: Os pacotes não serão desinstalados.</translation>
     </message>
     <message>
         <source>Manage permission settings.</source>
-        <translation>Gerenciar as configurações de permissão.</translation>
+        <translation type="obsolete">Gerenciar as configurações de permissão.</translation>
     </message>
     <message>
         <source>Roles and policies</source>
@@ -8271,6 +8363,10 @@ Nota: Os pacotes não serão desinstalados.</translation>
     <message>
         <source>Your email address</source>
         <translation>Seu endereço de e-mail</translation>
+    </message>
+    <message>
+        <source>Your name</source>
+        <translation type="unfinished">Seu nome</translation>
     </message>
 </context>
 <context>
@@ -9365,7 +9461,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Enclosure (media)</source>
-        <translation>Anexo (midia)</translation>
+        <translation type="obsolete">Anexo (midia)</translation>
     </message>
 </context>
 <context>
@@ -9638,6 +9734,10 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
         <source>Section edit error</source>
         <translation type="unfinished">Erro de ediçao da seçao</translation>
     </message>
+    <message>
+        <source>Identifier</source>
+        <translation type="unfinished">Identificador</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/section/list</name>
@@ -9709,6 +9809,10 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     <message>
         <source>Assign a subtree to the &lt;%section_name&gt; section.</source>
         <translation>Atribuir a sub-árvore à seção &lt;%section_name&gt;.</translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation type="unfinished">Identificador</translation>
     </message>
 </context>
 <context>
@@ -9792,6 +9896,10 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     <message>
         <source>Assign subtree of objects to this section</source>
         <translation>Atribuir sub-árvore de objetos a esta seção</translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation type="unfinished">Identificador</translation>
     </message>
 </context>
 <context>
@@ -10206,6 +10314,10 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
         <source>Categories</source>
         <translation>Categorias</translation>
     </message>
+    <message>
+        <source></source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>design/admin/setup/datatypecode</name>
@@ -10266,7 +10378,15 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Activate</source>
-        <translation>Ativar</translation>
+        <translation type="obsolete">Ativar</translation>
+    </message>
+    <message>
+        <source>Activate or deactivate extension. Use the &quot;Update&quot; button to apply the changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished">Atualizar</translation>
     </message>
 </context>
 <context>
@@ -10449,7 +10569,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     <message>
         <source>SVN revision</source>
         <comment>eZ Publish version</comment>
-        <translation>Revisão SVN</translation>
+        <translation type="obsolete">Revisão SVN</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -10847,7 +10967,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation>A operação foi interrompida para evitar exceder o tempo limite de execução.</translation>
+        <translation type="obsolete">A operação foi interrompida para evitar exceder o tempo limite de execução.</translation>
     </message>
     <message>
         <source>Your alternatives are to:</source>
@@ -10864,6 +10984,10 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
         <translation>Instalar a limpeza de sessão via cronjob &apos;session_gc.php&apos; para ser executada no período noturno (ver cronjob.ini ou o doc de como fazer)</translation>
+    </message>
+    <message>
+        <source>The operation was cut short in order to avoid execution timeout.</source>
+        <translation type="unfinished">A operaçao foi interrompida para evitar timeout de execuçao.</translation>
     </message>
 </context>
 <context>
@@ -12657,7 +12781,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Save changes to this states.</source>
-        <translation type="unfinished">Salvar modificações para estes estados.</translation>
+        <translation type="obsolete">Salvar modificações para estes estados.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12744,7 +12868,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>The content object state was successfully created.</source>
-        <translation>O estado de conteúdo foi criado com sucesso.</translation>
+        <translation type="obsolete">O estado de conteúdo foi criado com sucesso.</translation>
     </message>
     <message>
         <source>Description</source>
@@ -12968,16 +13092,16 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
         <translation>URL</translation>
     </message>
     <message>
-        <source>Valid URLs [%url_list_count]</source>
-        <translation>URLs válidas [%url_list_count]</translation>
+        <source>Valid links [%url_list_count]</source>
+        <translation type="obsolete">URLs válidas [%url_list_count]</translation>
     </message>
     <message>
-        <source>Invalid URLs [%url_list_count]</source>
-        <translation>URLs inválidas [%url_list_count]</translation>
+        <source>Invalid links [%url_list_count]</source>
+        <translation type="obsolete">URLs inválidas [%url_list_count]</translation>
     </message>
     <message>
-        <source>All URLs [%url_list_count]</source>
-        <translation>Todas as URLs [%url_list_count]</translation>
+        <source>All links [%url_list_count]</source>
+        <translation type="obsolete">Todas as URLs [%url_list_count]</translation>
     </message>
     <message>
         <source>All</source>
@@ -13052,16 +13176,28 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
         <translation>A lista requisitada está vazia.</translation>
     </message>
     <message>
-        <source>Valid URLs (%url_list_count)</source>
+        <source>Valid links (%url_list_count)</source>
         <translation>URLs válidas (%url_list_count)</translation>
     </message>
     <message>
-        <source>Invalid URLs (%url_list_count)</source>
+        <source>Invalid links (%url_list_count)</source>
         <translation>URLs inválidas (%url_list_count)</translation>
     </message>
     <message>
-        <source>All URLs (%url_list_count)</source>
+        <source>All links (%url_list_count)</source>
         <translation>Todas as URLs (%url_list_count)</translation>
+    </message>
+    <message>
+        <source>Valid URLs [%url_list_count]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid URLs [%url_list_count]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All URLs [%url_list_count]</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13861,6 +13997,14 @@ your account.</source>
     <message>
         <source>The following information is either missing or invalid</source>
         <translation>A seguinte informação está faltando ou é inválida</translation>
+    </message>
+    <message>
+        <source>Error : Could not load workflow event &quot;%eventtype&quot; (event type not available)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hint : This can happen when a workflow extension has been disabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14864,6 +15008,13 @@ your account.</source>
     </message>
 </context>
 <context>
+    <name>design/ezwebin/node/removeobject</name>
+    <message>
+        <source>The items contain more than the maximum possible nodes for subtree removal and will not be deleted. You can remove this subtree using the ezsubtreeremove.php script.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>design/plain/layout</name>
     <message>
         <source>Advanced search</source>
@@ -15556,7 +15707,11 @@ your account.</source>
     </message>
     <message>
         <source>seconds(s)</source>
-        <translation>segundo(s)</translation>
+        <translation type="obsolete">segundo(s)</translation>
+    </message>
+    <message>
+        <source>second(s)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16206,6 +16361,18 @@ Se quiser enviar comentários ao aprovador ou ver o status do processo, use a UR
     <message>
         <source>Below you will find a list of active translations that content objects may be translated into.</source>
         <translation>Abaixo você encontrará uma lista de traduções ativas que os objetos de conteúdo podem ser traduzidos.</translation>
+    </message>
+    <message>
+        <source>Your content is being published</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Publishing finished</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your content is pending an external action</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17052,6 +17219,14 @@ Se quiser enviar comentários ao aprovador ou ver o status do processo, use a UR
         <source>Your browser does not support html5 audio.</source>
         <translation>Seu navegador não suporta áudio html5.</translation>
     </message>
+    <message>
+        <source>Find objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm email</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/standard/content/datatype </name>
@@ -17071,75 +17246,75 @@ Se quiser enviar comentários ao aprovador ou ver o status do processo, use a UR
     <name>design/standard/content/diff</name>
     <message>
         <source>Version</source>
-        <translation>Versão</translation>
+        <translation type="obsolete">Versão</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Status</translation>
+        <translation type="obsolete">Status</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation>Traduções</translation>
+        <translation type="obsolete">Traduções</translation>
     </message>
     <message>
         <source>Creator</source>
-        <translation>Criado por</translation>
+        <translation type="obsolete">Criado por</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation>Modificado</translation>
+        <translation type="obsolete">Modificado</translation>
     </message>
     <message>
         <source>Versions for &lt;%object_name&gt; [%version_count]</source>
-        <translation>Versões de &lt;%object_name&gt; [%version_count]</translation>
+        <translation type="obsolete">Versões de &lt;%object_name&gt; [%version_count]</translation>
     </message>
     <message>
         <source>Draft</source>
-        <translation>Rascunho</translation>
+        <translation type="obsolete">Rascunho</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation>Publicado</translation>
+        <translation type="obsolete">Publicado</translation>
     </message>
     <message>
         <source>Pending</source>
-        <translation>Pendente</translation>
+        <translation type="obsolete">Pendente</translation>
     </message>
     <message>
         <source>Archived</source>
-        <translation>Arquivado</translation>
+        <translation type="obsolete">Arquivado</translation>
     </message>
     <message>
         <source>Rejected</source>
-        <translation>Rejeitado</translation>
+        <translation type="obsolete">Rejeitado</translation>
     </message>
     <message>
         <source>Untouched draft</source>
-        <translation>Rascunho intocado</translation>
+        <translation type="obsolete">Rascunho intocado</translation>
     </message>
     <message>
         <source>Show differences</source>
-        <translation>Mostrar diferenças</translation>
+        <translation type="obsolete">Mostrar diferenças</translation>
     </message>
     <message>
         <source>Differences between versions %oldVersion and %newVersion</source>
-        <translation>Diferenças entre versões %oldVersion e %newVersion</translation>
+        <translation type="obsolete">Diferenças entre versões %oldVersion e %newVersion</translation>
     </message>
     <message>
         <source>Inline changes</source>
-        <translation>Mudanças em linha</translation>
+        <translation type="obsolete">Mudanças em linha</translation>
     </message>
     <message>
         <source>Block changes</source>
-        <translation>Mudanças em bloco</translation>
+        <translation type="obsolete">Mudanças em bloco</translation>
     </message>
     <message>
         <source>Old version</source>
-        <translation>Versão antiga</translation>
+        <translation type="obsolete">Versão antiga</translation>
     </message>
     <message>
         <source>New version</source>
-        <translation>Nova versão</translation>
+        <translation type="obsolete">Nova versão</translation>
     </message>
 </context>
 <context>
@@ -18039,74 +18214,74 @@ Você pode continuar editando um de seus rascunhos ou pode criar um novo rascunh
     <name>design/standard/content/version</name>
     <message>
         <source>Versions for: %1</source>
-        <translation>Versões para: %1</translation>
+        <translation type="obsolete">Versões para: %1</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Editar</translation>
+        <translation type="obsolete">Editar</translation>
     </message>
     <message>
         <source>Copy and edit</source>
-        <translation>Copiar e editar</translation>
+        <translation type="obsolete">Copiar e editar</translation>
     </message>
     <message>
         <source>Unable to create new version</source>
-        <translation>Não foi possível criar uma nova versão</translation>
+        <translation type="obsolete">Não foi possível criar uma nova versão</translation>
     </message>
     <message>
         <source>Version history limit has been exceeded and no archived version can be removed by the system.</source>
-        <translation>O limite de histórico de versões foi excedido e nenhuma versão arquivada pode ser removida do sistema.</translation>
+        <translation type="obsolete">O limite de histórico de versões foi excedido e nenhuma versão arquivada pode ser removida do sistema.</translation>
     </message>
     <message>
         <source>You can change your version history settings in content.ini, remove draft versions or edit existing drafts.</source>
-        <translation>Pode modificar as suas configurações de histórico de versões em content.ini, remover versões de rascunhos ou editar os rascunhos existentes.</translation>
+        <translation type="obsolete">Pode modificar as suas configurações de histórico de versões em content.ini, remover versões de rascunhos ou editar os rascunhos existentes.</translation>
     </message>
     <message>
         <source>Version %1 is not available for editing any more, only drafts can be edited.</source>
-        <translation>A versão %1 não está mais disponível para edição, apenas os rascunhos podem ser editados.</translation>
+        <translation type="obsolete">A versão %1 não está mais disponível para edição, apenas os rascunhos podem ser editados.</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation>Versão</translation>
+        <translation type="obsolete">Versão</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Status</translation>
+        <translation type="obsolete">Status</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation>Traduções</translation>
+        <translation type="obsolete">Traduções</translation>
     </message>
     <message>
         <source>Creator</source>
-        <translation>Criado por</translation>
+        <translation type="obsolete">Criado por</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation>Modificado</translation>
+        <translation type="obsolete">Modificado</translation>
     </message>
     <message>
         <source>Version is not a draft</source>
-        <translation>A versão não é um rascunho</translation>
+        <translation type="obsolete">A versão não é um rascunho</translation>
     </message>
     <message>
         <source>To edit this version, first create a copy of it.</source>
-        <translation> Para editar esta versão, primeiro crie uma cópia da mesma.</translation>
+        <translation type="obsolete"> Para editar esta versão, primeiro crie uma cópia da mesma.</translation>
     </message>
     <message>
         <source>Version is not yours</source>
-        <translation>A versão não é sua</translation>
+        <translation type="obsolete">A versão não é sua</translation>
     </message>
     <message>
         <source>Version %1 was not created by you. You can only edit your own drafts.</source>
-        <translation>A versão %1 não foi criada por você. Você só pode editar seus próprios rascunhos.</translation>
+        <translation type="obsolete">A versão %1 não foi criada por você. Você só pode editar seus próprios rascunhos.</translation>
     </message>
 </context>
 <context>
     <name>design/standard/content/versions</name>
     <message>
         <source>This object does not have any versions.</source>
-        <translation>Este objeto não possui nenhuma versão.</translation>
+        <translation type="obsolete">Este objeto não possui nenhuma versão.</translation>
     </message>
 </context>
 <context>
@@ -18891,11 +19066,11 @@ Escolha o local inicial padrão para a seleção de objetos relacionados.
     <name>design/standard/form</name>
     <message>
         <source>Thank you for your feedback</source>
-        <translation>Obrigado pela sua contribuição</translation>
+        <translation type="obsolete">Obrigado pela sua contribuição</translation>
     </message>
     <message>
         <source>Your information was successfully received.</source>
-        <translation>A sua informação foi recebida com sucesso.</translation>
+        <translation type="obsolete">A sua informação foi recebida com sucesso.</translation>
     </message>
 </context>
 <context>
@@ -19021,6 +19196,26 @@ Se você removê-los, todas as crianças serão removidas também.
         <source>Cancel removal</source>
         <translation>Remoção de locais</translation>
     </message>
+    <message>
+        <source>Please wait while your content is being published</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your content has been published successfully</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View the published item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Publishing has been deferred to crontab and will be published when the operation resumes. The object is also listed in your dashboard under pending items.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View your pending content</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/standard/menuconfig</name>
@@ -19100,7 +19295,7 @@ Se você removê-los, todas as crianças serão removidas também.
     </message>
     <message>
         <source>Are you sure you want to remove these items?</source>
-        <translation>Tem certeza de que deseja remover estes itens?</translation>
+        <translation type="obsolete">Tem certeza de que deseja remover estes itens?</translation>
     </message>
     <message>
         <source>%nodename and its %childcount children. %additionalwarning</source>
@@ -19250,7 +19445,7 @@ Se você removê-los, todas as crianças serão removidas também.
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="obsolete">Cancelar</translation>
     </message>
     <message>
         <source>Receive all messages combined in one digest</source>
@@ -21471,7 +21666,7 @@ Usando o %operatorname você pode ...</translation>
     <message>
         <source>SVN revision</source>
         <comment>eZ Publish version</comment>
-        <translation>Revisão SVN</translation>
+        <translation type="obsolete">Revisão SVN</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -23177,7 +23372,7 @@ Esta funcionalidade também está disponível após a configuração inicial na 
     </message>
     <message>
         <source>The operation were cut short in order to avoid execution timeout.</source>
-        <translation>A operação foi interrompida para evitar exceder o tempo limite de execução.</translation>
+        <translation type="obsolete">A operação foi interrompida para evitar exceder o tempo limite de execução.</translation>
     </message>
     <message>
         <source>Your alternatives are to:</source>
@@ -23542,7 +23737,7 @@ Este é um problema de segurança e deve ser mudado para um outro diretório pro
     </message>
     <message>
         <source>, but the latest released PHP 4.4.x version is highly recommended.</source>
-        <translation>, mas a versão de PHP 4.4.x lançada mais recentemente é altamente recomendada.</translation>
+        <translation type="obsolete">, mas a versão de PHP 4.4.x lançada mais recentemente é altamente recomendada.</translation>
     </message>
     <message>
         <source>Missed some directories</source>
@@ -23782,7 +23977,7 @@ Para fazer isso, você pode usar o comando %chown embaixo dos comandos do shell 
     </message>
     <message>
         <source>To fix this, edit your php.ini configuration and add E to the variables_order setting.</source>
-        <translation>Para corrigir isso, edite seu arquivo de configuração php.ini e adicione E na configuração variables_order.</translation>
+        <translation type="obsolete">Para corrigir isso, edite seu arquivo de configuração php.ini e adicione E na configuração variables_order.</translation>
     </message>
     <message>
         <source>Missing cURL extension</source>
@@ -24996,16 +25191,16 @@ Para fazer isso, você pode usar o comando %chown embaixo dos comandos do shell 
         <translation>Desconhecido</translation>
     </message>
     <message>
-        <source>All URLs</source>
-        <translation>Todas as URLs</translation>
+        <source>All links</source>
+        <translation type="obsolete">Todas as URLs</translation>
     </message>
     <message>
-        <source>Invalid URLs</source>
-        <translation>URLs inválidos</translation>
+        <source>Invalid links</source>
+        <translation type="obsolete">URLs inválidos</translation>
     </message>
     <message>
-        <source>Valid URLs</source>
-        <translation>URLs válidos</translation>
+        <source>Valid links</source>
+        <translation type="obsolete">URLs válidos</translation>
     </message>
     <message>
         <source>Information on URL</source>
@@ -25030,6 +25225,18 @@ Para fazer isso, você pode usar o comando %chown embaixo dos comandos do shell 
     <message>
         <source>This means that the URL is no longer available or has been moved.</source>
         <translation>Isto significa que a URL não está mais disponível ou foi movido.</translation>
+    </message>
+    <message>
+        <source>All URLs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid URLs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Valid URLs</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -25255,12 +25462,16 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
         <source>The new password must be at least %1 characters long. Please retype your new password.</source>
         <translation>A nova senha deve ter pelo menos %1 caracteres. Por favor, redigite sua nova senha.</translation>
     </message>
+    <message>
+        <source>Your email address has been confirmed. An administrator needs to approve your sign up request, before your login becomes valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/standard/user/</name>
     <message>
         <source>The new password must be at least %1 characters long. Please retype your new password.</source>
-        <translation>A nova senha deve ter pelo menos %1 caracteres. Por favor, redigite sua nova senha.</translation>
+        <translation type="obsolete">A nova senha deve ter pelo menos %1 caracteres. Por favor, redigite sua nova senha.</translation>
     </message>
 </context>
 <context>
@@ -25364,6 +25575,14 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
         <source>Username</source>
         <comment>Login name</comment>
         <translation>Nome de usuário</translation>
+    </message>
+    <message>
+        <source>Your registration has been approved. You can login with your account %username.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the following URL to login:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -26079,6 +26298,13 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
     </message>
 </context>
 <context>
+    <name>design/starndard/node</name>
+    <message>
+        <source>Are you sure you want to remove these items?</source>
+        <translation type="unfinished">Tem certeza de que deseja remover estes itens?</translation>
+    </message>
+</context>
+<context>
     <name>kernel/cache</name>
     <message>
         <source>Content view cache</source>
@@ -26156,6 +26382,10 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
         <source>TS Translation cache</source>
         <translation type="unfinished">Cache de Tradução TS</translation>
     </message>
+    <message>
+        <source>Design base cache</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/class</name>
@@ -26173,11 +26403,11 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
     </message>
     <message>
         <source>Class edit</source>
-        <translation>Editar tipo de conteúdo</translation>
+        <translation type="obsolete">Editar tipo de conteúdo</translation>
     </message>
     <message>
         <source>Classes</source>
-        <translation>Tipos de conteúdo</translation>
+        <translation type="obsolete">Tipos de conteúdo</translation>
     </message>
     <message>
         <source>Class list</source>
@@ -26888,6 +27118,11 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
         <comment>eZUserType</comment>
         <translation>A senha não pode estar vazia.</translation>
     </message>
+    <message>
+        <source>The emails do not match.</source>
+        <comment>eZUserType</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezbinaryfile</name>
@@ -27056,7 +27291,7 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     </message>
     <message>
         <source>Versions</source>
-        <translation>Versões</translation>
+        <translation type="obsolete">Versões</translation>
     </message>
     <message>
         <source>My pending list</source>
@@ -27108,7 +27343,7 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     </message>
     <message>
         <source>Differences</source>
-        <translation>Diferenças</translation>
+        <translation type="obsolete">Diferenças</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -27192,14 +27427,22 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     </message>
     <message>
         <source>You have already sent a tipafriend mail to this reciver regarding &apos;$nodeName&apos; content</source>
-        <translation>Você já enviou um email a este amigo sobre o conteúdo &apos;$nodeName&apos;</translation>
+        <translation type="obsolete">Você já enviou um email a este amigo sobre o conteúdo &apos;$nodeName&apos;</translation>
+    </message>
+    <message>
+        <source>You have already sent a tipafriend mail to this receiver regarding &apos;%1&apos; content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Publishing queue</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kernel/content/copysubtree</name>
     <message>
         <source>Cannot publish object (ID = %1).</source>
-        <translation>Não é possível publicar objeto (ID =%1).</translation>
+        <translation type="obsolete">Não é possível publicar objeto (ID =%1).</translation>
     </message>
     <message>
         <source>Fatal error: cannot get subtree main node (ID = %1).</source>
@@ -27361,8 +27604,12 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
         <translation>O tamanho do arquivo carregado excede o limite para este site: %1 bytes.</translation>
     </message>
     <message>
-        <source>Permission denied</source>
-        <translation type="unfinished">Permissão negada</translation>
+        <source>The uploaded file size is above the maximum limit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A system error occured while writing the uploaded file.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -27444,7 +27691,7 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     <name>kernel/form</name>
     <message>
         <source>Form processing</source>
-        <translation>Processamento de formulários</translation>
+        <translation type="obsolete">Processamento de formulários</translation>
     </message>
 </context>
 <context>
@@ -27954,7 +28201,7 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     <name>kernel/section</name>
     <message>
         <source>Edit Section</source>
-        <translation>Editar a seção</translation>
+        <translation type="obsolete">Editar a seção</translation>
     </message>
     <message>
         <source>Sections</source>
@@ -27962,7 +28209,7 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     </message>
     <message>
         <source>View section</source>
-        <translation>Visualizar Seção</translation>
+        <translation type="obsolete">Visualizar Seção</translation>
     </message>
     <message>
         <source>New section</source>
@@ -28494,6 +28741,10 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
         <source>New user registered</source>
         <translation>Novo usuário registrado</translation>
     </message>
+    <message>
+        <source>User registration approved</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kernel/workflow</name>
@@ -28582,6 +28833,10 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     <message>
         <source>Payment Gateway</source>
         <translation>Meios de Pagamento</translation>
+    </message>
+    <message>
+        <source>Finish User Registration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
