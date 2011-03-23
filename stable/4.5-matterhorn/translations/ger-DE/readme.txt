@@ -76,3 +76,9 @@ Größere Änderungen:
 - Relationen / Verwandt => verknüpft (related objects => Verknüpfte Objekte etc.)
 - eZ publish => eZ Publish
 - Email => E-Mail (laut Duden)
+
+Übersetzung für eZ Publish 4.5, gwf
+============================================================
+- Neue Phrasen übersetzt
+- "Sitzungen" heißen nun generell "Sessions"
+- "Anordnung" => "Sortierung" (im Tab) - ist so wesentlich verständlicher

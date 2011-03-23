@@ -2717,7 +2717,7 @@
     </message>
     <message>
         <source>View the draft that is being edited.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den Entwurf anzeigen, der gerade bearbeitet wird.</translation>
     </message>
 </context>
 <context>
@@ -3379,7 +3379,7 @@
     </message>
     <message>
         <source>Sub items</source>
-        <translation>Untergeordnete Einträge</translation>
+        <translation>Unterelemente</translation>
     </message>
     <message>
         <source>%child_count item</source>
@@ -5604,11 +5604,11 @@
     </message>
     <message>
         <source>Dynamic tree menu is disabled for this siteaccess!</source>
-        <translation type="unfinished"></translation>
+        <translation>Das dynamische Menü ist für diesen Seitenzugang deaktiviert!</translation>
     </message>
     <message>
         <source>Internal errorD</source>
-        <translation type="unfinished"></translation>
+        <translation>Interner Fehler</translation>
     </message>
 </context>
 <context>
@@ -7669,7 +7669,7 @@
     </message>
     <message>
         <source>Ordering</source>
-        <translation>Anordnung</translation>
+        <translation>Sortierung</translation>
     </message>
     <message>
         <source>Show published ordering overview.</source>
@@ -7741,7 +7741,7 @@
     </message>
     <message>
         <source>Invert selection</source>
-        <translation type="unfinished">Auswahl umkehren</translation>
+        <translation>Auswahl umkehren</translation>
     </message>
 </context>
 <context>
@@ -8998,7 +8998,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>URL management</source>
-        <translation type="unfinished"></translation>
+        <translation>URL Verwaltung</translation>
     </message>
 </context>
 <context>
@@ -12435,19 +12435,19 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     <name>design/admin/setup/session</name>
     <message>
         <source>The sessions were successfully removed.</source>
-        <translation>Die Sitzungen wurden erfolgreich entfernt.</translation>
+        <translation>Die Sessions wurden erfolgreich entfernt.</translation>
     </message>
     <message>
         <source>Session administration</source>
-        <translation>Sitzungsverwaltung</translation>
+        <translation>Session Verwaltung</translation>
     </message>
     <message>
         <source>Sessions</source>
-        <translation>Sitzungen</translation>
+        <translation>Sessions</translation>
     </message>
     <message>
         <source>Total number of sessions</source>
-        <translation>Anzahl Sitzungen gesamt</translation>
+        <translation>Anzahl Sessions gesamt</translation>
     </message>
     <message>
         <source>There are %logged_in_count registered and %anonymous_count anonymous users online.</source>
@@ -12455,27 +12455,27 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>WARNING! When you remove sessions, users that are logged in will be logged out from the system.</source>
-        <translation>WARNUNG! Wenn Sie Sitzungen entfernen, werden angemeldete Benutzer vom System abgemeldet.</translation>
+        <translation>WARNUNG! Wenn Sie Sessions entfernen, werden angemeldete Benutzer vom System abgemeldet.</translation>
     </message>
     <message>
         <source>Remove all sessions</source>
-        <translation>Alle Sitzungen entfernen</translation>
+        <translation>Alle Sessions entfernen</translation>
     </message>
     <message>
         <source>Remove timed out / old sessions</source>
-        <translation>Abgelaufene / alte Sitzungen entfernen</translation>
+        <translation>Abgelaufene / alte Sessions entfernen</translation>
     </message>
     <message>
         <source>Filtered sessions</source>
-        <translation>Gefilterte Sitzungen</translation>
+        <translation>Gefilterte Sessions</translation>
     </message>
     <message>
         <source>Displaying sessions for %username</source>
-        <translation>Sitzungen für Benutzer %username anzeigen</translation>
+        <translation>Sessions von Benutzer %username anzeigen</translation>
     </message>
     <message>
         <source>Sessions for all users</source>
-        <translation>Sitzungen aller Benutzer</translation>
+        <translation>Sessions aller Benutzer</translation>
     </message>
     <message>
         <source>Users</source>
@@ -12535,7 +12535,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Select session for removal.</source>
-        <translation>Sitzung zum Entfernen auswählen.</translation>
+        <translation>Wählen Sie Sessions aus, die sie entfernen wollen.</translation>
     </message>
     <message>
         <source>Time skew detected</source>
@@ -12543,7 +12543,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>There are no sessions matching the selected options.</source>
-        <translation>Es gibt keine Sitzungen, die den ausgewählten Optionen entsprechen.</translation>
+        <translation>Es gibt keine Sessions, die den ausgewählten Optionen entsprechen.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -12551,7 +12551,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Remove selected sessions.</source>
-        <translation>Ausgewählte Sitzungen entfernen.</translation>
+        <translation>Ausgewählte Sessions entfernen.</translation>
     </message>
     <message>
         <source>Email</source>
@@ -12575,7 +12575,7 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Clear the timed out session data from command-line using: &amp;gt;php bin/php/ezsessiongc.php</source>
-        <translation>Daten über abgelaufenen Sessions mittels der Kommandozeile löschen mit: &amp;gt;php bin/php/ezsessiongc.php</translation>
+        <translation>Abgelaufene Sessions auf der Kommandozeile löschen: &amp;gt;php bin/php/ezsessiongc.php</translation>
     </message>
     <message>
         <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
@@ -14928,15 +14928,15 @@ Hinweis: Die Pakete werden nicht deinstalliert.</translation>
     </message>
     <message>
         <source>Valid URLs [%url_list_count]</source>
-        <translation type="unfinished"></translation>
+        <translation>Gültige URLs [%url_list_count]</translation>
     </message>
     <message>
         <source>Invalid URLs [%url_list_count]</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige URLs [%url_list_count]</translation>
     </message>
     <message>
         <source>All URLs [%url_list_count]</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle URLs [%url_list_count]</translation>
     </message>
 </context>
 <context>
@@ -15855,11 +15855,11 @@ Bitte folgen Sie den Instruktionen in der Email um Ihr Konto zu aktivieren.</tra
     </message>
     <message>
         <source>Error : Could not load workflow event &quot;%eventtype&quot; (event type not available)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: Konnte das Workflow Event &quot;%eventtype&quot; nicht laden (Event Typ ist nicht verfügbar)</translation>
     </message>
     <message>
         <source>Hint : This can happen when a workflow extension has been disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipp: Es könnte der Fall sein, dass eine Workflow Extension deaktiviert oder nicht vorhanden ist</translation>
     </message>
 </context>
 <context>
@@ -17093,7 +17093,7 @@ Bitte folgen Sie den Instruktionen in der Email um Ihr Konto zu aktivieren.</tra
     <name>design/ezwebin/node/removeobject</name>
     <message>
         <source>The items contain more than the maximum possible nodes for subtree removal and will not be deleted. You can remove this subtree using the ezsubtreeremove.php script.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie wollen mehr als die erlaubte Maximal Anzahl von Knoten löschen, was nicht möglich ist. Bitten Sie den Administrator, das ezsubtreeremove.php Skript zu verwenden, um das Ziel zu erreichen. Oder versuchen Sie, den Löschvorgang auf mehrere Male aufzuteilen.</translation>
     </message>
 </context>
 <context>
@@ -18927,15 +18927,15 @@ Wenn Sie einen Kommentar zum Freigebenden schicken oder den Status sehen wollen,
     </message>
     <message>
         <source>Your content is being published</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihr Content wurde veröffentlicht</translation>
     </message>
     <message>
         <source>Publishing finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Veröffentlichen wurde beendet</translation>
     </message>
     <message>
         <source>Your content is pending an external action</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihr Content wartet auf eine externe Aktion</translation>
     </message>
 </context>
 <context>
@@ -19976,7 +19976,7 @@ Wenn Sie einen Kommentar zum Freigebenden schicken oder den Status sehen wollen,
     </message>
     <message>
         <source>Confirm email</source>
-        <translation type="unfinished"></translation>
+        <translation>E-Mail bestätigen</translation>
     </message>
 </context>
 <context>
@@ -22503,23 +22503,23 @@ Falls Sie das machen, werden die Unterelemente ebenfalls entfernt.</translation>
     </message>
     <message>
         <source>Please wait while your content is being published</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte warten Sie bis Ihr Content veröffentlicht ist</translation>
     </message>
     <message>
         <source>Your content has been published successfully</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihr Content wurde erfolgreich veröffentlicht</translation>
     </message>
     <message>
         <source>View the published item</source>
-        <translation type="unfinished"></translation>
+        <translation>Den veröffentlichten Eintrag anzeigen</translation>
     </message>
     <message>
         <source>Publishing has been deferred to crontab and will be published when the operation resumes. The object is also listed in your dashboard under pending items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Veröffentlichen wird später mit einem Cronjob im Hintergrund durchgeführt. Das Objekt wird in Ihrem Dashboard in der Warteliste  angezeigt.</translation>
     </message>
     <message>
         <source>View your pending content</source>
-        <translation type="unfinished"></translation>
+        <translation>Content anzeigen, der auf der Warteliste steht</translation>
     </message>
 </context>
 <context>
@@ -27677,15 +27677,15 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>WARNING! When removing sessions, users that are logged in will be thrown out from the system.</source>
-        <translation>ACHTUNG! Wenn Sitzungen entfernt werden, werden am System angemeldete Benutzer aus dem System geworfen.</translation>
+        <translation>ACHTUNG! Wenn Sessions entfernt werden, werden am System angemeldete Benutzer aus dem System geworfen.</translation>
     </message>
     <message>
         <source>Remove all sessions</source>
-        <translation>Alle Sitzungen entfernen</translation>
+        <translation>Alle Sessions entfernen</translation>
     </message>
     <message>
         <source>Remove timed out / old sessions</source>
-        <translation>Abgelaufene / alte Sitzungen entfernen</translation>
+        <translation>Abgelaufene / alte Sessions entfernen</translation>
     </message>
     <message>
         <source>Login</source>
@@ -27713,11 +27713,11 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>Total number of sessions</source>
-        <translation>Gesamte Anzahl an Sitzungen</translation>
+        <translation>Gesamte Anzahl an Sessions</translation>
     </message>
     <message>
         <source>Displaying sessions for %username</source>
-        <translation>Sitzungen für Benutzer %username anzeigen</translation>
+        <translation>Sessions von Benutzer %username anzeigen</translation>
     </message>
     <message>
         <source>Show from all users</source>
@@ -27725,7 +27725,7 @@ This functionality is also available at a later time from the Administration Int
     </message>
     <message>
         <source>Filter sessions</source>
-        <translation>Sitzungen Filtern</translation>
+        <translation>Sessions filtern</translation>
     </message>
     <message>
         <source>Everyone</source>
@@ -29990,15 +29990,15 @@ Wählen Sie Ihre Kunden und klicken Sie die Schaltfläche %buttonname.
     </message>
     <message>
         <source>All URLs</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle URLs</translation>
     </message>
     <message>
         <source>Invalid URLs</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige URLs</translation>
     </message>
     <message>
         <source>Valid URLs</source>
-        <translation type="unfinished"></translation>
+        <translation>Gültige URLs</translation>
     </message>
 </context>
 <context>
@@ -30262,7 +30262,7 @@ Bitte folgen Sie den Hinweisen in der Email, um Ihr Konto zu aktivieren.</transl
     </message>
     <message>
         <source>Your email address has been confirmed. An administrator needs to approve your sign up request, before your login becomes valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihre E-Mail Adresse wurde bestätigt. Ein Administrator muss Ihre Anmeldung bestätigen, damit Sie sich anmelden können.</translation>
     </message>
 </context>
 <context>
@@ -30417,11 +30417,11 @@ Bitte folgen Sie den Hinweisen in der Email, um Ihr Konto zu aktivieren.</transl
     </message>
     <message>
         <source>Your registration has been approved. You can login with your account %username.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihre Anmeldung wurde bestätigt. Sie können sich mit Ihrem Benutzernamen %username anmelden.</translation>
     </message>
     <message>
         <source>Click the following URL to login:</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie auf diesen Link, um sich anzumelden:</translation>
     </message>
 </context>
 <context>
@@ -31259,7 +31259,7 @@ Bitte folgen Sie den Hinweisen in der Email, um Ihr Konto zu aktivieren.</transl
     <name>design/starndard/node</name>
     <message>
         <source>Are you sure you want to remove these items?</source>
-        <translation type="unfinished">Sind Sie sicher, dass Sie diese Gegenstände entfernen wollen?</translation>
+        <translation>Sind Sie sicher, dass Sie diese Einträge löschen wollen?</translation>
     </message>
 </context>
 <context>
@@ -32354,7 +32354,7 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     <message>
         <source>The emails do not match.</source>
         <comment>eZUserType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die E-Mails stimmen nicht überein.</translation>
     </message>
 </context>
 <context>
@@ -32688,7 +32688,7 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>Publishing queue</source>
-        <translation type="unfinished"></translation>
+        <translation>Veröffentlichungs Warteliste</translation>
     </message>
 </context>
 <context>
@@ -32886,11 +32886,11 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>The uploaded file size is above the maximum limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Dateigröße der hochgeladenen Datei überschreitet das Limit.</translation>
     </message>
     <message>
         <source>A system error occured while writing the uploaded file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Systemfehler ist beim Hochladen der Datei aufgetreten.</translation>
     </message>
 </context>
 <context>
@@ -33586,7 +33586,7 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>Session admin</source>
-        <translation>Session-Verwaltung</translation>
+        <translation>Session Verwaltung</translation>
     </message>
     <message>
         <source>System Upgrade</source>
@@ -34085,7 +34085,7 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>User registration approved</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzer Anmeldung bestätigt</translation>
     </message>
 </context>
 <context>
@@ -34206,7 +34206,7 @@ wenn Sie die Option &quot;%3&quot; von &quot;%4&quot; ausgewählt haben </transl
     </message>
     <message>
         <source>Finish User Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzer Anmeldung fertigstellen</translation>
     </message>
 </context>
 <context>
